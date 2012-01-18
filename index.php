@@ -21,7 +21,7 @@ if ($handle = opendir($dir)) {
 	}
 	closedir($handle);
 }
-
+ksort($recipes);
 //var_dump($recipes);
 $content = '';
 
