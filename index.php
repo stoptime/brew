@@ -21,11 +21,12 @@ if ($handle = opendir($dir)) {
 	}
 	closedir($handle);
 }
-
+ksort($recipes);
 //var_dump($recipes);
 $content = '';
 
 foreach ($recipes as $key => $value) {
+	asort($value);
 	$content .= '<ul>';
 	$content .= sprintf('<li><b><a href="%s/%s.html">%s</a></b>', $dir, str_replace(' ', '%20', $key), $key);
 	if (isset($value)) {
