@@ -1,0 +1,2109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Acid</key>
+	<string>Unadjusted</string>
+	<key>ApparentAttenuation</key>
+	<string>74.908066</string>
+	<key>Attenuation</key>
+	<string>75.000000</string>
+	<key>Batches</key>
+	<array>
+		<dict>
+			<key>Actuals</key>
+			<dict>
+				<key>ABV</key>
+				<string>0.000000</string>
+				<key>ABW</key>
+				<string>0.000000</string>
+				<key>ActualMashEfficiency</key>
+				<string>0.0</string>
+				<key>ApparentAttenuation</key>
+				<string>0.000000</string>
+				<key>Color</key>
+				<string>7.915117</string>
+				<key>FG</key>
+				<string>1.000000</string>
+				<key>FGHydroReading</key>
+				<string>1.000</string>
+				<key>FGTemp</key>
+				<string>15.0</string>
+				<key>FermentationTemperature</key>
+				<string>18.0</string>
+				<key>FinalBatchVolume</key>
+				<string>18927.050781</string>
+				<key>FinalWortVolume</key>
+				<string>21122.587891</string>
+				<key>HydrometerCalibratedAt</key>
+				<string>15.0</string>
+				<key>IBU</key>
+				<string>64.074661</string>
+				<key>OG</key>
+				<string>1.000000</string>
+				<key>OGHydroReading</key>
+				<string>1.000</string>
+				<key>OGTemp</key>
+				<string>15.0</string>
+				<key>PreBoilGrav</key>
+				<string>1.000000</string>
+				<key>PreBoilHydroReading</key>
+				<string>1.000</string>
+				<key>PreBoilTemp</key>
+				<string>15.0</string>
+				<key>PreBoilWortVolume</key>
+				<string>28390.574219</string>
+				<key>RealAttenuation</key>
+				<string>0.000000</string>
+				<key>VolumeAtPitching</key>
+				<string>20819.755859</string>
+				<key>VolumeToFermenter</key>
+				<string>20819.755859</string>
+				<key>VolumeWaterAdded</key>
+				<string>0.000000</string>
+			</dict>
+			<key>AdjustedInventory</key>
+			<string>0</string>
+			<key>BatchNotes</key>
+			<string></string>
+			<key>BatchTitle</key>
+			<string>Batch 1 of West Coast Bitter</string>
+			<key>BoilNotes</key>
+			<string></string>
+			<key>DateBrewed</key>
+			<date>2012-10-12T17:44:44Z</date>
+			<key>DateLastModified</key>
+			<date>2012-10-12T17:44:44Z</date>
+			<key>DatePackaged</key>
+			<date>2012-10-12T17:44:44Z</date>
+			<key>DateRacked</key>
+			<date>2012-10-12T17:44:44Z</date>
+			<key>DateReady</key>
+			<date>2012-10-12T17:44:44Z</date>
+			<key>FermentationNotes</key>
+			<string></string>
+			<key>MTThermalMass</key>
+			<string>680.400024</string>
+			<key>ModifiedRecipe</key>
+			<dict>
+				<key>Acid</key>
+				<string>Unadjusted</string>
+				<key>ApparentAttenuation</key>
+				<string>74.908066</string>
+				<key>Attenuation</key>
+				<string>75.000000</string>
+				<key>BoilDuration</key>
+				<string>90</string>
+				<key>CaCO3</key>
+				<string>0.0</string>
+				<key>CaCl2</key>
+				<string>0.0</string>
+				<key>CaSO4</key>
+				<string>0.0</string>
+				<key>Carbonation</key>
+				<string>Force Carbonated</string>
+				<key>CarbonationVolumes</key>
+				<string>2.00</string>
+				<key>Conditioning</key>
+				<string>Matured for 2 weeks</string>
+				<key>DateLastModified</key>
+				<date>2012-10-12T17:44:30Z</date>
+				<key>ExpectedABV</key>
+				<string>4.147574</string>
+				<key>ExpectedABW</key>
+				<string>3.260001</string>
+				<key>ExpectedColor</key>
+				<string>7.915117</string>
+				<key>ExpectedFinalGravity</key>
+				<string>1.010176</string>
+				<key>ExpectedIBU</key>
+				<string>48.501240</string>
+				<key>ExpectedOriginalGravity</key>
+				<string>1.041646</string>
+				<key>ExpectedPreBoilGravity</key>
+				<string>1.030984</string>
+				<key>FermentableIngredients</key>
+				<array>
+					<dict>
+						<key>Amount</key>
+						<string>3515.399902</string>
+						<key>Color</key>
+						<string>1.800000</string>
+						<key>ColorForAdditionInEBC</key>
+						<string>3.637455</string>
+						<key>ColorForAdditionInSRM</key>
+						<string>1.846424</string>
+						<key>DateLastModified</key>
+						<date>2009-08-09T18:00:38Z</date>
+						<key>Extract</key>
+						<string>80.000000</string>
+						<key>Form</key>
+						<string>Loose Pellet Hops</string>
+						<key>GravityPointsForAddition</key>
+						<string>36.021778</string>
+						<key>Ingredient</key>
+						<string>US 2-Row Malt</string>
+						<key>IsGrain</key>
+						<string>1.000000</string>
+						<key>MCUForAddition</key>
+						<string>2.500055</string>
+						<key>MCUPercentage</key>
+						<string>23.327816</string>
+						<key>Minutes</key>
+						<string>0.000000</string>
+						<key>Moisture</key>
+						<string>4.000000</string>
+						<key>MustBeMashed</key>
+						<string>1.000000</string>
+						<key>Percentage</key>
+						<string>85.635414</string>
+						<key>UUID</key>
+						<string>F621AEFD-DEDE-4FA8-9CD3-DBBC939F43F8</string>
+						<key>When</key>
+						<string>In Mash/Steeped</string>
+					</dict>
+					<dict>
+						<key>Amount</key>
+						<string>226.800003</string>
+						<key>Color</key>
+						<string>77.000000</string>
+						<key>ColorForAdditionInEBC</key>
+						<string>10.038856</string>
+						<key>ColorForAdditionInSRM</key>
+						<string>5.095866</string>
+						<key>DateLastModified</key>
+						<date>2010-08-25T13:10:14Z</date>
+						<key>Extract</key>
+						<string>73.000000</string>
+						<key>Form</key>
+						<string>Loose Pellet Hops</string>
+						<key>GravityPointsForAddition</key>
+						<string>2.120637</string>
+						<key>Ingredient</key>
+						<string>Crystal 77</string>
+						<key>IsGrain</key>
+						<string>1</string>
+						<key>MCUForAddition</key>
+						<string>6.899794</string>
+						<key>MCUPercentage</key>
+						<string>64.381432</string>
+						<key>Minutes</key>
+						<string>0.000000</string>
+						<key>Moisture</key>
+						<string>3.200000</string>
+						<key>MustBeMashed</key>
+						<string>0.000000</string>
+						<key>Percentage</key>
+						<string>5.524866</string>
+						<key>UUID</key>
+						<string>3B4EB0B6-8816-4133-9F72-2E27351343DA</string>
+						<key>When</key>
+						<string>In Mash/Steeped</string>
+					</dict>
+					<dict>
+						<key>Amount</key>
+						<string>226.800003</string>
+						<key>Color</key>
+						<string>1.300000</string>
+						<key>ColorForAdditionInEBC</key>
+						<string>0.169487</string>
+						<key>ColorForAdditionInSRM</key>
+						<string>0.086034</string>
+						<key>DateLastModified</key>
+						<date>2010-05-14T13:41:07Z</date>
+						<key>Extract</key>
+						<string>73.000000</string>
+						<key>Form</key>
+						<string>Loose Pellet Hops</string>
+						<key>GravityPointsForAddition</key>
+						<string>2.120637</string>
+						<key>Ingredient</key>
+						<string>US Carapils Malt</string>
+						<key>IsGrain</key>
+						<string>1.000000</string>
+						<key>MCUForAddition</key>
+						<string>0.116490</string>
+						<key>MCUPercentage</key>
+						<string>1.086959</string>
+						<key>Minutes</key>
+						<string>0.000000</string>
+						<key>Moisture</key>
+						<string>5.500000</string>
+						<key>MustBeMashed</key>
+						<string>1.000000</string>
+						<key>Percentage</key>
+						<string>5.524866</string>
+						<key>UUID</key>
+						<string>9BDE86B4-18A6-11DA-80C0-001124CAE2A6</string>
+						<key>When</key>
+						<string>In Mash/Steeped</string>
+					</dict>
+					<dict>
+						<key>Amount</key>
+						<string>90.718002</string>
+						<key>Color</key>
+						<string>22.500000</string>
+						<key>ColorForAdditionInEBC</key>
+						<string>1.173347</string>
+						<key>ColorForAdditionInSRM</key>
+						<string>0.595608</string>
+						<key>DateLastModified</key>
+						<date>2009-08-09T18:00:38Z</date>
+						<key>Extract</key>
+						<string>80.000000</string>
+						<key>Form</key>
+						<string>Loose Pellet Hops</string>
+						<key>GravityPointsForAddition</key>
+						<string>0.929574</string>
+						<key>Ingredient</key>
+						<string>Canadian Honey Malt (Gambrinus)</string>
+						<key>IsGrain</key>
+						<string>1.000000</string>
+						<key>MCUForAddition</key>
+						<string>0.806452</string>
+						<key>MCUPercentage</key>
+						<string>7.524940</string>
+						<key>Minutes</key>
+						<string>0.000000</string>
+						<key>Moisture</key>
+						<string>4.000000</string>
+						<key>MustBeMashed</key>
+						<string>1.000000</string>
+						<key>Percentage</key>
+						<string>2.209898</string>
+						<key>UUID</key>
+						<string>A1558BCF-0B24-4BBB-B5B4-3985E6B4A4E0</string>
+						<key>When</key>
+						<string>In Mash/Steeped</string>
+					</dict>
+					<dict>
+						<key>Amount</key>
+						<string>45.359001</string>
+						<key>Color</key>
+						<string>22.000000</string>
+						<key>ColorForAdditionInEBC</key>
+						<string>0.573636</string>
+						<key>ColorForAdditionInSRM</key>
+						<string>0.291186</string>
+						<key>DateLastModified</key>
+						<date>2009-09-03T13:14:53Z</date>
+						<key>Extract</key>
+						<string>78.000000</string>
+						<key>Form</key>
+						<string>Loose Pellet Hops</string>
+						<key>GravityPointsForAddition</key>
+						<string>0.453167</string>
+						<key>Ingredient</key>
+						<string>CaraVienne</string>
+						<key>IsGrain</key>
+						<string>1.000000</string>
+						<key>MCUForAddition</key>
+						<string>0.394265</string>
+						<key>MCUPercentage</key>
+						<string>3.678855</string>
+						<key>Minutes</key>
+						<string>0.000000</string>
+						<key>Moisture</key>
+						<string>5.000000</string>
+						<key>MustBeMashed</key>
+						<string>0.000000</string>
+						<key>Percentage</key>
+						<string>1.104949</string>
+						<key>UUID</key>
+						<string>D78CBDD6-237B-4C5E-9B5D-7A65FA30E282</string>
+						<key>When</key>
+						<string>In Mash/Steeped</string>
+					</dict>
+				</array>
+				<key>FermentationTemperature</key>
+				<string>18.0</string>
+				<key>FinalBatchVolume</key>
+				<string>18927.050781</string>
+				<key>FinalWortVolume</key>
+				<string>21122.587891</string>
+				<key>GravityForIBUCalcs</key>
+				<string>1.030984</string>
+				<key>HopIngredients</key>
+				<array>
+					<dict>
+						<key>Alpha</key>
+						<string>15.500000</string>
+						<key>Amount</key>
+						<string>17.010000</string>
+						<key>DateLastModified</key>
+						<date>2009-08-09T18:00:38Z</date>
+						<key>Form</key>
+						<string>Loose Whole Hops</string>
+						<key>IBUForAddition</key>
+						<string>34.157799</string>
+						<key>Minutes</key>
+						<string>60</string>
+						<key>Percentage</key>
+						<string>0.000000</string>
+						<key>UUID</key>
+						<string>1D50A75B-FDDB-4A76-A476-1664A98B70AC</string>
+						<key>Variety</key>
+						<string>US Warrior</string>
+						<key>When</key>
+						<string>60 Min From End</string>
+					</dict>
+					<dict>
+						<key>Alpha</key>
+						<string>15.500000</string>
+						<key>Amount</key>
+						<string>5.670000</string>
+						<key>DateLastModified</key>
+						<date>2009-08-09T18:00:38Z</date>
+						<key>Form</key>
+						<string>Loose Whole Hops</string>
+						<key>IBUForAddition</key>
+						<string>8.750372</string>
+						<key>Minutes</key>
+						<string>30</string>
+						<key>Percentage</key>
+						<string>0.000000</string>
+						<key>UUID</key>
+						<string>F746F8D6-1BD2-11DA-9896-001124CAE2A6</string>
+						<key>Variety</key>
+						<string>US Columbus(Tomahawk)</string>
+						<key>When</key>
+						<string>30 Min From End</string>
+					</dict>
+					<dict>
+						<key>Alpha</key>
+						<string>8.000000</string>
+						<key>Amount</key>
+						<string>5.670000</string>
+						<key>DateLastModified</key>
+						<date>2010-08-25T13:31:27Z</date>
+						<key>Form</key>
+						<string>Loose Whole Hops</string>
+						<key>IBUForAddition</key>
+						<string>2.130693</string>
+						<key>Minutes</key>
+						<string>10</string>
+						<key>Percentage</key>
+						<string>0.000000</string>
+						<key>UUID</key>
+						<string>C87E536D-1BD2-11DA-9896-001124CAE2A6</string>
+						<key>Variety</key>
+						<string>US Amarillo</string>
+						<key>When</key>
+						<string>10 Min From End</string>
+					</dict>
+					<dict>
+						<key>Alpha</key>
+						<string>13.000000</string>
+						<key>Amount</key>
+						<string>5.670000</string>
+						<key>DateLastModified</key>
+						<date>2009-08-09T18:00:38Z</date>
+						<key>Form</key>
+						<string>Loose Whole Hops</string>
+						<key>IBUForAddition</key>
+						<string>3.462376</string>
+						<key>Minutes</key>
+						<string>10</string>
+						<key>Percentage</key>
+						<string>0.000000</string>
+						<key>UUID</key>
+						<string>391C231E-1BD3-11DA-9896-001124CAE2A6</string>
+						<key>Variety</key>
+						<string>US Simcoe</string>
+						<key>When</key>
+						<string>10 Min From End</string>
+					</dict>
+					<dict>
+						<key>Alpha</key>
+						<string>13.000000</string>
+						<key>Amount</key>
+						<string>28.350000</string>
+						<key>DateLastModified</key>
+						<date>2009-08-09T18:00:38Z</date>
+						<key>Form</key>
+						<string>Loose Whole Hops</string>
+						<key>IBUForAddition</key>
+						<string>0.000000</string>
+						<key>Minutes</key>
+						<string>0</string>
+						<key>Percentage</key>
+						<string>0.000000</string>
+						<key>UUID</key>
+						<string>391C231E-1BD3-11DA-9896-001124CAE2A6</string>
+						<key>Variety</key>
+						<string>US Simcoe</string>
+						<key>When</key>
+						<string>At turn off</string>
+					</dict>
+					<dict>
+						<key>Alpha</key>
+						<string>8.000000</string>
+						<key>Amount</key>
+						<string>28.350000</string>
+						<key>DateLastModified</key>
+						<date>2010-08-25T13:31:27Z</date>
+						<key>Form</key>
+						<string>Loose Whole Hops</string>
+						<key>IBUForAddition</key>
+						<string>0.000000</string>
+						<key>Minutes</key>
+						<string>0</string>
+						<key>Percentage</key>
+						<string>0.000000</string>
+						<key>UUID</key>
+						<string>C87E536D-1BD2-11DA-9896-001124CAE2A6</string>
+						<key>Variety</key>
+						<string>US Amarillo</string>
+						<key>When</key>
+						<string>At turn off</string>
+					</dict>
+					<dict>
+						<key>Alpha</key>
+						<string>15.500000</string>
+						<key>Amount</key>
+						<string>28.350000</string>
+						<key>DateLastModified</key>
+						<date>2009-08-09T18:00:38Z</date>
+						<key>Form</key>
+						<string>Loose Whole Hops</string>
+						<key>IBUForAddition</key>
+						<string>0.000000</string>
+						<key>Minutes</key>
+						<string>0</string>
+						<key>Percentage</key>
+						<string>0.000000</string>
+						<key>UUID</key>
+						<string>F746F8D6-1BD2-11DA-9896-001124CAE2A6</string>
+						<key>Variety</key>
+						<string>US Columbus(Tomahawk)</string>
+						<key>When</key>
+						<string>At turn off</string>
+					</dict>
+					<dict>
+						<key>Alpha</key>
+						<string>10.500000</string>
+						<key>Amount</key>
+						<string>28.350000</string>
+						<key>DateLastModified</key>
+						<date>2009-08-09T18:00:38Z</date>
+						<key>Form</key>
+						<string>Loose Whole Hops</string>
+						<key>IBUForAddition</key>
+						<string>0.000000</string>
+						<key>Minutes</key>
+						<string>0</string>
+						<key>Percentage</key>
+						<string>0.000000</string>
+						<key>UUID</key>
+						<string>E8FF0DA4-1BD2-11DA-9896-001124CAE2A6</string>
+						<key>Variety</key>
+						<string>US Chinook</string>
+						<key>When</key>
+						<string>At turn off</string>
+					</dict>
+					<dict>
+						<key>Alpha</key>
+						<string>12.300000</string>
+						<key>Amount</key>
+						<string>28.350000</string>
+						<key>DateLastModified</key>
+						<date>2010-08-25T13:32:22Z</date>
+						<key>Form</key>
+						<string>Loose Whole Hops</string>
+						<key>IBUForAddition</key>
+						<string>0.000000</string>
+						<key>Minutes</key>
+						<string>0</string>
+						<key>Percentage</key>
+						<string>0.000000</string>
+						<key>UUID</key>
+						<string>4E56F625-982B-4E76-9F43-B570B833CD1D</string>
+						<key>Variety</key>
+						<string>Citra</string>
+						<key>When</key>
+						<string>At turn off</string>
+					</dict>
+					<dict>
+						<key>Alpha</key>
+						<string>12.300000</string>
+						<key>Amount</key>
+						<string>28.350000</string>
+						<key>DateLastModified</key>
+						<date>2010-08-25T13:32:22Z</date>
+						<key>Form</key>
+						<string>Loose Pellet Hops</string>
+						<key>IBUForAddition</key>
+						<string>0.000000</string>
+						<key>Minutes</key>
+						<string>0</string>
+						<key>Percentage</key>
+						<string>0.000000</string>
+						<key>UUID</key>
+						<string>4E56F625-982B-4E76-9F43-B570B833CD1D</string>
+						<key>Variety</key>
+						<string>Citra</string>
+						<key>When</key>
+						<string>Dry-Hopped</string>
+					</dict>
+					<dict>
+						<key>Alpha</key>
+						<string>13.000000</string>
+						<key>Amount</key>
+						<string>28.350000</string>
+						<key>DateLastModified</key>
+						<date>2009-08-09T18:00:38Z</date>
+						<key>Form</key>
+						<string>Loose Pellet Hops</string>
+						<key>IBUForAddition</key>
+						<string>0.000000</string>
+						<key>Minutes</key>
+						<string>0</string>
+						<key>Percentage</key>
+						<string>0.000000</string>
+						<key>UUID</key>
+						<string>391C231E-1BD3-11DA-9896-001124CAE2A6</string>
+						<key>Variety</key>
+						<string>US Simcoe</string>
+						<key>When</key>
+						<string>Dry-Hopped</string>
+					</dict>
+					<dict>
+						<key>Alpha</key>
+						<string>8.000000</string>
+						<key>Amount</key>
+						<string>28.350000</string>
+						<key>DateLastModified</key>
+						<date>2010-08-25T13:31:27Z</date>
+						<key>Form</key>
+						<string>Loose Pellet Hops</string>
+						<key>IBUForAddition</key>
+						<string>0.000000</string>
+						<key>Minutes</key>
+						<string>0</string>
+						<key>Percentage</key>
+						<string>0.000000</string>
+						<key>UUID</key>
+						<string>C87E536D-1BD2-11DA-9896-001124CAE2A6</string>
+						<key>Variety</key>
+						<string>US Amarillo</string>
+						<key>When</key>
+						<string>Dry-Hopped</string>
+					</dict>
+					<dict>
+						<key>Alpha</key>
+						<string>15.500000</string>
+						<key>Amount</key>
+						<string>28.350000</string>
+						<key>DateLastModified</key>
+						<date>2009-08-09T18:00:38Z</date>
+						<key>Form</key>
+						<string>Loose Pellet Hops</string>
+						<key>IBUForAddition</key>
+						<string>0.000000</string>
+						<key>Minutes</key>
+						<string>0</string>
+						<key>Percentage</key>
+						<string>0.000000</string>
+						<key>UUID</key>
+						<string>F746F8D6-1BD2-11DA-9896-001124CAE2A6</string>
+						<key>Variety</key>
+						<string>US Columbus(Tomahawk)</string>
+						<key>When</key>
+						<string>Dry-Hopped</string>
+					</dict>
+					<dict>
+						<key>Alpha</key>
+						<string>10.500000</string>
+						<key>Amount</key>
+						<string>28.350000</string>
+						<key>DateLastModified</key>
+						<date>2009-08-09T18:00:38Z</date>
+						<key>Form</key>
+						<string>Loose Pellet Hops</string>
+						<key>IBUForAddition</key>
+						<string>0.000000</string>
+						<key>Minutes</key>
+						<string>0</string>
+						<key>Percentage</key>
+						<string>0.000000</string>
+						<key>UUID</key>
+						<string>E8FF0DA4-1BD2-11DA-9896-001124CAE2A6</string>
+						<key>Variety</key>
+						<string>US Chinook</string>
+						<key>When</key>
+						<string>Dry-Hopped</string>
+					</dict>
+				</array>
+				<key>MashEfficiency</key>
+				<string>70.000000</string>
+				<key>MashSchedule</key>
+				<dict>
+					<key>DateLastModified</key>
+					<date>2010-08-25T13:15:53Z</date>
+					<key>ScheduleName</key>
+					<string>Single Step 158</string>
+					<key>Steps</key>
+					<array>
+						<dict>
+							<key>Duration</key>
+							<string>60.000000</string>
+							<key>StepType</key>
+							<string>Rest at</string>
+							<key>Temperature</key>
+							<string>70.000000</string>
+						</dict>
+					</array>
+					<key>UUID</key>
+					<string>F5A1D51E-B26C-4ECC-BA29-508A8AD42645</string>
+					<key>Version</key>
+					<string>3</string>
+				</dict>
+				<key>MashType</key>
+				<string>Full Mash</string>
+				<key>MashpH</key>
+				<string>5.2</string>
+				<key>MgSO4</key>
+				<string>0.0</string>
+				<key>NaCl</key>
+				<string>0.0</string>
+				<key>NaHCO3</key>
+				<string>0.0</string>
+				<key>Notes</key>
+				<string>Here is the recipe for 7 gallons of wort with a mash efficiency of 82%:
+
+OG: 1.042
+8.75lb Domestic 2-row
+0.5lb Crisp Crystal Malt 77L
+0.5lb CaraPils
+0.2lb Honey Malt
+0.1lb CaraVienne Malt
+
+Mash at 158F for 60 minutes
+
+Boil for 90 minutes
+Hops:
+20g Warrior (38.2 IBU) at 60 min
+7g CTZ (7.3 IBU) at 30 min
+10g Amarillo (3.1 IBU) at 10 min
+10g Simcoe (4.3 IBU) at 10 min
+1oz each Simcoe, Amarillo, Chinook, Citra, CTZ at 0 min
+1oz each Simcoe, Amarillo, Chinook, Citra, CTZ dry hop
+
+Fermentation:
+WLP001 or WY1056 at 67F until completely fermented 
+FG should be 1.010~1.011
+
+Reduce temp to 50F to settle out yeast
+
+Return to 67F and dry hop for 7 days.</string>
+				<key>OtherIngredients</key>
+				<array/>
+				<key>PreBoilWortVolume</key>
+				<string>28390.574219</string>
+				<key>Profile</key>
+				<dict>
+					<key>BoilDuration</key>
+					<string>90</string>
+					<key>DateLastModified</key>
+					<date>2012-10-12T17:43:43Z</date>
+					<key>ExtractEfficiency</key>
+					<string>70.000000</string>
+					<key>FinishedBatchVolume</key>
+					<string>18927.050781</string>
+					<key>MTThermalMass</key>
+					<string>1000</string>
+					<key>PostBoilVolume</key>
+					<string>21122.587891</string>
+					<key>PreBoilVolume</key>
+					<string>28390.574219</string>
+					<key>PreferredMashSchedule</key>
+					<string>107B5B7D-7D9C-4B21-B3E1-8E31AD1333B3</string>
+					<key>PreferredRecipeType</key>
+					<string>Full Mash</string>
+					<key>PreferredSpargeMethod</key>
+					<string>Fly Sparge</string>
+					<key>ProfileName</key>
+					<string>Specific to this recipe</string>
+					<key>UUID</key>
+					<string></string>
+					<key>Version</key>
+					<string>2</string>
+					<key>VolumeAtPitching</key>
+					<string>20819.755859</string>
+					<key>VolumeToFermenter</key>
+					<string>20819.755859</string>
+					<key>VolumeWaterAdded</key>
+					<string>0.000000</string>
+					<key>WaterGrainRatio</key>
+					<string>2</string>
+				</dict>
+				<key>RecipeTitle</key>
+				<string>West Coast Bitter</string>
+				<key>Style</key>
+				<string>English Pale Ale-Standard/Ordinary Bitter</string>
+				<key>UUID</key>
+				<string>A2C925F3-B9A5-4A6E-88B5-1FE5D7C362D6</string>
+				<key>VolumeAtPitching</key>
+				<string>20819.755859</string>
+				<key>VolumeToFermenter</key>
+				<string>20819.755859</string>
+				<key>VolumeWaterAdded</key>
+				<string>0.000000</string>
+				<key>WaterProfileUsed</key>
+				<string> No Water Profile Chosen</string>
+				<key>Yeast</key>
+				<string>Wyeast 1056-American Ale</string>
+				<key>YeastAmount</key>
+				<string>1</string>
+			</dict>
+			<key>OriginalRecipe</key>
+			<dict>
+				<key>Acid</key>
+				<string>Unadjusted</string>
+				<key>ApparentAttenuation</key>
+				<string>74.908066</string>
+				<key>Attenuation</key>
+				<string>75.000000</string>
+				<key>BoilDuration</key>
+				<string>90</string>
+				<key>CaCO3</key>
+				<string>0.0</string>
+				<key>CaCl2</key>
+				<string>0.0</string>
+				<key>CaSO4</key>
+				<string>0.0</string>
+				<key>Carbonation</key>
+				<string>Force Carbonated</string>
+				<key>CarbonationVolumes</key>
+				<string>2.00</string>
+				<key>Conditioning</key>
+				<string>Matured for 2 weeks</string>
+				<key>DateLastModified</key>
+				<date>2012-10-12T17:44:30Z</date>
+				<key>ExpectedABV</key>
+				<string>4.147574</string>
+				<key>ExpectedABW</key>
+				<string>3.260001</string>
+				<key>ExpectedColor</key>
+				<string>7.915117</string>
+				<key>ExpectedFinalGravity</key>
+				<string>1.010176</string>
+				<key>ExpectedIBU</key>
+				<string>48.501240</string>
+				<key>ExpectedOriginalGravity</key>
+				<string>1.041646</string>
+				<key>ExpectedPreBoilGravity</key>
+				<string>1.030984</string>
+				<key>FermentableIngredients</key>
+				<array>
+					<dict>
+						<key>Amount</key>
+						<string>3515.399902</string>
+						<key>Color</key>
+						<string>1.800000</string>
+						<key>ColorForAdditionInEBC</key>
+						<string>3.637455</string>
+						<key>ColorForAdditionInSRM</key>
+						<string>1.846424</string>
+						<key>DateLastModified</key>
+						<date>2009-08-09T18:00:38Z</date>
+						<key>Extract</key>
+						<string>80.000000</string>
+						<key>Form</key>
+						<string>Loose Pellet Hops</string>
+						<key>GravityPointsForAddition</key>
+						<string>36.021778</string>
+						<key>Ingredient</key>
+						<string>US 2-Row Malt</string>
+						<key>IsGrain</key>
+						<string>1.000000</string>
+						<key>MCUForAddition</key>
+						<string>2.500055</string>
+						<key>MCUPercentage</key>
+						<string>23.327816</string>
+						<key>Minutes</key>
+						<string>0.000000</string>
+						<key>Moisture</key>
+						<string>4.000000</string>
+						<key>MustBeMashed</key>
+						<string>1.000000</string>
+						<key>Percentage</key>
+						<string>85.635414</string>
+						<key>UUID</key>
+						<string>F621AEFD-DEDE-4FA8-9CD3-DBBC939F43F8</string>
+						<key>When</key>
+						<string>In Mash/Steeped</string>
+					</dict>
+					<dict>
+						<key>Amount</key>
+						<string>226.800003</string>
+						<key>Color</key>
+						<string>77.000000</string>
+						<key>ColorForAdditionInEBC</key>
+						<string>10.038856</string>
+						<key>ColorForAdditionInSRM</key>
+						<string>5.095866</string>
+						<key>DateLastModified</key>
+						<date>2010-08-25T13:10:14Z</date>
+						<key>Extract</key>
+						<string>73.000000</string>
+						<key>Form</key>
+						<string>Loose Pellet Hops</string>
+						<key>GravityPointsForAddition</key>
+						<string>2.120637</string>
+						<key>Ingredient</key>
+						<string>Crystal 77</string>
+						<key>IsGrain</key>
+						<string>1</string>
+						<key>MCUForAddition</key>
+						<string>6.899794</string>
+						<key>MCUPercentage</key>
+						<string>64.381432</string>
+						<key>Minutes</key>
+						<string>0.000000</string>
+						<key>Moisture</key>
+						<string>3.200000</string>
+						<key>MustBeMashed</key>
+						<string>0.000000</string>
+						<key>Percentage</key>
+						<string>5.524866</string>
+						<key>UUID</key>
+						<string>3B4EB0B6-8816-4133-9F72-2E27351343DA</string>
+						<key>When</key>
+						<string>In Mash/Steeped</string>
+					</dict>
+					<dict>
+						<key>Amount</key>
+						<string>226.800003</string>
+						<key>Color</key>
+						<string>1.300000</string>
+						<key>ColorForAdditionInEBC</key>
+						<string>0.169487</string>
+						<key>ColorForAdditionInSRM</key>
+						<string>0.086034</string>
+						<key>DateLastModified</key>
+						<date>2010-05-14T13:41:07Z</date>
+						<key>Extract</key>
+						<string>73.000000</string>
+						<key>Form</key>
+						<string>Loose Pellet Hops</string>
+						<key>GravityPointsForAddition</key>
+						<string>2.120637</string>
+						<key>Ingredient</key>
+						<string>US Carapils Malt</string>
+						<key>IsGrain</key>
+						<string>1.000000</string>
+						<key>MCUForAddition</key>
+						<string>0.116490</string>
+						<key>MCUPercentage</key>
+						<string>1.086959</string>
+						<key>Minutes</key>
+						<string>0.000000</string>
+						<key>Moisture</key>
+						<string>5.500000</string>
+						<key>MustBeMashed</key>
+						<string>1.000000</string>
+						<key>Percentage</key>
+						<string>5.524866</string>
+						<key>UUID</key>
+						<string>9BDE86B4-18A6-11DA-80C0-001124CAE2A6</string>
+						<key>When</key>
+						<string>In Mash/Steeped</string>
+					</dict>
+					<dict>
+						<key>Amount</key>
+						<string>90.718002</string>
+						<key>Color</key>
+						<string>22.500000</string>
+						<key>ColorForAdditionInEBC</key>
+						<string>1.173347</string>
+						<key>ColorForAdditionInSRM</key>
+						<string>0.595608</string>
+						<key>DateLastModified</key>
+						<date>2009-08-09T18:00:38Z</date>
+						<key>Extract</key>
+						<string>80.000000</string>
+						<key>Form</key>
+						<string>Loose Pellet Hops</string>
+						<key>GravityPointsForAddition</key>
+						<string>0.929574</string>
+						<key>Ingredient</key>
+						<string>Canadian Honey Malt (Gambrinus)</string>
+						<key>IsGrain</key>
+						<string>1.000000</string>
+						<key>MCUForAddition</key>
+						<string>0.806452</string>
+						<key>MCUPercentage</key>
+						<string>7.524940</string>
+						<key>Minutes</key>
+						<string>0.000000</string>
+						<key>Moisture</key>
+						<string>4.000000</string>
+						<key>MustBeMashed</key>
+						<string>1.000000</string>
+						<key>Percentage</key>
+						<string>2.209898</string>
+						<key>UUID</key>
+						<string>A1558BCF-0B24-4BBB-B5B4-3985E6B4A4E0</string>
+						<key>When</key>
+						<string>In Mash/Steeped</string>
+					</dict>
+					<dict>
+						<key>Amount</key>
+						<string>45.359001</string>
+						<key>Color</key>
+						<string>22.000000</string>
+						<key>ColorForAdditionInEBC</key>
+						<string>0.573636</string>
+						<key>ColorForAdditionInSRM</key>
+						<string>0.291186</string>
+						<key>DateLastModified</key>
+						<date>2009-09-03T13:14:53Z</date>
+						<key>Extract</key>
+						<string>78.000000</string>
+						<key>Form</key>
+						<string>Loose Pellet Hops</string>
+						<key>GravityPointsForAddition</key>
+						<string>0.453167</string>
+						<key>Ingredient</key>
+						<string>CaraVienne</string>
+						<key>IsGrain</key>
+						<string>1.000000</string>
+						<key>MCUForAddition</key>
+						<string>0.394265</string>
+						<key>MCUPercentage</key>
+						<string>3.678855</string>
+						<key>Minutes</key>
+						<string>0.000000</string>
+						<key>Moisture</key>
+						<string>5.000000</string>
+						<key>MustBeMashed</key>
+						<string>0.000000</string>
+						<key>Percentage</key>
+						<string>1.104949</string>
+						<key>UUID</key>
+						<string>D78CBDD6-237B-4C5E-9B5D-7A65FA30E282</string>
+						<key>When</key>
+						<string>In Mash/Steeped</string>
+					</dict>
+				</array>
+				<key>FermentationTemperature</key>
+				<string>18.0</string>
+				<key>FinalBatchVolume</key>
+				<string>18927.050781</string>
+				<key>FinalWortVolume</key>
+				<string>21122.587891</string>
+				<key>GravityForIBUCalcs</key>
+				<string>1.030984</string>
+				<key>HopIngredients</key>
+				<array>
+					<dict>
+						<key>Alpha</key>
+						<string>15.500000</string>
+						<key>Amount</key>
+						<string>17.010000</string>
+						<key>DateLastModified</key>
+						<date>2009-08-09T18:00:38Z</date>
+						<key>Form</key>
+						<string>Loose Whole Hops</string>
+						<key>IBUForAddition</key>
+						<string>34.157799</string>
+						<key>Minutes</key>
+						<string>60</string>
+						<key>Percentage</key>
+						<string>0.000000</string>
+						<key>UUID</key>
+						<string>1D50A75B-FDDB-4A76-A476-1664A98B70AC</string>
+						<key>Variety</key>
+						<string>US Warrior</string>
+						<key>When</key>
+						<string>60 Min From End</string>
+					</dict>
+					<dict>
+						<key>Alpha</key>
+						<string>15.500000</string>
+						<key>Amount</key>
+						<string>5.670000</string>
+						<key>DateLastModified</key>
+						<date>2009-08-09T18:00:38Z</date>
+						<key>Form</key>
+						<string>Loose Whole Hops</string>
+						<key>IBUForAddition</key>
+						<string>8.750372</string>
+						<key>Minutes</key>
+						<string>30</string>
+						<key>Percentage</key>
+						<string>0.000000</string>
+						<key>UUID</key>
+						<string>F746F8D6-1BD2-11DA-9896-001124CAE2A6</string>
+						<key>Variety</key>
+						<string>US Columbus(Tomahawk)</string>
+						<key>When</key>
+						<string>30 Min From End</string>
+					</dict>
+					<dict>
+						<key>Alpha</key>
+						<string>8.000000</string>
+						<key>Amount</key>
+						<string>5.670000</string>
+						<key>DateLastModified</key>
+						<date>2010-08-25T13:31:27Z</date>
+						<key>Form</key>
+						<string>Loose Whole Hops</string>
+						<key>IBUForAddition</key>
+						<string>2.130693</string>
+						<key>Minutes</key>
+						<string>10</string>
+						<key>Percentage</key>
+						<string>0.000000</string>
+						<key>UUID</key>
+						<string>C87E536D-1BD2-11DA-9896-001124CAE2A6</string>
+						<key>Variety</key>
+						<string>US Amarillo</string>
+						<key>When</key>
+						<string>10 Min From End</string>
+					</dict>
+					<dict>
+						<key>Alpha</key>
+						<string>13.000000</string>
+						<key>Amount</key>
+						<string>5.670000</string>
+						<key>DateLastModified</key>
+						<date>2009-08-09T18:00:38Z</date>
+						<key>Form</key>
+						<string>Loose Whole Hops</string>
+						<key>IBUForAddition</key>
+						<string>3.462376</string>
+						<key>Minutes</key>
+						<string>10</string>
+						<key>Percentage</key>
+						<string>0.000000</string>
+						<key>UUID</key>
+						<string>391C231E-1BD3-11DA-9896-001124CAE2A6</string>
+						<key>Variety</key>
+						<string>US Simcoe</string>
+						<key>When</key>
+						<string>10 Min From End</string>
+					</dict>
+					<dict>
+						<key>Alpha</key>
+						<string>13.000000</string>
+						<key>Amount</key>
+						<string>28.350000</string>
+						<key>DateLastModified</key>
+						<date>2009-08-09T18:00:38Z</date>
+						<key>Form</key>
+						<string>Loose Whole Hops</string>
+						<key>IBUForAddition</key>
+						<string>0.000000</string>
+						<key>Minutes</key>
+						<string>0</string>
+						<key>Percentage</key>
+						<string>0.000000</string>
+						<key>UUID</key>
+						<string>391C231E-1BD3-11DA-9896-001124CAE2A6</string>
+						<key>Variety</key>
+						<string>US Simcoe</string>
+						<key>When</key>
+						<string>At turn off</string>
+					</dict>
+					<dict>
+						<key>Alpha</key>
+						<string>8.000000</string>
+						<key>Amount</key>
+						<string>28.350000</string>
+						<key>DateLastModified</key>
+						<date>2010-08-25T13:31:27Z</date>
+						<key>Form</key>
+						<string>Loose Whole Hops</string>
+						<key>IBUForAddition</key>
+						<string>0.000000</string>
+						<key>Minutes</key>
+						<string>0</string>
+						<key>Percentage</key>
+						<string>0.000000</string>
+						<key>UUID</key>
+						<string>C87E536D-1BD2-11DA-9896-001124CAE2A6</string>
+						<key>Variety</key>
+						<string>US Amarillo</string>
+						<key>When</key>
+						<string>At turn off</string>
+					</dict>
+					<dict>
+						<key>Alpha</key>
+						<string>15.500000</string>
+						<key>Amount</key>
+						<string>28.350000</string>
+						<key>DateLastModified</key>
+						<date>2009-08-09T18:00:38Z</date>
+						<key>Form</key>
+						<string>Loose Whole Hops</string>
+						<key>IBUForAddition</key>
+						<string>0.000000</string>
+						<key>Minutes</key>
+						<string>0</string>
+						<key>Percentage</key>
+						<string>0.000000</string>
+						<key>UUID</key>
+						<string>F746F8D6-1BD2-11DA-9896-001124CAE2A6</string>
+						<key>Variety</key>
+						<string>US Columbus(Tomahawk)</string>
+						<key>When</key>
+						<string>At turn off</string>
+					</dict>
+					<dict>
+						<key>Alpha</key>
+						<string>10.500000</string>
+						<key>Amount</key>
+						<string>28.350000</string>
+						<key>DateLastModified</key>
+						<date>2009-08-09T18:00:38Z</date>
+						<key>Form</key>
+						<string>Loose Whole Hops</string>
+						<key>IBUForAddition</key>
+						<string>0.000000</string>
+						<key>Minutes</key>
+						<string>0</string>
+						<key>Percentage</key>
+						<string>0.000000</string>
+						<key>UUID</key>
+						<string>E8FF0DA4-1BD2-11DA-9896-001124CAE2A6</string>
+						<key>Variety</key>
+						<string>US Chinook</string>
+						<key>When</key>
+						<string>At turn off</string>
+					</dict>
+					<dict>
+						<key>Alpha</key>
+						<string>12.300000</string>
+						<key>Amount</key>
+						<string>28.350000</string>
+						<key>DateLastModified</key>
+						<date>2010-08-25T13:32:22Z</date>
+						<key>Form</key>
+						<string>Loose Whole Hops</string>
+						<key>IBUForAddition</key>
+						<string>0.000000</string>
+						<key>Minutes</key>
+						<string>0</string>
+						<key>Percentage</key>
+						<string>0.000000</string>
+						<key>UUID</key>
+						<string>4E56F625-982B-4E76-9F43-B570B833CD1D</string>
+						<key>Variety</key>
+						<string>Citra</string>
+						<key>When</key>
+						<string>At turn off</string>
+					</dict>
+					<dict>
+						<key>Alpha</key>
+						<string>12.300000</string>
+						<key>Amount</key>
+						<string>28.350000</string>
+						<key>DateLastModified</key>
+						<date>2010-08-25T13:32:22Z</date>
+						<key>Form</key>
+						<string>Loose Pellet Hops</string>
+						<key>IBUForAddition</key>
+						<string>0.000000</string>
+						<key>Minutes</key>
+						<string>0</string>
+						<key>Percentage</key>
+						<string>0.000000</string>
+						<key>UUID</key>
+						<string>4E56F625-982B-4E76-9F43-B570B833CD1D</string>
+						<key>Variety</key>
+						<string>Citra</string>
+						<key>When</key>
+						<string>Dry-Hopped</string>
+					</dict>
+					<dict>
+						<key>Alpha</key>
+						<string>13.000000</string>
+						<key>Amount</key>
+						<string>28.350000</string>
+						<key>DateLastModified</key>
+						<date>2009-08-09T18:00:38Z</date>
+						<key>Form</key>
+						<string>Loose Pellet Hops</string>
+						<key>IBUForAddition</key>
+						<string>0.000000</string>
+						<key>Minutes</key>
+						<string>0</string>
+						<key>Percentage</key>
+						<string>0.000000</string>
+						<key>UUID</key>
+						<string>391C231E-1BD3-11DA-9896-001124CAE2A6</string>
+						<key>Variety</key>
+						<string>US Simcoe</string>
+						<key>When</key>
+						<string>Dry-Hopped</string>
+					</dict>
+					<dict>
+						<key>Alpha</key>
+						<string>8.000000</string>
+						<key>Amount</key>
+						<string>28.350000</string>
+						<key>DateLastModified</key>
+						<date>2010-08-25T13:31:27Z</date>
+						<key>Form</key>
+						<string>Loose Pellet Hops</string>
+						<key>IBUForAddition</key>
+						<string>0.000000</string>
+						<key>Minutes</key>
+						<string>0</string>
+						<key>Percentage</key>
+						<string>0.000000</string>
+						<key>UUID</key>
+						<string>C87E536D-1BD2-11DA-9896-001124CAE2A6</string>
+						<key>Variety</key>
+						<string>US Amarillo</string>
+						<key>When</key>
+						<string>Dry-Hopped</string>
+					</dict>
+					<dict>
+						<key>Alpha</key>
+						<string>15.500000</string>
+						<key>Amount</key>
+						<string>28.350000</string>
+						<key>DateLastModified</key>
+						<date>2009-08-09T18:00:38Z</date>
+						<key>Form</key>
+						<string>Loose Pellet Hops</string>
+						<key>IBUForAddition</key>
+						<string>0.000000</string>
+						<key>Minutes</key>
+						<string>0</string>
+						<key>Percentage</key>
+						<string>0.000000</string>
+						<key>UUID</key>
+						<string>F746F8D6-1BD2-11DA-9896-001124CAE2A6</string>
+						<key>Variety</key>
+						<string>US Columbus(Tomahawk)</string>
+						<key>When</key>
+						<string>Dry-Hopped</string>
+					</dict>
+					<dict>
+						<key>Alpha</key>
+						<string>10.500000</string>
+						<key>Amount</key>
+						<string>28.350000</string>
+						<key>DateLastModified</key>
+						<date>2009-08-09T18:00:38Z</date>
+						<key>Form</key>
+						<string>Loose Pellet Hops</string>
+						<key>IBUForAddition</key>
+						<string>0.000000</string>
+						<key>Minutes</key>
+						<string>0</string>
+						<key>Percentage</key>
+						<string>0.000000</string>
+						<key>UUID</key>
+						<string>E8FF0DA4-1BD2-11DA-9896-001124CAE2A6</string>
+						<key>Variety</key>
+						<string>US Chinook</string>
+						<key>When</key>
+						<string>Dry-Hopped</string>
+					</dict>
+				</array>
+				<key>MashEfficiency</key>
+				<string>70.000000</string>
+				<key>MashSchedule</key>
+				<dict>
+					<key>DateLastModified</key>
+					<date>2010-08-25T13:15:53Z</date>
+					<key>ScheduleName</key>
+					<string>Single Step 158</string>
+					<key>Steps</key>
+					<array>
+						<dict>
+							<key>Duration</key>
+							<string>60.000000</string>
+							<key>StepType</key>
+							<string>Rest at</string>
+							<key>Temperature</key>
+							<string>70.000000</string>
+						</dict>
+					</array>
+					<key>UUID</key>
+					<string>F5A1D51E-B26C-4ECC-BA29-508A8AD42645</string>
+					<key>Version</key>
+					<string>3</string>
+				</dict>
+				<key>MashType</key>
+				<string>Full Mash</string>
+				<key>MashpH</key>
+				<string>5.2</string>
+				<key>MgSO4</key>
+				<string>0.0</string>
+				<key>NaCl</key>
+				<string>0.0</string>
+				<key>NaHCO3</key>
+				<string>0.0</string>
+				<key>Notes</key>
+				<string>Here is the recipe for 7 gallons of wort with a mash efficiency of 82%:
+
+OG: 1.042
+8.75lb Domestic 2-row
+0.5lb Crisp Crystal Malt 77L
+0.5lb CaraPils
+0.2lb Honey Malt
+0.1lb CaraVienne Malt
+
+Mash at 158F for 60 minutes
+
+Boil for 90 minutes
+Hops:
+20g Warrior (38.2 IBU) at 60 min
+7g CTZ (7.3 IBU) at 30 min
+10g Amarillo (3.1 IBU) at 10 min
+10g Simcoe (4.3 IBU) at 10 min
+1oz each Simcoe, Amarillo, Chinook, Citra, CTZ at 0 min
+1oz each Simcoe, Amarillo, Chinook, Citra, CTZ dry hop
+
+Fermentation:
+WLP001 or WY1056 at 67F until completely fermented 
+FG should be 1.010~1.011
+
+Reduce temp to 50F to settle out yeast
+
+Return to 67F and dry hop for 7 days.</string>
+				<key>OtherIngredients</key>
+				<array/>
+				<key>PreBoilWortVolume</key>
+				<string>28390.574219</string>
+				<key>Profile</key>
+				<dict>
+					<key>BoilDuration</key>
+					<string>90</string>
+					<key>DateLastModified</key>
+					<date>2012-10-12T17:43:43Z</date>
+					<key>ExtractEfficiency</key>
+					<string>70.000000</string>
+					<key>FinishedBatchVolume</key>
+					<string>18927.050781</string>
+					<key>MTThermalMass</key>
+					<string>1000</string>
+					<key>PostBoilVolume</key>
+					<string>21122.587891</string>
+					<key>PreBoilVolume</key>
+					<string>28390.574219</string>
+					<key>PreferredMashSchedule</key>
+					<string>107B5B7D-7D9C-4B21-B3E1-8E31AD1333B3</string>
+					<key>PreferredRecipeType</key>
+					<string>Full Mash</string>
+					<key>PreferredSpargeMethod</key>
+					<string>Fly Sparge</string>
+					<key>ProfileName</key>
+					<string>Specific to this recipe</string>
+					<key>UUID</key>
+					<string></string>
+					<key>Version</key>
+					<string>2</string>
+					<key>VolumeAtPitching</key>
+					<string>20819.755859</string>
+					<key>VolumeToFermenter</key>
+					<string>20819.755859</string>
+					<key>VolumeWaterAdded</key>
+					<string>0.000000</string>
+					<key>WaterGrainRatio</key>
+					<string>2</string>
+				</dict>
+				<key>RecipeTitle</key>
+				<string>West Coast Bitter</string>
+				<key>Style</key>
+				<string>English Pale Ale-Standard/Ordinary Bitter</string>
+				<key>UUID</key>
+				<string>A2C925F3-B9A5-4A6E-88B5-1FE5D7C362D6</string>
+				<key>VolumeAtPitching</key>
+				<string>20819.755859</string>
+				<key>VolumeToFermenter</key>
+				<string>20819.755859</string>
+				<key>VolumeWaterAdded</key>
+				<string>0.000000</string>
+				<key>WaterProfileUsed</key>
+				<string> No Water Profile Chosen</string>
+				<key>Yeast</key>
+				<string>Wyeast 1056-American Ale</string>
+				<key>YeastAmount</key>
+				<string>1</string>
+			</dict>
+			<key>PackagingNotes</key>
+			<string></string>
+			<key>RoomTemperature</key>
+			<string>15.0</string>
+			<key>SpargeMethod</key>
+			<string>Fly Sparge</string>
+			<key>TastingNotes</key>
+			<string></string>
+			<key>UUID</key>
+			<string>4232D206-A60E-4E25-B0F1-F2A5F84F8495</string>
+			<key>WaterGrainRatio</key>
+			<string>3.338177</string>
+		</dict>
+	</array>
+	<key>BoilDuration</key>
+	<string>90</string>
+	<key>CaCO3</key>
+	<string>0.0</string>
+	<key>CaCl2</key>
+	<string>0.0</string>
+	<key>CaSO4</key>
+	<string>0.0</string>
+	<key>Carbonation</key>
+	<string>Force Carbonated</string>
+	<key>CarbonationVolumes</key>
+	<string>2.00</string>
+	<key>Conditioning</key>
+	<string>Matured for 2 weeks</string>
+	<key>DateLastModified</key>
+	<date>2012-10-12T17:44:30Z</date>
+	<key>ExpectedABV</key>
+	<string>4.147574</string>
+	<key>ExpectedABW</key>
+	<string>3.260001</string>
+	<key>ExpectedColor</key>
+	<string>7.915117</string>
+	<key>ExpectedFinalGravity</key>
+	<string>1.010176</string>
+	<key>ExpectedIBU</key>
+	<string>48.501240</string>
+	<key>ExpectedOriginalGravity</key>
+	<string>1.041646</string>
+	<key>ExpectedPreBoilGravity</key>
+	<string>1.030984</string>
+	<key>FermentableIngredients</key>
+	<array>
+		<dict>
+			<key>Amount</key>
+			<string>3515.399902</string>
+			<key>Color</key>
+			<string>1.800000</string>
+			<key>ColorForAdditionInEBC</key>
+			<string>3.637455</string>
+			<key>ColorForAdditionInSRM</key>
+			<string>1.846424</string>
+			<key>DateLastModified</key>
+			<date>2009-08-09T18:00:38Z</date>
+			<key>Extract</key>
+			<string>80.000000</string>
+			<key>Form</key>
+			<string>Loose Pellet Hops</string>
+			<key>GravityPointsForAddition</key>
+			<string>36.021778</string>
+			<key>Ingredient</key>
+			<string>US 2-Row Malt</string>
+			<key>IsGrain</key>
+			<string>1.000000</string>
+			<key>MCUForAddition</key>
+			<string>2.500055</string>
+			<key>MCUPercentage</key>
+			<string>23.327816</string>
+			<key>Minutes</key>
+			<string>0.000000</string>
+			<key>Moisture</key>
+			<string>4.000000</string>
+			<key>MustBeMashed</key>
+			<string>1.000000</string>
+			<key>Percentage</key>
+			<string>85.635414</string>
+			<key>UUID</key>
+			<string>F621AEFD-DEDE-4FA8-9CD3-DBBC939F43F8</string>
+			<key>When</key>
+			<string>In Mash/Steeped</string>
+		</dict>
+		<dict>
+			<key>Amount</key>
+			<string>226.800003</string>
+			<key>Color</key>
+			<string>77.000000</string>
+			<key>ColorForAdditionInEBC</key>
+			<string>10.038856</string>
+			<key>ColorForAdditionInSRM</key>
+			<string>5.095866</string>
+			<key>DateLastModified</key>
+			<date>2010-08-25T13:10:14Z</date>
+			<key>Extract</key>
+			<string>73.000000</string>
+			<key>Form</key>
+			<string>Loose Pellet Hops</string>
+			<key>GravityPointsForAddition</key>
+			<string>2.120637</string>
+			<key>Ingredient</key>
+			<string>Crystal 77</string>
+			<key>IsGrain</key>
+			<string>1</string>
+			<key>MCUForAddition</key>
+			<string>6.899794</string>
+			<key>MCUPercentage</key>
+			<string>64.381432</string>
+			<key>Minutes</key>
+			<string>0.000000</string>
+			<key>Moisture</key>
+			<string>3.200000</string>
+			<key>MustBeMashed</key>
+			<string>0.000000</string>
+			<key>Percentage</key>
+			<string>5.524866</string>
+			<key>UUID</key>
+			<string>3B4EB0B6-8816-4133-9F72-2E27351343DA</string>
+			<key>When</key>
+			<string>In Mash/Steeped</string>
+		</dict>
+		<dict>
+			<key>Amount</key>
+			<string>226.800003</string>
+			<key>Color</key>
+			<string>1.300000</string>
+			<key>ColorForAdditionInEBC</key>
+			<string>0.169487</string>
+			<key>ColorForAdditionInSRM</key>
+			<string>0.086034</string>
+			<key>DateLastModified</key>
+			<date>2010-05-14T13:41:07Z</date>
+			<key>Extract</key>
+			<string>73.000000</string>
+			<key>Form</key>
+			<string>Loose Pellet Hops</string>
+			<key>GravityPointsForAddition</key>
+			<string>2.120637</string>
+			<key>Ingredient</key>
+			<string>US Carapils Malt</string>
+			<key>IsGrain</key>
+			<string>1.000000</string>
+			<key>MCUForAddition</key>
+			<string>0.116490</string>
+			<key>MCUPercentage</key>
+			<string>1.086959</string>
+			<key>Minutes</key>
+			<string>0.000000</string>
+			<key>Moisture</key>
+			<string>5.500000</string>
+			<key>MustBeMashed</key>
+			<string>1.000000</string>
+			<key>Percentage</key>
+			<string>5.524866</string>
+			<key>UUID</key>
+			<string>9BDE86B4-18A6-11DA-80C0-001124CAE2A6</string>
+			<key>When</key>
+			<string>In Mash/Steeped</string>
+		</dict>
+		<dict>
+			<key>Amount</key>
+			<string>90.718002</string>
+			<key>Color</key>
+			<string>22.500000</string>
+			<key>ColorForAdditionInEBC</key>
+			<string>1.173347</string>
+			<key>ColorForAdditionInSRM</key>
+			<string>0.595608</string>
+			<key>DateLastModified</key>
+			<date>2009-08-09T18:00:38Z</date>
+			<key>Extract</key>
+			<string>80.000000</string>
+			<key>Form</key>
+			<string>Loose Pellet Hops</string>
+			<key>GravityPointsForAddition</key>
+			<string>0.929574</string>
+			<key>Ingredient</key>
+			<string>Canadian Honey Malt (Gambrinus)</string>
+			<key>IsGrain</key>
+			<string>1.000000</string>
+			<key>MCUForAddition</key>
+			<string>0.806452</string>
+			<key>MCUPercentage</key>
+			<string>7.524940</string>
+			<key>Minutes</key>
+			<string>0.000000</string>
+			<key>Moisture</key>
+			<string>4.000000</string>
+			<key>MustBeMashed</key>
+			<string>1.000000</string>
+			<key>Percentage</key>
+			<string>2.209898</string>
+			<key>UUID</key>
+			<string>A1558BCF-0B24-4BBB-B5B4-3985E6B4A4E0</string>
+			<key>When</key>
+			<string>In Mash/Steeped</string>
+		</dict>
+		<dict>
+			<key>Amount</key>
+			<string>45.359001</string>
+			<key>Color</key>
+			<string>22.000000</string>
+			<key>ColorForAdditionInEBC</key>
+			<string>0.573636</string>
+			<key>ColorForAdditionInSRM</key>
+			<string>0.291186</string>
+			<key>DateLastModified</key>
+			<date>2009-09-03T13:14:53Z</date>
+			<key>Extract</key>
+			<string>78.000000</string>
+			<key>Form</key>
+			<string>Loose Pellet Hops</string>
+			<key>GravityPointsForAddition</key>
+			<string>0.453167</string>
+			<key>Ingredient</key>
+			<string>CaraVienne</string>
+			<key>IsGrain</key>
+			<string>1.000000</string>
+			<key>MCUForAddition</key>
+			<string>0.394265</string>
+			<key>MCUPercentage</key>
+			<string>3.678855</string>
+			<key>Minutes</key>
+			<string>0.000000</string>
+			<key>Moisture</key>
+			<string>5.000000</string>
+			<key>MustBeMashed</key>
+			<string>0.000000</string>
+			<key>Percentage</key>
+			<string>1.104949</string>
+			<key>UUID</key>
+			<string>D78CBDD6-237B-4C5E-9B5D-7A65FA30E282</string>
+			<key>When</key>
+			<string>In Mash/Steeped</string>
+		</dict>
+	</array>
+	<key>FermentationTemperature</key>
+	<string>18.0</string>
+	<key>FinalBatchVolume</key>
+	<string>18927.050781</string>
+	<key>FinalWortVolume</key>
+	<string>21122.587891</string>
+	<key>GravityForIBUCalcs</key>
+	<string>1.030984</string>
+	<key>HopIngredients</key>
+	<array>
+		<dict>
+			<key>Alpha</key>
+			<string>15.500000</string>
+			<key>Amount</key>
+			<string>17.010000</string>
+			<key>DateLastModified</key>
+			<date>2009-08-09T18:00:38Z</date>
+			<key>Form</key>
+			<string>Loose Whole Hops</string>
+			<key>IBUForAddition</key>
+			<string>34.157799</string>
+			<key>Minutes</key>
+			<string>60</string>
+			<key>Percentage</key>
+			<string>0.000000</string>
+			<key>UUID</key>
+			<string>1D50A75B-FDDB-4A76-A476-1664A98B70AC</string>
+			<key>Variety</key>
+			<string>US Warrior</string>
+			<key>When</key>
+			<string>60 Min From End</string>
+		</dict>
+		<dict>
+			<key>Alpha</key>
+			<string>15.500000</string>
+			<key>Amount</key>
+			<string>5.670000</string>
+			<key>DateLastModified</key>
+			<date>2009-08-09T18:00:38Z</date>
+			<key>Form</key>
+			<string>Loose Whole Hops</string>
+			<key>IBUForAddition</key>
+			<string>8.750372</string>
+			<key>Minutes</key>
+			<string>30</string>
+			<key>Percentage</key>
+			<string>0.000000</string>
+			<key>UUID</key>
+			<string>F746F8D6-1BD2-11DA-9896-001124CAE2A6</string>
+			<key>Variety</key>
+			<string>US Columbus(Tomahawk)</string>
+			<key>When</key>
+			<string>30 Min From End</string>
+		</dict>
+		<dict>
+			<key>Alpha</key>
+			<string>8.000000</string>
+			<key>Amount</key>
+			<string>5.670000</string>
+			<key>DateLastModified</key>
+			<date>2010-08-25T13:31:27Z</date>
+			<key>Form</key>
+			<string>Loose Whole Hops</string>
+			<key>IBUForAddition</key>
+			<string>2.130693</string>
+			<key>Minutes</key>
+			<string>10</string>
+			<key>Percentage</key>
+			<string>0.000000</string>
+			<key>UUID</key>
+			<string>C87E536D-1BD2-11DA-9896-001124CAE2A6</string>
+			<key>Variety</key>
+			<string>US Amarillo</string>
+			<key>When</key>
+			<string>10 Min From End</string>
+		</dict>
+		<dict>
+			<key>Alpha</key>
+			<string>13.000000</string>
+			<key>Amount</key>
+			<string>5.670000</string>
+			<key>DateLastModified</key>
+			<date>2009-08-09T18:00:38Z</date>
+			<key>Form</key>
+			<string>Loose Whole Hops</string>
+			<key>IBUForAddition</key>
+			<string>3.462376</string>
+			<key>Minutes</key>
+			<string>10</string>
+			<key>Percentage</key>
+			<string>0.000000</string>
+			<key>UUID</key>
+			<string>391C231E-1BD3-11DA-9896-001124CAE2A6</string>
+			<key>Variety</key>
+			<string>US Simcoe</string>
+			<key>When</key>
+			<string>10 Min From End</string>
+		</dict>
+		<dict>
+			<key>Alpha</key>
+			<string>13.000000</string>
+			<key>Amount</key>
+			<string>28.350000</string>
+			<key>DateLastModified</key>
+			<date>2009-08-09T18:00:38Z</date>
+			<key>Form</key>
+			<string>Loose Whole Hops</string>
+			<key>IBUForAddition</key>
+			<string>0.000000</string>
+			<key>Minutes</key>
+			<string>0</string>
+			<key>Percentage</key>
+			<string>0.000000</string>
+			<key>UUID</key>
+			<string>391C231E-1BD3-11DA-9896-001124CAE2A6</string>
+			<key>Variety</key>
+			<string>US Simcoe</string>
+			<key>When</key>
+			<string>At turn off</string>
+		</dict>
+		<dict>
+			<key>Alpha</key>
+			<string>8.000000</string>
+			<key>Amount</key>
+			<string>28.350000</string>
+			<key>DateLastModified</key>
+			<date>2010-08-25T13:31:27Z</date>
+			<key>Form</key>
+			<string>Loose Whole Hops</string>
+			<key>IBUForAddition</key>
+			<string>0.000000</string>
+			<key>Minutes</key>
+			<string>0</string>
+			<key>Percentage</key>
+			<string>0.000000</string>
+			<key>UUID</key>
+			<string>C87E536D-1BD2-11DA-9896-001124CAE2A6</string>
+			<key>Variety</key>
+			<string>US Amarillo</string>
+			<key>When</key>
+			<string>At turn off</string>
+		</dict>
+		<dict>
+			<key>Alpha</key>
+			<string>15.500000</string>
+			<key>Amount</key>
+			<string>28.350000</string>
+			<key>DateLastModified</key>
+			<date>2009-08-09T18:00:38Z</date>
+			<key>Form</key>
+			<string>Loose Whole Hops</string>
+			<key>IBUForAddition</key>
+			<string>0.000000</string>
+			<key>Minutes</key>
+			<string>0</string>
+			<key>Percentage</key>
+			<string>0.000000</string>
+			<key>UUID</key>
+			<string>F746F8D6-1BD2-11DA-9896-001124CAE2A6</string>
+			<key>Variety</key>
+			<string>US Columbus(Tomahawk)</string>
+			<key>When</key>
+			<string>At turn off</string>
+		</dict>
+		<dict>
+			<key>Alpha</key>
+			<string>10.500000</string>
+			<key>Amount</key>
+			<string>28.350000</string>
+			<key>DateLastModified</key>
+			<date>2009-08-09T18:00:38Z</date>
+			<key>Form</key>
+			<string>Loose Whole Hops</string>
+			<key>IBUForAddition</key>
+			<string>0.000000</string>
+			<key>Minutes</key>
+			<string>0</string>
+			<key>Percentage</key>
+			<string>0.000000</string>
+			<key>UUID</key>
+			<string>E8FF0DA4-1BD2-11DA-9896-001124CAE2A6</string>
+			<key>Variety</key>
+			<string>US Chinook</string>
+			<key>When</key>
+			<string>At turn off</string>
+		</dict>
+		<dict>
+			<key>Alpha</key>
+			<string>12.300000</string>
+			<key>Amount</key>
+			<string>28.350000</string>
+			<key>DateLastModified</key>
+			<date>2010-08-25T13:32:22Z</date>
+			<key>Form</key>
+			<string>Loose Whole Hops</string>
+			<key>IBUForAddition</key>
+			<string>0.000000</string>
+			<key>Minutes</key>
+			<string>0</string>
+			<key>Percentage</key>
+			<string>0.000000</string>
+			<key>UUID</key>
+			<string>4E56F625-982B-4E76-9F43-B570B833CD1D</string>
+			<key>Variety</key>
+			<string>Citra</string>
+			<key>When</key>
+			<string>At turn off</string>
+		</dict>
+		<dict>
+			<key>Alpha</key>
+			<string>12.300000</string>
+			<key>Amount</key>
+			<string>28.350000</string>
+			<key>DateLastModified</key>
+			<date>2010-08-25T13:32:22Z</date>
+			<key>Form</key>
+			<string>Loose Pellet Hops</string>
+			<key>IBUForAddition</key>
+			<string>0.000000</string>
+			<key>Minutes</key>
+			<string>0</string>
+			<key>Percentage</key>
+			<string>0.000000</string>
+			<key>UUID</key>
+			<string>4E56F625-982B-4E76-9F43-B570B833CD1D</string>
+			<key>Variety</key>
+			<string>Citra</string>
+			<key>When</key>
+			<string>Dry-Hopped</string>
+		</dict>
+		<dict>
+			<key>Alpha</key>
+			<string>13.000000</string>
+			<key>Amount</key>
+			<string>28.350000</string>
+			<key>DateLastModified</key>
+			<date>2009-08-09T18:00:38Z</date>
+			<key>Form</key>
+			<string>Loose Pellet Hops</string>
+			<key>IBUForAddition</key>
+			<string>0.000000</string>
+			<key>Minutes</key>
+			<string>0</string>
+			<key>Percentage</key>
+			<string>0.000000</string>
+			<key>UUID</key>
+			<string>391C231E-1BD3-11DA-9896-001124CAE2A6</string>
+			<key>Variety</key>
+			<string>US Simcoe</string>
+			<key>When</key>
+			<string>Dry-Hopped</string>
+		</dict>
+		<dict>
+			<key>Alpha</key>
+			<string>8.000000</string>
+			<key>Amount</key>
+			<string>28.350000</string>
+			<key>DateLastModified</key>
+			<date>2010-08-25T13:31:27Z</date>
+			<key>Form</key>
+			<string>Loose Pellet Hops</string>
+			<key>IBUForAddition</key>
+			<string>0.000000</string>
+			<key>Minutes</key>
+			<string>0</string>
+			<key>Percentage</key>
+			<string>0.000000</string>
+			<key>UUID</key>
+			<string>C87E536D-1BD2-11DA-9896-001124CAE2A6</string>
+			<key>Variety</key>
+			<string>US Amarillo</string>
+			<key>When</key>
+			<string>Dry-Hopped</string>
+		</dict>
+		<dict>
+			<key>Alpha</key>
+			<string>15.500000</string>
+			<key>Amount</key>
+			<string>28.350000</string>
+			<key>DateLastModified</key>
+			<date>2009-08-09T18:00:38Z</date>
+			<key>Form</key>
+			<string>Loose Pellet Hops</string>
+			<key>IBUForAddition</key>
+			<string>0.000000</string>
+			<key>Minutes</key>
+			<string>0</string>
+			<key>Percentage</key>
+			<string>0.000000</string>
+			<key>UUID</key>
+			<string>F746F8D6-1BD2-11DA-9896-001124CAE2A6</string>
+			<key>Variety</key>
+			<string>US Columbus(Tomahawk)</string>
+			<key>When</key>
+			<string>Dry-Hopped</string>
+		</dict>
+		<dict>
+			<key>Alpha</key>
+			<string>10.500000</string>
+			<key>Amount</key>
+			<string>28.350000</string>
+			<key>DateLastModified</key>
+			<date>2009-08-09T18:00:38Z</date>
+			<key>Form</key>
+			<string>Loose Pellet Hops</string>
+			<key>IBUForAddition</key>
+			<string>0.000000</string>
+			<key>Minutes</key>
+			<string>0</string>
+			<key>Percentage</key>
+			<string>0.000000</string>
+			<key>UUID</key>
+			<string>E8FF0DA4-1BD2-11DA-9896-001124CAE2A6</string>
+			<key>Variety</key>
+			<string>US Chinook</string>
+			<key>When</key>
+			<string>Dry-Hopped</string>
+		</dict>
+	</array>
+	<key>MashEfficiency</key>
+	<string>70.000000</string>
+	<key>MashSchedule</key>
+	<dict>
+		<key>DateLastModified</key>
+		<date>2010-08-25T13:15:53Z</date>
+		<key>ScheduleName</key>
+		<string>Single Step 158</string>
+		<key>Steps</key>
+		<array>
+			<dict>
+				<key>Duration</key>
+				<string>60.000000</string>
+				<key>StepType</key>
+				<string>Rest at</string>
+				<key>Temperature</key>
+				<string>70.000000</string>
+			</dict>
+		</array>
+		<key>UUID</key>
+		<string>F5A1D51E-B26C-4ECC-BA29-508A8AD42645</string>
+		<key>Version</key>
+		<string>3</string>
+	</dict>
+	<key>MashType</key>
+	<string>Full Mash</string>
+	<key>MashpH</key>
+	<string>5.2</string>
+	<key>MgSO4</key>
+	<string>0.0</string>
+	<key>NaCl</key>
+	<string>0.0</string>
+	<key>NaHCO3</key>
+	<string>0.0</string>
+	<key>Notes</key>
+	<string>Here is the recipe for 7 gallons of wort with a mash efficiency of 82%:
+
+OG: 1.042
+8.75lb Domestic 2-row
+0.5lb Crisp Crystal Malt 77L
+0.5lb CaraPils
+0.2lb Honey Malt
+0.1lb CaraVienne Malt
+
+Mash at 158F for 60 minutes
+
+Boil for 90 minutes
+Hops:
+20g Warrior (38.2 IBU) at 60 min
+7g CTZ (7.3 IBU) at 30 min
+10g Amarillo (3.1 IBU) at 10 min
+10g Simcoe (4.3 IBU) at 10 min
+1oz each Simcoe, Amarillo, Chinook, Citra, CTZ at 0 min
+1oz each Simcoe, Amarillo, Chinook, Citra, CTZ dry hop
+
+Fermentation:
+WLP001 or WY1056 at 67F until completely fermented 
+FG should be 1.010~1.011
+
+Reduce temp to 50F to settle out yeast
+
+Return to 67F and dry hop for 7 days.</string>
+	<key>OtherIngredients</key>
+	<array/>
+	<key>PreBoilWortVolume</key>
+	<string>28390.574219</string>
+	<key>Profile</key>
+	<dict>
+		<key>BoilDuration</key>
+		<string>90</string>
+		<key>DateLastModified</key>
+		<date>2012-10-12T17:43:43Z</date>
+		<key>ExtractEfficiency</key>
+		<string>70.000000</string>
+		<key>FinishedBatchVolume</key>
+		<string>18927.050781</string>
+		<key>MTThermalMass</key>
+		<string>1000</string>
+		<key>PostBoilVolume</key>
+		<string>21122.587891</string>
+		<key>PreBoilVolume</key>
+		<string>28390.574219</string>
+		<key>PreferredMashSchedule</key>
+		<string>107B5B7D-7D9C-4B21-B3E1-8E31AD1333B3</string>
+		<key>PreferredRecipeType</key>
+		<string>Full Mash</string>
+		<key>PreferredSpargeMethod</key>
+		<string>Fly Sparge</string>
+		<key>ProfileName</key>
+		<string>Specific to this recipe</string>
+		<key>UUID</key>
+		<string></string>
+		<key>Version</key>
+		<string>2</string>
+		<key>VolumeAtPitching</key>
+		<string>20819.755859</string>
+		<key>VolumeToFermenter</key>
+		<string>20819.755859</string>
+		<key>VolumeWaterAdded</key>
+		<string>0.000000</string>
+		<key>WaterGrainRatio</key>
+		<string>2</string>
+	</dict>
+	<key>RecipeTitle</key>
+	<string>West Coast Bitter</string>
+	<key>Style</key>
+	<string>English Pale Ale-Standard/Ordinary Bitter</string>
+	<key>UUID</key>
+	<string>A2C925F3-B9A5-4A6E-88B5-1FE5D7C362D6</string>
+	<key>VolumeAtPitching</key>
+	<string>20819.755859</string>
+	<key>VolumeToFermenter</key>
+	<string>20819.755859</string>
+	<key>VolumeWaterAdded</key>
+	<string>0.000000</string>
+	<key>WaterProfileUsed</key>
+	<string> No Water Profile Chosen</string>
+	<key>Yeast</key>
+	<string>Wyeast 1056-American Ale</string>
+	<key>YeastAmount</key>
+	<string>1</string>
+</dict>
+</plist>

@@ -1,0 +1,2863 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Acid</key>
+	<string>Unadjusted</string>
+	<key>ApparentAttenuation</key>
+	<string>74.400642</string>
+	<key>Attenuation</key>
+	<string>74.500000</string>
+	<key>Batches</key>
+	<array>
+		<dict>
+			<key>Actuals</key>
+			<dict>
+				<key>ABV</key>
+				<string>4.583716</string>
+				<key>ABW</key>
+				<string>3.594873</string>
+				<key>ActualMashEfficiency</key>
+				<string>81.676620</string>
+				<key>ApparentAttenuation</key>
+				<string>72.873062</string>
+				<key>Color</key>
+				<string>5.693326</string>
+				<key>FG</key>
+				<string>1.012406</string>
+				<key>FGHydroReading</key>
+				<string>1.013000</string>
+				<key>FGTemp</key>
+				<string>10.000000</string>
+				<key>FermentationTemperature</key>
+				<string>19.444445</string>
+				<key>FinalBatchVolume</key>
+				<string>18927.050781</string>
+				<key>FinalWortVolume</key>
+				<string>24680.873047</string>
+				<key>HydrometerCalibratedAt</key>
+				<string>15.0</string>
+				<key>IBU</key>
+				<string>33.005714</string>
+				<key>OG</key>
+				<string>1.047084</string>
+				<key>OGHydroReading</key>
+				<string>1.047000</string>
+				<key>OGTemp</key>
+				<string>15.555555</string>
+				<key>PreBoilGrav</key>
+				<string>1.036264</string>
+				<key>PreBoilHydroReading</key>
+				<string>1.036000</string>
+				<key>PreBoilTemp</key>
+				<string>16.666666</string>
+				<key>PreBoilWortVolume</key>
+				<string>28390.574219</string>
+				<key>RealAttenuation</key>
+				<string>59.697613</string>
+				<key>VolumeAtPitching</key>
+				<string>20819.755859</string>
+				<key>VolumeToFermenter</key>
+				<string>20819.755859</string>
+				<key>VolumeWaterAdded</key>
+				<string>0.000000</string>
+			</dict>
+			<key>AdjustedInventory</key>
+			<string>1</string>
+			<key>BatchNotes</key>
+			<string>1.5g CC</string>
+			<key>BatchTitle</key>
+			<string>Batch 1 of Stevie's Session</string>
+			<key>BoilNotes</key>
+			<string></string>
+			<key>DateBrewed</key>
+			<date>2010-12-11T06:00:00Z</date>
+			<key>DateLastModified</key>
+			<date>2012-01-14T15:04:04Z</date>
+			<key>DatePackaged</key>
+			<date>2010-12-11T06:00:00Z</date>
+			<key>DateRacked</key>
+			<date>2010-12-11T06:00:00Z</date>
+			<key>DateReady</key>
+			<date>2010-12-11T06:00:00Z</date>
+			<key>FermentationNotes</key>
+			<string>Aerated 30 seconds - just on.</string>
+			<key>MTThermalMass</key>
+			<string>680.400024</string>
+			<key>ModifiedRecipe</key>
+			<dict>
+				<key>Acid</key>
+				<string>Unadjusted</string>
+				<key>ApparentAttenuation</key>
+				<string>69.918785</string>
+				<key>Attenuation</key>
+				<string>70.000000</string>
+				<key>Batches</key>
+				<array/>
+				<key>BoilDuration</key>
+				<string>60.000000</string>
+				<key>CaCO3</key>
+				<string>0.0</string>
+				<key>CaCl2</key>
+				<string>0.0</string>
+				<key>CaSO4</key>
+				<string>0.0</string>
+				<key>Carbonation</key>
+				<string>Force Carbonated</string>
+				<key>CarbonationVolumes</key>
+				<string>1.00</string>
+				<key>Conditioning</key>
+				<string>Matured for 2 weeks</string>
+				<key>DateLastModified</key>
+				<date>2010-12-10T04:32:42Z</date>
+				<key>ExpectedABV</key>
+				<string>3.686909</string>
+				<key>ExpectedABW</key>
+				<string>2.893703</string>
+				<key>ExpectedColor</key>
+				<string>5.693326</string>
+				<key>ExpectedFinalGravity</key>
+				<string>1.011647</string>
+				<key>ExpectedIBU</key>
+				<string>32.887878</string>
+				<key>ExpectedOriginalGravity</key>
+				<string>1.039642</string>
+				<key>ExpectedPreBoilGravity</key>
+				<string>1.033300</string>
+				<key>FermentableIngredients</key>
+				<array>
+					<dict>
+						<key>Amount</key>
+						<string>3855.600098</string>
+						<key>Batches</key>
+						<array>
+							<dict>
+								<key>Amount</key>
+								<string>3855.600098</string>
+								<key>AmountInStock</key>
+								<string>11340.389648</string>
+								<key>BatchName</key>
+								<string>Fawcett</string>
+								<key>Color</key>
+								<string>2.500000</string>
+								<key>DeliveredOn</key>
+								<date>2010-04-29T17:52:01Z</date>
+								<key>ExpiresOn</key>
+								<date>2011-04-29T17:52:01Z</date>
+								<key>Extract</key>
+								<string>80.000000</string>
+								<key>IngredientType</key>
+								<string>Fermentable</string>
+								<key>UUID</key>
+								<string>92CD2A89-5D13-452F-8117-1A131D740BE2</string>
+							</dict>
+						</array>
+						<key>Color</key>
+						<string>2.500000</string>
+						<key>ColorForAdditionInEBC</key>
+						<string>10.711766</string>
+						<key>ColorForAdditionInSRM</key>
+						<string>5.437445</string>
+						<key>DateLastModified</key>
+						<date>2010-04-21T13:42:38Z</date>
+						<key>Extract</key>
+						<string>80.000000</string>
+						<key>Form</key>
+						<string>Loose Pellet Hops</string>
+						<key>GravityPointsForAddition</key>
+						<string>37.492054</string>
+						<key>Ingredient</key>
+						<string>Maris Otter Pale Ale Malt - T.Fawcett</string>
+						<key>IsGrain</key>
+						<string>1.000000</string>
+						<key>MCUForAddition</key>
+						<string>3.162272</string>
+						<key>MCUPercentage</key>
+						<string>95.505608</string>
+						<key>Minutes</key>
+						<string>0.000000</string>
+						<key>Moisture</key>
+						<string>2.500000</string>
+						<key>MustBeMashed</key>
+						<string>0.000000</string>
+						<key>Percentage</key>
+						<string>94.444443</string>
+						<key>UUID</key>
+						<string>AA09D0EE-66D8-4693-848D-B7C114668867</string>
+						<key>When</key>
+						<string>In Mash/Steeped</string>
+					</dict>
+					<dict>
+						<key>Amount</key>
+						<string>226.800003</string>
+						<key>Batches</key>
+						<array>
+							<dict>
+								<key>Amount</key>
+								<string>226.800003</string>
+								<key>AmountInStock</key>
+								<string>10999.815430</string>
+								<key>BatchName</key>
+								<string>Best</string>
+								<key>Color</key>
+								<string>2.000000</string>
+								<key>DeliveredOn</key>
+								<date>2009-10-30T17:00:00Z</date>
+								<key>ExpiresOn</key>
+								<date>2010-10-30T12:23:45Z</date>
+								<key>Extract</key>
+								<string>78.000000</string>
+								<key>IngredientType</key>
+								<string>Fermentable</string>
+								<key>UUID</key>
+								<string>C9BEDE3B-33C9-4CE4-A176-461AFD677155</string>
+							</dict>
+						</array>
+						<key>Color</key>
+						<string>2.000000</string>
+						<key>ColorForAdditionInEBC</key>
+						<string>0.504084</string>
+						<key>ColorForAdditionInSRM</key>
+						<string>0.255880</string>
+						<key>DateLastModified</key>
+						<date>2009-08-09T18:00:38Z</date>
+						<key>Description</key>
+						<string>Essential in making wheat beers, wheat is also often used in lower amounts in other beers as its protein gives the beer a fuller mouthfeel and enhanced beer head stability. Wheat malt contains considerably more protein than barley malt and consists primarily of glutens that can result in beer haze.</string>
+						<key>Extract</key>
+						<string>78.000000</string>
+						<key>Form</key>
+						<string>Loose Pellet Hops</string>
+						<key>GravityPointsForAddition</key>
+						<string>2.150280</string>
+						<key>Ingredient</key>
+						<string>UK Wheat Malt</string>
+						<key>IsGrain</key>
+						<string>1.000000</string>
+						<key>MCUForAddition</key>
+						<string>0.148813</string>
+						<key>MCUPercentage</key>
+						<string>4.494387</string>
+						<key>Minutes</key>
+						<string>0.000000</string>
+						<key>Moisture</key>
+						<string>4.000000</string>
+						<key>MustBeMashed</key>
+						<string>1.000000</string>
+						<key>Percentage</key>
+						<string>5.555556</string>
+						<key>UUID</key>
+						<string>EDFDFD41-547B-11DA-BCFD-001124CAE2A6</string>
+						<key>When</key>
+						<string>In Mash/Steeped</string>
+					</dict>
+				</array>
+				<key>FermentationTemperature</key>
+				<string>19.444445</string>
+				<key>FinalBatchVolume</key>
+				<string>18927.050781</string>
+				<key>FinalWortVolume</key>
+				<string>25437.955078</string>
+				<key>GravityForIBUCalcs</key>
+				<string>1.033300</string>
+				<key>HopIngredients</key>
+				<array>
+					<dict>
+						<key>Alpha</key>
+						<string>10.400000</string>
+						<key>Amount</key>
+						<string>21.262501</string>
+						<key>Batches</key>
+						<array>
+							<dict>
+								<key>Alpha</key>
+								<string>10.400000</string>
+								<key>Amount</key>
+								<string>21.262501</string>
+								<key>AmountInStock</key>
+								<string>28.350002</string>
+								<key>BatchName</key>
+								<string>New Batch</string>
+								<key>DeliveredOn</key>
+								<date>2010-05-08T17:00:00Z</date>
+								<key>ExpiresOn</key>
+								<date>2011-05-08T17:00:00Z</date>
+								<key>Form</key>
+								<string>Pellets</string>
+								<key>IngredientType</key>
+								<string>Hop</string>
+								<key>UUID</key>
+								<string>0250984F-4284-4EE1-A32D-2767AACE6D0E</string>
+							</dict>
+						</array>
+						<key>DateLastModified</key>
+						<date>2009-08-09T18:00:38Z</date>
+						<key>Description</key>
+						<string>Used as a Dual-Purpose variety it gives excellent bittering properties and a pleasant aroma.</string>
+						<key>Form</key>
+						<string>Loose Pellet Hops</string>
+						<key>IBUForAddition</key>
+						<string>25.628286</string>
+						<key>Minutes</key>
+						<string>60</string>
+						<key>Percentage</key>
+						<string>0.000000</string>
+						<key>UUID</key>
+						<string>67C8318E-1BD2-11DA-9896-001124CAE2A6</string>
+						<key>Variety</key>
+						<string>German Northern Brewer</string>
+						<key>When</key>
+						<string>60 Min From End</string>
+					</dict>
+					<dict>
+						<key>Alpha</key>
+						<string>10.400000</string>
+						<key>Amount</key>
+						<string>7.087500</string>
+						<key>Batches</key>
+						<array>
+							<dict>
+								<key>Alpha</key>
+								<string>10.400000</string>
+								<key>Amount</key>
+								<string>7.087500</string>
+								<key>AmountInStock</key>
+								<string>7.087502</string>
+								<key>BatchName</key>
+								<string>New Batch</string>
+								<key>DeliveredOn</key>
+								<date>2010-05-08T17:00:00Z</date>
+								<key>ExpiresOn</key>
+								<date>2011-05-08T17:00:00Z</date>
+								<key>Form</key>
+								<string>Pellets</string>
+								<key>IngredientType</key>
+								<string>Hop</string>
+								<key>UUID</key>
+								<string>0250984F-4284-4EE1-A32D-2767AACE6D0E</string>
+							</dict>
+						</array>
+						<key>DateLastModified</key>
+						<date>2009-08-09T18:00:38Z</date>
+						<key>Description</key>
+						<string>Used as a Dual-Purpose variety it gives excellent bittering properties and a pleasant aroma.</string>
+						<key>Form</key>
+						<string>Loose Pellet Hops</string>
+						<key>IBUForAddition</key>
+						<string>6.565324</string>
+						<key>Minutes</key>
+						<string>30</string>
+						<key>Percentage</key>
+						<string>0.000000</string>
+						<key>UUID</key>
+						<string>67C8318E-1BD2-11DA-9896-001124CAE2A6</string>
+						<key>Variety</key>
+						<string>German Northern Brewer</string>
+						<key>When</key>
+						<string>30 Min From End</string>
+					</dict>
+					<dict>
+						<key>Alpha</key>
+						<string>4.900000</string>
+						<key>Amount</key>
+						<string>28.350000</string>
+						<key>Batches</key>
+						<array>
+							<dict>
+								<key>Alpha</key>
+								<string>4.900000</string>
+								<key>Amount</key>
+								<string>28.350000</string>
+								<key>AmountInStock</key>
+								<string>28.350002</string>
+								<key>BatchName</key>
+								<string>BG</string>
+								<key>DeliveredOn</key>
+								<date>2010-04-22T17:00:00Z</date>
+								<key>ExpiresOn</key>
+								<date>2011-04-22T17:25:31Z</date>
+								<key>Form</key>
+								<string>Pellets</string>
+								<key>IngredientType</key>
+								<string>Hop</string>
+								<key>UUID</key>
+								<string>9AE86671-57BA-47B1-A694-E98B34A6A9A4</string>
+							</dict>
+						</array>
+						<key>DateLastModified</key>
+						<date>2010-03-13T16:46:37Z</date>
+						<key>Description</key>
+						<string>A traditional English aroma variety valued for its smooth (almost sweet), delicate, slightly spicy aroma that produces the classic Golding finish. As with Fuggles it forms the basis of many well-known and respected recipes.</string>
+						<key>Form</key>
+						<string>Loose Pellet Hops</string>
+						<key>IBUForAddition</key>
+						<string>0.694265</string>
+						<key>Minutes</key>
+						<string>1</string>
+						<key>Percentage</key>
+						<string>0.000000</string>
+						<key>UUID</key>
+						<string>0826D227-1BD2-11DA-9896-001124CAE2A6</string>
+						<key>Variety</key>
+						<string>Kent Goldings</string>
+						<key>When</key>
+						<string>1 Min From End</string>
+					</dict>
+				</array>
+				<key>MashEfficiency</key>
+				<string>80.000000</string>
+				<key>MashSchedule</key>
+				<dict>
+					<key>DateLastModified</key>
+					<date>2009-08-21T14:01:32Z</date>
+					<key>ScheduleName</key>
+					<string>Single Step Infusion (67C/152F)</string>
+					<key>Steps</key>
+					<array>
+						<dict>
+							<key>Duration</key>
+							<string>60.000000</string>
+							<key>StepType</key>
+							<string>Rest at</string>
+							<key>Temperature</key>
+							<string>66.666664</string>
+						</dict>
+					</array>
+					<key>UUID</key>
+					<string>107B5B7D-7D9C-4B21-B3E1-8E31AD1333B3</string>
+					<key>Version</key>
+					<string>3</string>
+				</dict>
+				<key>MashType</key>
+				<string>Full Mash</string>
+				<key>MashpH</key>
+				<string>5.2</string>
+				<key>MgSO4</key>
+				<string>0.0</string>
+				<key>NaCl</key>
+				<string>0.0</string>
+				<key>NaHCO3</key>
+				<string>0.0</string>
+				<key>Notes</key>
+				<string>My standard golden bitter recipe calls for either 100% Maris Otter or 95% Maris Otter and 5% wheat or torrified wheat. The NHC beer was a 15 gallon batch that was brewed at Randy Mosher's Buckapound Brewery because I can't do larger batches in my condo kitchen. The recipe was:
+
+20 pounds Maris Otter
+1 pound British torrified wheat
+Mashed at 149F for just over an hour. It's a simple single temp infusion.
+Mash out and recirculate, then usual sparge at ~168F.
+
+Hops were:
+2 ounces 5.7 Wye Challenger 60 minutes
+2 ounces 4.9 Goldings 60 minutes
+(I usually prefer all Challenger for bittering, but I didn't have enough - the HB shop was also out)
+2 oz 5.2 Mt. Hood for last 10-15 minutes
+Target IBU was ~33
+
+Usually I would dry hop with Mt. Hoods, but I didn't for the conference cask in the interest of getting maximum clarity without lengthy stillaging. Instead I used Mt. Hoods and a couple of ounces of leftover Goldings in a hopback (because Randy's brewery has one!), pumping it through en route to the plate chiller.
+
+Yeast was Wyeast 1335 British Ale II. Primary was 10 days, then just over 2 weeks in cask primed with 4 oz corn sugar solution.</string>
+				<key>OtherIngredients</key>
+				<array/>
+				<key>PreBoilWortVolume</key>
+				<string>30283.279297</string>
+				<key>Profile</key>
+				<dict>
+					<key>BoilDuration</key>
+					<string>60.000000</string>
+					<key>DateLastModified</key>
+					<date>2010-10-22T16:54:01Z</date>
+					<key>ExtractEfficiency</key>
+					<string>80.000000</string>
+					<key>FinishedBatchVolume</key>
+					<string>18927.050781</string>
+					<key>MTThermalMass</key>
+					<string>680.400024</string>
+					<key>PostBoilVolume</key>
+					<string>25437.955078</string>
+					<key>PreBoilVolume</key>
+					<string>30283.279297</string>
+					<key>PreferredMashSchedule</key>
+					<string>107B5B7D-7D9C-4B21-B3E1-8E31AD1333B3</string>
+					<key>PreferredRecipeType</key>
+					<string>Full Mash</string>
+					<key>PreferredSpargeMethod</key>
+					<string>Batch Sparge</string>
+					<key>ProfileName</key>
+					<string>8 Gal</string>
+					<key>UUID</key>
+					<string>618E631F-BA4D-4D52-93E5-E6384318E94E</string>
+					<key>Version</key>
+					<string>2</string>
+					<key>VolumeAtPitching</key>
+					<string>20819.755859</string>
+					<key>VolumeToFermenter</key>
+					<string>20819.755859</string>
+					<key>VolumeWaterAdded</key>
+					<string>0.000000</string>
+					<key>WaterGrainRatio</key>
+					<string>3.338177</string>
+				</dict>
+				<key>RecipeTitle</key>
+				<string>Stevie's Session </string>
+				<key>Style</key>
+				<string>English Pale Ale-Standard/Ordinary Bitter</string>
+				<key>UUID</key>
+				<string>2BDAEEDC-4C29-4151-891C-65AB4B5D0011</string>
+				<key>VolumeAtPitching</key>
+				<string>20819.755859</string>
+				<key>VolumeToFermenter</key>
+				<string>20819.755859</string>
+				<key>VolumeWaterAdded</key>
+				<string>0.000000</string>
+				<key>WaterProfileUsed</key>
+				<string> No Water Profile Chosen</string>
+				<key>Yeast</key>
+				<string>White Labs WLP862-Cry Havoc</string>
+				<key>YeastAmount</key>
+				<string>2</string>
+			</dict>
+			<key>OriginalRecipe</key>
+			<dict>
+				<key>Acid</key>
+				<string>Unadjusted</string>
+				<key>ApparentAttenuation</key>
+				<string>74.400642</string>
+				<key>Attenuation</key>
+				<string>74.500000</string>
+				<key>BoilDuration</key>
+				<string>60.000000</string>
+				<key>CaCO3</key>
+				<string>0.0</string>
+				<key>CaCl2</key>
+				<string>0.0</string>
+				<key>CaSO4</key>
+				<string>0.0</string>
+				<key>Carbonation</key>
+				<string>Force Carbonated</string>
+				<key>CarbonationVolumes</key>
+				<string>1.00</string>
+				<key>Conditioning</key>
+				<string>Matured for 2 weeks</string>
+				<key>DateLastModified</key>
+				<date>2010-12-10T04:32:42Z</date>
+				<key>ExpectedABV</key>
+				<string>3.916452</string>
+				<key>ExpectedABW</key>
+				<string>3.079191</string>
+				<key>ExpectedColor</key>
+				<string>5.693326</string>
+				<key>ExpectedFinalGravity</key>
+				<string>1.009896</string>
+				<key>ExpectedIBU</key>
+				<string>32.647499</string>
+				<key>ExpectedOriginalGravity</key>
+				<string>1.039642</string>
+				<key>ExpectedPreBoilGravity</key>
+				<string>1.033300</string>
+				<key>FermentableIngredients</key>
+				<array>
+					<dict>
+						<key>Amount</key>
+						<string>3855.600098</string>
+						<key>Color</key>
+						<string>2.500000</string>
+						<key>ColorForAdditionInEBC</key>
+						<string>10.711766</string>
+						<key>ColorForAdditionInSRM</key>
+						<string>5.437445</string>
+						<key>DateLastModified</key>
+						<date>2010-04-21T13:42:38Z</date>
+						<key>Extract</key>
+						<string>80.000000</string>
+						<key>Form</key>
+						<string>Loose Pellet Hops</string>
+						<key>GravityPointsForAddition</key>
+						<string>37.492054</string>
+						<key>Ingredient</key>
+						<string>Maris Otter Pale Ale Malt - T.Fawcett</string>
+						<key>IsGrain</key>
+						<string>1.000000</string>
+						<key>MCUForAddition</key>
+						<string>3.162272</string>
+						<key>MCUPercentage</key>
+						<string>95.505608</string>
+						<key>Minutes</key>
+						<string>0.000000</string>
+						<key>Moisture</key>
+						<string>2.500000</string>
+						<key>MustBeMashed</key>
+						<string>0.000000</string>
+						<key>Percentage</key>
+						<string>94.444443</string>
+						<key>UUID</key>
+						<string>AA09D0EE-66D8-4693-848D-B7C114668867</string>
+						<key>When</key>
+						<string>In Mash/Steeped</string>
+					</dict>
+					<dict>
+						<key>Amount</key>
+						<string>226.800003</string>
+						<key>Color</key>
+						<string>2.000000</string>
+						<key>ColorForAdditionInEBC</key>
+						<string>0.504084</string>
+						<key>ColorForAdditionInSRM</key>
+						<string>0.255880</string>
+						<key>DateLastModified</key>
+						<date>2009-08-09T18:00:38Z</date>
+						<key>Extract</key>
+						<string>78.000000</string>
+						<key>Form</key>
+						<string>Loose Pellet Hops</string>
+						<key>GravityPointsForAddition</key>
+						<string>2.150280</string>
+						<key>Ingredient</key>
+						<string>UK Torrified Wheat</string>
+						<key>IsGrain</key>
+						<string>1.000000</string>
+						<key>MCUForAddition</key>
+						<string>0.148813</string>
+						<key>MCUPercentage</key>
+						<string>4.494387</string>
+						<key>Minutes</key>
+						<string>0.000000</string>
+						<key>Moisture</key>
+						<string>4.000000</string>
+						<key>MustBeMashed</key>
+						<string>1.000000</string>
+						<key>Percentage</key>
+						<string>5.555556</string>
+						<key>UUID</key>
+						<string>E622C7C8-5562-11DA-A625-001124CAE2A6</string>
+						<key>When</key>
+						<string>In Mash/Steeped</string>
+					</dict>
+				</array>
+				<key>FermentationTemperature</key>
+				<string>19.444445</string>
+				<key>FinalBatchVolume</key>
+				<string>18927.050781</string>
+				<key>FinalWortVolume</key>
+				<string>25437.955078</string>
+				<key>GravityForIBUCalcs</key>
+				<string>1.033300</string>
+				<key>HopIngredients</key>
+				<array>
+					<dict>
+						<key>Alpha</key>
+						<string>5.700000</string>
+						<key>Amount</key>
+						<string>34.020000</string>
+						<key>DateLastModified</key>
+						<date>2009-08-09T18:00:38Z</date>
+						<key>Form</key>
+						<string>Loose Pellet Hops</string>
+						<key>IBUForAddition</key>
+						<string>22.474037</string>
+						<key>Minutes</key>
+						<string>60</string>
+						<key>Percentage</key>
+						<string>0.000000</string>
+						<key>UUID</key>
+						<string>EBB2C777-1BD1-11DA-9896-001124CAE2A6</string>
+						<key>Variety</key>
+						<string>UK Challenger</string>
+						<key>When</key>
+						<string>60 Min From End</string>
+					</dict>
+					<dict>
+						<key>Alpha</key>
+						<string>5.200000</string>
+						<key>Amount</key>
+						<string>34.020000</string>
+						<key>DateLastModified</key>
+						<date>2009-08-09T18:00:38Z</date>
+						<key>Form</key>
+						<string>Loose Pellet Hops</string>
+						<key>IBUForAddition</key>
+						<string>10.173461</string>
+						<key>Minutes</key>
+						<string>15</string>
+						<key>Percentage</key>
+						<string>0.000000</string>
+						<key>UUID</key>
+						<string>205AE475-1BD3-11DA-9896-001124CAE2A6</string>
+						<key>Variety</key>
+						<string>US Mount Hood</string>
+						<key>When</key>
+						<string>15 Min From End</string>
+					</dict>
+					<dict>
+						<key>Alpha</key>
+						<string>5.200000</string>
+						<key>Amount</key>
+						<string>28.350000</string>
+						<key>DateLastModified</key>
+						<date>2009-08-09T18:00:38Z</date>
+						<key>Form</key>
+						<string>Loose Pellet Hops</string>
+						<key>IBUForAddition</key>
+						<string>0.000000</string>
+						<key>Minutes</key>
+						<string>0</string>
+						<key>Percentage</key>
+						<string>0.000000</string>
+						<key>UUID</key>
+						<string>205AE475-1BD3-11DA-9896-001124CAE2A6</string>
+						<key>Variety</key>
+						<string>US Mount Hood</string>
+						<key>When</key>
+						<string>Dry-Hopped</string>
+					</dict>
+				</array>
+				<key>MashEfficiency</key>
+				<string>80.000000</string>
+				<key>MashSchedule</key>
+				<dict>
+					<key>DateLastModified</key>
+					<date>2009-08-21T14:01:32Z</date>
+					<key>ScheduleName</key>
+					<string>Single Step Infusion (67C/152F)</string>
+					<key>Steps</key>
+					<array>
+						<dict>
+							<key>Duration</key>
+							<string>60.000000</string>
+							<key>StepType</key>
+							<string>Rest at</string>
+							<key>Temperature</key>
+							<string>66.666664</string>
+						</dict>
+					</array>
+					<key>UUID</key>
+					<string>107B5B7D-7D9C-4B21-B3E1-8E31AD1333B3</string>
+					<key>Version</key>
+					<string>3</string>
+				</dict>
+				<key>MashType</key>
+				<string>Full Mash</string>
+				<key>MashpH</key>
+				<string>5.2</string>
+				<key>MgSO4</key>
+				<string>0.0</string>
+				<key>NaCl</key>
+				<string>0.0</string>
+				<key>NaHCO3</key>
+				<string>0.0</string>
+				<key>Notes</key>
+				<string>My standard golden bitter recipe calls for either 100% Maris Otter or 95% Maris Otter and 5% wheat or torrified wheat. The NHC beer was a 15 gallon batch that was brewed at Randy Mosher's Buckapound Brewery because I can't do larger batches in my condo kitchen. The recipe was:
+
+20 pounds Maris Otter
+1 pound British torrified wheat
+Mashed at 149F for just over an hour. It's a simple single temp infusion.
+Mash out and recirculate, then usual sparge at ~168F.
+
+Hops were:
+2 ounces 5.7 Wye Challenger 60 minutes
+2 ounces 4.9 Goldings 60 minutes
+(I usually prefer all Challenger for bittering, but I didn't have enough - the HB shop was also out)
+2 oz 5.2 Mt. Hood for last 10-15 minutes
+Target IBU was ~33
+
+Usually I would dry hop with Mt. Hoods, but I didn't for the conference cask in the interest of getting maximum clarity without lengthy stillaging. Instead I used Mt. Hoods and a couple of ounces of leftover Goldings in a hopback (because Randy's brewery has one!), pumping it through en route to the plate chiller.
+
+Yeast was Wyeast 1335 British Ale II. Primary was 10 days, then just over 2 weeks in cask primed with 4 oz corn sugar solution.</string>
+				<key>OtherIngredients</key>
+				<array/>
+				<key>PreBoilWortVolume</key>
+				<string>30283.279297</string>
+				<key>Profile</key>
+				<dict>
+					<key>BoilDuration</key>
+					<string>60.000000</string>
+					<key>DateLastModified</key>
+					<date>2010-10-22T16:54:01Z</date>
+					<key>ExtractEfficiency</key>
+					<string>80.000000</string>
+					<key>FinishedBatchVolume</key>
+					<string>18927.050781</string>
+					<key>MTThermalMass</key>
+					<string>680.400024</string>
+					<key>PostBoilVolume</key>
+					<string>25437.955078</string>
+					<key>PreBoilVolume</key>
+					<string>30283.279297</string>
+					<key>PreferredMashSchedule</key>
+					<string>107B5B7D-7D9C-4B21-B3E1-8E31AD1333B3</string>
+					<key>PreferredRecipeType</key>
+					<string>Full Mash</string>
+					<key>PreferredSpargeMethod</key>
+					<string>Batch Sparge</string>
+					<key>ProfileName</key>
+					<string>8 Gal</string>
+					<key>UUID</key>
+					<string>618E631F-BA4D-4D52-93E5-E6384318E94E</string>
+					<key>Version</key>
+					<string>2</string>
+					<key>VolumeAtPitching</key>
+					<string>20819.755859</string>
+					<key>VolumeToFermenter</key>
+					<string>20819.755859</string>
+					<key>VolumeWaterAdded</key>
+					<string>0.000000</string>
+					<key>WaterGrainRatio</key>
+					<string>3.338177</string>
+				</dict>
+				<key>RecipeTitle</key>
+				<string>Stevie's Session </string>
+				<key>Style</key>
+				<string>English Pale Ale-Standard/Ordinary Bitter</string>
+				<key>UUID</key>
+				<string>2BDAEEDC-4C29-4151-891C-65AB4B5D0011</string>
+				<key>VolumeAtPitching</key>
+				<string>20819.755859</string>
+				<key>VolumeToFermenter</key>
+				<string>20819.755859</string>
+				<key>VolumeWaterAdded</key>
+				<string>0.000000</string>
+				<key>WaterProfileUsed</key>
+				<string> No Water Profile Chosen</string>
+				<key>Yeast</key>
+				<string>Wyeast 1335-British Ale II</string>
+				<key>YeastAmount</key>
+				<string>1</string>
+			</dict>
+			<key>PackagingNotes</key>
+			<string></string>
+			<key>RoomTemperature</key>
+			<string>12.222222</string>
+			<key>SpargeMethod</key>
+			<string>Batch Sparge</string>
+			<key>TastingNotes</key>
+			<string>Steve McKenna said this tastes more like a blonde - no flaws. Needs english yeast and hops to make it a bitter.</string>
+			<key>UUID</key>
+			<string>D5266E67-2A41-4F7E-A5E7-FBC45FE765C4</string>
+			<key>WaterGrainRatio</key>
+			<string>3.338177</string>
+		</dict>
+		<dict>
+			<key>Actuals</key>
+			<dict>
+				<key>ABV</key>
+				<string>0.000000</string>
+				<key>ABW</key>
+				<string>0.000000</string>
+				<key>ActualMashEfficiency</key>
+				<string>0.0</string>
+				<key>ApparentAttenuation</key>
+				<string>0.000000</string>
+				<key>Color</key>
+				<string>5.693326</string>
+				<key>FG</key>
+				<string>1.000000</string>
+				<key>FGHydroReading</key>
+				<string>1.000</string>
+				<key>FGTemp</key>
+				<string>15.0</string>
+				<key>FermentationTemperature</key>
+				<string>19.444445</string>
+				<key>FinalBatchVolume</key>
+				<string>18927.050781</string>
+				<key>FinalWortVolume</key>
+				<string>25437.955078</string>
+				<key>HydrometerCalibratedAt</key>
+				<string>15.0</string>
+				<key>IBU</key>
+				<string>47.648239</string>
+				<key>OG</key>
+				<string>1.000000</string>
+				<key>OGHydroReading</key>
+				<string>1.000</string>
+				<key>OGTemp</key>
+				<string>15.0</string>
+				<key>PreBoilGrav</key>
+				<string>1.000000</string>
+				<key>PreBoilHydroReading</key>
+				<string>1.000</string>
+				<key>PreBoilTemp</key>
+				<string>15.0</string>
+				<key>PreBoilWortVolume</key>
+				<string>30283.279297</string>
+				<key>RealAttenuation</key>
+				<string>0.000000</string>
+				<key>VolumeAtPitching</key>
+				<string>20819.755859</string>
+				<key>VolumeToFermenter</key>
+				<string>20819.755859</string>
+				<key>VolumeWaterAdded</key>
+				<string>0.000000</string>
+			</dict>
+			<key>AdjustedInventory</key>
+			<string>0</string>
+			<key>BatchNotes</key>
+			<string></string>
+			<key>BatchTitle</key>
+			<string>Lammit/cascade Stevie's Session</string>
+			<key>BoilNotes</key>
+			<string></string>
+			<key>DateBrewed</key>
+			<date>2011-04-29T13:21:31Z</date>
+			<key>DateLastModified</key>
+			<date>2012-01-14T15:04:12Z</date>
+			<key>DatePackaged</key>
+			<date>2011-04-29T13:21:31Z</date>
+			<key>DateRacked</key>
+			<date>2011-04-29T13:21:31Z</date>
+			<key>DateReady</key>
+			<date>2011-04-29T13:21:31Z</date>
+			<key>FermentationNotes</key>
+			<string></string>
+			<key>MTThermalMass</key>
+			<string>680.400024</string>
+			<key>ModifiedRecipe</key>
+			<dict>
+				<key>Acid</key>
+				<string>Unadjusted</string>
+				<key>ApparentAttenuation</key>
+				<string>74.898460</string>
+				<key>Attenuation</key>
+				<string>75.000000</string>
+				<key>Batches</key>
+				<array/>
+				<key>BoilDuration</key>
+				<string>60.000000</string>
+				<key>CaCO3</key>
+				<string>0.0</string>
+				<key>CaCl2</key>
+				<string>0.0</string>
+				<key>CaSO4</key>
+				<string>0.0</string>
+				<key>Carbonation</key>
+				<string>Force Carbonated</string>
+				<key>CarbonationVolumes</key>
+				<string>2.00</string>
+				<key>Conditioning</key>
+				<string>Matured for 2 weeks</string>
+				<key>DateLastModified</key>
+				<date>2010-12-11T18:50:41Z</date>
+				<key>ExpectedABV</key>
+				<string>3.941900</string>
+				<key>ExpectedABW</key>
+				<string>3.099795</string>
+				<key>ExpectedColor</key>
+				<string>5.693326</string>
+				<key>ExpectedFinalGravity</key>
+				<string>1.009702</string>
+				<key>ExpectedIBU</key>
+				<string>35.324322</string>
+				<key>ExpectedOriginalGravity</key>
+				<string>1.039642</string>
+				<key>ExpectedPreBoilGravity</key>
+				<string>1.033300</string>
+				<key>FermentableIngredients</key>
+				<array>
+					<dict>
+						<key>Amount</key>
+						<string>3855.600098</string>
+						<key>Batches</key>
+						<array>
+							<dict>
+								<key>Amount</key>
+								<string>3855.600098</string>
+								<key>AmountInStock</key>
+								<string>15422.058594</string>
+								<key>BatchName</key>
+								<string>Fawcett</string>
+								<key>Color</key>
+								<string>2.500000</string>
+								<key>DeliveredOn</key>
+								<date>2010-04-29T17:52:01Z</date>
+								<key>ExpiresOn</key>
+								<date>2011-04-29T17:52:01Z</date>
+								<key>Extract</key>
+								<string>80.000000</string>
+								<key>IngredientType</key>
+								<string>Fermentable</string>
+								<key>UUID</key>
+								<string>92CD2A89-5D13-452F-8117-1A131D740BE2</string>
+							</dict>
+						</array>
+						<key>Color</key>
+						<string>2.500000</string>
+						<key>ColorForAdditionInEBC</key>
+						<string>10.711766</string>
+						<key>ColorForAdditionInSRM</key>
+						<string>5.437445</string>
+						<key>DateLastModified</key>
+						<date>2010-04-21T13:42:38Z</date>
+						<key>Description</key>
+						<string>Origin: UKSupplier: Thomas FawcettA principal ingredient of cask ales using heritage barleys.</string>
+						<key>Extract</key>
+						<string>80.000000</string>
+						<key>Form</key>
+						<string>Loose Pellet Hops</string>
+						<key>GravityPointsForAddition</key>
+						<string>37.492054</string>
+						<key>Ingredient</key>
+						<string>Maris Otter Pale Ale Malt - T.Fawcett</string>
+						<key>IsGrain</key>
+						<string>1.000000</string>
+						<key>MCUForAddition</key>
+						<string>3.162272</string>
+						<key>MCUPercentage</key>
+						<string>95.505608</string>
+						<key>Minutes</key>
+						<string>0.000000</string>
+						<key>Moisture</key>
+						<string>2.500000</string>
+						<key>MustBeMashed</key>
+						<string>0.000000</string>
+						<key>Percentage</key>
+						<string>94.444443</string>
+						<key>UUID</key>
+						<string>AA09D0EE-66D8-4693-848D-B7C114668867</string>
+						<key>When</key>
+						<string>In Mash/Steeped</string>
+					</dict>
+					<dict>
+						<key>Amount</key>
+						<string>226.800003</string>
+						<key>Batches</key>
+						<array>
+							<dict>
+								<key>Amount</key>
+								<string>226.800003</string>
+								<key>AmountInStock</key>
+								<string>6148.879883</string>
+								<key>BatchName</key>
+								<string>Best</string>
+								<key>Color</key>
+								<string>2.000000</string>
+								<key>DeliveredOn</key>
+								<date>2009-10-30T17:00:00Z</date>
+								<key>ExpiresOn</key>
+								<date>2010-10-30T12:23:45Z</date>
+								<key>Extract</key>
+								<string>78.000000</string>
+								<key>IngredientType</key>
+								<string>Fermentable</string>
+								<key>UUID</key>
+								<string>C9BEDE3B-33C9-4CE4-A176-461AFD677155</string>
+							</dict>
+						</array>
+						<key>Color</key>
+						<string>2.000000</string>
+						<key>ColorForAdditionInEBC</key>
+						<string>0.504084</string>
+						<key>ColorForAdditionInSRM</key>
+						<string>0.255880</string>
+						<key>DateLastModified</key>
+						<date>2009-08-09T18:00:38Z</date>
+						<key>Description</key>
+						<string>Essential in making wheat beers, wheat is also often used in lower amounts in other beers as its protein gives the beer a fuller mouthfeel and enhanced beer head stability. Wheat malt contains considerably more protein than barley malt and consists primarily of glutens that can result in beer haze.</string>
+						<key>Extract</key>
+						<string>78.000000</string>
+						<key>Form</key>
+						<string>Loose Pellet Hops</string>
+						<key>GravityPointsForAddition</key>
+						<string>2.150280</string>
+						<key>Ingredient</key>
+						<string>UK Wheat Malt</string>
+						<key>IsGrain</key>
+						<string>1.000000</string>
+						<key>MCUForAddition</key>
+						<string>0.148813</string>
+						<key>MCUPercentage</key>
+						<string>4.494387</string>
+						<key>Minutes</key>
+						<string>0.000000</string>
+						<key>Moisture</key>
+						<string>4.000000</string>
+						<key>MustBeMashed</key>
+						<string>1.000000</string>
+						<key>Percentage</key>
+						<string>5.555556</string>
+						<key>UUID</key>
+						<string>EDFDFD41-547B-11DA-BCFD-001124CAE2A6</string>
+						<key>When</key>
+						<string>In Mash/Steeped</string>
+					</dict>
+				</array>
+				<key>FermentationTemperature</key>
+				<string>19.444445</string>
+				<key>FinalBatchVolume</key>
+				<string>18927.050781</string>
+				<key>FinalWortVolume</key>
+				<string>25437.955078</string>
+				<key>GravityForIBUCalcs</key>
+				<string>1.033300</string>
+				<key>HopIngredients</key>
+				<array>
+					<dict>
+						<key>Alpha</key>
+						<string>9.100000</string>
+						<key>Amount</key>
+						<string>21.309231</string>
+						<key>DateLastModified</key>
+						<date>2009-08-09T18:00:38Z</date>
+						<key>Description</key>
+						<string>Horizon has good potential as a medium alpha, good aroma, dual-purpose hop. Has a low co-humulone, with results in a clean tasting beer.</string>
+						<key>Form</key>
+						<string>Loose Pellet Hops</string>
+						<key>IBUForAddition</key>
+						<string>22.474037</string>
+						<key>Minutes</key>
+						<string>60</string>
+						<key>Percentage</key>
+						<string>0.000000</string>
+						<key>UUID</key>
+						<string>1225EDEC-1BD3-11DA-9896-001124CAE2A6</string>
+						<key>Variety</key>
+						<string>US Horizon</string>
+						<key>When</key>
+						<string>60 Min From End</string>
+					</dict>
+					<dict>
+						<key>Alpha</key>
+						<string>4.800000</string>
+						<key>Amount</key>
+						<string>28.350000</string>
+						<key>DateLastModified</key>
+						<date>2009-08-09T18:00:38Z</date>
+						<key>Description</key>
+						<string>Willamette is generally perceived as a good quality aroma hop. The rub of the hops gives an estery/blackcurrant/herbal aroma that is very pleasant but can be quite strong. Differing results have been achieved with this variety. Some brewers have found it to be a suitable replacement for Fuggle, others have had poor results when using it this way but have found that it stand up admirably as an aroma variety on its own merits.</string>
+						<key>Form</key>
+						<string>Loose Pellet Hops</string>
+						<key>IBUForAddition</key>
+						<string>12.120598</string>
+						<key>Minutes</key>
+						<string>30</string>
+						<key>Percentage</key>
+						<string>0.000000</string>
+						<key>UUID</key>
+						<string>523E23A3-1BD3-11DA-9896-001124CAE2A6</string>
+						<key>Variety</key>
+						<string>US Willamette</string>
+						<key>When</key>
+						<string>30 Min From End</string>
+					</dict>
+					<dict>
+						<key>Alpha</key>
+						<string>5.500000</string>
+						<key>Amount</key>
+						<string>14.175000</string>
+						<key>Batches</key>
+						<array>
+							<dict>
+								<key>Alpha</key>
+								<string>5.500000</string>
+								<key>Amount</key>
+								<string>14.175000</string>
+								<key>AmountInStock</key>
+								<string>340.200012</string>
+								<key>BatchName</key>
+								<string>HD</string>
+								<key>DeliveredOn</key>
+								<date>2011-11-19T18:00:00Z</date>
+								<key>ExpiresOn</key>
+								<date>2012-11-19T18:00:00Z</date>
+								<key>Form</key>
+								<string>Pellets</string>
+								<key>IngredientType</key>
+								<string>Hop</string>
+								<key>UUID</key>
+								<string>0DEF9E75-2D48-44B9-AA7B-A791573B79DB</string>
+							</dict>
+						</array>
+						<key>DateLastModified</key>
+						<date>2009-08-09T18:00:38Z</date>
+						<key>Description</key>
+						<string>Cascade has a unique floral/spicy aroma both in the cone form and in the beer, mainly due to abnormal levels of some of the essential oils. It is very popular with some brewers due to the unique character imparted to the finished beer, others object to it because of its “perfume like” hoppy flavour.</string>
+						<key>Form</key>
+						<string>Loose Pellet Hops</string>
+						<key>IBUForAddition</key>
+						<string>0.389639</string>
+						<key>Minutes</key>
+						<string>1</string>
+						<key>Percentage</key>
+						<string>0.000000</string>
+						<key>UUID</key>
+						<string>D280EF01-1BD2-11DA-9896-001124CAE2A6</string>
+						<key>Variety</key>
+						<string>US Cascade</string>
+						<key>When</key>
+						<string>1 Min From End</string>
+					</dict>
+					<dict>
+						<key>Alpha</key>
+						<string>4.800000</string>
+						<key>Amount</key>
+						<string>14.175000</string>
+						<key>DateLastModified</key>
+						<date>2009-08-09T18:00:38Z</date>
+						<key>Form</key>
+						<string>Loose Pellet Hops</string>
+						<key>IBUForAddition</key>
+						<string>0.340048</string>
+						<key>Minutes</key>
+						<string>1</string>
+						<key>Percentage</key>
+						<string>0.000000</string>
+						<key>UUID</key>
+						<string>523E23A3-1BD3-11DA-9896-001124CAE2A6</string>
+						<key>Variety</key>
+						<string>US Willamette</string>
+						<key>When</key>
+						<string>1 Min From End</string>
+					</dict>
+				</array>
+				<key>MashEfficiency</key>
+				<string>80.000000</string>
+				<key>MashSchedule</key>
+				<dict>
+					<key>DateLastModified</key>
+					<date>2009-08-21T14:01:32Z</date>
+					<key>ScheduleName</key>
+					<string>Single Step Infusion (67C/152F)</string>
+					<key>Steps</key>
+					<array>
+						<dict>
+							<key>Duration</key>
+							<string>60.000000</string>
+							<key>StepType</key>
+							<string>Rest at</string>
+							<key>Temperature</key>
+							<string>66.666664</string>
+						</dict>
+					</array>
+					<key>UUID</key>
+					<string>107B5B7D-7D9C-4B21-B3E1-8E31AD1333B3</string>
+					<key>Version</key>
+					<string>3</string>
+				</dict>
+				<key>MashType</key>
+				<string>Full Mash</string>
+				<key>MashpH</key>
+				<string>5.2</string>
+				<key>MgSO4</key>
+				<string>0.0</string>
+				<key>NaCl</key>
+				<string>0.0</string>
+				<key>NaHCO3</key>
+				<string>0.0</string>
+				<key>Notes</key>
+				<string>My standard golden bitter recipe calls for either 100% Maris Otter or 95% Maris Otter and 5% wheat or torrified wheat. The NHC beer was a 15 gallon batch that was brewed at Randy Mosher's Buckapound Brewery because I can't do larger batches in my condo kitchen. The recipe was:
+
+20 pounds Maris Otter
+1 pound British torrified wheat
+Mashed at 149F for just over an hour. It's a simple single temp infusion.
+Mash out and recirculate, then usual sparge at ~168F.
+
+Hops were:
+2 ounces 5.7 Wye Challenger 60 minutes
+2 ounces 4.9 Goldings 60 minutes
+(I usually prefer all Challenger for bittering, but I didn't have enough - the HB shop was also out)
+2 oz 5.2 Mt. Hood for last 10-15 minutes
+Target IBU was ~33
+
+Usually I would dry hop with Mt. Hoods, but I didn't for the conference cask in the interest of getting maximum clarity without lengthy stillaging. Instead I used Mt. Hoods and a couple of ounces of leftover Goldings in a hopback (because Randy's brewery has one!), pumping it through en route to the plate chiller.
+
+Yeast was Wyeast 1335 British Ale II. Primary was 10 days, then just over 2 weeks in cask primed with 4 oz corn sugar solution.</string>
+				<key>OtherIngredients</key>
+				<array/>
+				<key>PreBoilWortVolume</key>
+				<string>30283.279297</string>
+				<key>Profile</key>
+				<dict>
+					<key>BoilDuration</key>
+					<string>60.000000</string>
+					<key>DateLastModified</key>
+					<date>2010-10-22T16:54:01Z</date>
+					<key>ExtractEfficiency</key>
+					<string>80.000000</string>
+					<key>FinishedBatchVolume</key>
+					<string>18927.050781</string>
+					<key>MTThermalMass</key>
+					<string>680.400024</string>
+					<key>PostBoilVolume</key>
+					<string>25437.955078</string>
+					<key>PreBoilVolume</key>
+					<string>30283.279297</string>
+					<key>PreferredMashSchedule</key>
+					<string>107B5B7D-7D9C-4B21-B3E1-8E31AD1333B3</string>
+					<key>PreferredRecipeType</key>
+					<string>Full Mash</string>
+					<key>PreferredSpargeMethod</key>
+					<string>Batch Sparge</string>
+					<key>ProfileName</key>
+					<string>8 Gal</string>
+					<key>UUID</key>
+					<string>618E631F-BA4D-4D52-93E5-E6384318E94E</string>
+					<key>Version</key>
+					<string>2</string>
+					<key>VolumeAtPitching</key>
+					<string>20819.755859</string>
+					<key>VolumeToFermenter</key>
+					<string>20819.755859</string>
+					<key>VolumeWaterAdded</key>
+					<string>0.000000</string>
+					<key>WaterGrainRatio</key>
+					<string>3.338177</string>
+				</dict>
+				<key>RecipeTitle</key>
+				<string>Stevie's Session </string>
+				<key>Style</key>
+				<string>English Pale Ale-Standard/Ordinary Bitter</string>
+				<key>UUID</key>
+				<string>2BDAEEDC-4C29-4151-891C-65AB4B5D0011</string>
+				<key>VolumeAtPitching</key>
+				<string>20819.755859</string>
+				<key>VolumeToFermenter</key>
+				<string>20819.755859</string>
+				<key>VolumeWaterAdded</key>
+				<string>0.000000</string>
+				<key>WaterProfileUsed</key>
+				<string> No Water Profile Chosen</string>
+				<key>Yeast</key>
+				<string>White Labs WLP007-Dry English Ale</string>
+				<key>YeastAmount</key>
+				<string>2</string>
+			</dict>
+			<key>OriginalRecipe</key>
+			<dict>
+				<key>Acid</key>
+				<string>Unadjusted</string>
+				<key>ApparentAttenuation</key>
+				<string>74.400642</string>
+				<key>Attenuation</key>
+				<string>74.500000</string>
+				<key>BoilDuration</key>
+				<string>60.000000</string>
+				<key>CaCO3</key>
+				<string>0.0</string>
+				<key>CaCl2</key>
+				<string>0.0</string>
+				<key>CaSO4</key>
+				<string>0.0</string>
+				<key>Carbonation</key>
+				<string>Force Carbonated</string>
+				<key>CarbonationVolumes</key>
+				<string>2.00</string>
+				<key>Conditioning</key>
+				<string>Matured for 2 weeks</string>
+				<key>DateLastModified</key>
+				<date>2010-12-11T18:50:41Z</date>
+				<key>ExpectedABV</key>
+				<string>3.916452</string>
+				<key>ExpectedABW</key>
+				<string>3.079191</string>
+				<key>ExpectedColor</key>
+				<string>5.693326</string>
+				<key>ExpectedFinalGravity</key>
+				<string>1.009896</string>
+				<key>ExpectedIBU</key>
+				<string>32.647499</string>
+				<key>ExpectedOriginalGravity</key>
+				<string>1.039642</string>
+				<key>ExpectedPreBoilGravity</key>
+				<string>1.033300</string>
+				<key>FermentableIngredients</key>
+				<array>
+					<dict>
+						<key>Amount</key>
+						<string>3855.600098</string>
+						<key>Color</key>
+						<string>2.500000</string>
+						<key>ColorForAdditionInEBC</key>
+						<string>10.711766</string>
+						<key>ColorForAdditionInSRM</key>
+						<string>5.437445</string>
+						<key>DateLastModified</key>
+						<date>2010-04-21T13:42:38Z</date>
+						<key>Extract</key>
+						<string>80.000000</string>
+						<key>Form</key>
+						<string>Loose Pellet Hops</string>
+						<key>GravityPointsForAddition</key>
+						<string>37.492054</string>
+						<key>Ingredient</key>
+						<string>Maris Otter Pale Ale Malt - T.Fawcett</string>
+						<key>IsGrain</key>
+						<string>1.000000</string>
+						<key>MCUForAddition</key>
+						<string>3.162272</string>
+						<key>MCUPercentage</key>
+						<string>95.505608</string>
+						<key>Minutes</key>
+						<string>0.000000</string>
+						<key>Moisture</key>
+						<string>2.500000</string>
+						<key>MustBeMashed</key>
+						<string>0.000000</string>
+						<key>Percentage</key>
+						<string>94.444443</string>
+						<key>UUID</key>
+						<string>AA09D0EE-66D8-4693-848D-B7C114668867</string>
+						<key>When</key>
+						<string>In Mash/Steeped</string>
+					</dict>
+					<dict>
+						<key>Amount</key>
+						<string>226.800003</string>
+						<key>Color</key>
+						<string>2.000000</string>
+						<key>ColorForAdditionInEBC</key>
+						<string>0.504084</string>
+						<key>ColorForAdditionInSRM</key>
+						<string>0.255880</string>
+						<key>DateLastModified</key>
+						<date>2009-08-09T18:00:38Z</date>
+						<key>Extract</key>
+						<string>78.000000</string>
+						<key>Form</key>
+						<string>Loose Pellet Hops</string>
+						<key>GravityPointsForAddition</key>
+						<string>2.150280</string>
+						<key>Ingredient</key>
+						<string>UK Torrified Wheat</string>
+						<key>IsGrain</key>
+						<string>1.000000</string>
+						<key>MCUForAddition</key>
+						<string>0.148813</string>
+						<key>MCUPercentage</key>
+						<string>4.494387</string>
+						<key>Minutes</key>
+						<string>0.000000</string>
+						<key>Moisture</key>
+						<string>4.000000</string>
+						<key>MustBeMashed</key>
+						<string>1.000000</string>
+						<key>Percentage</key>
+						<string>5.555556</string>
+						<key>UUID</key>
+						<string>E622C7C8-5562-11DA-A625-001124CAE2A6</string>
+						<key>When</key>
+						<string>In Mash/Steeped</string>
+					</dict>
+				</array>
+				<key>FermentationTemperature</key>
+				<string>19.444445</string>
+				<key>FinalBatchVolume</key>
+				<string>18927.050781</string>
+				<key>FinalWortVolume</key>
+				<string>25437.955078</string>
+				<key>GravityForIBUCalcs</key>
+				<string>1.033300</string>
+				<key>HopIngredients</key>
+				<array>
+					<dict>
+						<key>Alpha</key>
+						<string>5.700000</string>
+						<key>Amount</key>
+						<string>34.020000</string>
+						<key>DateLastModified</key>
+						<date>2009-08-09T18:00:38Z</date>
+						<key>Form</key>
+						<string>Loose Pellet Hops</string>
+						<key>IBUForAddition</key>
+						<string>22.474037</string>
+						<key>Minutes</key>
+						<string>60</string>
+						<key>Percentage</key>
+						<string>0.000000</string>
+						<key>UUID</key>
+						<string>EBB2C777-1BD1-11DA-9896-001124CAE2A6</string>
+						<key>Variety</key>
+						<string>UK Challenger</string>
+						<key>When</key>
+						<string>60 Min From End</string>
+					</dict>
+					<dict>
+						<key>Alpha</key>
+						<string>5.200000</string>
+						<key>Amount</key>
+						<string>34.020000</string>
+						<key>DateLastModified</key>
+						<date>2009-08-09T18:00:38Z</date>
+						<key>Form</key>
+						<string>Loose Pellet Hops</string>
+						<key>IBUForAddition</key>
+						<string>10.173461</string>
+						<key>Minutes</key>
+						<string>15</string>
+						<key>Percentage</key>
+						<string>0.000000</string>
+						<key>UUID</key>
+						<string>205AE475-1BD3-11DA-9896-001124CAE2A6</string>
+						<key>Variety</key>
+						<string>US Mount Hood</string>
+						<key>When</key>
+						<string>15 Min From End</string>
+					</dict>
+					<dict>
+						<key>Alpha</key>
+						<string>5.200000</string>
+						<key>Amount</key>
+						<string>28.350000</string>
+						<key>DateLastModified</key>
+						<date>2009-08-09T18:00:38Z</date>
+						<key>Form</key>
+						<string>Loose Pellet Hops</string>
+						<key>IBUForAddition</key>
+						<string>0.000000</string>
+						<key>Minutes</key>
+						<string>0</string>
+						<key>Percentage</key>
+						<string>0.000000</string>
+						<key>UUID</key>
+						<string>205AE475-1BD3-11DA-9896-001124CAE2A6</string>
+						<key>Variety</key>
+						<string>US Mount Hood</string>
+						<key>When</key>
+						<string>Dry-Hopped</string>
+					</dict>
+				</array>
+				<key>MashEfficiency</key>
+				<string>80.000000</string>
+				<key>MashSchedule</key>
+				<dict>
+					<key>DateLastModified</key>
+					<date>2009-08-21T14:01:32Z</date>
+					<key>ScheduleName</key>
+					<string>Single Step Infusion (67C/152F)</string>
+					<key>Steps</key>
+					<array>
+						<dict>
+							<key>Duration</key>
+							<string>60.000000</string>
+							<key>StepType</key>
+							<string>Rest at</string>
+							<key>Temperature</key>
+							<string>66.666664</string>
+						</dict>
+					</array>
+					<key>UUID</key>
+					<string>107B5B7D-7D9C-4B21-B3E1-8E31AD1333B3</string>
+					<key>Version</key>
+					<string>3</string>
+				</dict>
+				<key>MashType</key>
+				<string>Full Mash</string>
+				<key>MashpH</key>
+				<string>5.2</string>
+				<key>MgSO4</key>
+				<string>0.0</string>
+				<key>NaCl</key>
+				<string>0.0</string>
+				<key>NaHCO3</key>
+				<string>0.0</string>
+				<key>Notes</key>
+				<string>My standard golden bitter recipe calls for either 100% Maris Otter or 95% Maris Otter and 5% wheat or torrified wheat. The NHC beer was a 15 gallon batch that was brewed at Randy Mosher's Buckapound Brewery because I can't do larger batches in my condo kitchen. The recipe was:
+
+20 pounds Maris Otter
+1 pound British torrified wheat
+Mashed at 149F for just over an hour. It's a simple single temp infusion.
+Mash out and recirculate, then usual sparge at ~168F.
+
+Hops were:
+2 ounces 5.7 Wye Challenger 60 minutes
+2 ounces 4.9 Goldings 60 minutes
+(I usually prefer all Challenger for bittering, but I didn't have enough - the HB shop was also out)
+2 oz 5.2 Mt. Hood for last 10-15 minutes
+Target IBU was ~33
+
+Usually I would dry hop with Mt. Hoods, but I didn't for the conference cask in the interest of getting maximum clarity without lengthy stillaging. Instead I used Mt. Hoods and a couple of ounces of leftover Goldings in a hopback (because Randy's brewery has one!), pumping it through en route to the plate chiller.
+
+Yeast was Wyeast 1335 British Ale II. Primary was 10 days, then just over 2 weeks in cask primed with 4 oz corn sugar solution.</string>
+				<key>OtherIngredients</key>
+				<array/>
+				<key>PreBoilWortVolume</key>
+				<string>30283.279297</string>
+				<key>Profile</key>
+				<dict>
+					<key>BoilDuration</key>
+					<string>60.000000</string>
+					<key>DateLastModified</key>
+					<date>2010-10-22T16:54:01Z</date>
+					<key>ExtractEfficiency</key>
+					<string>80.000000</string>
+					<key>FinishedBatchVolume</key>
+					<string>18927.050781</string>
+					<key>MTThermalMass</key>
+					<string>680.400024</string>
+					<key>PostBoilVolume</key>
+					<string>25437.955078</string>
+					<key>PreBoilVolume</key>
+					<string>30283.279297</string>
+					<key>PreferredMashSchedule</key>
+					<string>107B5B7D-7D9C-4B21-B3E1-8E31AD1333B3</string>
+					<key>PreferredRecipeType</key>
+					<string>Full Mash</string>
+					<key>PreferredSpargeMethod</key>
+					<string>Batch Sparge</string>
+					<key>ProfileName</key>
+					<string>8 Gal</string>
+					<key>UUID</key>
+					<string>618E631F-BA4D-4D52-93E5-E6384318E94E</string>
+					<key>Version</key>
+					<string>2</string>
+					<key>VolumeAtPitching</key>
+					<string>20819.755859</string>
+					<key>VolumeToFermenter</key>
+					<string>20819.755859</string>
+					<key>VolumeWaterAdded</key>
+					<string>0.000000</string>
+					<key>WaterGrainRatio</key>
+					<string>3.338177</string>
+				</dict>
+				<key>RecipeTitle</key>
+				<string>Stevie's Session </string>
+				<key>Style</key>
+				<string>English Pale Ale-Standard/Ordinary Bitter</string>
+				<key>UUID</key>
+				<string>2BDAEEDC-4C29-4151-891C-65AB4B5D0011</string>
+				<key>VolumeAtPitching</key>
+				<string>20819.755859</string>
+				<key>VolumeToFermenter</key>
+				<string>20819.755859</string>
+				<key>VolumeWaterAdded</key>
+				<string>0.000000</string>
+				<key>WaterProfileUsed</key>
+				<string> No Water Profile Chosen</string>
+				<key>Yeast</key>
+				<string>Wyeast 1335-British Ale II</string>
+				<key>YeastAmount</key>
+				<string>1</string>
+			</dict>
+			<key>PackagingNotes</key>
+			<string></string>
+			<key>RoomTemperature</key>
+			<string>15.0</string>
+			<key>SpargeMethod</key>
+			<string>Batch Sparge</string>
+			<key>TastingNotes</key>
+			<string></string>
+			<key>UUID</key>
+			<string>B4B706DC-F7BE-42C5-8C1B-D6A1BC849AAB</string>
+			<key>WaterGrainRatio</key>
+			<string>3.338177</string>
+		</dict>
+		<dict>
+			<key>Actuals</key>
+			<dict>
+				<key>ABV</key>
+				<string>4.502179</string>
+				<key>ABW</key>
+				<string>3.537302</string>
+				<key>ActualMashEfficiency</key>
+				<string>72.652931</string>
+				<key>ApparentAttenuation</key>
+				<string>75.633110</string>
+				<key>Color</key>
+				<string>5.891966</string>
+				<key>FG</key>
+				<string>1.010581</string>
+				<key>FGHydroReading</key>
+				<string>1.010000</string>
+				<key>FGTemp</key>
+				<string>18.888889</string>
+				<key>FermentationTemperature</key>
+				<string>19.444445</string>
+				<key>FinalBatchVolume</key>
+				<string>18927.050781</string>
+				<key>FinalWortVolume</key>
+				<string>25437.955078</string>
+				<key>HydrometerCalibratedAt</key>
+				<string>15.555555</string>
+				<key>IBU</key>
+				<string>38.737717</string>
+				<key>OG</key>
+				<string>1.044690</string>
+				<key>OGHydroReading</key>
+				<string>1.044000</string>
+				<key>OGTemp</key>
+				<string>19.444445</string>
+				<key>PreBoilGrav</key>
+				<string>1.036802</string>
+				<key>PreBoilHydroReading</key>
+				<string>1.036000</string>
+				<key>PreBoilTemp</key>
+				<string>20.000000</string>
+				<key>PreBoilWortVolume</key>
+				<string>30283.279297</string>
+				<key>RealAttenuation</key>
+				<string>61.958641</string>
+				<key>VolumeAtPitching</key>
+				<string>20819.755859</string>
+				<key>VolumeToFermenter</key>
+				<string>20819.755859</string>
+				<key>VolumeWaterAdded</key>
+				<string>0.000000</string>
+			</dict>
+			<key>AdjustedInventory</key>
+			<string>1</string>
+			<key>BatchNotes</key>
+			<string>3g cc in mash
+First pump use.</string>
+			<key>BatchTitle</key>
+			<string>Batch 3 of Stevie's Session</string>
+			<key>BoilNotes</key>
+			<string></string>
+			<key>DateBrewed</key>
+			<date>2011-12-22T06:00:00Z</date>
+			<key>DateLastModified</key>
+			<date>2012-01-14T15:04:20Z</date>
+			<key>DatePackaged</key>
+			<date>2011-12-28T06:00:00Z</date>
+			<key>DateRacked</key>
+			<date>2011-12-28T06:00:00Z</date>
+			<key>DateReady</key>
+			<date>2011-12-28T06:00:00Z</date>
+			<key>FermentationNotes</key>
+			<string></string>
+			<key>MTThermalMass</key>
+			<string>680.400024</string>
+			<key>ModifiedRecipe</key>
+			<dict>
+				<key>Acid</key>
+				<string>Unadjusted</string>
+				<key>ApparentAttenuation</key>
+				<string>70.937691</string>
+				<key>Attenuation</key>
+				<string>71.000000</string>
+				<key>Batches</key>
+				<array/>
+				<key>BoilDuration</key>
+				<string>60.000000</string>
+				<key>CaCO3</key>
+				<string>0.0</string>
+				<key>CaCl2</key>
+				<string>0.0</string>
+				<key>CaSO4</key>
+				<string>0.0</string>
+				<key>Carbonation</key>
+				<string>Force Carbonated</string>
+				<key>CarbonationVolumes</key>
+				<string>2.00</string>
+				<key>Conditioning</key>
+				<string>Matured for 2 weeks</string>
+				<key>DateLastModified</key>
+				<date>2010-12-11T18:50:41Z</date>
+				<key>ExpectedABV</key>
+				<string>4.283885</string>
+				<key>ExpectedABW</key>
+				<string>3.358446</string>
+				<key>ExpectedColor</key>
+				<string>5.891966</string>
+				<key>ExpectedFinalGravity</key>
+				<string>1.012791</string>
+				<key>ExpectedIBU</key>
+				<string>38.325974</string>
+				<key>ExpectedOriginalGravity</key>
+				<string>1.045227</string>
+				<key>ExpectedPreBoilGravity</key>
+				<string>1.037991</string>
+				<key>FermentableIngredients</key>
+				<array>
+					<dict>
+						<key>Amount</key>
+						<string>4535.899902</string>
+						<key>Batches</key>
+						<array>
+							<dict>
+								<key>Amount</key>
+								<string>4535.899902</string>
+								<key>AmountInStock</key>
+								<string>19957.958984</string>
+								<key>BatchName</key>
+								<string>Fawcett</string>
+								<key>Color</key>
+								<string>2.500000</string>
+								<key>DeliveredOn</key>
+								<date>2011-12-02T18:00:00Z</date>
+								<key>ExpiresOn</key>
+								<date>2011-12-02T18:00:00Z</date>
+								<key>Extract</key>
+								<string>80.000000</string>
+								<key>IngredientType</key>
+								<string>Fermentable</string>
+								<key>UUID</key>
+								<string>92CD2A89-5D13-452F-8117-1A131D740BE2</string>
+							</dict>
+						</array>
+						<key>Color</key>
+						<string>2.500000</string>
+						<key>ColorForAdditionInEBC</key>
+						<string>10.868124</string>
+						<key>ColorForAdditionInSRM</key>
+						<string>5.516814</string>
+						<key>DateLastModified</key>
+						<date>2010-04-21T13:42:38Z</date>
+						<key>Extract</key>
+						<string>80.000000</string>
+						<key>Form</key>
+						<string>Loose Pellet Hops</string>
+						<key>GravityPointsForAddition</key>
+						<string>41.350620</string>
+						<key>Ingredient</key>
+						<string>Maris Otter Pale Ale Malt - T.Fawcett</string>
+						<key>IsGrain</key>
+						<string>1.000000</string>
+						<key>MCUForAddition</key>
+						<string>3.720238</string>
+						<key>MCUPercentage</key>
+						<string>93.632820</string>
+						<key>Minutes</key>
+						<string>0.000000</string>
+						<key>Moisture</key>
+						<string>2.500000</string>
+						<key>MustBeMashed</key>
+						<string>0.000000</string>
+						<key>Percentage</key>
+						<string>90.908913</string>
+						<key>UUID</key>
+						<string>AA09D0EE-66D8-4693-848D-B7C114668867</string>
+						<key>When</key>
+						<string>In Mash/Steeped</string>
+					</dict>
+					<dict>
+						<key>Amount</key>
+						<string>226.800003</string>
+						<key>Batches</key>
+						<array>
+							<dict>
+								<key>Amount</key>
+								<string>226.800003</string>
+								<key>AmountInStock</key>
+								<string>6375.679688</string>
+								<key>BatchName</key>
+								<string>Best</string>
+								<key>Color</key>
+								<string>2.000000</string>
+								<key>DeliveredOn</key>
+								<date>2009-10-30T17:00:00Z</date>
+								<key>ExpiresOn</key>
+								<date>2010-10-30T12:23:45Z</date>
+								<key>Extract</key>
+								<string>78.000000</string>
+								<key>IngredientType</key>
+								<string>Fermentable</string>
+								<key>UUID</key>
+								<string>C9BEDE3B-33C9-4CE4-A176-461AFD677155</string>
+							</dict>
+						</array>
+						<key>Color</key>
+						<string>2.000000</string>
+						<key>ColorForAdditionInEBC</key>
+						<string>0.434735</string>
+						<key>ColorForAdditionInSRM</key>
+						<string>0.220678</string>
+						<key>DateLastModified</key>
+						<date>2009-08-09T18:00:38Z</date>
+						<key>Description</key>
+						<string>Essential in making wheat beers, wheat is also often used in lower amounts in other beers as its protein gives the beer a fuller mouthfeel and enhanced beer head stability. Wheat malt contains considerably more protein than barley malt and consists primarily of glutens that can result in beer haze.</string>
+						<key>Extract</key>
+						<string>78.000000</string>
+						<key>Form</key>
+						<string>Loose Pellet Hops</string>
+						<key>GravityPointsForAddition</key>
+						<string>2.015887</string>
+						<key>Ingredient</key>
+						<string>UK Wheat Malt</string>
+						<key>IsGrain</key>
+						<string>1.000000</string>
+						<key>MCUForAddition</key>
+						<string>0.148813</string>
+						<key>MCUPercentage</key>
+						<string>3.745400</string>
+						<key>Minutes</key>
+						<string>0.000000</string>
+						<key>Moisture</key>
+						<string>4.000000</string>
+						<key>MustBeMashed</key>
+						<string>1.000000</string>
+						<key>Percentage</key>
+						<string>4.545547</string>
+						<key>UUID</key>
+						<string>EDFDFD41-547B-11DA-BCFD-001124CAE2A6</string>
+						<key>When</key>
+						<string>In Mash/Steeped</string>
+					</dict>
+					<dict>
+						<key>Amount</key>
+						<string>226.800003</string>
+						<key>Batches</key>
+						<array>
+							<dict>
+								<key>Amount</key>
+								<string>226.800003</string>
+								<key>AmountInStock</key>
+								<string>2163.104980</string>
+								<key>BatchName</key>
+								<string>Brian</string>
+								<key>Color</key>
+								<string>1.400000</string>
+								<key>DeliveredOn</key>
+								<date>2011-08-18T12:38:22Z</date>
+								<key>ExpiresOn</key>
+								<date>2012-08-18T12:38:22Z</date>
+								<key>Extract</key>
+								<string>72.000000</string>
+								<key>IngredientType</key>
+								<string>Fermentable</string>
+								<key>UUID</key>
+								<string>0549FB5B-2B4F-4E70-A609-BCB54D92DFDD</string>
+							</dict>
+						</array>
+						<key>Color</key>
+						<string>1.400000</string>
+						<key>ColorForAdditionInEBC</key>
+						<string>0.304314</string>
+						<key>ColorForAdditionInSRM</key>
+						<string>0.154474</string>
+						<key>DateLastModified</key>
+						<date>2009-08-09T18:00:38Z</date>
+						<key>Extract</key>
+						<string>72.000000</string>
+						<key>Form</key>
+						<string>Loose Pellet Hops</string>
+						<key>GravityPointsForAddition</key>
+						<string>1.860819</string>
+						<key>Ingredient</key>
+						<string>UK Flaked Barley</string>
+						<key>IsGrain</key>
+						<string>1.000000</string>
+						<key>MCUForAddition</key>
+						<string>0.104169</string>
+						<key>MCUPercentage</key>
+						<string>2.621778</string>
+						<key>Minutes</key>
+						<string>0.000000</string>
+						<key>Moisture</key>
+						<string>9.000000</string>
+						<key>MustBeMashed</key>
+						<string>1.000000</string>
+						<key>Percentage</key>
+						<string>4.545547</string>
+						<key>UUID</key>
+						<string>4405E540-5561-11DA-A625-001124CAE2A6</string>
+						<key>When</key>
+						<string>In Mash/Steeped</string>
+					</dict>
+				</array>
+				<key>FermentationTemperature</key>
+				<string>19.444445</string>
+				<key>FinalBatchVolume</key>
+				<string>18927.050781</string>
+				<key>FinalWortVolume</key>
+				<string>25437.955078</string>
+				<key>GravityForIBUCalcs</key>
+				<string>1.037991</string>
+				<key>HopIngredients</key>
+				<array>
+					<dict>
+						<key>Alpha</key>
+						<string>5.700000</string>
+						<key>Amount</key>
+						<string>28.350000</string>
+						<key>Batches</key>
+						<array>
+							<dict>
+								<key>Alpha</key>
+								<string>5.700000</string>
+								<key>Amount</key>
+								<string>28.350000</string>
+								<key>AmountInStock</key>
+								<string>28.350000</string>
+								<key>BatchName</key>
+								<string>New Batch</string>
+								<key>DeliveredOn</key>
+								<date>2011-12-14T18:00:00Z</date>
+								<key>ExpiresOn</key>
+								<date>2012-12-15T00:23:32Z</date>
+								<key>Form</key>
+								<string>Pellets</string>
+								<key>IngredientType</key>
+								<string>Hop</string>
+								<key>UUID</key>
+								<string>09700DE2-16C0-48EF-B80A-51F854632113</string>
+							</dict>
+						</array>
+						<key>DateLastModified</key>
+						<date>2009-08-09T18:00:38Z</date>
+						<key>Form</key>
+						<string>Loose Pellet Hops</string>
+						<key>IBUForAddition</key>
+						<string>17.955206</string>
+						<key>Minutes</key>
+						<string>60</string>
+						<key>Percentage</key>
+						<string>0.000000</string>
+						<key>UUID</key>
+						<string>EBB2C777-1BD1-11DA-9896-001124CAE2A6</string>
+						<key>Variety</key>
+						<string>UK Challenger</string>
+						<key>When</key>
+						<string>60 Min From End</string>
+					</dict>
+					<dict>
+						<key>Alpha</key>
+						<string>17.200001</string>
+						<key>Amount</key>
+						<string>5.670000</string>
+						<key>Batches</key>
+						<array>
+							<dict>
+								<key>Alpha</key>
+								<string>17.200001</string>
+								<key>Amount</key>
+								<string>5.670000</string>
+								<key>AmountInStock</key>
+								<string>309.993805</string>
+								<key>BatchName</key>
+								<string>alley</string>
+								<key>DeliveredOn</key>
+								<date>2011-04-05T17:00:00Z</date>
+								<key>ExpiresOn</key>
+								<date>2012-04-05T12:25:36Z</date>
+								<key>Form</key>
+								<string>Pellets</string>
+								<key>IngredientType</key>
+								<string>Hop</string>
+								<key>UUID</key>
+								<string>33C0D7C5-2F19-4FE8-B0D0-01DA0615E243</string>
+							</dict>
+						</array>
+						<key>DateLastModified</key>
+						<date>2009-08-09T18:00:38Z</date>
+						<key>Form</key>
+						<string>Loose Pellet Hops</string>
+						<key>IBUForAddition</key>
+						<string>10.836123</string>
+						<key>Minutes</key>
+						<string>60</string>
+						<key>Percentage</key>
+						<string>0.000000</string>
+						<key>UUID</key>
+						<string>1D50A75B-FDDB-4A76-A476-1664A98B70AC</string>
+						<key>Variety</key>
+						<string>US Warrior</string>
+						<key>When</key>
+						<string>60 Min From End</string>
+					</dict>
+					<dict>
+						<key>Alpha</key>
+						<string>6.100000</string>
+						<key>Amount</key>
+						<string>28.350000</string>
+						<key>Batches</key>
+						<array>
+							<dict>
+								<key>Alpha</key>
+								<string>6.100000</string>
+								<key>Amount</key>
+								<string>28.350000</string>
+								<key>AmountInStock</key>
+								<string>56.700001</string>
+								<key>BatchName</key>
+								<string>New Batch</string>
+								<key>DeliveredOn</key>
+								<date>2011-12-14T18:00:00Z</date>
+								<key>ExpiresOn</key>
+								<date>2012-12-14T18:00:00Z</date>
+								<key>Form</key>
+								<string>Pellets</string>
+								<key>IngredientType</key>
+								<string>Hop</string>
+								<key>UUID</key>
+								<string>321C85AC-4FAC-4C4C-B5BC-3F55D0810EF1</string>
+							</dict>
+						</array>
+						<key>DateLastModified</key>
+						<date>2009-08-09T18:00:38Z</date>
+						<key>Form</key>
+						<string>Loose Pellet Hops</string>
+						<key>IBUForAddition</key>
+						<string>9.534646</string>
+						<key>Minutes</key>
+						<string>15</string>
+						<key>Percentage</key>
+						<string>0.000000</string>
+						<key>UUID</key>
+						<string>205AE475-1BD3-11DA-9896-001124CAE2A6</string>
+						<key>Variety</key>
+						<string>US Mount Hood</string>
+						<key>When</key>
+						<string>15 Min From End</string>
+					</dict>
+					<dict>
+						<key>Alpha</key>
+						<string>6.100000</string>
+						<key>Amount</key>
+						<string>28.349728</string>
+						<key>Batches</key>
+						<array>
+							<dict>
+								<key>Alpha</key>
+								<string>6.100000</string>
+								<key>Amount</key>
+								<string>28.349728</string>
+								<key>AmountInStock</key>
+								<string>28.350000</string>
+								<key>BatchName</key>
+								<string>New Batch</string>
+								<key>DeliveredOn</key>
+								<date>2011-12-14T18:00:00Z</date>
+								<key>ExpiresOn</key>
+								<date>2012-12-14T18:00:00Z</date>
+								<key>Form</key>
+								<string>Pellets</string>
+								<key>IngredientType</key>
+								<string>Hop</string>
+								<key>UUID</key>
+								<string>321C85AC-4FAC-4C4C-B5BC-3F55D0810EF1</string>
+							</dict>
+						</array>
+						<key>DateLastModified</key>
+						<date>2009-08-09T18:00:38Z</date>
+						<key>Form</key>
+						<string>Loose Pellet Hops</string>
+						<key>IBUForAddition</key>
+						<string>0.000000</string>
+						<key>Minutes</key>
+						<string>0</string>
+						<key>Percentage</key>
+						<string>0.000000</string>
+						<key>UUID</key>
+						<string>205AE475-1BD3-11DA-9896-001124CAE2A6</string>
+						<key>Variety</key>
+						<string>US Mount Hood</string>
+						<key>When</key>
+						<string>Dry-Hopped</string>
+					</dict>
+				</array>
+				<key>MashEfficiency</key>
+				<string>75</string>
+				<key>MashSchedule</key>
+				<dict>
+					<key>DateLastModified</key>
+					<date>2009-08-21T14:01:32Z</date>
+					<key>ScheduleName</key>
+					<string>Single Step Infusion (67C/152F)</string>
+					<key>Steps</key>
+					<array>
+						<dict>
+							<key>Duration</key>
+							<string>60.000000</string>
+							<key>StepType</key>
+							<string>Rest at</string>
+							<key>Temperature</key>
+							<string>66.666664</string>
+						</dict>
+					</array>
+					<key>UUID</key>
+					<string>107B5B7D-7D9C-4B21-B3E1-8E31AD1333B3</string>
+					<key>Version</key>
+					<string>3</string>
+				</dict>
+				<key>MashType</key>
+				<string>Full Mash</string>
+				<key>MashpH</key>
+				<string>5.2</string>
+				<key>MgSO4</key>
+				<string>0.0</string>
+				<key>NaCl</key>
+				<string>0.0</string>
+				<key>NaHCO3</key>
+				<string>0.0</string>
+				<key>Notes</key>
+				<string>My standard golden bitter recipe calls for either 100% Maris Otter or 95% Maris Otter and 5% wheat or torrified wheat. The NHC beer was a 15 gallon batch that was brewed at Randy Mosher's Buckapound Brewery because I can't do larger batches in my condo kitchen. The recipe was:
+
+20 pounds Maris Otter
+1 pound British torrified wheat
+Mashed at 149F for just over an hour. It's a simple single temp infusion.
+Mash out and recirculate, then usual sparge at ~168F.
+
+Hops were:
+2 ounces 5.7 Wye Challenger 60 minutes
+2 ounces 4.9 Goldings 60 minutes
+(I usually prefer all Challenger for bittering, but I didn't have enough - the HB shop was also out)
+2 oz 5.2 Mt. Hood for last 10-15 minutes
+Target IBU was ~33
+
+Usually I would dry hop with Mt. Hoods, but I didn't for the conference cask in the interest of getting maximum clarity without lengthy stillaging. Instead I used Mt. Hoods and a couple of ounces of leftover Goldings in a hopback (because Randy's brewery has one!), pumping it through en route to the plate chiller.
+
+Yeast was Wyeast 1335 British Ale II. Primary was 10 days, then just over 2 weeks in cask primed with 4 oz corn sugar solution.</string>
+				<key>OtherIngredients</key>
+				<array/>
+				<key>PreBoilWortVolume</key>
+				<string>30283.279297</string>
+				<key>Profile</key>
+				<dict>
+					<key>BoilDuration</key>
+					<string>60.000000</string>
+					<key>DateLastModified</key>
+					<date>2011-12-08T01:32:29Z</date>
+					<key>ExtractEfficiency</key>
+					<string>75</string>
+					<key>FinishedBatchVolume</key>
+					<string>18927.050781</string>
+					<key>MTThermalMass</key>
+					<string>680.400024</string>
+					<key>PostBoilVolume</key>
+					<string>25437.955078</string>
+					<key>PreBoilVolume</key>
+					<string>30283.279297</string>
+					<key>PreferredMashSchedule</key>
+					<string>107B5B7D-7D9C-4B21-B3E1-8E31AD1333B3</string>
+					<key>PreferredRecipeType</key>
+					<string>Full Mash</string>
+					<key>PreferredSpargeMethod</key>
+					<string>Batch Sparge</string>
+					<key>ProfileName</key>
+					<string>8 Gal - 75%</string>
+					<key>UUID</key>
+					<string>6BA1F116-5FF4-4B43-8561-6D571F1FD29B</string>
+					<key>Version</key>
+					<string>2</string>
+					<key>VolumeAtPitching</key>
+					<string>20819.755859</string>
+					<key>VolumeToFermenter</key>
+					<string>20819.755859</string>
+					<key>VolumeWaterAdded</key>
+					<string>0.000000</string>
+					<key>WaterGrainRatio</key>
+					<string>3.338177</string>
+				</dict>
+				<key>RecipeTitle</key>
+				<string>Stevie's Session </string>
+				<key>Style</key>
+				<string>English Pale Ale-Standard/Ordinary Bitter</string>
+				<key>UUID</key>
+				<string>2BDAEEDC-4C29-4151-891C-65AB4B5D0011</string>
+				<key>VolumeAtPitching</key>
+				<string>20819.755859</string>
+				<key>VolumeToFermenter</key>
+				<string>20819.755859</string>
+				<key>VolumeWaterAdded</key>
+				<string>0.000000</string>
+				<key>WaterProfileUsed</key>
+				<string> No Water Profile Chosen</string>
+				<key>Yeast</key>
+				<string>White Labs WLP013-London Ale</string>
+				<key>YeastAmount</key>
+				<string>1</string>
+			</dict>
+			<key>OriginalRecipe</key>
+			<dict>
+				<key>Acid</key>
+				<string>Unadjusted</string>
+				<key>ApparentAttenuation</key>
+				<string>74.400642</string>
+				<key>Attenuation</key>
+				<string>74.500000</string>
+				<key>BoilDuration</key>
+				<string>60.000000</string>
+				<key>CaCO3</key>
+				<string>0.0</string>
+				<key>CaCl2</key>
+				<string>0.0</string>
+				<key>CaSO4</key>
+				<string>0.0</string>
+				<key>Carbonation</key>
+				<string>Force Carbonated</string>
+				<key>CarbonationVolumes</key>
+				<string>2.00</string>
+				<key>Conditioning</key>
+				<string>Matured for 2 weeks</string>
+				<key>DateLastModified</key>
+				<date>2010-12-11T18:50:41Z</date>
+				<key>ExpectedABV</key>
+				<string>3.916452</string>
+				<key>ExpectedABW</key>
+				<string>3.079191</string>
+				<key>ExpectedColor</key>
+				<string>5.693326</string>
+				<key>ExpectedFinalGravity</key>
+				<string>1.009896</string>
+				<key>ExpectedIBU</key>
+				<string>32.647499</string>
+				<key>ExpectedOriginalGravity</key>
+				<string>1.039642</string>
+				<key>ExpectedPreBoilGravity</key>
+				<string>1.033300</string>
+				<key>FermentableIngredients</key>
+				<array>
+					<dict>
+						<key>Amount</key>
+						<string>3855.600098</string>
+						<key>Color</key>
+						<string>2.500000</string>
+						<key>ColorForAdditionInEBC</key>
+						<string>10.711766</string>
+						<key>ColorForAdditionInSRM</key>
+						<string>5.437445</string>
+						<key>DateLastModified</key>
+						<date>2010-04-21T13:42:38Z</date>
+						<key>Extract</key>
+						<string>80.000000</string>
+						<key>Form</key>
+						<string>Loose Pellet Hops</string>
+						<key>GravityPointsForAddition</key>
+						<string>37.492054</string>
+						<key>Ingredient</key>
+						<string>Maris Otter Pale Ale Malt - T.Fawcett</string>
+						<key>IsGrain</key>
+						<string>1.000000</string>
+						<key>MCUForAddition</key>
+						<string>3.162272</string>
+						<key>MCUPercentage</key>
+						<string>95.505608</string>
+						<key>Minutes</key>
+						<string>0.000000</string>
+						<key>Moisture</key>
+						<string>2.500000</string>
+						<key>MustBeMashed</key>
+						<string>0.000000</string>
+						<key>Percentage</key>
+						<string>94.444443</string>
+						<key>UUID</key>
+						<string>AA09D0EE-66D8-4693-848D-B7C114668867</string>
+						<key>When</key>
+						<string>In Mash/Steeped</string>
+					</dict>
+					<dict>
+						<key>Amount</key>
+						<string>226.800003</string>
+						<key>Color</key>
+						<string>2.000000</string>
+						<key>ColorForAdditionInEBC</key>
+						<string>0.504084</string>
+						<key>ColorForAdditionInSRM</key>
+						<string>0.255880</string>
+						<key>DateLastModified</key>
+						<date>2009-08-09T18:00:38Z</date>
+						<key>Extract</key>
+						<string>78.000000</string>
+						<key>Form</key>
+						<string>Loose Pellet Hops</string>
+						<key>GravityPointsForAddition</key>
+						<string>2.150280</string>
+						<key>Ingredient</key>
+						<string>UK Torrified Wheat</string>
+						<key>IsGrain</key>
+						<string>1.000000</string>
+						<key>MCUForAddition</key>
+						<string>0.148813</string>
+						<key>MCUPercentage</key>
+						<string>4.494387</string>
+						<key>Minutes</key>
+						<string>0.000000</string>
+						<key>Moisture</key>
+						<string>4.000000</string>
+						<key>MustBeMashed</key>
+						<string>1.000000</string>
+						<key>Percentage</key>
+						<string>5.555556</string>
+						<key>UUID</key>
+						<string>E622C7C8-5562-11DA-A625-001124CAE2A6</string>
+						<key>When</key>
+						<string>In Mash/Steeped</string>
+					</dict>
+				</array>
+				<key>FermentationTemperature</key>
+				<string>19.444445</string>
+				<key>FinalBatchVolume</key>
+				<string>18927.050781</string>
+				<key>FinalWortVolume</key>
+				<string>25437.955078</string>
+				<key>GravityForIBUCalcs</key>
+				<string>1.033300</string>
+				<key>HopIngredients</key>
+				<array>
+					<dict>
+						<key>Alpha</key>
+						<string>5.700000</string>
+						<key>Amount</key>
+						<string>34.020000</string>
+						<key>DateLastModified</key>
+						<date>2009-08-09T18:00:38Z</date>
+						<key>Form</key>
+						<string>Loose Pellet Hops</string>
+						<key>IBUForAddition</key>
+						<string>22.474037</string>
+						<key>Minutes</key>
+						<string>60</string>
+						<key>Percentage</key>
+						<string>0.000000</string>
+						<key>UUID</key>
+						<string>EBB2C777-1BD1-11DA-9896-001124CAE2A6</string>
+						<key>Variety</key>
+						<string>UK Challenger</string>
+						<key>When</key>
+						<string>60 Min From End</string>
+					</dict>
+					<dict>
+						<key>Alpha</key>
+						<string>5.200000</string>
+						<key>Amount</key>
+						<string>34.020000</string>
+						<key>DateLastModified</key>
+						<date>2009-08-09T18:00:38Z</date>
+						<key>Form</key>
+						<string>Loose Pellet Hops</string>
+						<key>IBUForAddition</key>
+						<string>10.173461</string>
+						<key>Minutes</key>
+						<string>15</string>
+						<key>Percentage</key>
+						<string>0.000000</string>
+						<key>UUID</key>
+						<string>205AE475-1BD3-11DA-9896-001124CAE2A6</string>
+						<key>Variety</key>
+						<string>US Mount Hood</string>
+						<key>When</key>
+						<string>15 Min From End</string>
+					</dict>
+					<dict>
+						<key>Alpha</key>
+						<string>5.200000</string>
+						<key>Amount</key>
+						<string>28.350000</string>
+						<key>DateLastModified</key>
+						<date>2009-08-09T18:00:38Z</date>
+						<key>Form</key>
+						<string>Loose Pellet Hops</string>
+						<key>IBUForAddition</key>
+						<string>0.000000</string>
+						<key>Minutes</key>
+						<string>0</string>
+						<key>Percentage</key>
+						<string>0.000000</string>
+						<key>UUID</key>
+						<string>205AE475-1BD3-11DA-9896-001124CAE2A6</string>
+						<key>Variety</key>
+						<string>US Mount Hood</string>
+						<key>When</key>
+						<string>Dry-Hopped</string>
+					</dict>
+				</array>
+				<key>MashEfficiency</key>
+				<string>80.000000</string>
+				<key>MashSchedule</key>
+				<dict>
+					<key>DateLastModified</key>
+					<date>2009-08-21T14:01:32Z</date>
+					<key>ScheduleName</key>
+					<string>Single Step Infusion (67C/152F)</string>
+					<key>Steps</key>
+					<array>
+						<dict>
+							<key>Duration</key>
+							<string>60.000000</string>
+							<key>StepType</key>
+							<string>Rest at</string>
+							<key>Temperature</key>
+							<string>66.666664</string>
+						</dict>
+					</array>
+					<key>UUID</key>
+					<string>107B5B7D-7D9C-4B21-B3E1-8E31AD1333B3</string>
+					<key>Version</key>
+					<string>3</string>
+				</dict>
+				<key>MashType</key>
+				<string>Full Mash</string>
+				<key>MashpH</key>
+				<string>5.2</string>
+				<key>MgSO4</key>
+				<string>0.0</string>
+				<key>NaCl</key>
+				<string>0.0</string>
+				<key>NaHCO3</key>
+				<string>0.0</string>
+				<key>Notes</key>
+				<string>My standard golden bitter recipe calls for either 100% Maris Otter or 95% Maris Otter and 5% wheat or torrified wheat. The NHC beer was a 15 gallon batch that was brewed at Randy Mosher's Buckapound Brewery because I can't do larger batches in my condo kitchen. The recipe was:
+
+20 pounds Maris Otter
+1 pound British torrified wheat
+Mashed at 149F for just over an hour. It's a simple single temp infusion.
+Mash out and recirculate, then usual sparge at ~168F.
+
+Hops were:
+2 ounces 5.7 Wye Challenger 60 minutes
+2 ounces 4.9 Goldings 60 minutes
+(I usually prefer all Challenger for bittering, but I didn't have enough - the HB shop was also out)
+2 oz 5.2 Mt. Hood for last 10-15 minutes
+Target IBU was ~33
+
+Usually I would dry hop with Mt. Hoods, but I didn't for the conference cask in the interest of getting maximum clarity without lengthy stillaging. Instead I used Mt. Hoods and a couple of ounces of leftover Goldings in a hopback (because Randy's brewery has one!), pumping it through en route to the plate chiller.
+
+Yeast was Wyeast 1335 British Ale II. Primary was 10 days, then just over 2 weeks in cask primed with 4 oz corn sugar solution.</string>
+				<key>OtherIngredients</key>
+				<array/>
+				<key>PreBoilWortVolume</key>
+				<string>30283.279297</string>
+				<key>Profile</key>
+				<dict>
+					<key>BoilDuration</key>
+					<string>60.000000</string>
+					<key>DateLastModified</key>
+					<date>2010-10-22T16:54:01Z</date>
+					<key>ExtractEfficiency</key>
+					<string>80.000000</string>
+					<key>FinishedBatchVolume</key>
+					<string>18927.050781</string>
+					<key>MTThermalMass</key>
+					<string>680.400024</string>
+					<key>PostBoilVolume</key>
+					<string>25437.955078</string>
+					<key>PreBoilVolume</key>
+					<string>30283.279297</string>
+					<key>PreferredMashSchedule</key>
+					<string>107B5B7D-7D9C-4B21-B3E1-8E31AD1333B3</string>
+					<key>PreferredRecipeType</key>
+					<string>Full Mash</string>
+					<key>PreferredSpargeMethod</key>
+					<string>Batch Sparge</string>
+					<key>ProfileName</key>
+					<string>8 Gal</string>
+					<key>UUID</key>
+					<string>618E631F-BA4D-4D52-93E5-E6384318E94E</string>
+					<key>Version</key>
+					<string>2</string>
+					<key>VolumeAtPitching</key>
+					<string>20819.755859</string>
+					<key>VolumeToFermenter</key>
+					<string>20819.755859</string>
+					<key>VolumeWaterAdded</key>
+					<string>0.000000</string>
+					<key>WaterGrainRatio</key>
+					<string>3.338177</string>
+				</dict>
+				<key>RecipeTitle</key>
+				<string>Stevie's Session </string>
+				<key>Style</key>
+				<string>English Pale Ale-Standard/Ordinary Bitter</string>
+				<key>UUID</key>
+				<string>2BDAEEDC-4C29-4151-891C-65AB4B5D0011</string>
+				<key>VolumeAtPitching</key>
+				<string>20819.755859</string>
+				<key>VolumeToFermenter</key>
+				<string>20819.755859</string>
+				<key>VolumeWaterAdded</key>
+				<string>0.000000</string>
+				<key>WaterProfileUsed</key>
+				<string> No Water Profile Chosen</string>
+				<key>Yeast</key>
+				<string>Wyeast 1335-British Ale II</string>
+				<key>YeastAmount</key>
+				<string>1</string>
+			</dict>
+			<key>PackagingNotes</key>
+			<string></string>
+			<key>RoomTemperature</key>
+			<string>13.333334</string>
+			<key>SpargeMethod</key>
+			<string>Batch Sparge</string>
+			<key>TastingNotes</key>
+			<string></string>
+			<key>UUID</key>
+			<string>A2585E3D-6AF1-42E0-8D2F-6CA25FA7154E</string>
+			<key>WaterGrainRatio</key>
+			<string>3.338177</string>
+		</dict>
+	</array>
+	<key>BoilDuration</key>
+	<string>60.000000</string>
+	<key>CaCO3</key>
+	<string>0.0</string>
+	<key>CaCl2</key>
+	<string>0.0</string>
+	<key>CaSO4</key>
+	<string>0.0</string>
+	<key>Carbonation</key>
+	<string>Force Carbonated</string>
+	<key>CarbonationVolumes</key>
+	<string>2.00</string>
+	<key>Conditioning</key>
+	<string>Matured for 2 weeks</string>
+	<key>DateLastModified</key>
+	<date>2012-01-14T15:03:51Z</date>
+	<key>ExpectedABV</key>
+	<string>3.916452</string>
+	<key>ExpectedABW</key>
+	<string>3.079191</string>
+	<key>ExpectedColor</key>
+	<string>5.693326</string>
+	<key>ExpectedFinalGravity</key>
+	<string>1.009896</string>
+	<key>ExpectedIBU</key>
+	<string>32.647499</string>
+	<key>ExpectedOriginalGravity</key>
+	<string>1.039642</string>
+	<key>ExpectedPreBoilGravity</key>
+	<string>1.033300</string>
+	<key>FermentableIngredients</key>
+	<array>
+		<dict>
+			<key>Amount</key>
+			<string>3855.600098</string>
+			<key>Color</key>
+			<string>2.500000</string>
+			<key>ColorForAdditionInEBC</key>
+			<string>10.711766</string>
+			<key>ColorForAdditionInSRM</key>
+			<string>5.437445</string>
+			<key>DateLastModified</key>
+			<date>2010-04-21T13:42:38Z</date>
+			<key>Extract</key>
+			<string>80.000000</string>
+			<key>Form</key>
+			<string>Loose Pellet Hops</string>
+			<key>GravityPointsForAddition</key>
+			<string>37.492054</string>
+			<key>Ingredient</key>
+			<string>Maris Otter Pale Ale Malt - T.Fawcett</string>
+			<key>IsGrain</key>
+			<string>1.000000</string>
+			<key>MCUForAddition</key>
+			<string>3.162272</string>
+			<key>MCUPercentage</key>
+			<string>95.505608</string>
+			<key>Minutes</key>
+			<string>0.000000</string>
+			<key>Moisture</key>
+			<string>2.500000</string>
+			<key>MustBeMashed</key>
+			<string>0.000000</string>
+			<key>Percentage</key>
+			<string>94.444443</string>
+			<key>UUID</key>
+			<string>AA09D0EE-66D8-4693-848D-B7C114668867</string>
+			<key>When</key>
+			<string>In Mash/Steeped</string>
+		</dict>
+		<dict>
+			<key>Amount</key>
+			<string>226.800003</string>
+			<key>Color</key>
+			<string>2.000000</string>
+			<key>ColorForAdditionInEBC</key>
+			<string>0.504084</string>
+			<key>ColorForAdditionInSRM</key>
+			<string>0.255880</string>
+			<key>DateLastModified</key>
+			<date>2009-08-09T18:00:38Z</date>
+			<key>Extract</key>
+			<string>78.000000</string>
+			<key>Form</key>
+			<string>Loose Pellet Hops</string>
+			<key>GravityPointsForAddition</key>
+			<string>2.150280</string>
+			<key>Ingredient</key>
+			<string>UK Torrified Wheat</string>
+			<key>IsGrain</key>
+			<string>1.000000</string>
+			<key>MCUForAddition</key>
+			<string>0.148813</string>
+			<key>MCUPercentage</key>
+			<string>4.494387</string>
+			<key>Minutes</key>
+			<string>0.000000</string>
+			<key>Moisture</key>
+			<string>4.000000</string>
+			<key>MustBeMashed</key>
+			<string>1.000000</string>
+			<key>Percentage</key>
+			<string>5.555556</string>
+			<key>UUID</key>
+			<string>E622C7C8-5562-11DA-A625-001124CAE2A6</string>
+			<key>When</key>
+			<string>In Mash/Steeped</string>
+		</dict>
+	</array>
+	<key>FermentationTemperature</key>
+	<string>19.444445</string>
+	<key>FinalBatchVolume</key>
+	<string>18927.050781</string>
+	<key>FinalWortVolume</key>
+	<string>25437.955078</string>
+	<key>GravityForIBUCalcs</key>
+	<string>1.033300</string>
+	<key>HopIngredients</key>
+	<array>
+		<dict>
+			<key>Alpha</key>
+			<string>5.700000</string>
+			<key>Amount</key>
+			<string>34.020000</string>
+			<key>DateLastModified</key>
+			<date>2009-08-09T18:00:38Z</date>
+			<key>Form</key>
+			<string>Loose Pellet Hops</string>
+			<key>IBUForAddition</key>
+			<string>22.474037</string>
+			<key>Minutes</key>
+			<string>60</string>
+			<key>Percentage</key>
+			<string>0.000000</string>
+			<key>UUID</key>
+			<string>EBB2C777-1BD1-11DA-9896-001124CAE2A6</string>
+			<key>Variety</key>
+			<string>UK Challenger</string>
+			<key>When</key>
+			<string>60 Min From End</string>
+		</dict>
+		<dict>
+			<key>Alpha</key>
+			<string>5.200000</string>
+			<key>Amount</key>
+			<string>34.020000</string>
+			<key>DateLastModified</key>
+			<date>2009-08-09T18:00:38Z</date>
+			<key>Form</key>
+			<string>Loose Pellet Hops</string>
+			<key>IBUForAddition</key>
+			<string>10.173461</string>
+			<key>Minutes</key>
+			<string>15</string>
+			<key>Percentage</key>
+			<string>0.000000</string>
+			<key>UUID</key>
+			<string>205AE475-1BD3-11DA-9896-001124CAE2A6</string>
+			<key>Variety</key>
+			<string>US Mount Hood</string>
+			<key>When</key>
+			<string>15 Min From End</string>
+		</dict>
+		<dict>
+			<key>Alpha</key>
+			<string>5.200000</string>
+			<key>Amount</key>
+			<string>28.350000</string>
+			<key>DateLastModified</key>
+			<date>2009-08-09T18:00:38Z</date>
+			<key>Form</key>
+			<string>Loose Pellet Hops</string>
+			<key>IBUForAddition</key>
+			<string>0.000000</string>
+			<key>Minutes</key>
+			<string>0</string>
+			<key>Percentage</key>
+			<string>0.000000</string>
+			<key>UUID</key>
+			<string>205AE475-1BD3-11DA-9896-001124CAE2A6</string>
+			<key>Variety</key>
+			<string>US Mount Hood</string>
+			<key>When</key>
+			<string>Dry-Hopped</string>
+		</dict>
+	</array>
+	<key>MashEfficiency</key>
+	<string>80.000000</string>
+	<key>MashSchedule</key>
+	<dict>
+		<key>DateLastModified</key>
+		<date>2009-08-21T14:01:32Z</date>
+		<key>ScheduleName</key>
+		<string>Single Step Infusion (67C/152F)</string>
+		<key>Steps</key>
+		<array>
+			<dict>
+				<key>Duration</key>
+				<string>60.000000</string>
+				<key>StepType</key>
+				<string>Rest at</string>
+				<key>Temperature</key>
+				<string>66.666664</string>
+			</dict>
+		</array>
+		<key>UUID</key>
+		<string>107B5B7D-7D9C-4B21-B3E1-8E31AD1333B3</string>
+		<key>Version</key>
+		<string>3</string>
+	</dict>
+	<key>MashType</key>
+	<string>Full Mash</string>
+	<key>MashpH</key>
+	<string>5.2</string>
+	<key>MgSO4</key>
+	<string>0.0</string>
+	<key>NaCl</key>
+	<string>0.0</string>
+	<key>NaHCO3</key>
+	<string>0.0</string>
+	<key>Notes</key>
+	<string>My standard golden bitter recipe calls for either 100% Maris Otter or 95% Maris Otter and 5% wheat or torrified wheat. The NHC beer was a 15 gallon batch that was brewed at Randy Mosher's Buckapound Brewery because I can't do larger batches in my condo kitchen. The recipe was:
+
+20 pounds Maris Otter
+1 pound British torrified wheat
+Mashed at 149F for just over an hour. It's a simple single temp infusion.
+Mash out and recirculate, then usual sparge at ~168F.
+
+Hops were:
+2 ounces 5.7 Wye Challenger 60 minutes
+2 ounces 4.9 Goldings 60 minutes
+(I usually prefer all Challenger for bittering, but I didn't have enough - the HB shop was also out)
+2 oz 5.2 Mt. Hood for last 10-15 minutes
+Target IBU was ~33
+
+Usually I would dry hop with Mt. Hoods, but I didn't for the conference cask in the interest of getting maximum clarity without lengthy stillaging. Instead I used Mt. Hoods and a couple of ounces of leftover Goldings in a hopback (because Randy's brewery has one!), pumping it through en route to the plate chiller.
+
+Yeast was Wyeast 1335 British Ale II. Primary was 10 days, then just over 2 weeks in cask primed with 4 oz corn sugar solution.</string>
+	<key>OtherIngredients</key>
+	<array/>
+	<key>PreBoilWortVolume</key>
+	<string>30283.279297</string>
+	<key>Profile</key>
+	<dict>
+		<key>BoilDuration</key>
+		<string>60.000000</string>
+		<key>DateLastModified</key>
+		<date>2011-12-08T01:31:01Z</date>
+		<key>ExtractEfficiency</key>
+		<string>80.000000</string>
+		<key>FinishedBatchVolume</key>
+		<string>18927.050781</string>
+		<key>MTThermalMass</key>
+		<string>680.400024</string>
+		<key>PostBoilVolume</key>
+		<string>25437.955078</string>
+		<key>PreBoilVolume</key>
+		<string>30283.279297</string>
+		<key>PreferredMashSchedule</key>
+		<string>107B5B7D-7D9C-4B21-B3E1-8E31AD1333B3</string>
+		<key>PreferredRecipeType</key>
+		<string>Full Mash</string>
+		<key>PreferredSpargeMethod</key>
+		<string>Batch Sparge</string>
+		<key>ProfileName</key>
+		<string>8 Gal - 80%</string>
+		<key>UUID</key>
+		<string>618E631F-BA4D-4D52-93E5-E6384318E94E</string>
+		<key>Version</key>
+		<string>2</string>
+		<key>VolumeAtPitching</key>
+		<string>20819.755859</string>
+		<key>VolumeToFermenter</key>
+		<string>20819.755859</string>
+		<key>VolumeWaterAdded</key>
+		<string>0.000000</string>
+		<key>WaterGrainRatio</key>
+		<string>3.338177</string>
+	</dict>
+	<key>RecipeTitle</key>
+	<string>Stevie's Session</string>
+	<key>Style</key>
+	<string>English Pale Ale-Standard/Ordinary Bitter</string>
+	<key>UUID</key>
+	<string>2BDAEEDC-4C29-4151-891C-65AB4B5D0011</string>
+	<key>VolumeAtPitching</key>
+	<string>20819.755859</string>
+	<key>VolumeToFermenter</key>
+	<string>20819.755859</string>
+	<key>VolumeWaterAdded</key>
+	<string>0.000000</string>
+	<key>WaterProfileUsed</key>
+	<string> No Water Profile Chosen</string>
+	<key>Yeast</key>
+	<string>Wyeast 1335-British Ale II</string>
+	<key>YeastAmount</key>
+	<string>1</string>
+</dict>
+</plist>

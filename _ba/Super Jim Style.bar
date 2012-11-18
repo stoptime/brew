@@ -1,0 +1,917 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Acid</key>
+	<string>Five Star 5.2</string>
+	<key>ApparentAttenuation</key>
+	<string>81.501236</string>
+	<key>Attenuation</key>
+	<string>81.580765</string>
+	<key>Batches</key>
+	<array>
+		<dict>
+			<key>Actuals</key>
+			<dict>
+				<key>ABV</key>
+				<string>4.839073</string>
+				<key>ABW</key>
+				<string>3.805373</string>
+				<key>ActualMashEfficiency</key>
+				<string>73.819412</string>
+				<key>ApparentAttenuation</key>
+				<string>78.437447</string>
+				<key>Color</key>
+				<string>5.695000</string>
+				<key>FG</key>
+				<string>1.009684</string>
+				<key>FGHydroReading</key>
+				<string>1.010000</string>
+				<key>FGTemp</key>
+				<string>13.333334</string>
+				<key>FermentationTemperature</key>
+				<string>10.000000</string>
+				<key>FinalBatchVolume</key>
+				<string>18927.050781</string>
+				<key>FinalWortVolume</key>
+				<string>22712.460938</string>
+				<key>HydrometerCalibratedAt</key>
+				<string>15.555555</string>
+				<key>IBU</key>
+				<string>22.251347</string>
+				<key>OG</key>
+				<string>1.046322</string>
+				<key>OGHydroReading</key>
+				<string>1.047000</string>
+				<key>OGTemp</key>
+				<string>10.000000</string>
+				<key>PreBoilGrav</key>
+				<string>1.038974</string>
+				<key>PreBoilHydroReading</key>
+				<string>1.033000</string>
+				<key>PreBoilTemp</key>
+				<string>37.777779</string>
+				<key>PreBoilWortVolume</key>
+				<string>30283.279297</string>
+				<key>RealAttenuation</key>
+				<string>64.255959</string>
+				<key>VolumeAtPitching</key>
+				<string>20819.755859</string>
+				<key>VolumeToFermenter</key>
+				<string>20819.755859</string>
+				<key>VolumeWaterAdded</key>
+				<string>0.000000</string>
+			</dict>
+			<key>AdjustedInventory</key>
+			<string>1.000000</string>
+			<key>BatchNotes</key>
+			<string>90 minites
+Stats from book:
+OG: 1.053
+FG: 1.010
+IBU: 20
+Pre-boil gravity: 1.045</string>
+			<key>BatchTitle</key>
+			<string>Batch 1 of Super Jim Style</string>
+			<key>BoilNotes</key>
+			<string></string>
+			<key>DateBrewed</key>
+			<date>2009-12-13T15:23:33Z</date>
+			<key>DateLastModified</key>
+			<date>2010-01-25T20:49:04Z</date>
+			<key>DatePackaged</key>
+			<date>2010-01-17T06:00:00Z</date>
+			<key>DateRacked</key>
+			<date>2010-01-01T06:00:00Z</date>
+			<key>DateReady</key>
+			<date>2010-01-17T06:00:00Z</date>
+			<key>FermentationNotes</key>
+			<string>1 pack in 2L starter for about a week, little less</string>
+			<key>MTThermalMass</key>
+			<string>680.400024</string>
+			<key>ModifiedRecipe</key>
+			<dict>
+				<key>Acid</key>
+				<string>Five Star 5.2</string>
+				<key>ApparentAttenuation</key>
+				<string>72.953102</string>
+				<key>Attenuation</key>
+				<string>73.000000</string>
+				<key>Batches</key>
+				<array/>
+				<key>BoilDuration</key>
+				<string>90.000000</string>
+				<key>CaCO3</key>
+				<string>0.0</string>
+				<key>CaCl2</key>
+				<string>0.0</string>
+				<key>CaSO4</key>
+				<string>0.0</string>
+				<key>Carbonation</key>
+				<string>Force Carbonated</string>
+				<key>CarbonationVolumes</key>
+				<string>2.50</string>
+				<key>Conditioning</key>
+				<string>Lagered for 4 weeks</string>
+				<key>DateLastModified</key>
+				<date>2009-10-24T17:40:54Z</date>
+				<key>ExpectedABV</key>
+				<string>5.166552</string>
+				<key>ExpectedABW</key>
+				<string>4.046318</string>
+				<key>ExpectedColor</key>
+				<string>5.695000</string>
+				<key>ExpectedFinalGravity</key>
+				<string>1.013821</string>
+				<key>ExpectedIBU</key>
+				<string>22.127110</string>
+				<key>ExpectedOriginalGravity</key>
+				<string>1.052796</string>
+				<key>ExpectedPreBoilGravity</key>
+				<string>1.039597</string>
+				<key>FermentableIngredients</key>
+				<array>
+					<dict>
+						<key>Amount</key>
+						<string>4762.694824</string>
+						<key>Batches</key>
+						<array>
+							<dict>
+								<key>Amount</key>
+								<string>4762.694824</string>
+								<key>AmountInStock</key>
+								<string>18370.394531</string>
+								<key>BatchName</key>
+								<string>Perfect Brew</string>
+								<key>Color</key>
+								<string>1.800000</string>
+								<key>DeliveredOn</key>
+								<date>2009-10-29T17:00:00Z</date>
+								<key>ExpiresOn</key>
+								<date>2010-10-29T13:20:08Z</date>
+								<key>Extract</key>
+								<string>80.000000</string>
+								<key>IngredientType</key>
+								<string>Fermentable</string>
+								<key>UUID</key>
+								<string>222AA53B-0E8E-4FEC-8807-5AA5E0D36346</string>
+							</dict>
+						</array>
+						<key>Color</key>
+						<string>1.800000</string>
+						<key>ColorForAdditionInEBC</key>
+						<string>10.655375</string>
+						<key>ColorForAdditionInSRM</key>
+						<string>5.408820</string>
+						<key>DateLastModified</key>
+						<date>2009-08-09T18:00:38Z</date>
+						<key>Extract</key>
+						<string>80.000000</string>
+						<key>Form</key>
+						<string>Loose Pellet Hops</string>
+						<key>GravityPointsForAddition</key>
+						<string>48.628326</string>
+						<key>Ingredient</key>
+						<string>US 2-Row Malt</string>
+						<key>IsGrain</key>
+						<string>1.000000</string>
+						<key>MCUForAddition</key>
+						<string>3.150000</string>
+						<key>MCUPercentage</key>
+						<string>94.974884</string>
+						<key>Minutes</key>
+						<string>0.000000</string>
+						<key>Moisture</key>
+						<string>4.000000</string>
+						<key>MustBeMashed</key>
+						<string>1.000000</string>
+						<key>Percentage</key>
+						<string>91.304352</string>
+						<key>UUID</key>
+						<string>F621AEFD-DEDE-4FA8-9CD3-DBBC939F43F8</string>
+						<key>When</key>
+						<string>In Mash/Steeped</string>
+					</dict>
+					<dict>
+						<key>Amount</key>
+						<string>453.589996</string>
+						<key>Color</key>
+						<string>1.000000</string>
+						<key>ColorForAdditionInEBC</key>
+						<string>0.563778</string>
+						<key>ColorForAdditionInSRM</key>
+						<string>0.286181</string>
+						<key>DateLastModified</key>
+						<date>2009-08-09T18:00:38Z</date>
+						<key>Extract</key>
+						<string>72.000000</string>
+						<key>Form</key>
+						<string>Loose Pellet Hops</string>
+						<key>GravityPointsForAddition</key>
+						<string>4.168142</string>
+						<key>Ingredient</key>
+						<string>US Flaked Rice</string>
+						<key>IsGrain</key>
+						<string>1.000000</string>
+						<key>MCUForAddition</key>
+						<string>0.166667</string>
+						<key>MCUPercentage</key>
+						<string>5.025136</string>
+						<key>Minutes</key>
+						<string>0.000000</string>
+						<key>Moisture</key>
+						<string>7.000000</string>
+						<key>MustBeMashed</key>
+						<string>1.000000</string>
+						<key>Percentage</key>
+						<string>8.695652</string>
+						<key>UUID</key>
+						<string>6069008A-5563-11DA-A625-001124CAE2A6</string>
+						<key>When</key>
+						<string>In Mash/Steeped</string>
+					</dict>
+				</array>
+				<key>FermentationTemperature</key>
+				<string>10.000000</string>
+				<key>FinalBatchVolume</key>
+				<string>18927.050781</string>
+				<key>FinalWortVolume</key>
+				<string>22712.460938</string>
+				<key>GravityForIBUCalcs</key>
+				<string>1.039597</string>
+				<key>HopIngredients</key>
+				<array>
+					<dict>
+						<key>Alpha</key>
+						<string>3.700000</string>
+						<key>Amount</key>
+						<string>38.197403</string>
+						<key>DateLastModified</key>
+						<date>2009-08-09T18:00:38Z</date>
+						<key>Form</key>
+						<string>Loose Pellet Hops</string>
+						<key>IBUForAddition</key>
+						<string>17.335955</string>
+						<key>Minutes</key>
+						<string>60</string>
+						<key>Percentage</key>
+						<string>0.000000</string>
+						<key>UUID</key>
+						<string>5F82B21A-1BD2-11DA-9896-001124CAE2A6</string>
+						<key>Variety</key>
+						<string>German Hallertauer Hersbrucker</string>
+						<key>When</key>
+						<string>60 Min From End</string>
+					</dict>
+					<dict>
+						<key>Alpha</key>
+						<string>3.700000</string>
+						<key>Amount</key>
+						<string>17.431417</string>
+						<key>DateLastModified</key>
+						<date>2009-08-09T18:00:38Z</date>
+						<key>Form</key>
+						<string>Loose Pellet Hops</string>
+						<key>IBUForAddition</key>
+						<string>4.791155</string>
+						<key>Minutes</key>
+						<string>20</string>
+						<key>Percentage</key>
+						<string>0.000000</string>
+						<key>UUID</key>
+						<string>5F82B21A-1BD2-11DA-9896-001124CAE2A6</string>
+						<key>Variety</key>
+						<string>German Hallertauer Hersbrucker</string>
+						<key>When</key>
+						<string>20 Min From End</string>
+					</dict>
+				</array>
+				<key>Mash pH</key>
+				<string>5.200000</string>
+				<key>MashEfficiency</key>
+				<string>75.000000</string>
+				<key>MashSchedule</key>
+				<dict>
+					<key>DateLastModified</key>
+					<date>2009-08-21T14:01:32Z</date>
+					<key>ScheduleName</key>
+					<string>Single Step Infusion (67C/152F)</string>
+					<key>Steps</key>
+					<array>
+						<dict>
+							<key>Duration</key>
+							<string>60.000000</string>
+							<key>StepType</key>
+							<string>Rest at</string>
+							<key>Temperature</key>
+							<string>66.666664</string>
+						</dict>
+					</array>
+					<key>UUID</key>
+					<string>107B5B7D-7D9C-4B21-B3E1-8E31AD1333B3</string>
+					<key>Version</key>
+					<string>3</string>
+				</dict>
+				<key>MashType</key>
+				<string>Full Mash</string>
+				<key>MashpH</key>
+				<string>5.2</string>
+				<key>MgSO4</key>
+				<string>0.0</string>
+				<key>NaCl</key>
+				<string>0.0</string>
+				<key>NaHCO3</key>
+				<string>0.0</string>
+				<key>Notes</key>
+				<string>May wish to dilute water 1:1 with distilled, and CC(?).
+
+MASH: May need to mash for 90 minutes to get full conversion.
+
+Stats from book:
+OG: 1.053
+FG: 1.010
+IBU: 20
+Color: 3 SRM
+5.7% ABV
+Pre-boil gravity: 1.045</string>
+				<key>OtherIngredients</key>
+				<array/>
+				<key>PreBoilWortVolume</key>
+				<string>30283.279297</string>
+				<key>Profile</key>
+				<dict>
+					<key>BoilDuration</key>
+					<string>90.000000</string>
+					<key>DateLastModified</key>
+					<date>2009-10-24T14:12:23Z</date>
+					<key>ExtractEfficiency</key>
+					<string>75.000000</string>
+					<key>FinishedBatchVolume</key>
+					<string>18927.050781</string>
+					<key>MTThermalMass</key>
+					<string>680.400024</string>
+					<key>PostBoilVolume</key>
+					<string>22712.460938</string>
+					<key>PreBoilVolume</key>
+					<string>30283.279297</string>
+					<key>PreferredMashSchedule</key>
+					<string>107B5B7D-7D9C-4B21-B3E1-8E31AD1333B3</string>
+					<key>PreferredRecipeType</key>
+					<string>Full Mash</string>
+					<key>PreferredSpargeMethod</key>
+					<string>Fly Sparge</string>
+					<key>ProfileName</key>
+					<string>8 Gal</string>
+					<key>UUID</key>
+					<string>618E631F-BA4D-4D52-93E5-E6384318E94E</string>
+					<key>Version</key>
+					<string>2</string>
+					<key>VolumeAtPitching</key>
+					<string>20819.755859</string>
+					<key>VolumeToFermenter</key>
+					<string>20819.755859</string>
+					<key>VolumeWaterAdded</key>
+					<string>0.000000</string>
+					<key>WaterGrainRatio</key>
+					<string>3.338177</string>
+				</dict>
+				<key>RecipeTitle</key>
+				<string>Super Jim Style</string>
+				<key>Style</key>
+				<string>Light Lager-Premium American Lager</string>
+				<key>UUID</key>
+				<string>1439E0DA-EFEE-42F9-A89F-7F353A0846C4</string>
+				<key>VolumeAtPitching</key>
+				<string>20819.755859</string>
+				<key>VolumeToFermenter</key>
+				<string>20819.755859</string>
+				<key>VolumeWaterAdded</key>
+				<string>0.000000</string>
+				<key>WaterProfileUsed</key>
+				<string>Pilsen (CZ)</string>
+				<key>Yeast</key>
+				<string>Wyeast 2007-Pilsen Lager</string>
+				<key>YeastAmount</key>
+				<string>4</string>
+			</dict>
+			<key>OriginalRecipe</key>
+			<dict>
+				<key>Acid</key>
+				<string>Five Star 5.2</string>
+				<key>ApparentAttenuation</key>
+				<string>81.501236</string>
+				<key>Attenuation</key>
+				<string>81.580765</string>
+				<key>BoilDuration</key>
+				<string>90.000000</string>
+				<key>CaCO3</key>
+				<string>0.0</string>
+				<key>CaCl2</key>
+				<string>0.0</string>
+				<key>CaSO4</key>
+				<string>0.0</string>
+				<key>Carbonation</key>
+				<string>Force Carbonated</string>
+				<key>CarbonationVolumes</key>
+				<string>2.50</string>
+				<key>Conditioning</key>
+				<string>Lagered for 4 weeks</string>
+				<key>DateLastModified</key>
+				<date>2009-10-24T17:40:54Z</date>
+				<key>ExpectedABV</key>
+				<string>5.746851</string>
+				<key>ExpectedABW</key>
+				<string>4.520437</string>
+				<key>ExpectedColor</key>
+				<string>5.695000</string>
+				<key>ExpectedFinalGravity</key>
+				<string>1.009416</string>
+				<key>ExpectedIBU</key>
+				<string>17.335955</string>
+				<key>ExpectedOriginalGravity</key>
+				<string>1.052796</string>
+				<key>ExpectedPreBoilGravity</key>
+				<string>1.039597</string>
+				<key>FermentableIngredients</key>
+				<array>
+					<dict>
+						<key>Amount</key>
+						<string>4762.694824</string>
+						<key>Color</key>
+						<string>1.800000</string>
+						<key>ColorForAdditionInEBC</key>
+						<string>13.193673</string>
+						<key>ColorForAdditionInSRM</key>
+						<string>5.408820</string>
+						<key>DateLastModified</key>
+						<date>2009-08-09T18:00:38Z</date>
+						<key>Extract</key>
+						<string>80.000000</string>
+						<key>Form</key>
+						<string>Loose Pellet Hops</string>
+						<key>GravityPointsForAddition</key>
+						<string>48.628326</string>
+						<key>Ingredient</key>
+						<string>US 2-Row Malt</string>
+						<key>IsGrain</key>
+						<string>1.000000</string>
+						<key>MCUForAddition</key>
+						<string>3.150000</string>
+						<key>MCUPercentage</key>
+						<string>94.974884</string>
+						<key>Minutes</key>
+						<string>0.000000</string>
+						<key>Moisture</key>
+						<string>4.000000</string>
+						<key>MustBeMashed</key>
+						<string>1.000000</string>
+						<key>Percentage</key>
+						<string>91.304352</string>
+						<key>UUID</key>
+						<string>F621AEFD-DEDE-4FA8-9CD3-DBBC939F43F8</string>
+						<key>When</key>
+						<string>In Mash/Steeped</string>
+					</dict>
+					<dict>
+						<key>Amount</key>
+						<string>453.589996</string>
+						<key>Color</key>
+						<string>1.000000</string>
+						<key>ColorForAdditionInEBC</key>
+						<string>0.698079</string>
+						<key>ColorForAdditionInSRM</key>
+						<string>0.286181</string>
+						<key>DateLastModified</key>
+						<date>2009-08-09T18:00:38Z</date>
+						<key>Extract</key>
+						<string>72.000000</string>
+						<key>Form</key>
+						<string>Loose Pellet Hops</string>
+						<key>GravityPointsForAddition</key>
+						<string>4.168142</string>
+						<key>Ingredient</key>
+						<string>US Flaked Rice</string>
+						<key>IsGrain</key>
+						<string>1.000000</string>
+						<key>MCUForAddition</key>
+						<string>0.166667</string>
+						<key>MCUPercentage</key>
+						<string>5.025136</string>
+						<key>Minutes</key>
+						<string>0.000000</string>
+						<key>Moisture</key>
+						<string>7.000000</string>
+						<key>MustBeMashed</key>
+						<string>1.000000</string>
+						<key>Percentage</key>
+						<string>8.695652</string>
+						<key>UUID</key>
+						<string>6069008A-5563-11DA-A625-001124CAE2A6</string>
+						<key>When</key>
+						<string>In Mash/Steeped</string>
+					</dict>
+				</array>
+				<key>FermentationTemperature</key>
+				<string>10.000000</string>
+				<key>FinalBatchVolume</key>
+				<string>18927.050781</string>
+				<key>FinalWortVolume</key>
+				<string>22712.460938</string>
+				<key>GravityForIBUCalcs</key>
+				<string>1.039597</string>
+				<key>HopIngredients</key>
+				<array>
+					<dict>
+						<key>Alpha</key>
+						<string>4.000000</string>
+						<key>Amount</key>
+						<string>35.332600</string>
+						<key>DateLastModified</key>
+						<date>2009-08-09T18:00:38Z</date>
+						<key>Form</key>
+						<string>Loose Pellet Hops</string>
+						<key>IBUForAddition</key>
+						<string>17.335955</string>
+						<key>Minutes</key>
+						<string>60</string>
+						<key>Percentage</key>
+						<string>0.000000</string>
+						<key>UUID</key>
+						<string>5F82B21A-1BD2-11DA-9896-001124CAE2A6</string>
+						<key>Variety</key>
+						<string>German Hallertauer Hersbrucker</string>
+						<key>When</key>
+						<string>60 Min From End</string>
+					</dict>
+				</array>
+				<key>MashEfficiency</key>
+				<string>75.000000</string>
+				<key>MashSchedule</key>
+				<dict>
+					<key>DateLastModified</key>
+					<date>2009-08-21T14:01:32Z</date>
+					<key>ScheduleName</key>
+					<string>Single Step Infusion (67C/152F)</string>
+					<key>Steps</key>
+					<array>
+						<dict>
+							<key>Duration</key>
+							<string>60.000000</string>
+							<key>StepType</key>
+							<string>Rest at</string>
+							<key>Temperature</key>
+							<string>66.666664</string>
+						</dict>
+					</array>
+					<key>UUID</key>
+					<string>107B5B7D-7D9C-4B21-B3E1-8E31AD1333B3</string>
+					<key>Version</key>
+					<string>3</string>
+				</dict>
+				<key>MashType</key>
+				<string>Full Mash</string>
+				<key>MashpH</key>
+				<string>5.2</string>
+				<key>MgSO4</key>
+				<string>0.0</string>
+				<key>NaCl</key>
+				<string>0.0</string>
+				<key>NaHCO3</key>
+				<string>0.0</string>
+				<key>Notes</key>
+				<string>May wish to dilute water 1:1 with distilled, and CC(?).
+
+MASH: May need to mash for 90 minutes to get full conversion.
+
+Stats from book:
+OG: 1.053
+FG: 1.010
+IBU: 20
+Color: 3 SRM
+5.7% ABV
+Pre-boil gravity: 1.045</string>
+				<key>OtherIngredients</key>
+				<array/>
+				<key>PreBoilWortVolume</key>
+				<string>30283.279297</string>
+				<key>Profile</key>
+				<dict>
+					<key>BoilDuration</key>
+					<string>90.000000</string>
+					<key>DateLastModified</key>
+					<date>2009-10-24T14:12:23Z</date>
+					<key>ExtractEfficiency</key>
+					<string>75.000000</string>
+					<key>FinishedBatchVolume</key>
+					<string>18927.050781</string>
+					<key>MTThermalMass</key>
+					<string>680.400024</string>
+					<key>PostBoilVolume</key>
+					<string>22712.460938</string>
+					<key>PreBoilVolume</key>
+					<string>30283.279297</string>
+					<key>PreferredMashSchedule</key>
+					<string>107B5B7D-7D9C-4B21-B3E1-8E31AD1333B3</string>
+					<key>PreferredRecipeType</key>
+					<string>Full Mash</string>
+					<key>PreferredSpargeMethod</key>
+					<string>Fly Sparge</string>
+					<key>ProfileName</key>
+					<string>8 Gal</string>
+					<key>UUID</key>
+					<string>618E631F-BA4D-4D52-93E5-E6384318E94E</string>
+					<key>Version</key>
+					<string>2</string>
+					<key>VolumeAtPitching</key>
+					<string>20819.755859</string>
+					<key>VolumeToFermenter</key>
+					<string>20819.755859</string>
+					<key>VolumeWaterAdded</key>
+					<string>0.000000</string>
+					<key>WaterGrainRatio</key>
+					<string>3.338177</string>
+				</dict>
+				<key>RecipeTitle</key>
+				<string>Super Jim Style</string>
+				<key>Style</key>
+				<string>Light Lager-Premium American Lager</string>
+				<key>UUID</key>
+				<string>1439E0DA-EFEE-42F9-A89F-7F353A0846C4</string>
+				<key>VolumeAtPitching</key>
+				<string>20819.755859</string>
+				<key>VolumeToFermenter</key>
+				<string>20819.755859</string>
+				<key>VolumeWaterAdded</key>
+				<string>0.000000</string>
+				<key>WaterProfileUsed</key>
+				<string>Pilsen (CZ)</string>
+				<key>Yeast</key>
+				<string>Wyeast 2007-Pilsen Lager</string>
+				<key>YeastAmount</key>
+				<string>4</string>
+			</dict>
+			<key>PackagingNotes</key>
+			<string>crashed to 36F on January 1, 2010</string>
+			<key>RoomTemperature</key>
+			<string>18.333334</string>
+			<key>SpargeMethod</key>
+			<string>Fly Sparge</string>
+			<key>TastingNotes</key>
+			<string></string>
+			<key>UUID</key>
+			<string>00DC24BC-B65D-4398-BB9F-8017FFCA27EB</string>
+			<key>WaterGrainRatio</key>
+			<string>3.338177</string>
+		</dict>
+	</array>
+	<key>BoilDuration</key>
+	<string>90.000000</string>
+	<key>CaCO3</key>
+	<string>0.0</string>
+	<key>CaCl2</key>
+	<string>0.0</string>
+	<key>CaSO4</key>
+	<string>0.0</string>
+	<key>Carbonation</key>
+	<string>Force Carbonated</string>
+	<key>CarbonationVolumes</key>
+	<string>2.50</string>
+	<key>Conditioning</key>
+	<string>Lagered for 4 weeks</string>
+	<key>DateLastModified</key>
+	<date>2010-01-01T00:59:26Z</date>
+	<key>ExpectedABV</key>
+	<string>5.746851</string>
+	<key>ExpectedABW</key>
+	<string>4.520437</string>
+	<key>ExpectedColor</key>
+	<string>5.695000</string>
+	<key>ExpectedFinalGravity</key>
+	<string>1.009416</string>
+	<key>ExpectedIBU</key>
+	<string>17.335955</string>
+	<key>ExpectedOriginalGravity</key>
+	<string>1.052796</string>
+	<key>ExpectedPreBoilGravity</key>
+	<string>1.039597</string>
+	<key>FermentableIngredients</key>
+	<array>
+		<dict>
+			<key>Amount</key>
+			<string>4762.694824</string>
+			<key>Color</key>
+			<string>1.800000</string>
+			<key>ColorForAdditionInEBC</key>
+			<string>10.655375</string>
+			<key>ColorForAdditionInSRM</key>
+			<string>5.408820</string>
+			<key>DateLastModified</key>
+			<date>2009-08-09T18:00:38Z</date>
+			<key>Extract</key>
+			<string>80.000000</string>
+			<key>Form</key>
+			<string>Loose Pellet Hops</string>
+			<key>GravityPointsForAddition</key>
+			<string>48.628326</string>
+			<key>Ingredient</key>
+			<string>US 2-Row Malt</string>
+			<key>IsGrain</key>
+			<string>1.000000</string>
+			<key>MCUForAddition</key>
+			<string>3.150000</string>
+			<key>MCUPercentage</key>
+			<string>94.974884</string>
+			<key>Minutes</key>
+			<string>0.000000</string>
+			<key>Moisture</key>
+			<string>4.000000</string>
+			<key>MustBeMashed</key>
+			<string>1.000000</string>
+			<key>Percentage</key>
+			<string>91.304352</string>
+			<key>UUID</key>
+			<string>F621AEFD-DEDE-4FA8-9CD3-DBBC939F43F8</string>
+			<key>When</key>
+			<string>In Mash/Steeped</string>
+		</dict>
+		<dict>
+			<key>Amount</key>
+			<string>453.589996</string>
+			<key>Color</key>
+			<string>1.000000</string>
+			<key>ColorForAdditionInEBC</key>
+			<string>0.563778</string>
+			<key>ColorForAdditionInSRM</key>
+			<string>0.286181</string>
+			<key>DateLastModified</key>
+			<date>2009-08-09T18:00:38Z</date>
+			<key>Extract</key>
+			<string>72.000000</string>
+			<key>Form</key>
+			<string>Loose Pellet Hops</string>
+			<key>GravityPointsForAddition</key>
+			<string>4.168142</string>
+			<key>Ingredient</key>
+			<string>US Flaked Rice</string>
+			<key>IsGrain</key>
+			<string>1.000000</string>
+			<key>MCUForAddition</key>
+			<string>0.166667</string>
+			<key>MCUPercentage</key>
+			<string>5.025136</string>
+			<key>Minutes</key>
+			<string>0.000000</string>
+			<key>Moisture</key>
+			<string>7.000000</string>
+			<key>MustBeMashed</key>
+			<string>1.000000</string>
+			<key>Percentage</key>
+			<string>8.695652</string>
+			<key>UUID</key>
+			<string>6069008A-5563-11DA-A625-001124CAE2A6</string>
+			<key>When</key>
+			<string>In Mash/Steeped</string>
+		</dict>
+	</array>
+	<key>FermentationTemperature</key>
+	<string>10.000000</string>
+	<key>FinalBatchVolume</key>
+	<string>18927.050781</string>
+	<key>FinalWortVolume</key>
+	<string>22712.460938</string>
+	<key>GravityForIBUCalcs</key>
+	<string>1.039597</string>
+	<key>HopIngredients</key>
+	<array>
+		<dict>
+			<key>Alpha</key>
+			<string>4.000000</string>
+			<key>Amount</key>
+			<string>35.332600</string>
+			<key>DateLastModified</key>
+			<date>2009-08-09T18:00:38Z</date>
+			<key>Form</key>
+			<string>Loose Pellet Hops</string>
+			<key>IBUForAddition</key>
+			<string>17.335955</string>
+			<key>Minutes</key>
+			<string>60</string>
+			<key>Percentage</key>
+			<string>0.000000</string>
+			<key>UUID</key>
+			<string>5F82B21A-1BD2-11DA-9896-001124CAE2A6</string>
+			<key>Variety</key>
+			<string>German Hallertauer Hersbrucker</string>
+			<key>When</key>
+			<string>60 Min From End</string>
+		</dict>
+	</array>
+	<key>MashEfficiency</key>
+	<string>75.000000</string>
+	<key>MashSchedule</key>
+	<dict>
+		<key>DateLastModified</key>
+		<date>2009-08-21T14:01:32Z</date>
+		<key>ScheduleName</key>
+		<string>Single Step Infusion (67C/152F)</string>
+		<key>Steps</key>
+		<array>
+			<dict>
+				<key>Duration</key>
+				<string>60.000000</string>
+				<key>StepType</key>
+				<string>Rest at</string>
+				<key>Temperature</key>
+				<string>66.666664</string>
+			</dict>
+		</array>
+		<key>UUID</key>
+		<string>107B5B7D-7D9C-4B21-B3E1-8E31AD1333B3</string>
+		<key>Version</key>
+		<string>3</string>
+	</dict>
+	<key>MashType</key>
+	<string>Full Mash</string>
+	<key>MashpH</key>
+	<string>5.2</string>
+	<key>MgSO4</key>
+	<string>0.0</string>
+	<key>NaCl</key>
+	<string>0.0</string>
+	<key>NaHCO3</key>
+	<string>0.0</string>
+	<key>Notes</key>
+	<string>May wish to dilute water 1:1 with distilled, and CC(?).
+
+MASH: May need to mash for 90 minutes to get full conversion.
+
+Stats from book:
+OG: 1.053
+FG: 1.010
+IBU: 20
+Color: 3 SRM
+5.7% ABV
+Pre-boil gravity: 1.045
+
+*** ADD 2oz MUNICH??? ****</string>
+	<key>OtherIngredients</key>
+	<array/>
+	<key>PreBoilWortVolume</key>
+	<string>30283.279297</string>
+	<key>Profile</key>
+	<dict>
+		<key>BoilDuration</key>
+		<string>90.000000</string>
+		<key>DateLastModified</key>
+		<date>2009-10-24T14:12:23Z</date>
+		<key>ExtractEfficiency</key>
+		<string>75.000000</string>
+		<key>FinishedBatchVolume</key>
+		<string>18927.050781</string>
+		<key>MTThermalMass</key>
+		<string>680.400024</string>
+		<key>PostBoilVolume</key>
+		<string>22712.460938</string>
+		<key>PreBoilVolume</key>
+		<string>30283.279297</string>
+		<key>PreferredMashSchedule</key>
+		<string>107B5B7D-7D9C-4B21-B3E1-8E31AD1333B3</string>
+		<key>PreferredRecipeType</key>
+		<string>Full Mash</string>
+		<key>PreferredSpargeMethod</key>
+		<string>Fly Sparge</string>
+		<key>ProfileName</key>
+		<string>8 Gal</string>
+		<key>UUID</key>
+		<string>618E631F-BA4D-4D52-93E5-E6384318E94E</string>
+		<key>Version</key>
+		<string>2</string>
+		<key>VolumeAtPitching</key>
+		<string>20819.755859</string>
+		<key>VolumeToFermenter</key>
+		<string>20819.755859</string>
+		<key>VolumeWaterAdded</key>
+		<string>0.000000</string>
+		<key>WaterGrainRatio</key>
+		<string>3.338177</string>
+	</dict>
+	<key>RecipeTitle</key>
+	<string>Super Jim Style</string>
+	<key>Style</key>
+	<string>Light Lager-Premium American Lager</string>
+	<key>UUID</key>
+	<string>1439E0DA-EFEE-42F9-A89F-7F353A0846C4</string>
+	<key>VolumeAtPitching</key>
+	<string>20819.755859</string>
+	<key>VolumeToFermenter</key>
+	<string>20819.755859</string>
+	<key>VolumeWaterAdded</key>
+	<string>0.000000</string>
+	<key>WaterProfileUsed</key>
+	<string>Pilsen (CZ)</string>
+	<key>Yeast</key>
+	<string>Wyeast 2007-Pilsen Lager</string>
+	<key>YeastAmount</key>
+	<string>4</string>
+</dict>
+</plist>
