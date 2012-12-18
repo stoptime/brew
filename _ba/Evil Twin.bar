@@ -1549,21 +1549,21 @@
 			<key>Actuals</key>
 			<dict>
 				<key>ABV</key>
-				<string>8.498507</string>
+				<string>6.396550</string>
 				<key>ABW</key>
-				<string>6.748381</string>
+				<string>4.999690</string>
 				<key>ActualMashEfficiency</key>
 				<string>73.690155</string>
 				<key>ApparentAttenuation</key>
-				<string>100.119438</string>
+				<string>74.175735</string>
 				<key>Color</key>
 				<string>14.932800</string>
 				<key>FG</key>
-				<string>0.999916</string>
+				<string>1.015835</string>
 				<key>FGHydroReading</key>
-				<string>1.000000</string>
+				<string>1.016000</string>
 				<key>FGTemp</key>
-				<string>15.0</string>
+				<string>14.444445</string>
 				<key>FermentationTemperature</key>
 				<string>20.000000</string>
 				<key>FinalBatchVolume</key>
@@ -1589,7 +1589,7 @@
 				<key>PreBoilWortVolume</key>
 				<string>62459.265625</string>
 				<key>RealAttenuation</key>
-				<string>82.017838</string>
+				<string>60.764763</string>
 				<key>VolumeAtPitching</key>
 				<string>45424.921875</string>
 				<key>VolumeToFermenter</key>
@@ -1598,7 +1598,7 @@
 				<string>0.000000</string>
 			</dict>
 			<key>AdjustedInventory</key>
-			<string>0</string>
+			<string>1</string>
 			<key>BatchNotes</key>
 			<string>EZ Water: 2 tsp phos acid to mash water &amp; 1g gypsum/2g CC to each mash tun. </string>
 			<key>BatchTitle</key>
@@ -1608,7 +1608,7 @@
 			<key>DateBrewed</key>
 			<date>2012-11-18T06:00:00Z</date>
 			<key>DateLastModified</key>
-			<date>2012-11-18T22:23:46Z</date>
+			<date>2012-12-15T19:11:40Z</date>
 			<key>DatePackaged</key>
 			<date>2012-11-18T06:00:00Z</date>
 			<key>DateRacked</key>
@@ -1616,7 +1616,8 @@
 			<key>DateReady</key>
 			<date>2012-11-18T06:00:00Z</date>
 			<key>FermentationNotes</key>
-			<string>split between 001 (1L starter, fresh) and 1056 (2L starter)</string>
+			<string>split between 001 (1L starter, fresh) and 1056 (2L starter)
+001 finished at 1.019 (6% abv), 1056 at 1.016</string>
 			<key>MTThermalMass</key>
 			<string>680.400024</string>
 			<key>ModifiedRecipe</key>
@@ -1794,7 +1795,7 @@
 						<array>
 							<dict>
 								<key>Amount</key>
-								<string>0.0</string>
+								<string>765.430054</string>
 								<key>AmountInStock</key>
 								<string>907.200012</string>
 								<key>BatchName</key>
@@ -1814,9 +1815,9 @@
 							</dict>
 							<dict>
 								<key>Amount</key>
-								<string>0.0</string>
+								<string>141.749908</string>
 								<key>AmountInStock</key>
-								<string>453.600006</string>
+								<string>141.749908</string>
 								<key>BatchName</key>
 								<string>Cargil</string>
 								<key>Color</key>
@@ -1832,26 +1833,6 @@
 								<key>UUID</key>
 								<string>8CC777B9-32D5-4BBE-BFE9-76CEB384C873</string>
 							</dict>
-							<dict>
-								<key>Amount</key>
-								<string>907.179993</string>
-								<key>AmountInStock</key>
-								<string>1048.949951</string>
-								<key>BatchName</key>
-								<string>RB Weyerman</string>
-								<key>Color</key>
-								<string>9.000000</string>
-								<key>DeliveredOn</key>
-								<date>2012-05-27T17:00:00Z</date>
-								<key>ExpiresOn</key>
-								<date>2013-05-27T12:49:00Z</date>
-								<key>Extract</key>
-								<string>81.000000</string>
-								<key>IngredientType</key>
-								<string>Fermentable</string>
-								<key>UUID</key>
-								<string>B9927B52-5E17-4B48-AFFC-82924A198C64</string>
-							</dict>
 						</array>
 						<key>Color</key>
 						<string>9.000000</string>
@@ -1864,7 +1845,7 @@
 						<key>Description</key>
 						<string>Munich malt is a base malt that provides a malty, grainy flavor. Whilst it can self-convert, it has lower enzyme levels than pale or pilsner malts.</string>
 						<key>Extract</key>
-						<string>81.000000</string>
+						<string>81.000008</string>
 						<key>Form</key>
 						<string>Loose Pellet Hops</string>
 						<key>GravityPointsForAddition</key>
@@ -2721,7 +2702,7 @@ Single infusion mash at 154F (68C) using a ratio of 1.3 quarts water to 1 pound 
 					<key>BoilDuration</key>
 					<string>60.000000</string>
 					<key>DateLastModified</key>
-					<date>2012-11-15T19:56:18Z</date>
+					<date>2012-12-15T19:11:34Z</date>
 					<key>ExtractEfficiency</key>
 					<string>75</string>
 					<key>FinishedBatchVolume</key>
@@ -2739,9 +2720,9 @@ Single infusion mash at 154F (68C) using a ratio of 1.3 quarts water to 1 pound 
 					<key>PreferredSpargeMethod</key>
 					<string>Batch Sparge</string>
 					<key>ProfileName</key>
-					<string>16.5g -154F - 72%</string>
+					<string>Specific to this batch</string>
 					<key>UUID</key>
-					<string>E1E78053-7F05-4FED-BD09-09193EA88DF4</string>
+					<string>BATCH</string>
 					<key>Version</key>
 					<string>2</string>
 					<key>VolumeAtPitching</key>
@@ -3237,7 +3218,7 @@ Single infusion mash at 154F (68C) using a ratio of 1.3 quarts water to 1 pound 
 					<key>BoilDuration</key>
 					<string>90</string>
 					<key>DateLastModified</key>
-					<date>2012-11-18T19:01:55Z</date>
+					<date>2012-12-15T19:11:34Z</date>
 					<key>ExtractEfficiency</key>
 					<string>75.000000</string>
 					<key>FinishedBatchVolume</key>
