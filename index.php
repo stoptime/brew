@@ -14,32 +14,38 @@ if ($handle = opendir($dir)) {
 			// else we have a batch
 			else {
 				// get the recipe name
-				$r = explode('-', $name[0]);
-				$recipes[$r[0]][] = $entry;
+				$r = explode('-batch', $name[0]);
+				if (!array_key_exists($r[0], $recipes))
+					$recipes[$r[0]] = null;
+
+				$recipes[$r[0]][] = rtrim($entry, '.html');
 			}
 		}
 	}
 	closedir($handle);
 }
 ksort($recipes);
-//var_dump($recipes);
+//echo '<pre>'; print_r($recipes); echo '</pre>';
 $content = '';
 
 foreach ($recipes as $key => $value) {
-	asort($value);
+	//echo "<pre>"; var_dump($value); echo '</pre>';
 	$content .= '<ul>';
 	$content .= sprintf('<li><b><a href="%s/%s.html">%s</a></b>', $dir, str_replace(' ', '%20', $key), $key);
 	if (isset($value)) {
 		$content .=  '<ul>';
-		foreach ($value as $k => $v) {
-			// we only want the batch
-			$v = trim($v);
-			$n = explode('-', $v);
-			$l = count($n);
-			// strip the html
-			$final_name = explode('.', $n[$l-1]);
-			$content .= sprintf('<li><a href="%s/%s">%s</a></li>', $dir, str_replace(' ', '%20', $v), $final_name[0]);
+		if (is_array($value)) {
+			asort($value);
+			foreach ($value as $k => $v) {
+				// we only want the batch
+				$v = trim($v);
+				$n = explode('-', $v);
+				$l = count($n);
+				$content .= sprintf('<li><a href="%s/%s.html">Batch %s</a></li>', $dir, $v, $n[$l-1]);
+			}
 		}
+		else
+			var_dump($value);
 		$content .= '</ul>';
 	}
 	$content .= "</li>";
@@ -56,7 +62,7 @@ foreach ($recipes as $key => $value) {
 		<style type="text/css" media="screen">
 			body {
 				font-family: helvetica;
-				color: #aaa;
+				color: #333;
 				font-size: 85%;
 				padding-bottom: 50px;
 			}
