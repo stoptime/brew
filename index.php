@@ -31,7 +31,7 @@ $content = '';
 foreach ($recipes as $key => $value) {
 	//echo "<pre>"; var_dump($value); echo '</pre>';
 	$content .= '<ul>';
-	$content .= sprintf('<li><b><a href="%s/%s.html">%s</a></b>', $dir, str_replace(' ', '%20', $key), $key);
+	$content .= sprintf('<li><b><a href="%s/%s.html">%s</a></b>', $dir, $key, $key);
 	if (isset($value)) {
 		$content .=  '<ul>';
 		if (is_array($value)) {
@@ -41,11 +41,11 @@ foreach ($recipes as $key => $value) {
 				$v = trim($v);
 				$n = explode('-', $v);
 				$l = count($n);
-				$content .= sprintf('<li><a href="%s/%s.html">Batch %s</a></li>', $dir, $v, $n[$l-1]);
+				$content .= sprintf('<li><a class="batch" href="%s/%s.html"><span>Batch %s</span></a></li>', $dir, $v, $n[$l-1]);
 			}
 		}
 		else
-			var_dump($value);
+			var_dump($value); // something went wrong
 		$content .= '</ul>';
 	}
 	$content .= "</li>";
@@ -86,11 +86,24 @@ foreach ($recipes as $key => $value) {
 		<h1>Matt's Homebrew Recipes</h1>
 		<?=$content?>
 	</body>
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
+	<script>
+	$(document).ready(function() {
+		$('a.batch').each(function(){
+			var batch_link = $(this);
+		    $.get($(batch_link).attr('href'), function(data) {
+		        var real_title = $(data).filter('p.recipeTitle').text();
+				if (real_title.slice(0,5) != 'Batch') {
+					$(batch_link).find('span').hide().text(real_title).fadeIn();
+				}
+		    });
+		});
+	});
+	</script>
 </html>
 
 
 
-	
 	
 	
 	
