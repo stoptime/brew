@@ -1186,19 +1186,19 @@ Can dial up rauch malt to you pref - JZ prefers 50%.</string>
 			<key>Actuals</key>
 			<dict>
 				<key>ABV</key>
-				<string>6.514267</string>
+				<string>6.250122</string>
 				<key>ABW</key>
-				<string>5.116051</string>
+				<string>4.898911</string>
 				<key>ActualMashEfficiency</key>
 				<string>56.350281</string>
 				<key>ApparentAttenuation</key>
-				<string>80.895218</string>
+				<string>77.461777</string>
 				<key>Color</key>
 				<string>13.975739</string>
 				<key>FG</key>
-				<string>1.011000</string>
+				<string>1.013000</string>
 				<key>FGHydroReading</key>
-				<string>1.011000</string>
+				<string>1.013000</string>
 				<key>FGTemp</key>
 				<string>15.555555</string>
 				<key>FermentationTemperature</key>
@@ -1226,7 +1226,7 @@ Can dial up rauch malt to you pref - JZ prefers 50%.</string>
 				<key>PreBoilWortVolume</key>
 				<string>56781.148438</string>
 				<key>RealAttenuation</key>
-				<string>66.269363</string>
+				<string>63.456692</string>
 				<key>VolumeAtPitching</key>
 				<string>44478.566406</string>
 				<key>VolumeToFermenter</key>
@@ -1248,7 +1248,7 @@ After 5 minutes and a stir, mash was at 150F and 5.3ph.
 			<key>DateBrewed</key>
 			<date>2012-12-01T06:00:00Z</date>
 			<key>DateLastModified</key>
-			<date>2012-12-15T19:11:24Z</date>
+			<date>2012-12-19T00:35:48Z</date>
 			<key>DatePackaged</key>
 			<date>2012-12-01T06:00:00Z</date>
 			<key>DateRacked</key>

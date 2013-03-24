@@ -1668,7 +1668,7 @@
 				<string>0.000000</string>
 			</dict>
 			<key>AdjustedInventory</key>
-			<string>0</string>
+			<string>1</string>
 			<key>BatchNotes</key>
 			<string>Totally f'ed 1st mash, for second try had water right at 5.4ish. No cc in mash. 2nd mash was better, but had tube disconnect from false bottom in 1 cooler.</string>
 			<key>BatchTitle</key>
@@ -1678,7 +1678,7 @@
 			<key>DateBrewed</key>
 			<date>2012-10-21T14:19:37Z</date>
 			<key>DateLastModified</key>
-			<date>2012-11-04T21:56:28Z</date>
+			<date>2013-01-13T22:07:39Z</date>
 			<key>DatePackaged</key>
 			<date>2012-11-04T05:00:00Z</date>
 			<key>DateRacked</key>
@@ -1740,7 +1740,7 @@
 								<key>Amount</key>
 								<string>6350.259766</string>
 								<key>AmountInStock</key>
-								<string>18144.021484</string>
+								<string>17690.431641</string>
 								<key>BatchName</key>
 								<string>Briess</string>
 								<key>Color</key>

@@ -2565,21 +2565,21 @@ Yeast was Wyeast 1335 British Ale II. Primary was 10 days, then just over 2 week
 			<key>Actuals</key>
 			<dict>
 				<key>ABV</key>
-				<string>6.199664</string>
+				<string>4.683559</string>
 				<key>ABW</key>
-				<string>4.922946</string>
+				<string>3.676558</string>
 				<key>ActualMashEfficiency</key>
 				<string>80.198616</string>
 				<key>ApparentAttenuation</key>
-				<string>100.160202</string>
+				<string>74.801697</string>
 				<key>Color</key>
 				<string>5.796968</string>
 				<key>FG</key>
-				<string>0.999916</string>
+				<string>1.011475</string>
 				<key>FGHydroReading</key>
-				<string>1.000000</string>
+				<string>1.011000</string>
 				<key>FGTemp</key>
-				<string>15.0</string>
+				<string>18.333334</string>
 				<key>FermentationTemperature</key>
 				<string>20.000000</string>
 				<key>FinalBatchVolume</key>
@@ -2605,7 +2605,7 @@ Yeast was Wyeast 1335 British Ale II. Primary was 10 days, then just over 2 week
 				<key>PreBoilWortVolume</key>
 				<string>56781.148438</string>
 				<key>RealAttenuation</key>
-				<string>82.051239</string>
+				<string>61.277550</string>
 				<key>VolumeAtPitching</key>
 				<string>45424.921875</string>
 				<key>VolumeToFermenter</key>
@@ -2624,7 +2624,7 @@ Yeast was Wyeast 1335 British Ale II. Primary was 10 days, then just over 2 week
 			<key>DateBrewed</key>
 			<date>2012-12-15T06:00:00Z</date>
 			<key>DateLastModified</key>
-			<date>2012-12-15T23:29:28Z</date>
+			<date>2012-12-22T00:35:54Z</date>
 			<key>DatePackaged</key>
 			<date>2012-12-15T06:00:00Z</date>
 			<key>DateRacked</key>
@@ -2632,7 +2632,8 @@ Yeast was Wyeast 1335 British Ale II. Primary was 10 days, then just over 2 week
 			<key>DateReady</key>
 			<date>2012-12-15T06:00:00Z</date>
 			<key>FermentationNotes</key>
-			<string>Aired for 30sec, WL starter smelled buttery. Pitched mid 60s.</string>
+			<string>Aired for 30sec, WL starter smelled buttery. Pitched mid 60s.
+12/18 - Wyeast finished great at 1.013, 005 at 1.020 - sweet but clean, jacked temp control to 74F - actual beer temp was 65F even though set at 70F, hmmmm. Got down to 1.013</string>
 			<key>MTThermalMass</key>
 			<string>680.400024</string>
 			<key>ModifiedRecipe</key>

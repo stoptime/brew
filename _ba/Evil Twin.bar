@@ -1608,7 +1608,7 @@
 			<key>DateBrewed</key>
 			<date>2012-11-18T06:00:00Z</date>
 			<key>DateLastModified</key>
-			<date>2012-12-15T19:11:40Z</date>
+			<date>2013-03-03T20:09:03Z</date>
 			<key>DatePackaged</key>
 			<date>2012-11-18T06:00:00Z</date>
 			<key>DateRacked</key>
@@ -2702,7 +2702,7 @@ Single infusion mash at 154F (68C) using a ratio of 1.3 quarts water to 1 pound 
 					<key>BoilDuration</key>
 					<string>60.000000</string>
 					<key>DateLastModified</key>
-					<date>2012-12-15T19:11:34Z</date>
+					<date>2013-03-03T20:08:27Z</date>
 					<key>ExtractEfficiency</key>
 					<string>75</string>
 					<key>FinishedBatchVolume</key>
@@ -3218,7 +3218,7 @@ Single infusion mash at 154F (68C) using a ratio of 1.3 quarts water to 1 pound 
 					<key>BoilDuration</key>
 					<string>90</string>
 					<key>DateLastModified</key>
-					<date>2012-12-15T19:11:34Z</date>
+					<date>2013-03-03T20:08:27Z</date>
 					<key>ExtractEfficiency</key>
 					<string>75.000000</string>
 					<key>FinishedBatchVolume</key>
@@ -3276,7 +3276,7 @@ Single infusion mash at 154F (68C) using a ratio of 1.3 quarts water to 1 pound 
 			<key>SpargeMethod</key>
 			<string>Batch Sparge</string>
 			<key>TastingNotes</key>
-			<string></string>
+			<string>Non-dry hopped version (1056) took 2 bronzes (Barons and KS), one judge wanted more hops.</string>
 			<key>UUID</key>
 			<string>CB0FC95C-79DB-4D69-A74D-0E28597538C2</string>
 			<key>WaterGrainRatio</key>
