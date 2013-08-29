@@ -14,21 +14,21 @@
 			<key>Actuals</key>
 			<dict>
 				<key>ABV</key>
-				<string>7.011830</string>
+				<string>4.800809</string>
 				<key>ABW</key>
-				<string>5.566926</string>
+				<string>3.748855</string>
 				<key>ActualMashEfficiency</key>
-				<string>69.743576</string>
+				<string>69.607536</string>
 				<key>ApparentAttenuation</key>
-				<string>99.811836</string>
+				<string>67.324081</string>
 				<key>Color</key>
 				<string>6.481289</string>
 				<key>FG</key>
-				<string>1.000084</string>
+				<string>1.016802</string>
 				<key>FGHydroReading</key>
-				<string>1.000000</string>
+				<string>1.016000</string>
 				<key>FGTemp</key>
-				<string>15.555555</string>
+				<string>20.000000</string>
 				<key>FermentationTemperature</key>
 				<string>18.0</string>
 				<key>FinalBatchVolume</key>
@@ -36,17 +36,17 @@
 				<key>FinalWortVolume</key>
 				<string>25437.955078</string>
 				<key>HydrometerCalibratedAt</key>
-				<string>15.0</string>
+				<string>15.555555</string>
 				<key>IBU</key>
-				<string>43.413700</string>
+				<string>43.446503</string>
 				<key>OG</key>
-				<string>1.053084</string>
+				<string>1.053000</string>
 				<key>OGHydroReading</key>
 				<string>1.053000</string>
 				<key>OGTemp</key>
 				<string>15.555555</string>
 				<key>PreBoilGrav</key>
-				<string>1.043084</string>
+				<string>1.043000</string>
 				<key>PreBoilHydroReading</key>
 				<string>1.043000</string>
 				<key>PreBoilTemp</key>
@@ -54,7 +54,7 @@
 				<key>PreBoilWortVolume</key>
 				<string>30283.279297</string>
 				<key>RealAttenuation</key>
-				<string>81.765854</string>
+				<string>55.151886</string>
 				<key>VolumeAtPitching</key>
 				<string>20819.755859</string>
 				<key>VolumeToFermenter</key>
@@ -63,7 +63,7 @@
 				<string>0.000000</string>
 			</dict>
 			<key>AdjustedInventory</key>
-			<string>0</string>
+			<string>1</string>
 			<key>BatchNotes</key>
 			<string>C40 was british. 2 gallons distilled into 5.25 1st sparge, php down to 6ish on both sparges. 2g each of cc and gyp. Put foil over mash for sparge - bumped to 76% (1.047), added .25 gallons water back to bring down.</string>
 			<key>BatchTitle</key>
@@ -73,13 +73,13 @@
 			<key>DateBrewed</key>
 			<date>2013-04-28T17:43:42Z</date>
 			<key>DateLastModified</key>
-			<date>2013-04-28T22:45:12Z</date>
+			<date>2013-05-09T12:55:58Z</date>
 			<key>DatePackaged</key>
-			<date>2013-04-28T17:43:42Z</date>
+			<date>2013-05-09T05:00:00Z</date>
 			<key>DateRacked</key>
 			<date>2013-04-28T17:43:42Z</date>
 			<key>DateReady</key>
-			<date>2013-04-28T17:43:42Z</date>
+			<date>2013-05-22T05:00:00Z</date>
 			<key>FermentationNotes</key>
 			<string>Pitched on shakes yeast cake, started at 62F with O2.</string>
 			<key>MTThermalMass</key>
@@ -604,7 +604,7 @@
 					<key>PreferredRecipeType</key>
 					<string>Full Mash</string>
 					<key>PreferredSpargeMethod</key>
-					<string>Fly Sparge</string>
+					<string>Batch Sparge</string>
 					<key>ProfileName</key>
 					<string>8 Gal - 70%</string>
 					<key>UUID</key>

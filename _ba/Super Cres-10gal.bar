@@ -14,19 +14,19 @@
 			<key>Actuals</key>
 			<dict>
 				<key>ABV</key>
-				<string>8.466784</string>
+				<string>7.147895</string>
 				<key>ABW</key>
-				<string>6.722627</string>
+				<string>5.619236</string>
 				<key>ActualMashEfficiency</key>
 				<string>60.985729</string>
 				<key>ApparentAttenuation</key>
-				<string>99.980766</string>
+				<string>83.570824</string>
 				<key>Color</key>
 				<string>6.869644</string>
 				<key>FG</key>
-				<string>1.000000</string>
+				<string>1.010000</string>
 				<key>FGHydroReading</key>
-				<string>1.000000</string>
+				<string>1.010000</string>
 				<key>FGTemp</key>
 				<string>15.555555</string>
 				<key>FermentationTemperature</key>
@@ -38,7 +38,7 @@
 				<key>HydrometerCalibratedAt</key>
 				<string>15.555555</string>
 				<key>IBU</key>
-				<string>179.999634</string>
+				<string>185.998184</string>
 				<key>OG</key>
 				<string>1.063684</string>
 				<key>OGHydroReading</key>
@@ -54,7 +54,7 @@
 				<key>PreBoilWortVolume</key>
 				<string>60566.558594</string>
 				<key>RealAttenuation</key>
-				<string>81.904243</string>
+				<string>68.461212</string>
 				<key>VolumeAtPitching</key>
 				<string>41639.511719</string>
 				<key>VolumeToFermenter</key>
@@ -63,7 +63,7 @@
 				<string>0.000000</string>
 			</dict>
 			<key>AdjustedInventory</key>
-			<string>0</string>
+			<string>1</string>
 			<key>BatchNotes</key>
 			<string>5 gals distilled in main mash; 2g each cc and gyp in each tun. Mashed in bit higher (164/5ish) to nail 152ish. Water down to ph 6ish.</string>
 			<key>BatchTitle</key>
@@ -73,15 +73,15 @@
 			<key>DateBrewed</key>
 			<date>2013-03-23T17:18:13Z</date>
 			<key>DateLastModified</key>
-			<date>2013-03-23T23:42:09Z</date>
+			<date>2013-05-11T15:52:39Z</date>
 			<key>DatePackaged</key>
-			<date>2013-03-23T17:18:13Z</date>
+			<date>2013-04-27T05:00:00Z</date>
 			<key>DateRacked</key>
-			<date>2013-03-23T17:18:13Z</date>
+			<date>2013-04-14T05:00:00Z</date>
 			<key>DateReady</key>
-			<date>2013-03-23T17:18:13Z</date>
+			<date>2013-05-02T05:00:00Z</date>
 			<key>FermentationNotes</key>
-			<string>Great tasting wort!</string>
+			<string>Great tasting wort! 1.5L starters - fresh yeast, kept having to change out foil. May have over aerated (30 seconds)</string>
 			<key>MTThermalMass</key>
 			<string>680.400024</string>
 			<key>ModifiedRecipe</key>
@@ -119,7 +119,7 @@
 				<key>ExpectedFinalGravity</key>
 				<string>1.015246</string>
 				<key>ExpectedIBU</key>
-				<string>169.318115</string>
+				<string>174.960693</string>
 				<key>ExpectedOriginalGravity</key>
 				<string>1.063415</string>
 				<key>ExpectedPreBoilGravity</key>
@@ -129,6 +129,29 @@
 					<dict>
 						<key>Amount</key>
 						<string>11793.339844</string>
+						<key>Batches</key>
+						<array>
+							<dict>
+								<key>Amount</key>
+								<string>11793.339844</string>
+								<key>AmountInStock</key>
+								<string>22309.234375</string>
+								<key>BatchName</key>
+								<string>Rahr</string>
+								<key>Color</key>
+								<string>1.800000</string>
+								<key>DeliveredOn</key>
+								<date>2013-04-07T17:00:00Z</date>
+								<key>ExpiresOn</key>
+								<date>2014-04-07T15:54:39Z</date>
+								<key>Extract</key>
+								<string>80.000000</string>
+								<key>IngredientType</key>
+								<string>Fermentable</string>
+								<key>UUID</key>
+								<string>7E0BA703-828F-44AA-BBF6-E2AAA1ED7A0E</string>
+							</dict>
+						</array>
 						<key>Color</key>
 						<string>1.800000</string>
 						<key>ColorForAdditionInEBC</key>
@@ -167,29 +190,6 @@
 					<dict>
 						<key>Amount</key>
 						<string>2267.949951</string>
-						<key>Batches</key>
-						<array>
-							<dict>
-								<key>Amount</key>
-								<string>2267.949951</string>
-								<key>AmountInStock</key>
-								<string>3775.631836</string>
-								<key>BatchName</key>
-								<string>New Batch</string>
-								<key>Color</key>
-								<string>2.500000</string>
-								<key>DeliveredOn</key>
-								<date>2012-11-15T19:58:03Z</date>
-								<key>ExpiresOn</key>
-								<date>2013-11-15T19:58:03Z</date>
-								<key>Extract</key>
-								<string>80.000000</string>
-								<key>IngredientType</key>
-								<string>Fermentable</string>
-								<key>UUID</key>
-								<string>F5AA5779-9794-471A-80A3-FFB4AF5D5963</string>
-							</dict>
-						</array>
 						<key>Color</key>
 						<string>2.500000</string>
 						<key>ColorForAdditionInEBC</key>
@@ -272,7 +272,7 @@
 								<key>Amount</key>
 								<string>453.589996</string>
 								<key>AmountInStock</key>
-								<string>907.179993</string>
+								<string>453.589996</string>
 								<key>BatchName</key>
 								<string>MidWest</string>
 								<key>Color</key>
@@ -368,7 +368,7 @@
 								<key>Amount</key>
 								<string>42.525002</string>
 								<key>AmountInStock</key>
-								<string>453.589996</string>
+								<string>212.615005</string>
 								<key>BatchName</key>
 								<string>FH leaf</string>
 								<key>DeliveredOn</key>
@@ -433,7 +433,7 @@
 								<key>Amount</key>
 								<string>141.750000</string>
 								<key>AmountInStock</key>
-								<string>411.065002</string>
+								<string>170.089996</string>
 								<key>BatchName</key>
 								<string>FH leaf</string>
 								<key>DeliveredOn</key>
@@ -467,7 +467,7 @@
 					</dict>
 					<dict>
 						<key>Alpha</key>
-						<string>14.999999</string>
+						<string>18.100000</string>
 						<key>Amount</key>
 						<string>42.525002</string>
 						<key>Batches</key>
@@ -476,7 +476,7 @@
 								<key>Alpha</key>
 								<string>18.100000</string>
 								<key>Amount</key>
-								<string>0.0</string>
+								<string>42.525002</string>
 								<key>AmountInStock</key>
 								<string>56.700001</string>
 								<key>BatchName</key>
@@ -496,9 +496,9 @@
 								<key>Alpha</key>
 								<string>15.000000</string>
 								<key>Amount</key>
-								<string>42.525002</string>
+								<string>0.0</string>
 								<key>AmountInStock</key>
-								<string>269.315002</string>
+								<string>28.339996</string>
 								<key>BatchName</key>
 								<string>FH leaf</string>
 								<key>DeliveredOn</key>
@@ -516,9 +516,9 @@
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Form</key>
-						<string>Loose Whole Hops</string>
+						<string>Loose Pellet Hops</string>
 						<key>IBUForAddition</key>
-						<string>24.629063</string>
+						<string>32.690975</string>
 						<key>Minutes</key>
 						<string>45</string>
 						<key>Percentage</key>
@@ -532,7 +532,7 @@
 					</dict>
 					<dict>
 						<key>Alpha</key>
-						<string>14.100000</string>
+						<string>12.900000</string>
 						<key>Amount</key>
 						<string>56.700001</string>
 						<key>Batches</key>
@@ -541,9 +541,9 @@
 								<key>Alpha</key>
 								<string>12.900000</string>
 								<key>Amount</key>
-								<string>0.000000</string>
+								<string>56.700001</string>
 								<key>AmountInStock</key>
-								<string>85.050003</string>
+								<string>56.700005</string>
 								<key>BatchName</key>
 								<string>MidWest</string>
 								<key>DeliveredOn</key>
@@ -581,49 +581,9 @@
 								<key>Alpha</key>
 								<string>14.100000</string>
 								<key>Amount</key>
-								<string>56.700001</string>
-								<key>AmountInStock</key>
-								<string>170.100006</string>
-								<key>BatchName</key>
-								<string>Fresh Hops</string>
-								<key>DeliveredOn</key>
-								<date>2012-10-15T17:00:00Z</date>
-								<key>ExpiresOn</key>
-								<date>2013-10-15T17:00:00Z</date>
-								<key>Form</key>
-								<string>Whole</string>
-								<key>IngredientType</key>
-								<string>Hop</string>
-								<key>UUID</key>
-								<string>15B7F641-6A6B-4A65-848C-00D53B25DF0D</string>
-							</dict>
-							<dict>
-								<key>Alpha</key>
-								<string>13.000000</string>
-								<key>Amount</key>
-								<string>0.000000</string>
-								<key>AmountInStock</key>
-								<string>28.350000</string>
-								<key>BatchName</key>
-								<string>RB pellets</string>
-								<key>DeliveredOn</key>
-								<date>2012-10-11T17:00:00Z</date>
-								<key>ExpiresOn</key>
-								<date>2013-10-11T17:00:00Z</date>
-								<key>Form</key>
-								<string>Pellets</string>
-								<key>IngredientType</key>
-								<string>Hop</string>
-								<key>UUID</key>
-								<string>9088016B-A9C4-403D-9A4C-B8DF768FEC5E</string>
-							</dict>
-							<dict>
-								<key>Alpha</key>
-								<string>14.100000</string>
-								<key>Amount</key>
 								<string>0.0</string>
 								<key>AmountInStock</key>
-								<string>28.350000</string>
+								<string>14.175000</string>
 								<key>BatchName</key>
 								<string>leaf</string>
 								<key>DeliveredOn</key>
@@ -643,7 +603,7 @@
 						<key>Form</key>
 						<string>Loose Pellet Hops</string>
 						<key>IBUForAddition</key>
-						<string>28.427107</string>
+						<string>26.007778</string>
 						<key>Minutes</key>
 						<string>30</string>
 						<key>Percentage</key>
@@ -668,7 +628,7 @@
 								<key>Amount</key>
 								<string>0.0</string>
 								<key>AmountInStock</key>
-								<string>85.050003</string>
+								<string>0.000004</string>
 								<key>BatchName</key>
 								<string>MidWest</string>
 								<key>DeliveredOn</key>
@@ -686,7 +646,7 @@
 								<key>Alpha</key>
 								<string>14.100000</string>
 								<key>Amount</key>
-								<string>0.000000</string>
+								<string>99.224998</string>
 								<key>AmountInStock</key>
 								<string>283.500000</string>
 								<key>BatchName</key>
@@ -706,49 +666,9 @@
 								<key>Alpha</key>
 								<string>14.100000</string>
 								<key>Amount</key>
-								<string>113.400002</string>
+								<string>14.175000</string>
 								<key>AmountInStock</key>
-								<string>113.400009</string>
-								<key>BatchName</key>
-								<string>Fresh Hops</string>
-								<key>DeliveredOn</key>
-								<date>2012-10-15T17:00:00Z</date>
-								<key>ExpiresOn</key>
-								<date>2013-10-15T17:00:00Z</date>
-								<key>Form</key>
-								<string>Whole</string>
-								<key>IngredientType</key>
-								<string>Hop</string>
-								<key>UUID</key>
-								<string>15B7F641-6A6B-4A65-848C-00D53B25DF0D</string>
-							</dict>
-							<dict>
-								<key>Alpha</key>
-								<string>13.000000</string>
-								<key>Amount</key>
-								<string>0.0</string>
-								<key>AmountInStock</key>
-								<string>28.350000</string>
-								<key>BatchName</key>
-								<string>RB pellets</string>
-								<key>DeliveredOn</key>
-								<date>2012-10-11T17:00:00Z</date>
-								<key>ExpiresOn</key>
-								<date>2013-10-11T17:00:00Z</date>
-								<key>Form</key>
-								<string>Pellets</string>
-								<key>IngredientType</key>
-								<string>Hop</string>
-								<key>UUID</key>
-								<string>9088016B-A9C4-403D-9A4C-B8DF768FEC5E</string>
-							</dict>
-							<dict>
-								<key>Alpha</key>
-								<string>14.100000</string>
-								<key>Amount</key>
-								<string>0.000000</string>
-								<key>AmountInStock</key>
-								<string>28.350000</string>
+								<string>14.175000</string>
 								<key>BatchName</key>
 								<string>leaf</string>
 								<key>DeliveredOn</key>
@@ -793,7 +713,7 @@
 								<key>Amount</key>
 								<string>56.700001</string>
 								<key>AmountInStock</key>
-								<string>226.800003</string>
+								<string>99.225006</string>
 								<key>BatchName</key>
 								<string>MidWest</string>
 								<key>DeliveredOn</key>
@@ -847,132 +767,7 @@
 					</dict>
 					<dict>
 						<key>Alpha</key>
-						<string>12.950000</string>
-						<key>Amount</key>
-						<string>56.700001</string>
-						<key>Batches</key>
-						<array>
-							<dict>
-								<key>Alpha</key>
-								<string>12.900000</string>
-								<key>Amount</key>
-								<string>28.350000</string>
-								<key>AmountInStock</key>
-								<string>85.050003</string>
-								<key>BatchName</key>
-								<string>MidWest</string>
-								<key>DeliveredOn</key>
-								<date>2013-02-16T18:00:00Z</date>
-								<key>ExpiresOn</key>
-								<date>2014-02-16T18:00:00Z</date>
-								<key>Form</key>
-								<string>Pellets</string>
-								<key>IngredientType</key>
-								<string>Hop</string>
-								<key>UUID</key>
-								<string>E3924569-991E-4BB4-AEDB-23A185593A0B</string>
-							</dict>
-							<dict>
-								<key>Alpha</key>
-								<string>14.100000</string>
-								<key>Amount</key>
-								<string>0.0</string>
-								<key>AmountInStock</key>
-								<string>283.500000</string>
-								<key>BatchName</key>
-								<string>FH2</string>
-								<key>DeliveredOn</key>
-								<date>2013-01-13T18:00:00Z</date>
-								<key>ExpiresOn</key>
-								<date>2014-01-13T22:13:43Z</date>
-								<key>Form</key>
-								<string>Whole</string>
-								<key>IngredientType</key>
-								<string>Hop</string>
-								<key>UUID</key>
-								<string>A37EF225-C1C8-4748-BF3D-72C4DB3C972F</string>
-							</dict>
-							<dict>
-								<key>Alpha</key>
-								<string>14.100000</string>
-								<key>Amount</key>
-								<string>0.0</string>
-								<key>AmountInStock</key>
-								<string>0.000008</string>
-								<key>BatchName</key>
-								<string>Fresh Hops</string>
-								<key>DeliveredOn</key>
-								<date>2012-10-15T17:00:00Z</date>
-								<key>ExpiresOn</key>
-								<date>2013-10-15T17:00:00Z</date>
-								<key>Form</key>
-								<string>Whole</string>
-								<key>IngredientType</key>
-								<string>Hop</string>
-								<key>UUID</key>
-								<string>15B7F641-6A6B-4A65-848C-00D53B25DF0D</string>
-							</dict>
-							<dict>
-								<key>Alpha</key>
-								<string>13.000000</string>
-								<key>Amount</key>
-								<string>28.350000</string>
-								<key>AmountInStock</key>
-								<string>28.350000</string>
-								<key>BatchName</key>
-								<string>RB pellets</string>
-								<key>DeliveredOn</key>
-								<date>2012-10-11T17:00:00Z</date>
-								<key>ExpiresOn</key>
-								<date>2013-10-11T17:00:00Z</date>
-								<key>Form</key>
-								<string>Pellets</string>
-								<key>IngredientType</key>
-								<string>Hop</string>
-								<key>UUID</key>
-								<string>9088016B-A9C4-403D-9A4C-B8DF768FEC5E</string>
-							</dict>
-							<dict>
-								<key>Alpha</key>
-								<string>14.100000</string>
-								<key>Amount</key>
-								<string>0.0</string>
-								<key>AmountInStock</key>
-								<string>28.350000</string>
-								<key>BatchName</key>
-								<string>leaf</string>
-								<key>DeliveredOn</key>
-								<date>2012-07-06T17:00:00Z</date>
-								<key>ExpiresOn</key>
-								<date>2013-07-06T17:00:00Z</date>
-								<key>Form</key>
-								<string>Whole</string>
-								<key>IngredientType</key>
-								<string>Hop</string>
-								<key>UUID</key>
-								<string>56F40112-2A30-47AC-90C5-26413C29BF9E</string>
-							</dict>
-						</array>
-						<key>DateLastModified</key>
-						<date>2009-08-09T18:00:38Z</date>
-						<key>Form</key>
-						<string>Loose Pellet Hops</string>
-						<key>IBUForAddition</key>
-						<string>0.000000</string>
-						<key>Minutes</key>
-						<string>0</string>
-						<key>Percentage</key>
-						<string>0.000000</string>
-						<key>UUID</key>
-						<string>391C231E-1BD3-11DA-9896-001124CAE2A6</string>
-						<key>Variety</key>
-						<string>US Simcoe</string>
-						<key>When</key>
-						<string>Dry-Hopped</string>
-					</dict>
-					<dict>
-						<key>Alpha</key>
-						<string>11.600000</string>
+						<string>10.100000</string>
 						<key>Amount</key>
 						<string>56.700001</string>
 						<key>Batches</key>
@@ -981,9 +776,9 @@
 								<key>Alpha</key>
 								<string>11.600000</string>
 								<key>Amount</key>
-								<string>56.700001</string>
+								<string>0.0</string>
 								<key>AmountInStock</key>
-								<string>170.100006</string>
+								<string>42.525005</string>
 								<key>BatchName</key>
 								<string>MidWest</string>
 								<key>DeliveredOn</key>
@@ -1001,7 +796,7 @@
 								<key>Alpha</key>
 								<string>10.100000</string>
 								<key>Amount</key>
-								<string>0.0</string>
+								<string>56.700001</string>
 								<key>AmountInStock</key>
 								<string>453.589996</string>
 								<key>BatchName</key>
@@ -1021,7 +816,7 @@
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Form</key>
-						<string>Loose Pellet Hops</string>
+						<string>Loose Whole Hops</string>
 						<key>IBUForAddition</key>
 						<string>0.000000</string>
 						<key>Minutes</key>
@@ -1037,18 +832,103 @@
 					</dict>
 					<dict>
 						<key>Alpha</key>
-						<string>15.000000</string>
+						<string>14.100000</string>
 						<key>Amount</key>
-						<string>14.175000</string>
+						<string>28.350000</string>
+						<key>Batches</key>
+						<array>
+							<dict>
+								<key>Alpha</key>
+								<string>12.900000</string>
+								<key>Amount</key>
+								<string>0.0</string>
+								<key>AmountInStock</key>
+								<string>0.000004</string>
+								<key>BatchName</key>
+								<string>MidWest</string>
+								<key>DeliveredOn</key>
+								<date>2013-02-16T18:00:00Z</date>
+								<key>ExpiresOn</key>
+								<date>2014-02-16T18:00:00Z</date>
+								<key>Form</key>
+								<string>Pellets</string>
+								<key>IngredientType</key>
+								<string>Hop</string>
+								<key>UUID</key>
+								<string>E3924569-991E-4BB4-AEDB-23A185593A0B</string>
+							</dict>
+							<dict>
+								<key>Alpha</key>
+								<string>14.100000</string>
+								<key>Amount</key>
+								<string>28.350000</string>
+								<key>AmountInStock</key>
+								<string>184.274994</string>
+								<key>BatchName</key>
+								<string>FH2</string>
+								<key>DeliveredOn</key>
+								<date>2013-01-13T18:00:00Z</date>
+								<key>ExpiresOn</key>
+								<date>2014-01-13T22:13:43Z</date>
+								<key>Form</key>
+								<string>Whole</string>
+								<key>IngredientType</key>
+								<string>Hop</string>
+								<key>UUID</key>
+								<string>A37EF225-C1C8-4748-BF3D-72C4DB3C972F</string>
+							</dict>
+							<dict>
+								<key>Alpha</key>
+								<string>14.100000</string>
+								<key>Amount</key>
+								<string>0.000000</string>
+								<key>AmountInStock</key>
+								<string>0.000000</string>
+								<key>BatchName</key>
+								<string>leaf</string>
+								<key>DeliveredOn</key>
+								<date>2012-07-06T17:00:00Z</date>
+								<key>ExpiresOn</key>
+								<date>2013-07-06T17:00:00Z</date>
+								<key>Form</key>
+								<string>Whole</string>
+								<key>IngredientType</key>
+								<string>Hop</string>
+								<key>UUID</key>
+								<string>56F40112-2A30-47AC-90C5-26413C29BF9E</string>
+							</dict>
+						</array>
+						<key>DateLastModified</key>
+						<date>2009-08-09T18:00:38Z</date>
+						<key>Form</key>
+						<string>Loose Whole Hops</string>
+						<key>IBUForAddition</key>
+						<string>0.000000</string>
+						<key>Minutes</key>
+						<string>0</string>
+						<key>Percentage</key>
+						<string>0.000000</string>
+						<key>UUID</key>
+						<string>391C231E-1BD3-11DA-9896-001124CAE2A6</string>
+						<key>Variety</key>
+						<string>US Simcoe</string>
+						<key>When</key>
+						<string>Dry-Hopped</string>
+					</dict>
+					<dict>
+						<key>Alpha</key>
+						<string>15.001094</string>
+						<key>Amount</key>
+						<string>28.350000</string>
 						<key>Batches</key>
 						<array>
 							<dict>
 								<key>Alpha</key>
 								<string>18.100000</string>
 								<key>Amount</key>
-								<string>0.0</string>
+								<string>0.010004</string>
 								<key>AmountInStock</key>
-								<string>56.700001</string>
+								<string>14.174999</string>
 								<key>BatchName</key>
 								<string>MidWest</string>
 								<key>DeliveredOn</key>
@@ -1066,9 +946,9 @@
 								<key>Alpha</key>
 								<string>15.000000</string>
 								<key>Amount</key>
-								<string>14.175000</string>
+								<string>28.339996</string>
 								<key>AmountInStock</key>
-								<string>226.790009</string>
+								<string>28.339996</string>
 								<key>BatchName</key>
 								<string>FH leaf</string>
 								<key>DeliveredOn</key>
@@ -1104,16 +984,16 @@
 						<key>Alpha</key>
 						<string>11.600000</string>
 						<key>Amount</key>
-						<string>14.175000</string>
+						<string>28.350000</string>
 						<key>Batches</key>
 						<array>
 							<dict>
 								<key>Alpha</key>
 								<string>11.600000</string>
 								<key>Amount</key>
-								<string>14.175000</string>
+								<string>28.350000</string>
 								<key>AmountInStock</key>
-								<string>113.400009</string>
+								<string>42.525005</string>
 								<key>BatchName</key>
 								<string>MidWest</string>
 								<key>DeliveredOn</key>
@@ -1133,7 +1013,7 @@
 								<key>Amount</key>
 								<string>0.0</string>
 								<key>AmountInStock</key>
-								<string>453.589996</string>
+								<string>396.889984</string>
 								<key>BatchName</key>
 								<string>FH leaf</string>
 								<key>DeliveredOn</key>
@@ -1169,7 +1049,7 @@
 						<key>Alpha</key>
 						<string>14.100000</string>
 						<key>Amount</key>
-						<string>14.175000</string>
+						<string>28.350000</string>
 						<key>Batches</key>
 						<array>
 							<dict>
@@ -1178,7 +1058,7 @@
 								<key>Amount</key>
 								<string>0.0</string>
 								<key>AmountInStock</key>
-								<string>56.700005</string>
+								<string>0.000004</string>
 								<key>BatchName</key>
 								<string>MidWest</string>
 								<key>DeliveredOn</key>
@@ -1196,9 +1076,9 @@
 								<key>Alpha</key>
 								<string>14.100000</string>
 								<key>Amount</key>
-								<string>0.000000</string>
+								<string>28.350000</string>
 								<key>AmountInStock</key>
-								<string>283.500000</string>
+								<string>155.924988</string>
 								<key>BatchName</key>
 								<string>FH2</string>
 								<key>DeliveredOn</key>
@@ -1218,47 +1098,7 @@
 								<key>Amount</key>
 								<string>0.000000</string>
 								<key>AmountInStock</key>
-								<string>0.000008</string>
-								<key>BatchName</key>
-								<string>Fresh Hops</string>
-								<key>DeliveredOn</key>
-								<date>2012-10-15T17:00:00Z</date>
-								<key>ExpiresOn</key>
-								<date>2013-10-15T17:00:00Z</date>
-								<key>Form</key>
-								<string>Whole</string>
-								<key>IngredientType</key>
-								<string>Hop</string>
-								<key>UUID</key>
-								<string>15B7F641-6A6B-4A65-848C-00D53B25DF0D</string>
-							</dict>
-							<dict>
-								<key>Alpha</key>
-								<string>13.000000</string>
-								<key>Amount</key>
-								<string>0.0</string>
-								<key>AmountInStock</key>
 								<string>0.000000</string>
-								<key>BatchName</key>
-								<string>RB pellets</string>
-								<key>DeliveredOn</key>
-								<date>2012-10-11T17:00:00Z</date>
-								<key>ExpiresOn</key>
-								<date>2013-10-11T17:00:00Z</date>
-								<key>Form</key>
-								<string>Pellets</string>
-								<key>IngredientType</key>
-								<string>Hop</string>
-								<key>UUID</key>
-								<string>9088016B-A9C4-403D-9A4C-B8DF768FEC5E</string>
-							</dict>
-							<dict>
-								<key>Alpha</key>
-								<string>14.100000</string>
-								<key>Amount</key>
-								<string>14.175000</string>
-								<key>AmountInStock</key>
-								<string>28.350000</string>
 								<key>BatchName</key>
 								<string>leaf</string>
 								<key>DeliveredOn</key>
@@ -1287,6 +1127,28 @@
 						<string>391C231E-1BD3-11DA-9896-001124CAE2A6</string>
 						<key>Variety</key>
 						<string>US Simcoe</string>
+						<key>When</key>
+						<string>Dry-Hopped</string>
+					</dict>
+					<dict>
+						<key>Alpha</key>
+						<string>10.000000</string>
+						<key>Amount</key>
+						<string>28.350000</string>
+						<key>DateLastModified</key>
+						<date>2013-04-14T15:11:34Z</date>
+						<key>Form</key>
+						<string>Loose Pellet Hops</string>
+						<key>IBUForAddition</key>
+						<string>0.000000</string>
+						<key>Minutes</key>
+						<string>0</string>
+						<key>Percentage</key>
+						<string>0.000000</string>
+						<key>UUID</key>
+						<string>0AD4B2AD-7774-40C9-A026-00001EA7FA05</string>
+						<key>Variety</key>
+						<string>Mosaic</string>
 						<key>When</key>
 						<string>Dry-Hopped</string>
 					</dict>
@@ -1898,13 +1760,13 @@ IBU: 196</string>
 				<string>2</string>
 			</dict>
 			<key>PackagingNotes</key>
-			<string></string>
+			<string>All dry hops split between 2 carboys. 1 carboy used 1oz mosaic instead of simcoe. 1oz additions for 3 days. 4/17 - added .5oz columbus to each, not part of recipe (should be), rest on 4/18. Started cold crashing on 4/22.</string>
 			<key>RoomTemperature</key>
 			<string>11.111112</string>
 			<key>SpargeMethod</key>
 			<string>Batch Sparge</string>
 			<key>TastingNotes</key>
-			<string></string>
+			<string>Pre-carb - little hot? Not enough aroma? The mosiac is better - that's the ticket. No irregular alcohol/fusels post-carb.</string>
 			<key>UUID</key>
 			<string>12482097-3BA3-4BDE-B336-6E400F7020D4</string>
 			<key>WaterGrainRatio</key>
