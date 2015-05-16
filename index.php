@@ -9,7 +9,7 @@ if ($handle = opendir($dir)) {
 			if (!strstr($name[0], '-batch')) {   // not a batch, a recipe
 				if (!isset($recipes[$name[0]])) { // does this recipe have a key in the array
 					$recipes[$name[0]] = array();  // if not, set it
-					echo '<pre>'; var_dump($name[0]);
+					echo '<pre>'; var_dump($name);
 				}
 			}
 			// else we have a batch
