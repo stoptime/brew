@@ -7,9 +7,9 @@ if ($handle = opendir($dir)) {
 		if ($entry != "." && $entry != "..") {
 			$name = explode('.', $entry);
 			if (!strstr($name[0], '-batch')) {   // not a batch, a recipe
-				$name_replace = str_replace('-', ' ', $name[0]);
-				if (!isset($recipes[$name_replace])) { // does this recipe have a key in the array
-					$recipes[$name_replace] = array();  // if not, set it
+				if (!isset($recipes[$name[0]])) { // does this recipe have a key in the array
+					$recipes[$name[0]] = array();  // if not, set it
+					var_dump($name[0]);
 				}
 			}
 			// else we have a batch
@@ -26,7 +26,7 @@ if ($handle = opendir($dir)) {
 	closedir($handle);
 }
 ksort($recipes);
-echo '<pre>'; print_r($recipes); echo '</pre>';
+//echo '<pre>'; print_r($recipes); echo '</pre>';
 $content = '';
 
 foreach ($recipes as $key => $value) {
