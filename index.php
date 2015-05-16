@@ -7,6 +7,7 @@ if ($handle = opendir($dir)) {
 		if ($entry != "." && $entry != "..") {
 			$name = explode('.', $entry);
 			$name_special = htmlspecialchars($name[0], ENT_QUOTES);
+			echo "<p>$name_special</p>";
 			$name[0] = str_replace(' ', '-', $name_special);
 			if (!strstr($name[0], '-batch')) {   // not a batch, a recipe
 				if (!isset($recipes[$name[0]])) { // does this recipe have a key in the array
