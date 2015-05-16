@@ -6,13 +6,12 @@ if ($handle = opendir($dir)) {
 	while (false !== ($entry = readdir($handle))) {
 		if ($entry != "." && $entry != "..") {
 			$name = explode('.', $entry);
-			$name_special = htmlspecialchars($name[0], ENT_QUOTES);
-			echo "<p>$name_special</p>";
-			$name[0] = str_replace(' ', '-', $name_special);
+			$name[0] = str_replace(' ', '-', $name[0]);
 			if (!strstr($name[0], '-batch')) {   // not a batch, a recipe
-				if (!isset($recipes[$name[0]])) { // does this recipe have a key in the array
-					$recipes[$name[0]] = array();  // if not, set it
-					echo '<pre>'; var_dump($name);
+				$name_special = htmlspecialchars($name[0], ENT_QUOTES);
+				echo "<p>$name_special</p>";
+				if (!isset($recipes[$name_special])) { // does this recipe have a key in the array
+					$recipes[$name_special] = array();  // if not, set it
 				}
 			}
 			// else we have a batch
