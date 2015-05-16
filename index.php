@@ -25,7 +25,7 @@ if ($handle = opendir($dir)) {
 	closedir($handle);
 }
 ksort($recipes);
-//echo '<pre>'; print_r($recipes); echo '</pre>';
+echo '<pre>'; print_r($recipes); echo '</pre>';
 $content = '';
 
 foreach ($recipes as $key => $value) {
