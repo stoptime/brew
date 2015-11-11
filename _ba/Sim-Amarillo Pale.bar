@@ -5,7 +5,7 @@
 	<key>Acid</key>
 	<string>Unadjusted</string>
 	<key>ApparentAttenuation</key>
-	<string>73.903984</string>
+	<string>73.956703</string>
 	<key>Attenuation</key>
 	<string>74.000000</string>
 	<key>Batches</key>
@@ -14,75 +14,74 @@
 			<key>Actuals</key>
 			<dict>
 				<key>ABV</key>
-				<string>4.757793</string>
+				<string>5.872961</string>
 				<key>ABW</key>
-				<string>3.733572</string>
+				<string>4.583043</string>
 				<key>ActualMashEfficiency</key>
-				<string>76.055588</string>
+				<string>79.538506</string>
 				<key>ApparentAttenuation</key>
-				<string>74.522537</string>
+				<string>70.555542</string>
 				<key>Color</key>
-				<string>5.814309</string>
+				<string>6.046550</string>
 				<key>FG</key>
-				<string>1.011816</string>
+				<string>1.017475</string>
 				<key>FGHydroReading</key>
-				<string>1.010000</string>
+				<string>1.017000</string>
 				<key>FGTemp</key>
-				<string>24.444445</string>
-				<key>FermentationTemperature</key>
 				<string>18.333334</string>
+				<key>FermentationTemperature</key>
+				<string>20.000000</string>
 				<key>FinalBatchVolume</key>
-				<string>45424.921875</string>
+				<string>20819.755859</string>
 				<key>FinalWortVolume</key>
-				<string>47317.625000</string>
+				<string>25437.955078</string>
 				<key>HydrometerCalibratedAt</key>
 				<string>15.555555</string>
 				<key>IBU</key>
-				<string>41.293751</string>
+				<string>40.164509</string>
 				<key>OG</key>
-				<string>1.047802</string>
+				<string>1.061581</string>
 				<key>OGHydroReading</key>
-				<string>1.047000</string>
+				<string>1.061000</string>
 				<key>OGTemp</key>
-				<string>20.000000</string>
+				<string>18.888889</string>
 				<key>PreBoilGrav</key>
-				<string>1.040690</string>
+				<string>1.046581</string>
 				<key>PreBoilHydroReading</key>
-				<string>1.040000</string>
+				<string>1.046000</string>
 				<key>PreBoilTemp</key>
-				<string>19.444445</string>
+				<string>18.888889</string>
 				<key>PreBoilWortVolume</key>
-				<string>54888.445312</string>
+				<string>30283.279297</string>
 				<key>RealAttenuation</key>
-				<string>61.048862</string>
+				<string>57.799107</string>
 				<key>VolumeAtPitching</key>
-				<string>45424.921875</string>
+				<string>21766.107422</string>
 				<key>VolumeToFermenter</key>
-				<string>45424.921875</string>
+				<string>21766.107422</string>
 				<key>VolumeWaterAdded</key>
 				<string>0.000000</string>
 			</dict>
 			<key>AdjustedInventory</key>
 			<string>1</string>
 			<key>BatchNotes</key>
-			<string>2g cc and 1g gyp in each tun; 154-55F; vorlaufed like crazy fast and probably used a gallon less water. 3.5 gals distilled.</string>
+			<string>2 distiled into 5 gallons strike w/ 2g each. 1tsp phos acid added directly to mash (forgot in water). </string>
 			<key>BatchTitle</key>
-			<string>Batch 1 of American Bitter</string>
+			<string>Batch 1 of Sim-Amarillo Pale</string>
 			<key>BoilNotes</key>
 			<string></string>
 			<key>DateBrewed</key>
-			<date>2013-09-02T05:00:00Z</date>
+			<date>2015-04-18T15:47:24Z</date>
 			<key>DateLastModified</key>
-			<date>2013-10-21T22:48:46Z</date>
+			<date>2015-05-16T15:19:06Z</date>
 			<key>DatePackaged</key>
-			<date>2013-09-28T05:00:00Z</date>
+			<date>2015-05-02T05:00:00Z</date>
 			<key>DateRacked</key>
-			<date>2013-09-02T05:00:00Z</date>
+			<date>2015-05-02T05:00:00Z</date>
 			<key>DateReady</key>
-			<date>2013-09-28T05:00:00Z</date>
+			<date>2015-05-10T05:00:00Z</date>
 			<key>FermentationNotes</key>
-			<string>800ml starters
-9/11 reading. 1056 finished slightly lower than documented, and seemed to floc better. </string>
+			<string></string>
 			<key>MTThermalMass</key>
 			<string>680.400024</string>
 			<key>ModifiedRecipe</key>
@@ -90,7 +89,7 @@
 				<key>Acid</key>
 				<string>Unadjusted</string>
 				<key>ApparentAttenuation</key>
-				<string>73.903984</string>
+				<string>73.956703</string>
 				<key>Attenuation</key>
 				<string>74.000000</string>
 				<key>Batches</key>
@@ -104,636 +103,261 @@
 				<key>CaSO4</key>
 				<string>0.0</string>
 				<key>Carbonation</key>
-				<string>Nothing</string>
+				<string>Force Carbonated</string>
 				<key>CarbonationVolumes</key>
-				<string>0.0</string>
+				<string>2.50</string>
 				<key>Conditioning</key>
-				<string>Lagered for 4 weeks</string>
+				<string>Matured for 2 weeks</string>
 				<key>DateLastModified</key>
-				<date>2013-09-01T20:52:37Z</date>
+				<date>2015-04-18T15:47:19Z</date>
 				<key>ExpectedABV</key>
-				<string>3.916664</string>
+				<string>5.541956</string>
 				<key>ExpectedABW</key>
-				<string>3.078575</string>
+				<string>4.339446</string>
 				<key>ExpectedColor</key>
-				<string>5.814309</string>
+				<string>6.046550</string>
 				<key>ExpectedFinalGravity</key>
-				<string>1.010153</string>
+				<string>1.014026</string>
 				<key>ExpectedIBU</key>
-				<string>39.206600</string>
+				<string>40.067162</string>
 				<key>ExpectedOriginalGravity</key>
-				<string>1.039896</string>
+				<string>1.055775</string>
 				<key>ExpectedPreBoilGravity</key>
-				<string>1.033851</string>
+				<string>1.046851</string>
 				<key>FermentableIngredients</key>
 				<array>
 					<dict>
 						<key>Amount</key>
-						<string>9072.000000</string>
+						<string>4535.899902</string>
 						<key>Batches</key>
 						<array>
 							<dict>
 								<key>Amount</key>
-								<string>9072.000000</string>
+								<string>4535.899902</string>
 								<key>AmountInStock</key>
-								<string>16022.281250</string>
+								<string>20411.548828</string>
 								<key>BatchName</key>
 								<string>New Batch</string>
 								<key>Color</key>
-								<string>2.500000</string>
+								<string>2.000000</string>
 								<key>DeliveredOn</key>
-								<date>2013-07-22T17:00:00Z</date>
+								<date>2015-03-14T16:00:52Z</date>
 								<key>ExpiresOn</key>
-								<date>2014-07-22T18:35:11Z</date>
+								<date>2016-03-14T16:00:52Z</date>
 								<key>Extract</key>
 								<string>80.000000</string>
 								<key>IngredientType</key>
 								<string>Fermentable</string>
 								<key>UUID</key>
-								<string>383C7CAB-45A4-4883-BFCA-CA340721E0DA</string>
-							</dict>
-						</array>
-						<key>Color</key>
-						<string>2.500000</string>
-						<key>ColorForAdditionInEBC</key>
-						<string>11.013652</string>
-						<key>ColorForAdditionInSRM</key>
-						<string>5.590686</string>
-						<key>DateLastModified</key>
-						<date>2010-04-21T13:42:38Z</date>
-						<key>Extract</key>
-						<string>80.000000</string>
-						<key>Form</key>
-						<string>Loose Pellet Hops</string>
-						<key>GravityPointsForAddition</key>
-						<string>38.109573</string>
-						<key>Ingredient</key>
-						<string>Maris Otter Pale Ale Malt - T.Fawcett</string>
-						<key>IsGrain</key>
-						<string>1.000000</string>
-						<key>MCUForAddition</key>
-						<string>3.571507</string>
-						<key>MCUPercentage</key>
-						<string>96.153923</string>
-						<key>Minutes</key>
-						<string>0.000000</string>
-						<key>Moisture</key>
-						<string>2.500000</string>
-						<key>MustBeMashed</key>
-						<string>0.000000</string>
-						<key>Percentage</key>
-						<string>95.238197</string>
-						<key>UUID</key>
-						<string>AA09D0EE-66D8-4693-848D-B7C114668867</string>
-						<key>When</key>
-						<string>In Mash/Steeped</string>
-					</dict>
-					<dict>
-						<key>Amount</key>
-						<string>453.589996</string>
-						<key>Batches</key>
-						<array>
-							<dict>
-								<key>Amount</key>
-								<string>453.589996</string>
-								<key>AmountInStock</key>
-								<string>10886.582031</string>
-								<key>BatchName</key>
-								<string>Briess</string>
-								<key>Color</key>
-								<string>2.000000</string>
-								<key>DeliveredOn</key>
-								<date>2012-08-12T19:19:28Z</date>
-								<key>ExpiresOn</key>
-								<date>2013-08-12T19:19:28Z</date>
-								<key>Extract</key>
-								<string>75.000000</string>
-								<key>IngredientType</key>
-								<string>Fermentable</string>
-								<key>UUID</key>
-								<string>30E56F0A-E796-4BAC-B368-9524AD737A19</string>
+								<string>10524FCA-B29F-4882-B787-ED0CD294FDB6</string>
 							</dict>
 						</array>
 						<key>Color</key>
 						<string>2.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>0.440536</string>
+						<string>7.898296</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>0.223622</string>
+						<string>4.009287</string>
 						<key>DateLastModified</key>
-						<date>2012-01-21T01:54:04Z</date>
+						<date>2014-12-31T01:33:04Z</date>
 						<key>Extract</key>
-						<string>75.000000</string>
+						<string>80.000000</string>
 						<key>Form</key>
 						<string>Loose Pellet Hops</string>
 						<key>GravityPointsForAddition</key>
-						<string>1.786347</string>
+						<string>44.107327</string>
 						<key>Ingredient</key>
-						<string>US Wheat Malt</string>
+						<string>Golden Promise</string>
 						<key>IsGrain</key>
 						<string>1</string>
 						<key>MCUForAddition</key>
-						<string>0.142857</string>
+						<string>2.976191</string>
 						<key>MCUPercentage</key>
-						<string>3.846069</string>
+						<string>66.307022</string>
+						<key>Minutes</key>
+						<string>0.000000</string>
+						<key>Moisture</key>
+						<string>3.400000</string>
+						<key>MustBeMashed</key>
+						<string>1</string>
+						<key>Percentage</key>
+						<string>79.207558</string>
+						<key>UUID</key>
+						<string>FC6E556C-F0E8-4E8D-BED4-CC1801A7A02F</string>
+						<key>When</key>
+						<string>In Mash/Steeped</string>
+					</dict>
+					<dict>
+						<key>Amount</key>
+						<string>1134.000000</string>
+						<key>Batches</key>
+						<array>
+							<dict>
+								<key>Amount</key>
+								<string>1134.000000</string>
+								<key>AmountInStock</key>
+								<string>23814.000000</string>
+								<key>BatchName</key>
+								<string>New Batch</string>
+								<key>Color</key>
+								<string>4.000000</string>
+								<key>DeliveredOn</key>
+								<date>2015-03-14T16:01:36Z</date>
+								<key>ExpiresOn</key>
+								<date>2016-03-14T16:01:36Z</date>
+								<key>Extract</key>
+								<string>81.000000</string>
+								<key>IngredientType</key>
+								<string>Fermentable</string>
+								<key>UUID</key>
+								<string>78662477-6FCC-4917-A677-ACFBC5E9C624</string>
+							</dict>
+						</array>
+						<key>Color</key>
+						<string>4.000000</string>
+						<key>ColorForAdditionInEBC</key>
+						<string>3.949234</string>
+						<key>ColorForAdditionInSRM</key>
+						<string>2.004688</string>
+						<key>DateLastModified</key>
+						<date>2009-09-01T14:06:38Z</date>
+						<key>Extract</key>
+						<string>81.000000</string>
+						<key>Form</key>
+						<string>Loose Pellet Hops</string>
+						<key>GravityPointsForAddition</key>
+						<string>11.164913</string>
+						<key>Ingredient</key>
+						<string>Maris Otter</string>
+						<key>IsGrain</key>
+						<string>1.000000</string>
+						<key>MCUForAddition</key>
+						<string>1.488128</string>
+						<key>MCUPercentage</key>
+						<string>33.154236</string>
 						<key>Minutes</key>
 						<string>0.000000</string>
 						<key>Moisture</key>
 						<string>4.000000</string>
 						<key>MustBeMashed</key>
-						<string>1</string>
+						<string>1.000000</string>
 						<key>Percentage</key>
-						<string>4.761805</string>
+						<string>19.802326</string>
 						<key>UUID</key>
-						<string>DEE6B52C-6EB0-4438-81C7-B3B231940067</string>
+						<string>D8D7A8DC-AB31-4A0E-97D9-D5AFBD429966</string>
 						<key>When</key>
 						<string>In Mash/Steeped</string>
 					</dict>
-				</array>
-				<key>FermentationTemperature</key>
-				<string>18.0</string>
-				<key>FinalBatchVolume</key>
-				<string>45424.921875</string>
-				<key>FinalWortVolume</key>
-				<string>52995.738281</string>
-				<key>GravityForIBUCalcs</key>
-				<string>1.033851</string>
-				<key>HopIngredients</key>
-				<array>
 					<dict>
-						<key>Alpha</key>
-						<string>15.000000</string>
-						<key>Amount</key>
-						<string>15.120000</string>
-						<key>Batches</key>
-						<array>
-							<dict>
-								<key>Alpha</key>
-								<string>15.000000</string>
-								<key>Amount</key>
-								<string>15.120000</string>
-								<key>AmountInStock</key>
-								<string>56.700001</string>
-								<key>BatchName</key>
-								<string>leaf</string>
-								<key>DeliveredOn</key>
-								<date>2013-02-16T18:00:00Z</date>
-								<key>ExpiresOn</key>
-								<date>2014-02-16T18:00:00Z</date>
-								<key>Form</key>
-								<string>Whole</string>
-								<key>IngredientType</key>
-								<string>Hop</string>
-								<key>UUID</key>
-								<string>E52B8FEA-DF6D-4D3F-9C3C-9DC755562ED2</string>
-							</dict>
-						</array>
-						<key>DateLastModified</key>
-						<date>2009-08-09T18:00:38Z</date>
-						<key>Description</key>
-						<string>Generally used for main copper hop in the form of extracts and pellets because of the exceedingly high alpha.</string>
-						<key>Form</key>
-						<string>Loose Whole Hops</string>
-						<key>IBUForAddition</key>
-						<string>11.413346</string>
-						<key>Minutes</key>
-						<string>60</string>
-						<key>Percentage</key>
-						<string>0.000000</string>
-						<key>UUID</key>
-						<string>F746F8D6-1BD2-11DA-9896-001124CAE2A6</string>
-						<key>Variety</key>
-						<string>US Columbus(Tomahawk)</string>
-						<key>When</key>
-						<string>60 Min From End</string>
-					</dict>
-					<dict>
-						<key>Alpha</key>
-						<string>15.000000</string>
-						<key>Amount</key>
-						<string>29.295002</string>
-						<key>Batches</key>
-						<array>
-							<dict>
-								<key>Alpha</key>
-								<string>15.000000</string>
-								<key>Amount</key>
-								<string>29.295002</string>
-								<key>AmountInStock</key>
-								<string>41.580002</string>
-								<key>BatchName</key>
-								<string>leaf</string>
-								<key>DeliveredOn</key>
-								<date>2013-02-16T18:00:00Z</date>
-								<key>ExpiresOn</key>
-								<date>2014-02-16T18:00:00Z</date>
-								<key>Form</key>
-								<string>Whole</string>
-								<key>IngredientType</key>
-								<string>Hop</string>
-								<key>UUID</key>
-								<string>E52B8FEA-DF6D-4D3F-9C3C-9DC755562ED2</string>
-							</dict>
-						</array>
-						<key>DateLastModified</key>
-						<date>2009-08-09T18:00:38Z</date>
-						<key>Form</key>
-						<string>Loose Whole Hops</string>
-						<key>IBUForAddition</key>
-						<string>13.392088</string>
-						<key>Minutes</key>
-						<string>20</string>
-						<key>Percentage</key>
-						<string>0.000000</string>
-						<key>UUID</key>
-						<string>F746F8D6-1BD2-11DA-9896-001124CAE2A6</string>
-						<key>Variety</key>
-						<string>US Columbus(Tomahawk)</string>
-						<key>When</key>
-						<string>20 Min From End</string>
-					</dict>
-					<dict>
-						<key>Alpha</key>
-						<string>10.100000</string>
-						<key>Amount</key>
-						<string>28.350000</string>
-						<key>Batches</key>
-						<array>
-							<dict>
-								<key>Alpha</key>
-								<string>11.600000</string>
-								<key>Amount</key>
-								<string>0.0</string>
-								<key>AmountInStock</key>
-								<string>56.700005</string>
-								<key>BatchName</key>
-								<string>MidWest</string>
-								<key>DeliveredOn</key>
-								<date>2013-02-16T18:00:00Z</date>
-								<key>ExpiresOn</key>
-								<date>2014-02-16T18:00:00Z</date>
-								<key>Form</key>
-								<string>Pellets</string>
-								<key>IngredientType</key>
-								<string>Hop</string>
-								<key>UUID</key>
-								<string>FFA2992E-51D9-46DB-877B-8D4488A7E5EE</string>
-							</dict>
-							<dict>
-								<key>Alpha</key>
-								<string>10.100000</string>
-								<key>Amount</key>
-								<string>28.350000</string>
-								<key>AmountInStock</key>
-								<string>127.564964</string>
-								<key>BatchName</key>
-								<string>FH leaf</string>
-								<key>DeliveredOn</key>
-								<date>2013-01-13T18:00:00Z</date>
-								<key>ExpiresOn</key>
-								<date>2014-01-13T18:00:00Z</date>
-								<key>Form</key>
-								<string>Whole</string>
-								<key>IngredientType</key>
-								<string>Hop</string>
-								<key>UUID</key>
-								<string>A59D300F-7F03-4DFA-BB86-A4BE3EA2420B</string>
-							</dict>
-						</array>
-						<key>DateLastModified</key>
-						<date>2009-08-09T18:00:38Z</date>
-						<key>Form</key>
-						<string>Loose Whole Hops</string>
-						<key>IBUForAddition</key>
-						<string>5.224422</string>
-						<key>Minutes</key>
-						<string>10</string>
-						<key>Percentage</key>
-						<string>0.000000</string>
-						<key>UUID</key>
-						<string>E0507B0E-1BD2-11DA-9896-001124CAE2A6</string>
-						<key>Variety</key>
-						<string>US Centennial</string>
-						<key>When</key>
-						<string>10 Min From End</string>
-					</dict>
-					<dict>
-						<key>Alpha</key>
-						<string>14.100000</string>
-						<key>Amount</key>
-						<string>43.942497</string>
-						<key>Batches</key>
-						<array>
-							<dict>
-								<key>Alpha</key>
-								<string>13.000000</string>
-								<key>Amount</key>
-								<string>0.0</string>
-								<key>AmountInStock</key>
-								<string>113.400002</string>
-								<key>BatchName</key>
-								<string>RB</string>
-								<key>DeliveredOn</key>
-								<date>2013-02-16T18:00:00Z</date>
-								<key>ExpiresOn</key>
-								<date>2014-02-16T18:00:00Z</date>
-								<key>Form</key>
-								<string>Pellets</string>
-								<key>IngredientType</key>
-								<string>Hop</string>
-								<key>UUID</key>
-								<string>EC12C914-521A-461D-8499-165B98FC0065</string>
-							</dict>
-							<dict>
-								<key>Alpha</key>
-								<string>12.900000</string>
-								<key>Amount</key>
-								<string>0.0</string>
-								<key>AmountInStock</key>
-								<string>28.350000</string>
-								<key>BatchName</key>
-								<string>MW</string>
-								<key>DeliveredOn</key>
-								<date>2013-01-16T18:00:00Z</date>
-								<key>ExpiresOn</key>
-								<date>2014-01-16T18:00:00Z</date>
-								<key>Form</key>
-								<string>Pellets</string>
-								<key>IngredientType</key>
-								<string>Hop</string>
-								<key>UUID</key>
-								<string>5C84A573-C556-4F61-ADD3-C678876D6D13</string>
-							</dict>
-							<dict>
-								<key>Alpha</key>
-								<string>14.100000</string>
-								<key>Amount</key>
-								<string>43.942497</string>
-								<key>AmountInStock</key>
-								<string>283.500000</string>
-								<key>BatchName</key>
-								<string>FH2</string>
-								<key>DeliveredOn</key>
-								<date>2013-01-13T18:00:00Z</date>
-								<key>ExpiresOn</key>
-								<date>2014-01-13T22:13:43Z</date>
-								<key>Form</key>
-								<string>Whole</string>
-								<key>IngredientType</key>
-								<string>Hop</string>
-								<key>UUID</key>
-								<string>A37EF225-C1C8-4748-BF3D-72C4DB3C972F</string>
-							</dict>
-						</array>
-						<key>DateLastModified</key>
-						<date>2009-08-09T18:00:38Z</date>
-						<key>Form</key>
-						<string>Loose Whole Hops</string>
-						<key>IBUForAddition</key>
-						<string>6.215832</string>
-						<key>Minutes</key>
-						<string>5</string>
-						<key>Percentage</key>
-						<string>0.000000</string>
-						<key>UUID</key>
-						<string>391C231E-1BD3-11DA-9896-001124CAE2A6</string>
-						<key>Variety</key>
-						<string>US Simcoe</string>
-						<key>When</key>
-						<string>5 Min From End</string>
-					</dict>
-					<dict>
-						<key>Alpha</key>
-						<string>15.500000</string>
-						<key>Amount</key>
-						<string>14.175000</string>
-						<key>DateLastModified</key>
-						<date>2009-08-09T18:00:38Z</date>
-						<key>Description</key>
-						<string>Generally used for main copper hop in the form of extracts and pellets because of the exceedingly high alpha.</string>
-						<key>Form</key>
-						<string>Loose Whole Hops</string>
-						<key>IBUForAddition</key>
-						<string>2.204196</string>
-						<key>Minutes</key>
-						<string>5</string>
-						<key>Percentage</key>
-						<string>0.000000</string>
-						<key>UUID</key>
-						<string>F746F8D6-1BD2-11DA-9896-001124CAE2A6</string>
-						<key>Variety</key>
-						<string>US Columbus(Tomahawk)</string>
-						<key>When</key>
-						<string>5 Min From End</string>
-					</dict>
-					<dict>
-						<key>Alpha</key>
-						<string>12.300000</string>
-						<key>Amount</key>
-						<string>28.350000</string>
-						<key>DateLastModified</key>
-						<date>2010-08-25T13:32:22Z</date>
-						<key>Form</key>
-						<string>Loose Whole Hops</string>
-						<key>IBUForAddition</key>
-						<string>0.756715</string>
-						<key>Minutes</key>
-						<string>1</string>
-						<key>Percentage</key>
-						<string>0.000000</string>
-						<key>UUID</key>
-						<string>4E56F625-982B-4E76-9F43-B570B833CD1D</string>
-						<key>Variety</key>
-						<string>Citra</string>
-						<key>When</key>
-						<string>1 Min From End</string>
-					</dict>
-					<dict>
-						<key>Alpha</key>
-						<string>12.300000</string>
 						<key>Amount</key>
 						<string>56.700001</string>
 						<key>Batches</key>
 						<array>
 							<dict>
-								<key>Alpha</key>
-								<string>15.600000</string>
 								<key>Amount</key>
-								<string>0.0</string>
+								<string>56.700001</string>
 								<key>AmountInStock</key>
-								<string>28.349764</string>
+								<string>226.800003</string>
 								<key>BatchName</key>
 								<string>New Batch</string>
+								<key>Color</key>
+								<string>1.300000</string>
 								<key>DeliveredOn</key>
-								<date>2012-08-12T17:00:00Z</date>
+								<date>2015-04-18T17:00:00Z</date>
 								<key>ExpiresOn</key>
-								<date>2013-08-12T17:00:00Z</date>
-								<key>Form</key>
-								<string>Whole</string>
+								<date>2016-04-18T15:45:44Z</date>
+								<key>Extract</key>
+								<string>73.000000</string>
 								<key>IngredientType</key>
-								<string>Hop</string>
+								<string>Fermentable</string>
 								<key>UUID</key>
-								<string>2C1A6EF1-C8CF-4DA3-B24A-A9C55CA6BB7E</string>
+								<string>0E574A31-F45D-47AB-B3CF-CBBE1F71286E</string>
 							</dict>
 						</array>
+						<key>Color</key>
+						<string>1.300000</string>
+						<key>ColorForAdditionInEBC</key>
+						<string>0.064175</string>
+						<key>ColorForAdditionInSRM</key>
+						<string>0.032576</string>
 						<key>DateLastModified</key>
-						<date>2010-08-25T13:32:22Z</date>
+						<date>2010-05-14T13:41:07Z</date>
+						<key>Extract</key>
+						<string>73.000000</string>
 						<key>Form</key>
 						<string>Loose Pellet Hops</string>
-						<key>IBUForAddition</key>
-						<string>0.000000</string>
+						<key>GravityPointsForAddition</key>
+						<string>0.503110</string>
+						<key>Ingredient</key>
+						<string>US Carapils Malt</string>
+						<key>IsGrain</key>
+						<string>1.000000</string>
+						<key>MCUForAddition</key>
+						<string>0.024182</string>
+						<key>MCUPercentage</key>
+						<string>0.538755</string>
 						<key>Minutes</key>
-						<string>0</string>
-						<key>Percentage</key>
 						<string>0.000000</string>
+						<key>Moisture</key>
+						<string>5.500000</string>
+						<key>MustBeMashed</key>
+						<string>1.000000</string>
+						<key>Percentage</key>
+						<string>0.990116</string>
 						<key>UUID</key>
-						<string>4E56F625-982B-4E76-9F43-B570B833CD1D</string>
-						<key>Variety</key>
-						<string>Citra</string>
+						<string>9BDE86B4-18A6-11DA-80C0-001124CAE2A6</string>
 						<key>When</key>
-						<string>Dry-Hopped</string>
+						<string>In Mash/Steeped</string>
 					</dict>
+				</array>
+				<key>FermentationTemperature</key>
+				<string>20.000000</string>
+				<key>FinalBatchVolume</key>
+				<string>18927.050781</string>
+				<key>FinalWortVolume</key>
+				<string>25437.955078</string>
+				<key>GravityForIBUCalcs</key>
+				<string>1.046851</string>
+				<key>HopIngredients</key>
+				<array>
 					<dict>
 						<key>Alpha</key>
-						<string>11.600000</string>
+						<string>14.500000</string>
 						<key>Amount</key>
-						<string>28.350000</string>
+						<string>11.339999</string>
 						<key>Batches</key>
 						<array>
 							<dict>
 								<key>Alpha</key>
-								<string>11.600000</string>
+								<string>14.500000</string>
 								<key>Amount</key>
-								<string>28.350000</string>
+								<string>11.339999</string>
 								<key>AmountInStock</key>
-								<string>56.700005</string>
+								<string>178.742981</string>
 								<key>BatchName</key>
-								<string>MidWest</string>
+								<string>FH3</string>
 								<key>DeliveredOn</key>
-								<date>2013-02-16T18:00:00Z</date>
+								<date>2014-07-24T17:00:00Z</date>
 								<key>ExpiresOn</key>
-								<date>2014-02-16T18:00:00Z</date>
-								<key>Form</key>
-								<string>Pellets</string>
-								<key>IngredientType</key>
-								<string>Hop</string>
-								<key>UUID</key>
-								<string>FFA2992E-51D9-46DB-877B-8D4488A7E5EE</string>
-							</dict>
-							<dict>
-								<key>Alpha</key>
-								<string>10.100000</string>
-								<key>Amount</key>
-								<string>0.0</string>
-								<key>AmountInStock</key>
-								<string>99.214966</string>
-								<key>BatchName</key>
-								<string>FH leaf</string>
-								<key>DeliveredOn</key>
-								<date>2013-01-13T18:00:00Z</date>
-								<key>ExpiresOn</key>
-								<date>2014-01-13T18:00:00Z</date>
+								<date>2015-07-24T17:00:00Z</date>
 								<key>Form</key>
 								<string>Whole</string>
 								<key>IngredientType</key>
 								<string>Hop</string>
 								<key>UUID</key>
-								<string>A59D300F-7F03-4DFA-BB86-A4BE3EA2420B</string>
+								<string>C32AADB1-90FF-48A9-B94F-5CD3D698BC3D</string>
 							</dict>
 						</array>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
+						<key>Description</key>
+						<string>Pleasant hoppy aroma with low Co-Homulone and high alpha acid content. Herbal, piney and citrusy.</string>
 						<key>Form</key>
-						<string>Loose Pellet Hops</string>
+						<string>Loose Whole Hops</string>
 						<key>IBUForAddition</key>
-						<string>0.000000</string>
+						<string>15.338026</string>
 						<key>Minutes</key>
-						<string>0</string>
-						<key>Percentage</key>
-						<string>0.000000</string>
-						<key>UUID</key>
-						<string>E0507B0E-1BD2-11DA-9896-001124CAE2A6</string>
-						<key>Variety</key>
-						<string>US Centennial</string>
-						<key>When</key>
-						<string>Dry-Hopped</string>
-					</dict>
-					<dict>
-						<key>Alpha</key>
-						<string>12.900000</string>
-						<key>Amount</key>
-						<string>28.350000</string>
-						<key>Batches</key>
-						<array>
-							<dict>
-								<key>Alpha</key>
-								<string>13.000000</string>
-								<key>Amount</key>
-								<string>0.000000</string>
-								<key>AmountInStock</key>
-								<string>113.400002</string>
-								<key>BatchName</key>
-								<string>RB</string>
-								<key>DeliveredOn</key>
-								<date>2013-02-16T18:00:00Z</date>
-								<key>ExpiresOn</key>
-								<date>2014-02-16T18:00:00Z</date>
-								<key>Form</key>
-								<string>Pellets</string>
-								<key>IngredientType</key>
-								<string>Hop</string>
-								<key>UUID</key>
-								<string>EC12C914-521A-461D-8499-165B98FC0065</string>
-							</dict>
-							<dict>
-								<key>Alpha</key>
-								<string>12.900000</string>
-								<key>Amount</key>
-								<string>28.350000</string>
-								<key>AmountInStock</key>
-								<string>28.350000</string>
-								<key>BatchName</key>
-								<string>MW</string>
-								<key>DeliveredOn</key>
-								<date>2013-01-16T18:00:00Z</date>
-								<key>ExpiresOn</key>
-								<date>2014-01-16T18:00:00Z</date>
-								<key>Form</key>
-								<string>Pellets</string>
-								<key>IngredientType</key>
-								<string>Hop</string>
-								<key>UUID</key>
-								<string>5C84A573-C556-4F61-ADD3-C678876D6D13</string>
-							</dict>
-							<dict>
-								<key>Alpha</key>
-								<string>14.100000</string>
-								<key>Amount</key>
-								<string>0.0</string>
-								<key>AmountInStock</key>
-								<string>239.557495</string>
-								<key>BatchName</key>
-								<string>FH2</string>
-								<key>DeliveredOn</key>
-								<date>2013-01-13T18:00:00Z</date>
-								<key>ExpiresOn</key>
-								<date>2014-01-13T22:13:43Z</date>
-								<key>Form</key>
-								<string>Whole</string>
-								<key>IngredientType</key>
-								<string>Hop</string>
-								<key>UUID</key>
-								<string>A37EF225-C1C8-4748-BF3D-72C4DB3C972F</string>
-							</dict>
-						</array>
-						<key>DateLastModified</key>
-						<date>2009-08-09T18:00:38Z</date>
-						<key>Form</key>
-						<string>Loose Pellet Hops</string>
-						<key>IBUForAddition</key>
-						<string>0.000000</string>
-						<key>Minutes</key>
-						<string>0</string>
+						<string>60.000000</string>
 						<key>Percentage</key>
 						<string>0.000000</string>
 						<key>UUID</key>
@@ -741,17 +365,252 @@
 						<key>Variety</key>
 						<string>US Simcoe</string>
 						<key>When</key>
-						<string>Dry-Hopped</string>
+						<string>First Wort Hopped</string>
+					</dict>
+					<dict>
+						<key>Alpha</key>
+						<string>8.900000</string>
+						<key>Amount</key>
+						<string>14.175000</string>
+						<key>Batches</key>
+						<array>
+							<dict>
+								<key>Alpha</key>
+								<string>8.900000</string>
+								<key>Amount</key>
+								<string>14.175000</string>
+								<key>AmountInStock</key>
+								<string>340.200012</string>
+								<key>BatchName</key>
+								<string>FH</string>
+								<key>DeliveredOn</key>
+								<date>2014-07-24T17:00:00Z</date>
+								<key>ExpiresOn</key>
+								<date>2015-07-24T17:00:00Z</date>
+								<key>Form</key>
+								<string>Whole</string>
+								<key>IngredientType</key>
+								<string>Hop</string>
+								<key>UUID</key>
+								<string>FBA31F3C-A234-4786-A264-47550E7C2F0E</string>
+							</dict>
+						</array>
+						<key>DateLastModified</key>
+						<date>2010-08-25T13:31:27Z</date>
+						<key>Description</key>
+						<string>Unique. Very floral and spicy. Powerful aroma with good bittering quality.</string>
+						<key>Form</key>
+						<string>Loose Whole Hops</string>
+						<key>IBUForAddition</key>
+						<string>7.126809</string>
+						<key>Minutes</key>
+						<string>20</string>
+						<key>Percentage</key>
+						<string>0.000000</string>
+						<key>UUID</key>
+						<string>C87E536D-1BD2-11DA-9896-001124CAE2A6</string>
+						<key>Variety</key>
+						<string>US Amarillo</string>
+						<key>When</key>
+						<string>20 Min From End</string>
+					</dict>
+					<dict>
+						<key>Alpha</key>
+						<string>14.500000</string>
+						<key>Amount</key>
+						<string>14.175000</string>
+						<key>Batches</key>
+						<array>
+							<dict>
+								<key>Alpha</key>
+								<string>14.500000</string>
+								<key>Amount</key>
+								<string>14.175000</string>
+								<key>AmountInStock</key>
+								<string>167.402985</string>
+								<key>BatchName</key>
+								<string>FH3</string>
+								<key>DeliveredOn</key>
+								<date>2014-07-24T17:00:00Z</date>
+								<key>ExpiresOn</key>
+								<date>2015-07-24T17:00:00Z</date>
+								<key>Form</key>
+								<string>Whole</string>
+								<key>IngredientType</key>
+								<string>Hop</string>
+								<key>UUID</key>
+								<string>C32AADB1-90FF-48A9-B94F-5CD3D698BC3D</string>
+							</dict>
+						</array>
+						<key>DateLastModified</key>
+						<date>2009-08-09T18:00:38Z</date>
+						<key>Description</key>
+						<string>Pleasant hoppy aroma with low Co-Homulone and high alpha acid content. Herbal, piney and citrusy.</string>
+						<key>Form</key>
+						<string>Loose Whole Hops</string>
+						<key>IBUForAddition</key>
+						<string>9.513466</string>
+						<key>Minutes</key>
+						<string>15</string>
+						<key>Percentage</key>
+						<string>0.000000</string>
+						<key>UUID</key>
+						<string>391C231E-1BD3-11DA-9896-001124CAE2A6</string>
+						<key>Variety</key>
+						<string>US Simcoe</string>
+						<key>When</key>
+						<string>15 Min From End</string>
+					</dict>
+					<dict>
+						<key>Alpha</key>
+						<string>8.900000</string>
+						<key>Amount</key>
+						<string>14.175000</string>
+						<key>Batches</key>
+						<array>
+							<dict>
+								<key>Alpha</key>
+								<string>8.900000</string>
+								<key>Amount</key>
+								<string>14.175000</string>
+								<key>AmountInStock</key>
+								<string>326.025024</string>
+								<key>BatchName</key>
+								<string>FH</string>
+								<key>DeliveredOn</key>
+								<date>2014-07-24T17:00:00Z</date>
+								<key>ExpiresOn</key>
+								<date>2015-07-24T17:00:00Z</date>
+								<key>Form</key>
+								<string>Whole</string>
+								<key>IngredientType</key>
+								<string>Hop</string>
+								<key>UUID</key>
+								<string>FBA31F3C-A234-4786-A264-47550E7C2F0E</string>
+							</dict>
+						</array>
+						<key>DateLastModified</key>
+						<date>2010-08-25T13:31:27Z</date>
+						<key>Description</key>
+						<string>Unique. Very floral and spicy. Powerful aroma with good bittering quality.</string>
+						<key>Form</key>
+						<string>Loose Whole Hops</string>
+						<key>IBUForAddition</key>
+						<string>4.266732</string>
+						<key>Minutes</key>
+						<string>10</string>
+						<key>Percentage</key>
+						<string>0.000000</string>
+						<key>UUID</key>
+						<string>C87E536D-1BD2-11DA-9896-001124CAE2A6</string>
+						<key>Variety</key>
+						<string>US Amarillo</string>
+						<key>When</key>
+						<string>10 Min From End</string>
+					</dict>
+					<dict>
+						<key>Alpha</key>
+						<string>14.500000</string>
+						<key>Amount</key>
+						<string>14.175000</string>
+						<key>Batches</key>
+						<array>
+							<dict>
+								<key>Alpha</key>
+								<string>14.500000</string>
+								<key>Amount</key>
+								<string>14.175000</string>
+								<key>AmountInStock</key>
+								<string>153.227982</string>
+								<key>BatchName</key>
+								<string>FH3</string>
+								<key>DeliveredOn</key>
+								<date>2014-07-24T17:00:00Z</date>
+								<key>ExpiresOn</key>
+								<date>2015-07-24T17:00:00Z</date>
+								<key>Form</key>
+								<string>Whole</string>
+								<key>IngredientType</key>
+								<string>Hop</string>
+								<key>UUID</key>
+								<string>C32AADB1-90FF-48A9-B94F-5CD3D698BC3D</string>
+							</dict>
+						</array>
+						<key>DateLastModified</key>
+						<date>2009-08-09T18:00:38Z</date>
+						<key>Description</key>
+						<string>Pleasant hoppy aroma with low Co-Homulone and high alpha acid content. Herbal, piney and citrusy.</string>
+						<key>Form</key>
+						<string>Loose Whole Hops</string>
+						<key>IBUForAddition</key>
+						<string>3.822126</string>
+						<key>Minutes</key>
+						<string>5</string>
+						<key>Percentage</key>
+						<string>0.000000</string>
+						<key>UUID</key>
+						<string>391C231E-1BD3-11DA-9896-001124CAE2A6</string>
+						<key>Variety</key>
+						<string>US Simcoe</string>
+						<key>When</key>
+						<string>5 Min From End</string>
+					</dict>
+					<dict>
+						<key>Alpha</key>
+						<string>8.900000</string>
+						<key>Amount</key>
+						<string>14.175000</string>
+						<key>Batches</key>
+						<array>
+							<dict>
+								<key>Alpha</key>
+								<string>8.900000</string>
+								<key>Amount</key>
+								<string>14.175000</string>
+								<key>AmountInStock</key>
+								<string>311.850037</string>
+								<key>BatchName</key>
+								<string>FH</string>
+								<key>DeliveredOn</key>
+								<date>2014-07-24T17:00:00Z</date>
+								<key>ExpiresOn</key>
+								<date>2015-07-24T17:00:00Z</date>
+								<key>Form</key>
+								<string>Whole</string>
+								<key>IngredientType</key>
+								<string>Hop</string>
+								<key>UUID</key>
+								<string>FBA31F3C-A234-4786-A264-47550E7C2F0E</string>
+							</dict>
+						</array>
+						<key>DateLastModified</key>
+						<date>2010-08-25T13:31:27Z</date>
+						<key>Description</key>
+						<string>Unique. Very floral and spicy. Powerful aroma with good bittering quality.</string>
+						<key>Form</key>
+						<string>Loose Whole Hops</string>
+						<key>IBUForAddition</key>
+						<string>0.000000</string>
+						<key>Minutes</key>
+						<string>0</string>
+						<key>Percentage</key>
+						<string>0.000000</string>
+						<key>UUID</key>
+						<string>C87E536D-1BD2-11DA-9896-001124CAE2A6</string>
+						<key>Variety</key>
+						<string>US Amarillo</string>
+						<key>When</key>
+						<string>At turn off</string>
 					</dict>
 				</array>
 				<key>MashEfficiency</key>
-				<string>72.000000</string>
+				<string>80.000000</string>
 				<key>MashSchedule</key>
 				<dict>
 					<key>DateLastModified</key>
-					<date>2009-08-09T18:00:38Z</date>
+					<date>2009-08-21T14:01:32Z</date>
 					<key>ScheduleName</key>
-					<string>Single Step Infusion (68C/154F)</string>
+					<string>Single Step Infusion (67C/152F)</string>
 					<key>Steps</key>
 					<array>
 						<dict>
@@ -760,11 +619,11 @@
 							<key>StepType</key>
 							<string>Rest at</string>
 							<key>Temperature</key>
-							<string>68.000000</string>
+							<string>66.666664</string>
 						</dict>
 					</array>
 					<key>UUID</key>
-					<string>3966E986-C1E2-4B46-849F-EAFA2C08AE4B</string>
+					<string>107B5B7D-7D9C-4B21-B3E1-8E31AD1333B3</string>
 					<key>Version</key>
 					<string>3</string>
 				</dict>
@@ -783,60 +642,60 @@
 				<key>OtherIngredients</key>
 				<array/>
 				<key>PreBoilWortVolume</key>
-				<string>62459.265625</string>
+				<string>30283.279297</string>
 				<key>Profile</key>
 				<dict>
 					<key>BoilDuration</key>
 					<string>60.000000</string>
 					<key>DateLastModified</key>
-					<date>2012-11-30T20:57:25Z</date>
+					<date>2015-04-18T15:47:05Z</date>
 					<key>ExtractEfficiency</key>
-					<string>72.000000</string>
+					<string>80.000000</string>
 					<key>FinishedBatchVolume</key>
-					<string>45424.921875</string>
+					<string>18927.050781</string>
 					<key>MTThermalMass</key>
 					<string>680.400024</string>
 					<key>PostBoilVolume</key>
-					<string>52995.738281</string>
+					<string>25437.955078</string>
 					<key>PreBoilVolume</key>
-					<string>62459.265625</string>
+					<string>30283.279297</string>
 					<key>PreferredMashSchedule</key>
-					<string>3966E986-C1E2-4B46-849F-EAFA2C08AE4B</string>
+					<string>107B5B7D-7D9C-4B21-B3E1-8E31AD1333B3</string>
 					<key>PreferredRecipeType</key>
 					<string>Full Mash</string>
 					<key>PreferredSpargeMethod</key>
-					<string>Batch Sparge</string>
+					<string>Fly Sparge</string>
 					<key>ProfileName</key>
-					<string>16.5g -154F - 72%</string>
+					<string>Specific to this recipe</string>
 					<key>UUID</key>
-					<string>E1E78053-7F05-4FED-BD09-09193EA88DF4</string>
+					<string></string>
 					<key>Version</key>
 					<string>2</string>
 					<key>VolumeAtPitching</key>
-					<string>45424.921875</string>
+					<string>20819.755859</string>
 					<key>VolumeToFermenter</key>
-					<string>45424.921875</string>
+					<string>20819.755859</string>
 					<key>VolumeWaterAdded</key>
 					<string>0.000000</string>
 					<key>WaterGrainRatio</key>
 					<string>3.338177</string>
 				</dict>
 				<key>RecipeTitle</key>
-				<string>American Bitter</string>
+				<string>Sim-Amarillo Pale</string>
 				<key>Style</key>
-				<string>English Pale Ale-Special/Best/Premium Bitter</string>
+				<string>American Ale-American Pale Ale</string>
 				<key>UUID</key>
-				<string>67C724C9-5BEC-481A-9597-3C15CAE94FFC</string>
+				<string>287065CF-735C-4C44-A7B1-38B034818C60</string>
 				<key>VolumeAtPitching</key>
-				<string>45424.921875</string>
+				<string>20819.755859</string>
 				<key>VolumeToFermenter</key>
-				<string>45424.921875</string>
+				<string>20819.755859</string>
 				<key>VolumeWaterAdded</key>
 				<string>0.000000</string>
 				<key>WaterProfileUsed</key>
 				<string> No Water Profile Chosen</string>
 				<key>Yeast</key>
-				<string>Wyeast 1272-American Ale II</string>
+				<string>Wyeast 1098-British Ale</string>
 				<key>YeastAmount</key>
 				<string>2</string>
 			</dict>
@@ -845,7 +704,7 @@
 				<key>Acid</key>
 				<string>Unadjusted</string>
 				<key>ApparentAttenuation</key>
-				<string>73.903984</string>
+				<string>73.956703</string>
 				<key>Attenuation</key>
 				<string>74.000000</string>
 				<key>BoilDuration</key>
@@ -857,181 +716,247 @@
 				<key>CaSO4</key>
 				<string>0.0</string>
 				<key>Carbonation</key>
-				<string>Nothing</string>
+				<string>Force Carbonated</string>
 				<key>CarbonationVolumes</key>
-				<string>0.0</string>
+				<string>2.50</string>
 				<key>Conditioning</key>
-				<string>Lagered for 4 weeks</string>
+				<string>Matured for 2 weeks</string>
 				<key>DateLastModified</key>
-				<date>2013-09-01T20:52:37Z</date>
+				<date>2015-04-18T15:47:19Z</date>
 				<key>ExpectedABV</key>
-				<string>3.916664</string>
+				<string>5.541956</string>
 				<key>ExpectedABW</key>
-				<string>3.078575</string>
+				<string>4.339446</string>
 				<key>ExpectedColor</key>
-				<string>5.814309</string>
+				<string>6.046550</string>
 				<key>ExpectedFinalGravity</key>
-				<string>1.010153</string>
+				<string>1.014026</string>
 				<key>ExpectedIBU</key>
-				<string>37.353661</string>
+				<string>37.229996</string>
 				<key>ExpectedOriginalGravity</key>
-				<string>1.039896</string>
+				<string>1.055775</string>
 				<key>ExpectedPreBoilGravity</key>
-				<string>1.033851</string>
+				<string>1.046851</string>
 				<key>FermentableIngredients</key>
 				<array>
 					<dict>
 						<key>Amount</key>
-						<string>9072.000000</string>
+						<string>4535.899902</string>
 						<key>Color</key>
-						<string>2.500000</string>
+						<string>2.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>11.013652</string>
+						<string>7.898296</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>5.590686</string>
+						<string>4.009287</string>
 						<key>DateLastModified</key>
-						<date>2010-04-21T13:42:38Z</date>
+						<date>2014-12-31T01:33:04Z</date>
 						<key>Extract</key>
 						<string>80.000000</string>
 						<key>Form</key>
 						<string>Loose Pellet Hops</string>
 						<key>GravityPointsForAddition</key>
-						<string>38.109573</string>
+						<string>44.107327</string>
 						<key>Ingredient</key>
-						<string>Maris Otter Pale Ale Malt - T.Fawcett</string>
+						<string>Golden Promise</string>
 						<key>IsGrain</key>
-						<string>1.000000</string>
+						<string>1</string>
 						<key>MCUForAddition</key>
-						<string>3.571507</string>
+						<string>2.976191</string>
 						<key>MCUPercentage</key>
-						<string>96.153923</string>
+						<string>66.307022</string>
 						<key>Minutes</key>
 						<string>0.000000</string>
 						<key>Moisture</key>
-						<string>2.500000</string>
+						<string>3.400000</string>
 						<key>MustBeMashed</key>
-						<string>0.000000</string>
+						<string>1</string>
 						<key>Percentage</key>
-						<string>95.238197</string>
+						<string>79.207558</string>
 						<key>UUID</key>
-						<string>AA09D0EE-66D8-4693-848D-B7C114668867</string>
+						<string>FC6E556C-F0E8-4E8D-BED4-CC1801A7A02F</string>
 						<key>When</key>
 						<string>In Mash/Steeped</string>
 					</dict>
 					<dict>
 						<key>Amount</key>
-						<string>453.589996</string>
+						<string>1134.000000</string>
 						<key>Color</key>
-						<string>2.000000</string>
+						<string>4.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>0.440536</string>
+						<string>3.949234</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>0.223622</string>
+						<string>2.004688</string>
 						<key>DateLastModified</key>
-						<date>2012-01-21T01:54:04Z</date>
+						<date>2009-09-01T14:06:38Z</date>
 						<key>Extract</key>
-						<string>75.000000</string>
+						<string>81.000000</string>
 						<key>Form</key>
 						<string>Loose Pellet Hops</string>
 						<key>GravityPointsForAddition</key>
-						<string>1.786347</string>
+						<string>11.164913</string>
 						<key>Ingredient</key>
-						<string>US Wheat Malt</string>
+						<string>Maris Otter</string>
 						<key>IsGrain</key>
-						<string>1</string>
+						<string>1.000000</string>
 						<key>MCUForAddition</key>
-						<string>0.142857</string>
+						<string>1.488128</string>
 						<key>MCUPercentage</key>
-						<string>3.846069</string>
+						<string>33.154236</string>
 						<key>Minutes</key>
 						<string>0.000000</string>
 						<key>Moisture</key>
 						<string>4.000000</string>
 						<key>MustBeMashed</key>
-						<string>1</string>
+						<string>1.000000</string>
 						<key>Percentage</key>
-						<string>4.761805</string>
+						<string>19.802326</string>
 						<key>UUID</key>
-						<string>DEE6B52C-6EB0-4438-81C7-B3B231940067</string>
+						<string>D8D7A8DC-AB31-4A0E-97D9-D5AFBD429966</string>
+						<key>When</key>
+						<string>In Mash/Steeped</string>
+					</dict>
+					<dict>
+						<key>Amount</key>
+						<string>56.700001</string>
+						<key>Color</key>
+						<string>1.300000</string>
+						<key>ColorForAdditionInEBC</key>
+						<string>0.064175</string>
+						<key>ColorForAdditionInSRM</key>
+						<string>0.032576</string>
+						<key>DateLastModified</key>
+						<date>2010-05-14T13:41:07Z</date>
+						<key>Extract</key>
+						<string>73.000000</string>
+						<key>Form</key>
+						<string>Loose Pellet Hops</string>
+						<key>GravityPointsForAddition</key>
+						<string>0.503110</string>
+						<key>Ingredient</key>
+						<string>US Carapils Malt</string>
+						<key>IsGrain</key>
+						<string>1.000000</string>
+						<key>MCUForAddition</key>
+						<string>0.024182</string>
+						<key>MCUPercentage</key>
+						<string>0.538755</string>
+						<key>Minutes</key>
+						<string>0.000000</string>
+						<key>Moisture</key>
+						<string>5.500000</string>
+						<key>MustBeMashed</key>
+						<string>1.000000</string>
+						<key>Percentage</key>
+						<string>0.990116</string>
+						<key>UUID</key>
+						<string>9BDE86B4-18A6-11DA-80C0-001124CAE2A6</string>
 						<key>When</key>
 						<string>In Mash/Steeped</string>
 					</dict>
 				</array>
 				<key>FermentationTemperature</key>
-				<string>18.0</string>
+				<string>20.000000</string>
 				<key>FinalBatchVolume</key>
-				<string>45424.921875</string>
+				<string>18927.050781</string>
 				<key>FinalWortVolume</key>
-				<string>52995.738281</string>
+				<string>25437.955078</string>
 				<key>GravityForIBUCalcs</key>
-				<string>1.033851</string>
+				<string>1.046851</string>
 				<key>HopIngredients</key>
 				<array>
 					<dict>
 						<key>Alpha</key>
-						<string>15.500000</string>
+						<string>13.000000</string>
 						<key>Amount</key>
-						<string>14.632258</string>
+						<string>11.340000</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Description</key>
-						<string>Generally used for main copper hop in the form of extracts and pellets because of the exceedingly high alpha.</string>
+						<string>Pleasant hoppy aroma with low Co-Homulone and high alpha acid content. Herbal, piney and citrusy.</string>
 						<key>Form</key>
 						<string>Loose Whole Hops</string>
 						<key>IBUForAddition</key>
-						<string>11.413346</string>
+						<string>13.751333</string>
 						<key>Minutes</key>
-						<string>60</string>
+						<string>60.000000</string>
 						<key>Percentage</key>
 						<string>0.000000</string>
 						<key>UUID</key>
-						<string>F746F8D6-1BD2-11DA-9896-001124CAE2A6</string>
+						<string>391C231E-1BD3-11DA-9896-001124CAE2A6</string>
 						<key>Variety</key>
-						<string>US Columbus(Tomahawk)</string>
+						<string>US Simcoe</string>
 						<key>When</key>
-						<string>60 Min From End</string>
+						<string>First Wort Hopped</string>
 					</dict>
 					<dict>
 						<key>Alpha</key>
-						<string>15.500000</string>
+						<string>8.000000</string>
 						<key>Amount</key>
-						<string>28.350000</string>
+						<string>17.010000</string>
 						<key>DateLastModified</key>
-						<date>2009-08-09T18:00:38Z</date>
+						<date>2010-08-25T13:31:27Z</date>
+						<key>Description</key>
+						<string>Unique. Very floral and spicy. Powerful aroma with good bittering quality.</string>
 						<key>Form</key>
 						<string>Loose Whole Hops</string>
 						<key>IBUForAddition</key>
-						<string>13.392088</string>
+						<string>7.687345</string>
 						<key>Minutes</key>
 						<string>20</string>
 						<key>Percentage</key>
 						<string>0.000000</string>
 						<key>UUID</key>
-						<string>F746F8D6-1BD2-11DA-9896-001124CAE2A6</string>
+						<string>C87E536D-1BD2-11DA-9896-001124CAE2A6</string>
 						<key>Variety</key>
-						<string>US Columbus(Tomahawk)</string>
+						<string>US Amarillo</string>
 						<key>When</key>
 						<string>20 Min From End</string>
 					</dict>
 					<dict>
 						<key>Alpha</key>
-						<string>8.500000</string>
+						<string>13.000000</string>
 						<key>Amount</key>
-						<string>28.350000</string>
+						<string>14.175000</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
+						<key>Description</key>
+						<string>Pleasant hoppy aroma with low Co-Homulone and high alpha acid content. Herbal, piney and citrusy.</string>
 						<key>Form</key>
 						<string>Loose Whole Hops</string>
 						<key>IBUForAddition</key>
-						<string>4.396791</string>
+						<string>8.529315</string>
+						<key>Minutes</key>
+						<string>15</string>
+						<key>Percentage</key>
+						<string>0.000000</string>
+						<key>UUID</key>
+						<string>391C231E-1BD3-11DA-9896-001124CAE2A6</string>
+						<key>Variety</key>
+						<string>US Simcoe</string>
+						<key>When</key>
+						<string>15 Min From End</string>
+					</dict>
+					<dict>
+						<key>Alpha</key>
+						<string>8.000000</string>
+						<key>Amount</key>
+						<string>14.175000</string>
+						<key>DateLastModified</key>
+						<date>2010-08-25T13:31:27Z</date>
+						<key>Description</key>
+						<string>Unique. Very floral and spicy. Powerful aroma with good bittering quality.</string>
+						<key>Form</key>
+						<string>Loose Whole Hops</string>
+						<key>IBUForAddition</key>
+						<string>3.835265</string>
 						<key>Minutes</key>
 						<string>10</string>
 						<key>Percentage</key>
 						<string>0.000000</string>
 						<key>UUID</key>
-						<string>E0507B0E-1BD2-11DA-9896-001124CAE2A6</string>
+						<string>C87E536D-1BD2-11DA-9896-001124CAE2A6</string>
 						<key>Variety</key>
-						<string>US Centennial</string>
+						<string>US Amarillo</string>
 						<key>When</key>
 						<string>10 Min From End</string>
 					</dict>
@@ -1039,13 +964,15 @@
 						<key>Alpha</key>
 						<string>13.000000</string>
 						<key>Amount</key>
-						<string>56.700001</string>
+						<string>14.175000</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
+						<key>Description</key>
+						<string>Pleasant hoppy aroma with low Co-Homulone and high alpha acid content. Herbal, piney and citrusy.</string>
 						<key>Form</key>
 						<string>Loose Whole Hops</string>
 						<key>IBUForAddition</key>
-						<string>7.394722</string>
+						<string>3.426734</string>
 						<key>Minutes</key>
 						<string>5</string>
 						<key>Percentage</key>
@@ -1059,35 +986,37 @@
 					</dict>
 					<dict>
 						<key>Alpha</key>
-						<string>12.300000</string>
+						<string>8.000000</string>
 						<key>Amount</key>
-						<string>28.350000</string>
+						<string>14.175000</string>
 						<key>DateLastModified</key>
-						<date>2010-08-25T13:32:22Z</date>
+						<date>2010-08-25T13:31:27Z</date>
+						<key>Description</key>
+						<string>Unique. Very floral and spicy. Powerful aroma with good bittering quality.</string>
 						<key>Form</key>
 						<string>Loose Whole Hops</string>
 						<key>IBUForAddition</key>
-						<string>0.756715</string>
+						<string>0.000000</string>
 						<key>Minutes</key>
-						<string>1</string>
+						<string>0</string>
 						<key>Percentage</key>
 						<string>0.000000</string>
 						<key>UUID</key>
-						<string>4E56F625-982B-4E76-9F43-B570B833CD1D</string>
+						<string>C87E536D-1BD2-11DA-9896-001124CAE2A6</string>
 						<key>Variety</key>
-						<string>Citra</string>
+						<string>US Amarillo</string>
 						<key>When</key>
-						<string>1 Min From End</string>
+						<string>At turn off</string>
 					</dict>
 				</array>
 				<key>MashEfficiency</key>
-				<string>72.000000</string>
+				<string>80.000000</string>
 				<key>MashSchedule</key>
 				<dict>
 					<key>DateLastModified</key>
-					<date>2009-08-09T18:00:38Z</date>
+					<date>2009-08-21T14:01:32Z</date>
 					<key>ScheduleName</key>
-					<string>Single Step Infusion (68C/154F)</string>
+					<string>Single Step Infusion (67C/152F)</string>
 					<key>Steps</key>
 					<array>
 						<dict>
@@ -1096,11 +1025,11 @@
 							<key>StepType</key>
 							<string>Rest at</string>
 							<key>Temperature</key>
-							<string>68.000000</string>
+							<string>66.666664</string>
 						</dict>
 					</array>
 					<key>UUID</key>
-					<string>3966E986-C1E2-4B46-849F-EAFA2C08AE4B</string>
+					<string>107B5B7D-7D9C-4B21-B3E1-8E31AD1333B3</string>
 					<key>Version</key>
 					<string>3</string>
 				</dict>
@@ -1119,73 +1048,73 @@
 				<key>OtherIngredients</key>
 				<array/>
 				<key>PreBoilWortVolume</key>
-				<string>62459.265625</string>
+				<string>30283.279297</string>
 				<key>Profile</key>
 				<dict>
 					<key>BoilDuration</key>
 					<string>60.000000</string>
 					<key>DateLastModified</key>
-					<date>2012-11-30T20:57:25Z</date>
+					<date>2015-05-16T15:18:55Z</date>
 					<key>ExtractEfficiency</key>
-					<string>72.000000</string>
+					<string>80.000000</string>
 					<key>FinishedBatchVolume</key>
-					<string>45424.921875</string>
+					<string>18927.050781</string>
 					<key>MTThermalMass</key>
-					<string>680.400024</string>
+					<string>1000</string>
 					<key>PostBoilVolume</key>
-					<string>52995.738281</string>
+					<string>25437.955078</string>
 					<key>PreBoilVolume</key>
-					<string>62459.265625</string>
+					<string>30283.279297</string>
 					<key>PreferredMashSchedule</key>
-					<string>3966E986-C1E2-4B46-849F-EAFA2C08AE4B</string>
+					<string>107B5B7D-7D9C-4B21-B3E1-8E31AD1333B3</string>
 					<key>PreferredRecipeType</key>
 					<string>Full Mash</string>
 					<key>PreferredSpargeMethod</key>
-					<string>Batch Sparge</string>
+					<string>Fly Sparge</string>
 					<key>ProfileName</key>
-					<string>16.5g -154F - 72%</string>
+					<string>Specific to this recipe</string>
 					<key>UUID</key>
-					<string>E1E78053-7F05-4FED-BD09-09193EA88DF4</string>
+					<string></string>
 					<key>Version</key>
 					<string>2</string>
 					<key>VolumeAtPitching</key>
-					<string>45424.921875</string>
+					<string>20819.755859</string>
 					<key>VolumeToFermenter</key>
-					<string>45424.921875</string>
+					<string>20819.755859</string>
 					<key>VolumeWaterAdded</key>
 					<string>0.000000</string>
 					<key>WaterGrainRatio</key>
-					<string>3.338177</string>
+					<string>2</string>
 				</dict>
 				<key>RecipeTitle</key>
-				<string>American Bitter</string>
+				<string>Sim-Amarillo Pale</string>
 				<key>Style</key>
-				<string>English Pale Ale-Special/Best/Premium Bitter</string>
+				<string>American Ale-American Pale Ale</string>
 				<key>UUID</key>
-				<string>67C724C9-5BEC-481A-9597-3C15CAE94FFC</string>
+				<string>287065CF-735C-4C44-A7B1-38B034818C60</string>
 				<key>VolumeAtPitching</key>
-				<string>45424.921875</string>
+				<string>20819.755859</string>
 				<key>VolumeToFermenter</key>
-				<string>45424.921875</string>
+				<string>20819.755859</string>
 				<key>VolumeWaterAdded</key>
 				<string>0.000000</string>
 				<key>WaterProfileUsed</key>
 				<string> No Water Profile Chosen</string>
 				<key>Yeast</key>
-				<string>Wyeast 1272-American Ale II</string>
+				<string>Wyeast 1098-British Ale</string>
 				<key>YeastAmount</key>
 				<string>2</string>
 			</dict>
 			<key>PackagingNotes</key>
-			<string>3 teaspoons biofine</string>
+			<string>4/25 Reading and dry hop 1oz each sim/am</string>
 			<key>RoomTemperature</key>
-			<string>24.444445</string>
+			<string>17.222221</string>
 			<key>SpargeMethod</key>
-			<string>Batch Sparge</string>
+			<string>Fly Sparge</string>
 			<key>TastingNotes</key>
-			<string>After 5 days on gas, AmII is tasting good, needs bit more malt character - maybe try flaked barley instead of wheat. Am Ale II is the winner.</string>
+			<string>Best yet.</string>
 			<key>UUID</key>
-			<string>876DAEB4-AB10-4AAA-B089-98E1D0F69B9A</string>
+			<string>D89B356F-1B3D-4B0A-8B92-7146EF763BB9</string>
 			<key>WaterGrainRatio</key>
 			<string>3.338177</string>
 		</dict>
@@ -1199,181 +1128,247 @@
 	<key>CaSO4</key>
 	<string>0.0</string>
 	<key>Carbonation</key>
-	<string>Nothing</string>
+	<string>Force Carbonated</string>
 	<key>CarbonationVolumes</key>
-	<string>0.0</string>
+	<string>2.50</string>
 	<key>Conditioning</key>
-	<string>Lagered for 4 weeks</string>
+	<string>Matured for 2 weeks</string>
 	<key>DateLastModified</key>
-	<date>2013-09-01T20:52:37Z</date>
+	<date>2015-04-18T15:47:19Z</date>
 	<key>ExpectedABV</key>
-	<string>3.916664</string>
+	<string>5.541956</string>
 	<key>ExpectedABW</key>
-	<string>3.078575</string>
+	<string>4.339446</string>
 	<key>ExpectedColor</key>
-	<string>5.814309</string>
+	<string>6.046550</string>
 	<key>ExpectedFinalGravity</key>
-	<string>1.010153</string>
+	<string>1.014026</string>
 	<key>ExpectedIBU</key>
-	<string>37.353661</string>
+	<string>37.229996</string>
 	<key>ExpectedOriginalGravity</key>
-	<string>1.039896</string>
+	<string>1.055775</string>
 	<key>ExpectedPreBoilGravity</key>
-	<string>1.033851</string>
+	<string>1.046851</string>
 	<key>FermentableIngredients</key>
 	<array>
 		<dict>
 			<key>Amount</key>
-			<string>9072.000000</string>
+			<string>4535.899902</string>
 			<key>Color</key>
-			<string>2.500000</string>
+			<string>2.000000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>11.013652</string>
+			<string>7.898296</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>5.590686</string>
+			<string>4.009287</string>
 			<key>DateLastModified</key>
-			<date>2010-04-21T13:42:38Z</date>
+			<date>2014-12-31T01:33:04Z</date>
 			<key>Extract</key>
 			<string>80.000000</string>
 			<key>Form</key>
 			<string>Loose Pellet Hops</string>
 			<key>GravityPointsForAddition</key>
-			<string>38.109573</string>
+			<string>44.107327</string>
 			<key>Ingredient</key>
-			<string>Maris Otter Pale Ale Malt - T.Fawcett</string>
+			<string>Golden Promise</string>
 			<key>IsGrain</key>
-			<string>1.000000</string>
+			<string>1</string>
 			<key>MCUForAddition</key>
-			<string>3.571507</string>
+			<string>2.976191</string>
 			<key>MCUPercentage</key>
-			<string>96.153923</string>
+			<string>66.307022</string>
 			<key>Minutes</key>
 			<string>0.000000</string>
 			<key>Moisture</key>
-			<string>2.500000</string>
+			<string>3.400000</string>
 			<key>MustBeMashed</key>
-			<string>0.000000</string>
+			<string>1</string>
 			<key>Percentage</key>
-			<string>95.238197</string>
+			<string>79.207558</string>
 			<key>UUID</key>
-			<string>AA09D0EE-66D8-4693-848D-B7C114668867</string>
+			<string>FC6E556C-F0E8-4E8D-BED4-CC1801A7A02F</string>
 			<key>When</key>
 			<string>In Mash/Steeped</string>
 		</dict>
 		<dict>
 			<key>Amount</key>
-			<string>453.589996</string>
+			<string>1134.000000</string>
 			<key>Color</key>
-			<string>2.000000</string>
+			<string>4.000000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>0.440536</string>
+			<string>3.949234</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>0.223622</string>
+			<string>2.004688</string>
 			<key>DateLastModified</key>
-			<date>2012-01-21T01:54:04Z</date>
+			<date>2009-09-01T14:06:38Z</date>
 			<key>Extract</key>
-			<string>75.000000</string>
+			<string>81.000000</string>
 			<key>Form</key>
 			<string>Loose Pellet Hops</string>
 			<key>GravityPointsForAddition</key>
-			<string>1.786347</string>
+			<string>11.164913</string>
 			<key>Ingredient</key>
-			<string>US Wheat Malt</string>
+			<string>Maris Otter</string>
 			<key>IsGrain</key>
-			<string>1</string>
+			<string>1.000000</string>
 			<key>MCUForAddition</key>
-			<string>0.142857</string>
+			<string>1.488128</string>
 			<key>MCUPercentage</key>
-			<string>3.846069</string>
+			<string>33.154236</string>
 			<key>Minutes</key>
 			<string>0.000000</string>
 			<key>Moisture</key>
 			<string>4.000000</string>
 			<key>MustBeMashed</key>
-			<string>1</string>
+			<string>1.000000</string>
 			<key>Percentage</key>
-			<string>4.761805</string>
+			<string>19.802326</string>
 			<key>UUID</key>
-			<string>DEE6B52C-6EB0-4438-81C7-B3B231940067</string>
+			<string>D8D7A8DC-AB31-4A0E-97D9-D5AFBD429966</string>
+			<key>When</key>
+			<string>In Mash/Steeped</string>
+		</dict>
+		<dict>
+			<key>Amount</key>
+			<string>56.700001</string>
+			<key>Color</key>
+			<string>1.300000</string>
+			<key>ColorForAdditionInEBC</key>
+			<string>0.064175</string>
+			<key>ColorForAdditionInSRM</key>
+			<string>0.032576</string>
+			<key>DateLastModified</key>
+			<date>2010-05-14T13:41:07Z</date>
+			<key>Extract</key>
+			<string>73.000000</string>
+			<key>Form</key>
+			<string>Loose Pellet Hops</string>
+			<key>GravityPointsForAddition</key>
+			<string>0.503110</string>
+			<key>Ingredient</key>
+			<string>US Carapils Malt</string>
+			<key>IsGrain</key>
+			<string>1.000000</string>
+			<key>MCUForAddition</key>
+			<string>0.024182</string>
+			<key>MCUPercentage</key>
+			<string>0.538755</string>
+			<key>Minutes</key>
+			<string>0.000000</string>
+			<key>Moisture</key>
+			<string>5.500000</string>
+			<key>MustBeMashed</key>
+			<string>1.000000</string>
+			<key>Percentage</key>
+			<string>0.990116</string>
+			<key>UUID</key>
+			<string>9BDE86B4-18A6-11DA-80C0-001124CAE2A6</string>
 			<key>When</key>
 			<string>In Mash/Steeped</string>
 		</dict>
 	</array>
 	<key>FermentationTemperature</key>
-	<string>18.0</string>
+	<string>20.000000</string>
 	<key>FinalBatchVolume</key>
-	<string>45424.921875</string>
+	<string>18927.050781</string>
 	<key>FinalWortVolume</key>
-	<string>52995.738281</string>
+	<string>25437.955078</string>
 	<key>GravityForIBUCalcs</key>
-	<string>1.033851</string>
+	<string>1.046851</string>
 	<key>HopIngredients</key>
 	<array>
 		<dict>
 			<key>Alpha</key>
-			<string>15.500000</string>
+			<string>13.000000</string>
 			<key>Amount</key>
-			<string>14.632258</string>
+			<string>11.340000</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Description</key>
-			<string>Generally used for main copper hop in the form of extracts and pellets because of the exceedingly high alpha.</string>
+			<string>Pleasant hoppy aroma with low Co-Homulone and high alpha acid content. Herbal, piney and citrusy.</string>
 			<key>Form</key>
 			<string>Loose Whole Hops</string>
 			<key>IBUForAddition</key>
-			<string>11.413346</string>
+			<string>13.751333</string>
 			<key>Minutes</key>
-			<string>60</string>
+			<string>60.000000</string>
 			<key>Percentage</key>
 			<string>0.000000</string>
 			<key>UUID</key>
-			<string>F746F8D6-1BD2-11DA-9896-001124CAE2A6</string>
+			<string>391C231E-1BD3-11DA-9896-001124CAE2A6</string>
 			<key>Variety</key>
-			<string>US Columbus(Tomahawk)</string>
+			<string>US Simcoe</string>
 			<key>When</key>
-			<string>60 Min From End</string>
+			<string>First Wort Hopped</string>
 		</dict>
 		<dict>
 			<key>Alpha</key>
-			<string>15.500000</string>
+			<string>8.000000</string>
 			<key>Amount</key>
-			<string>28.350000</string>
+			<string>17.010000</string>
 			<key>DateLastModified</key>
-			<date>2009-08-09T18:00:38Z</date>
+			<date>2010-08-25T13:31:27Z</date>
+			<key>Description</key>
+			<string>Unique. Very floral and spicy. Powerful aroma with good bittering quality.</string>
 			<key>Form</key>
 			<string>Loose Whole Hops</string>
 			<key>IBUForAddition</key>
-			<string>13.392088</string>
+			<string>7.687345</string>
 			<key>Minutes</key>
 			<string>20</string>
 			<key>Percentage</key>
 			<string>0.000000</string>
 			<key>UUID</key>
-			<string>F746F8D6-1BD2-11DA-9896-001124CAE2A6</string>
+			<string>C87E536D-1BD2-11DA-9896-001124CAE2A6</string>
 			<key>Variety</key>
-			<string>US Columbus(Tomahawk)</string>
+			<string>US Amarillo</string>
 			<key>When</key>
 			<string>20 Min From End</string>
 		</dict>
 		<dict>
 			<key>Alpha</key>
-			<string>8.500000</string>
+			<string>13.000000</string>
 			<key>Amount</key>
-			<string>28.350000</string>
+			<string>14.175000</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
+			<key>Description</key>
+			<string>Pleasant hoppy aroma with low Co-Homulone and high alpha acid content. Herbal, piney and citrusy.</string>
 			<key>Form</key>
 			<string>Loose Whole Hops</string>
 			<key>IBUForAddition</key>
-			<string>4.396791</string>
+			<string>8.529315</string>
+			<key>Minutes</key>
+			<string>15</string>
+			<key>Percentage</key>
+			<string>0.000000</string>
+			<key>UUID</key>
+			<string>391C231E-1BD3-11DA-9896-001124CAE2A6</string>
+			<key>Variety</key>
+			<string>US Simcoe</string>
+			<key>When</key>
+			<string>15 Min From End</string>
+		</dict>
+		<dict>
+			<key>Alpha</key>
+			<string>8.000000</string>
+			<key>Amount</key>
+			<string>14.175000</string>
+			<key>DateLastModified</key>
+			<date>2010-08-25T13:31:27Z</date>
+			<key>Description</key>
+			<string>Unique. Very floral and spicy. Powerful aroma with good bittering quality.</string>
+			<key>Form</key>
+			<string>Loose Whole Hops</string>
+			<key>IBUForAddition</key>
+			<string>3.835265</string>
 			<key>Minutes</key>
 			<string>10</string>
 			<key>Percentage</key>
 			<string>0.000000</string>
 			<key>UUID</key>
-			<string>E0507B0E-1BD2-11DA-9896-001124CAE2A6</string>
+			<string>C87E536D-1BD2-11DA-9896-001124CAE2A6</string>
 			<key>Variety</key>
-			<string>US Centennial</string>
+			<string>US Amarillo</string>
 			<key>When</key>
 			<string>10 Min From End</string>
 		</dict>
@@ -1381,13 +1376,15 @@
 			<key>Alpha</key>
 			<string>13.000000</string>
 			<key>Amount</key>
-			<string>56.700001</string>
+			<string>14.175000</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
+			<key>Description</key>
+			<string>Pleasant hoppy aroma with low Co-Homulone and high alpha acid content. Herbal, piney and citrusy.</string>
 			<key>Form</key>
 			<string>Loose Whole Hops</string>
 			<key>IBUForAddition</key>
-			<string>7.394722</string>
+			<string>3.426734</string>
 			<key>Minutes</key>
 			<string>5</string>
 			<key>Percentage</key>
@@ -1401,35 +1398,37 @@
 		</dict>
 		<dict>
 			<key>Alpha</key>
-			<string>12.300000</string>
+			<string>8.000000</string>
 			<key>Amount</key>
-			<string>28.350000</string>
+			<string>14.175000</string>
 			<key>DateLastModified</key>
-			<date>2010-08-25T13:32:22Z</date>
+			<date>2010-08-25T13:31:27Z</date>
+			<key>Description</key>
+			<string>Unique. Very floral and spicy. Powerful aroma with good bittering quality.</string>
 			<key>Form</key>
 			<string>Loose Whole Hops</string>
 			<key>IBUForAddition</key>
-			<string>0.756715</string>
+			<string>0.000000</string>
 			<key>Minutes</key>
-			<string>1</string>
+			<string>0</string>
 			<key>Percentage</key>
 			<string>0.000000</string>
 			<key>UUID</key>
-			<string>4E56F625-982B-4E76-9F43-B570B833CD1D</string>
+			<string>C87E536D-1BD2-11DA-9896-001124CAE2A6</string>
 			<key>Variety</key>
-			<string>Citra</string>
+			<string>US Amarillo</string>
 			<key>When</key>
-			<string>1 Min From End</string>
+			<string>At turn off</string>
 		</dict>
 	</array>
 	<key>MashEfficiency</key>
-	<string>72.000000</string>
+	<string>80.000000</string>
 	<key>MashSchedule</key>
 	<dict>
 		<key>DateLastModified</key>
-		<date>2009-08-09T18:00:38Z</date>
+		<date>2009-08-21T14:01:32Z</date>
 		<key>ScheduleName</key>
-		<string>Single Step Infusion (68C/154F)</string>
+		<string>Single Step Infusion (67C/152F)</string>
 		<key>Steps</key>
 		<array>
 			<dict>
@@ -1438,11 +1437,11 @@
 				<key>StepType</key>
 				<string>Rest at</string>
 				<key>Temperature</key>
-				<string>68.000000</string>
+				<string>66.666664</string>
 			</dict>
 		</array>
 		<key>UUID</key>
-		<string>3966E986-C1E2-4B46-849F-EAFA2C08AE4B</string>
+		<string>107B5B7D-7D9C-4B21-B3E1-8E31AD1333B3</string>
 		<key>Version</key>
 		<string>3</string>
 	</dict>
@@ -1461,60 +1460,60 @@
 	<key>OtherIngredients</key>
 	<array/>
 	<key>PreBoilWortVolume</key>
-	<string>62459.265625</string>
+	<string>30283.279297</string>
 	<key>Profile</key>
 	<dict>
 		<key>BoilDuration</key>
 		<string>60.000000</string>
 		<key>DateLastModified</key>
-		<date>2012-11-30T20:57:25Z</date>
+		<date>2015-04-18T15:47:05Z</date>
 		<key>ExtractEfficiency</key>
-		<string>72.000000</string>
+		<string>80.000000</string>
 		<key>FinishedBatchVolume</key>
-		<string>45424.921875</string>
+		<string>18927.050781</string>
 		<key>MTThermalMass</key>
-		<string>680.400024</string>
+		<string>1000</string>
 		<key>PostBoilVolume</key>
-		<string>52995.738281</string>
+		<string>25437.955078</string>
 		<key>PreBoilVolume</key>
-		<string>62459.265625</string>
+		<string>30283.279297</string>
 		<key>PreferredMashSchedule</key>
-		<string>3966E986-C1E2-4B46-849F-EAFA2C08AE4B</string>
+		<string>107B5B7D-7D9C-4B21-B3E1-8E31AD1333B3</string>
 		<key>PreferredRecipeType</key>
 		<string>Full Mash</string>
 		<key>PreferredSpargeMethod</key>
-		<string>Batch Sparge</string>
+		<string>Fly Sparge</string>
 		<key>ProfileName</key>
-		<string>16.5g -154F - 72%</string>
+		<string>Specific to this recipe</string>
 		<key>UUID</key>
-		<string>E1E78053-7F05-4FED-BD09-09193EA88DF4</string>
+		<string></string>
 		<key>Version</key>
 		<string>2</string>
 		<key>VolumeAtPitching</key>
-		<string>45424.921875</string>
+		<string>20819.755859</string>
 		<key>VolumeToFermenter</key>
-		<string>45424.921875</string>
+		<string>20819.755859</string>
 		<key>VolumeWaterAdded</key>
 		<string>0.000000</string>
 		<key>WaterGrainRatio</key>
-		<string>3.338177</string>
+		<string>2</string>
 	</dict>
 	<key>RecipeTitle</key>
-	<string>American Bitter</string>
+	<string>Sim-Amarillo Pale</string>
 	<key>Style</key>
-	<string>English Pale Ale-Special/Best/Premium Bitter</string>
+	<string>American Ale-American Pale Ale</string>
 	<key>UUID</key>
-	<string>67C724C9-5BEC-481A-9597-3C15CAE94FFC</string>
+	<string>287065CF-735C-4C44-A7B1-38B034818C60</string>
 	<key>VolumeAtPitching</key>
-	<string>45424.921875</string>
+	<string>20819.755859</string>
 	<key>VolumeToFermenter</key>
-	<string>45424.921875</string>
+	<string>20819.755859</string>
 	<key>VolumeWaterAdded</key>
 	<string>0.000000</string>
 	<key>WaterProfileUsed</key>
 	<string> No Water Profile Chosen</string>
 	<key>Yeast</key>
-	<string>Wyeast 1272-American Ale II</string>
+	<string>Wyeast 1098-British Ale</string>
 	<key>YeastAmount</key>
 	<string>2</string>
 </dict>
