@@ -14,59 +14,60 @@
 			<key>Actuals</key>
 			<dict>
 				<key>ABV</key>
-				<string>0.000000</string>
+				<string>5.550451</string>
 				<key>ABW</key>
-				<string>0.000000</string>
+				<string>4.350141</string>
 				<key>ActualMashEfficiency</key>
-				<string>0.0</string>
+				<string>79.454979</string>
 				<key>ApparentAttenuation</key>
-				<string>0.000000</string>
+				<string>75.325050</string>
 				<key>Color</key>
-				<string>13.990072</string>
+				<string>13.215900</string>
 				<key>FG</key>
-				<string>1.000000</string>
+				<string>1.013084</string>
 				<key>FGHydroReading</key>
-				<string>1.000</string>
+				<string>1.013000</string>
 				<key>FGTemp</key>
-				<string>15.0</string>
+				<string>15.555555</string>
 				<key>FermentationTemperature</key>
 				<string>15.555555</string>
 				<key>FinalBatchVolume</key>
-				<string>18927.050781</string>
+				<string>20819.755859</string>
 				<key>FinalWortVolume</key>
-				<string>23015.292969</string>
+				<string>21198.294922</string>
 				<key>HydrometerCalibratedAt</key>
 				<string>15.0</string>
 				<key>IBU</key>
-				<string>63.643387</string>
+				<string>44.321846</string>
 				<key>OG</key>
-				<string>1.000000</string>
+				<string>1.054919</string>
 				<key>OGHydroReading</key>
-				<string>1.000</string>
+				<string>1.055000</string>
 				<key>OGTemp</key>
-				<string>15.0</string>
+				<string>14.444445</string>
 				<key>PreBoilGrav</key>
-				<string>1.000000</string>
+				<string>1.038172</string>
 				<key>PreBoilHydroReading</key>
-				<string>1.000</string>
+				<string>1.038000</string>
 				<key>PreBoilTemp</key>
-				<string>15.0</string>
+				<string>16.111111</string>
 				<key>PreBoilWortVolume</key>
 				<string>30283.279297</string>
 				<key>RealAttenuation</key>
-				<string>0.000000</string>
+				<string>61.706284</string>
 				<key>VolumeAtPitching</key>
-				<string>20000</string>
+				<string>22712.460938</string>
 				<key>VolumeToFermenter</key>
-				<string>20000</string>
+				<string>20819.755859</string>
 				<key>VolumeWaterAdded</key>
-				<string>0.000000</string>
+				<string>1892.705078</string>
 			</dict>
 			<key>AdjustedInventory</key>
-			<string>0</string>
+			<string>1</string>
 			<key>BatchNotes</key>
 			<string>M: 4.1 gals;  2.1g gyp - 1.2g CC - 2.5ml acid (70%)
-S:  5.5 gals; 2.8g gyp - 1.7gCC - 2.5ml acid (70%)</string>
+S:  5.5 gals; 2.8g gyp - 1.7gCC - 2.5ml acid (70%)
+Actual ph: 5.3</string>
 			<key>BatchTitle</key>
 			<string>Batch 1 of Cowboy Alt</string>
 			<key>BoilNotes</key>
@@ -74,7 +75,7 @@ S:  5.5 gals; 2.8g gyp - 1.7gCC - 2.5ml acid (70%)</string>
 			<key>DateBrewed</key>
 			<date>2015-11-14T06:00:00Z</date>
 			<key>DateLastModified</key>
-			<date>2015-11-11T15:21:01Z</date>
+			<date>2016-01-29T19:25:05Z</date>
 			<key>DatePackaged</key>
 			<date>2015-11-14T06:00:00Z</date>
 			<key>DateRacked</key>
@@ -82,7 +83,9 @@ S:  5.5 gals; 2.8g gyp - 1.7gCC - 2.5ml acid (70%)</string>
 			<key>DateReady</key>
 			<date>2015-11-14T06:00:00Z</date>
 			<key>FermentationNotes</key>
-			<string></string>
+			<string>1.4L starter (the .5 gallon marked as "water to dilute" here)
+Free ferment in basement ambient upper 50s
+</string>
 			<key>MTThermalMass</key>
 			<string>680.400024</string>
 			<key>ModifiedRecipe</key>
@@ -120,7 +123,7 @@ S:  5.5 gals; 2.8g gyp - 1.7gCC - 2.5ml acid (70%)</string>
 				<key>ExpectedFinalGravity</key>
 				<string>1.012272</string>
 				<key>ExpectedIBU</key>
-				<string>45.054886</string>
+				<string>44.429165</string>
 				<key>ExpectedOriginalGravity</key>
 				<string>1.050571</string>
 				<key>ExpectedPreBoilGravity</key>
@@ -136,7 +139,7 @@ S:  5.5 gals; 2.8g gyp - 1.7gCC - 2.5ml acid (70%)</string>
 								<key>Amount</key>
 								<string>3628.719971</string>
 								<key>AmountInStock</key>
-								<string>15734.250000</string>
+								<string>13012.709961</string>
 								<key>BatchName</key>
 								<string>New Batch</string>
 								<key>Color</key>
@@ -398,15 +401,38 @@ S:  5.5 gals; 2.8g gyp - 1.7gCC - 2.5ml acid (70%)</string>
 					</dict>
 					<dict>
 						<key>Alpha</key>
-						<string>4.000000</string>
+						<string>3.600000</string>
 						<key>Amount</key>
 						<string>14.175000</string>
+						<key>Batches</key>
+						<array>
+							<dict>
+								<key>Alpha</key>
+								<string>3.600000</string>
+								<key>Amount</key>
+								<string>14.175000</string>
+								<key>AmountInStock</key>
+								<string>28.350000</string>
+								<key>BatchName</key>
+								<string>New Batch</string>
+								<key>DeliveredOn</key>
+								<date>2015-11-14T18:00:00Z</date>
+								<key>ExpiresOn</key>
+								<date>2016-11-14T18:00:00Z</date>
+								<key>Form</key>
+								<string>Whole</string>
+								<key>IngredientType</key>
+								<string>Hop</string>
+								<key>UUID</key>
+								<string>4822F1C1-61BA-4140-AAAE-1C0305031549</string>
+							</dict>
+						</array>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Form</key>
-						<string>Loose Pellet Hops</string>
+						<string>Loose Whole Hops</string>
 						<key>IBUForAddition</key>
-						<string>3.441451</string>
+						<string>2.815732</string>
 						<key>Minutes</key>
 						<string>15</string>
 						<key>Percentage</key>
@@ -417,6 +443,51 @@ S:  5.5 gals; 2.8g gyp - 1.7gCC - 2.5ml acid (70%)</string>
 						<string>German Tettnang</string>
 						<key>When</key>
 						<string>15 Min From End</string>
+					</dict>
+					<dict>
+						<key>Alpha</key>
+						<string>3.600000</string>
+						<key>Amount</key>
+						<string>14.175000</string>
+						<key>Batches</key>
+						<array>
+							<dict>
+								<key>Alpha</key>
+								<string>3.600000</string>
+								<key>Amount</key>
+								<string>14.175000</string>
+								<key>AmountInStock</key>
+								<string>14.175000</string>
+								<key>BatchName</key>
+								<string>New Batch</string>
+								<key>DeliveredOn</key>
+								<date>2015-11-14T18:00:00Z</date>
+								<key>ExpiresOn</key>
+								<date>2016-11-14T18:00:00Z</date>
+								<key>Form</key>
+								<string>Whole</string>
+								<key>IngredientType</key>
+								<string>Hop</string>
+								<key>UUID</key>
+								<string>4822F1C1-61BA-4140-AAAE-1C0305031549</string>
+							</dict>
+						</array>
+						<key>DateLastModified</key>
+						<date>2009-08-09T18:00:38Z</date>
+						<key>Form</key>
+						<string>Loose Whole Hops</string>
+						<key>IBUForAddition</key>
+						<string>0.000000</string>
+						<key>Minutes</key>
+						<string>0</string>
+						<key>Percentage</key>
+						<string>0.000000</string>
+						<key>UUID</key>
+						<string>80574E4B-1BD2-11DA-9896-001124CAE2A6</string>
+						<key>Variety</key>
+						<string>German Tettnang</string>
+						<key>When</key>
+						<string>At turn off</string>
 					</dict>
 				</array>
 				<key>MashEfficiency</key>
@@ -912,11 +983,11 @@ Original recipe had 2lb munich &amp; 3oz  carafa ii.</string>
 			<key>PackagingNotes</key>
 			<string></string>
 			<key>RoomTemperature</key>
-			<string>15.0</string>
+			<string>12.777778</string>
 			<key>SpargeMethod</key>
 			<string>Fly Sparge</string>
 			<key>TastingNotes</key>
-			<string></string>
+			<string>A bit raisony to me...</string>
 			<key>UUID</key>
 			<string>76F07A3A-90F7-4A64-8963-777412CE120B</string>
 			<key>WaterGrainRatio</key>

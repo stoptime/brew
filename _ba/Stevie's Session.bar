@@ -8215,13 +8215,13 @@ Added 1/2 gal filtered water after high reading/short volume
 			<key>DateBrewed</key>
 			<date>2015-11-01T05:00:00Z</date>
 			<key>DateLastModified</key>
-			<date>2015-11-10T00:17:00Z</date>
+			<date>2015-11-21T21:25:05Z</date>
 			<key>DatePackaged</key>
-			<date>2015-11-01T05:00:00Z</date>
+			<date>2015-11-21T06:00:00Z</date>
 			<key>DateRacked</key>
-			<date>2015-11-01T05:00:00Z</date>
+			<date>2015-11-21T06:00:00Z</date>
 			<key>DateReady</key>
-			<date>2015-11-01T05:00:00Z</date>
+			<date>2015-11-30T06:00:00Z</date>
 			<key>FermentationNotes</key>
 			<string></string>
 			<key>MTThermalMass</key>
@@ -9278,7 +9278,7 @@ Yeast was Wyeast 1335 British Ale II. Primary was 10 days, then just over 2 week
 					<key>BoilDuration</key>
 					<string>60.000000</string>
 					<key>DateLastModified</key>
-					<date>2015-11-10T00:10:54Z</date>
+					<date>2015-11-21T21:24:36Z</date>
 					<key>ExtractEfficiency</key>
 					<string>80.000000</string>
 					<key>FinishedBatchVolume</key>

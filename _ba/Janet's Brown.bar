@@ -6382,7 +6382,7 @@ PH: 5.45</string>
 			<key>DateBrewed</key>
 			<date>2015-10-10T05:00:00Z</date>
 			<key>DateLastModified</key>
-			<date>2015-10-31T00:39:25Z</date>
+			<date>2015-11-14T18:04:48Z</date>
 			<key>DatePackaged</key>
 			<date>2015-10-30T05:00:00Z</date>
 			<key>DateRacked</key>
@@ -7493,7 +7493,8 @@ May sub chinook for northern brewer</string>
 			<key>SpargeMethod</key>
 			<string>Fly Sparge</string>
 			<key>TastingNotes</key>
-			<string></string>
+			<string>Excellent - maybe dial back the sulfate a bit in favor of CC.
+May be able to take an extra oz dryhop. </string>
 			<key>UUID</key>
 			<string>94AF2D7F-FC04-4CBA-AE30-56C6FF10020D</string>
 			<key>WaterGrainRatio</key>
