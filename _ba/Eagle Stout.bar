@@ -2234,21 +2234,21 @@ Boiled hard to make up pts - tasty. </string>
 			<key>Actuals</key>
 			<dict>
 				<key>ABV</key>
-				<string>0.000000</string>
+				<string>6.496505</string>
 				<key>ABW</key>
-				<string>0.000000</string>
+				<string>5.064740</string>
 				<key>ActualMashEfficiency</key>
-				<string>0.0</string>
+				<string>74.001335</string>
 				<key>ApparentAttenuation</key>
-				<string>0.000000</string>
+				<string>71.356026</string>
 				<key>Color</key>
-				<string>44.566071</string>
+				<string>41.243900</string>
 				<key>FG</key>
-				<string>1.000000</string>
+				<string>1.018458</string>
 				<key>FGHydroReading</key>
-				<string>1.000</string>
+				<string>1.018000</string>
 				<key>FGTemp</key>
-				<string>15.0</string>
+				<string>17.777779</string>
 				<key>FermentationTemperature</key>
 				<string>19.444445</string>
 				<key>FinalBatchVolume</key>
@@ -2258,34 +2258,34 @@ Boiled hard to make up pts - tasty. </string>
 				<key>HydrometerCalibratedAt</key>
 				<string>15.0</string>
 				<key>IBU</key>
-				<string>91.183289</string>
+				<string>52.375168</string>
 				<key>OG</key>
-				<string>1.000000</string>
+				<string>1.067121</string>
 				<key>OGHydroReading</key>
-				<string>1.000</string>
+				<string>1.066000</string>
 				<key>OGTemp</key>
-				<string>15.0</string>
+				<string>21.111111</string>
 				<key>PreBoilGrav</key>
-				<string>1.000000</string>
+				<string>1.049084</string>
 				<key>PreBoilHydroReading</key>
-				<string>1.000</string>
+				<string>1.049000</string>
 				<key>PreBoilTemp</key>
-				<string>15.0</string>
+				<string>15.555555</string>
 				<key>PreBoilWortVolume</key>
 				<string>30283.279297</string>
 				<key>RealAttenuation</key>
-				<string>0.000000</string>
+				<string>58.454857</string>
 				<key>VolumeAtPitching</key>
 				<string>22712.460938</string>
 				<key>VolumeToFermenter</key>
-				<string>22712.460938</string>
+				<string>20819.755859</string>
 				<key>VolumeWaterAdded</key>
-				<string>0.000000</string>
+				<string>1892.705078</string>
 			</dict>
 			<key>AdjustedInventory</key>
-			<string>0</string>
+			<string>1</string>
 			<key>BatchNotes</key>
-			<string>MA: 6gal - 2.9g gyp; 1.2g CC, 2.3ml acid 70%
+			<string>MA: 5.8gal - 2.9g gyp; 1.2g CC, 2.3ml acid 70%
 SP: 5gal - 2.5g gyp; 1.0g CC, 2.3ml acid 70%
 Brun Water est ph: 5.4</string>
 			<key>BatchTitle</key>
@@ -2295,15 +2295,15 @@ Brun Water est ph: 5.4</string>
 			<key>DateBrewed</key>
 			<date>2016-06-25T05:00:00Z</date>
 			<key>DateLastModified</key>
-			<date>2016-06-23T23:23:31Z</date>
+			<date>2016-08-06T22:10:45Z</date>
 			<key>DatePackaged</key>
-			<date>2016-06-25T05:00:00Z</date>
+			<date>2016-07-12T23:24:48Z</date>
 			<key>DateRacked</key>
-			<date>2016-06-25T05:00:00Z</date>
+			<date>2016-07-12T05:00:00Z</date>
 			<key>DateReady</key>
-			<date>2016-06-25T05:00:00Z</date>
+			<date>2016-07-19T05:00:00Z</date>
 			<key>FermentationNotes</key>
-			<string></string>
+			<string>66F 1.2L starter</string>
 			<key>MTThermalMass</key>
 			<string>680.400024</string>
 			<key>ModifiedRecipe</key>
@@ -2341,7 +2341,7 @@ Brun Water est ph: 5.4</string>
 				<key>ExpectedFinalGravity</key>
 				<string>1.015190</string>
 				<key>ExpectedIBU</key>
-				<string>56.598572</string>
+				<string>55.129402</string>
 				<key>ExpectedOriginalGravity</key>
 				<string>1.063170</string>
 				<key>ExpectedPreBoilGravity</key>
@@ -2585,7 +2585,7 @@ Brun Water est ph: 5.4</string>
 					</dict>
 					<dict>
 						<key>Alpha</key>
-						<string>9.400000</string>
+						<string>9.500000</string>
 						<key>Amount</key>
 						<string>14.175000</string>
 						<key>Batches</key>
@@ -2594,7 +2594,7 @@ Brun Water est ph: 5.4</string>
 								<key>Alpha</key>
 								<string>9.500000</string>
 								<key>Amount</key>
-								<string>0.0</string>
+								<string>14.175000</string>
 								<key>AmountInStock</key>
 								<string>163.012482</string>
 								<key>BatchName</key>
@@ -2614,7 +2614,7 @@ Brun Water est ph: 5.4</string>
 								<key>Alpha</key>
 								<string>9.400000</string>
 								<key>Amount</key>
-								<string>14.175000</string>
+								<string>0.000000</string>
 								<key>AmountInStock</key>
 								<string>56.700001</string>
 								<key>BatchName</key>
@@ -2634,9 +2634,9 @@ Brun Water est ph: 5.4</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Form</key>
-						<string>Loose Pellet Hops</string>
+						<string>Loose Whole Hops</string>
 						<key>IBUForAddition</key>
-						<string>12.929629</string>
+						<string>11.879252</string>
 						<key>Minutes</key>
 						<string>60</string>
 						<key>Percentage</key>
@@ -2650,7 +2650,7 @@ Brun Water est ph: 5.4</string>
 					</dict>
 					<dict>
 						<key>Alpha</key>
-						<string>9.400000</string>
+						<string>9.500000</string>
 						<key>Amount</key>
 						<string>28.350000</string>
 						<key>Batches</key>
@@ -2659,9 +2659,9 @@ Brun Water est ph: 5.4</string>
 								<key>Alpha</key>
 								<string>9.500000</string>
 								<key>Amount</key>
-								<string>0.0</string>
+								<string>28.350000</string>
 								<key>AmountInStock</key>
-								<string>163.012482</string>
+								<string>148.837479</string>
 								<key>BatchName</key>
 								<string>FH</string>
 								<key>DeliveredOn</key>
@@ -2679,9 +2679,9 @@ Brun Water est ph: 5.4</string>
 								<key>Alpha</key>
 								<string>9.400000</string>
 								<key>Amount</key>
-								<string>28.350000</string>
+								<string>0.000000</string>
 								<key>AmountInStock</key>
-								<string>42.525002</string>
+								<string>56.700001</string>
 								<key>BatchName</key>
 								<string>morebeer</string>
 								<key>DeliveredOn</key>
@@ -2699,9 +2699,9 @@ Brun Water est ph: 5.4</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Form</key>
-						<string>Loose Pellet Hops</string>
+						<string>Loose Whole Hops</string>
 						<key>IBUForAddition</key>
-						<string>5.155153</string>
+						<string>4.736359</string>
 						<key>Minutes</key>
 						<string>5</string>
 						<key>Percentage</key>
@@ -2715,7 +2715,7 @@ Brun Water est ph: 5.4</string>
 					</dict>
 					<dict>
 						<key>Alpha</key>
-						<string>9.400000</string>
+						<string>9.500000</string>
 						<key>Amount</key>
 						<string>14.175000</string>
 						<key>Batches</key>
@@ -2724,9 +2724,9 @@ Brun Water est ph: 5.4</string>
 								<key>Alpha</key>
 								<string>9.500000</string>
 								<key>Amount</key>
-								<string>0.0</string>
+								<string>14.175000</string>
 								<key>AmountInStock</key>
-								<string>163.012482</string>
+								<string>120.487480</string>
 								<key>BatchName</key>
 								<string>FH</string>
 								<key>DeliveredOn</key>
@@ -2744,9 +2744,9 @@ Brun Water est ph: 5.4</string>
 								<key>Alpha</key>
 								<string>9.400000</string>
 								<key>Amount</key>
-								<string>14.175000</string>
+								<string>0.000000</string>
 								<key>AmountInStock</key>
-								<string>14.175001</string>
+								<string>56.700001</string>
 								<key>BatchName</key>
 								<string>morebeer</string>
 								<key>DeliveredOn</key>
@@ -2764,7 +2764,7 @@ Brun Water est ph: 5.4</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Form</key>
-						<string>Loose Pellet Hops</string>
+						<string>Loose Whole Hops</string>
 						<key>IBUForAddition</key>
 						<string>0.000000</string>
 						<key>Minutes</key>
@@ -3385,11 +3385,11 @@ Brun Water est ph: 5.4</string>
 			<key>PackagingNotes</key>
 			<string></string>
 			<key>RoomTemperature</key>
-			<string>17.222221</string>
+			<string>22.777777</string>
 			<key>SpargeMethod</key>
 			<string>Fly Sparge</string>
 			<key>TastingNotes</key>
-			<string></string>
+			<string>This is the right one - try w/ chinook</string>
 			<key>UUID</key>
 			<string>1088194F-041F-46CA-8DAD-AE12633BABCE</string>
 			<key>WaterGrainRatio</key>
