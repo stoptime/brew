@@ -1190,21 +1190,21 @@ Carbed: too sour, too much time w/ lacto. But that Joe Snow syrup is awesome. </
 			<key>Actuals</key>
 			<dict>
 				<key>ABV</key>
-				<string>4.334770</string>
+				<string>3.204205</string>
 				<key>ABW</key>
-				<string>3.441808</string>
+				<string>2.522283</string>
 				<key>ActualMashEfficiency</key>
 				<string>75.182045</string>
 				<key>ApparentAttenuation</key>
-				<string>99.963913</string>
+				<string>73.257217</string>
 				<key>Color</key>
 				<string>5.233088</string>
 				<key>FG</key>
-				<string>1.000000</string>
+				<string>1.008665</string>
 				<key>FGHydroReading</key>
-				<string>1.000000</string>
+				<string>1.008000</string>
 				<key>FGTemp</key>
-				<string>15.0</string>
+				<string>18.888889</string>
 				<key>FermentationTemperature</key>
 				<string>32.222221</string>
 				<key>FinalBatchVolume</key>
@@ -1230,7 +1230,7 @@ Carbed: too sour, too much time w/ lacto. But that Joe Snow syrup is awesome. </
 				<key>PreBoilWortVolume</key>
 				<string>22712.460938</string>
 				<key>RealAttenuation</key>
-				<string>81.890434</string>
+				<string>60.012318</string>
 				<key>VolumeAtPitching</key>
 				<string>21576.835938</string>
 				<key>VolumeToFermenter</key>
@@ -1239,7 +1239,7 @@ Carbed: too sour, too much time w/ lacto. But that Joe Snow syrup is awesome. </
 				<string>0.000000</string>
 			</dict>
 			<key>AdjustedInventory</key>
-			<string>0</string>
+			<string>1</string>
 			<key>BatchNotes</key>
 			<string>Heat 7gallons to 153F for no-sparge.
 2.1g gypsum / 2.1g cc / 3.5ml phos acid 70%
@@ -1251,16 +1251,17 @@ Mashed for about 3 hours, recirc 10 minutes or so - stirred 4 times or so.</stri
 			<key>DateBrewed</key>
 			<date>2016-07-30T05:00:00Z</date>
 			<key>DateLastModified</key>
-			<date>2016-07-30T22:28:33Z</date>
+			<date>2016-08-27T14:52:28Z</date>
 			<key>DatePackaged</key>
-			<date>2016-07-30T05:00:00Z</date>
+			<date>2016-08-27T14:51:55Z</date>
 			<key>DateRacked</key>
 			<date>2016-07-30T05:00:00Z</date>
 			<key>DateReady</key>
-			<date>2016-07-30T05:00:00Z</date>
+			<date>2016-08-27T14:51:55Z</date>
 			<key>FermentationNotes</key>
 			<string>Guessed on OG - would rather have the extra wort. 
-No lacto starter - cooled to 80F and pitched. 85F on control.</string>
+No lacto starter - cooled to 80F and pitched. 85F on control.
+Sunday the 7th - pitched active 600ml starter into 60F fermenter, set to freerise to 65.</string>
 			<key>MTThermalMass</key>
 			<string>680.400024</string>
 			<key>ModifiedRecipe</key>
@@ -1664,7 +1665,7 @@ No lacto starter - cooled to 80F and pitched. 85F on control.</string>
 					<key>BoilDuration</key>
 					<string>15.000000</string>
 					<key>DateLastModified</key>
-					<date>2016-07-30T22:28:00Z</date>
+					<date>2016-08-27T14:51:49Z</date>
 					<key>ExtractEfficiency</key>
 					<string>80.000000</string>
 					<key>FinishedBatchVolume</key>

@@ -9406,7 +9406,7 @@ SP: MA: 5.5G - 8.3g gyp; 1.7g CC; 2.5ml phos acid 70%</string>
 			<key>DateBrewed</key>
 			<date>2016-07-09T13:52:26Z</date>
 			<key>DateLastModified</key>
-			<date>2016-07-30T19:24:43Z</date>
+			<date>2016-08-26T14:14:26Z</date>
 			<key>DatePackaged</key>
 			<date>2016-07-30T05:00:00Z</date>
 			<key>DateRacked</key>
@@ -9905,7 +9905,7 @@ Yeast was Wyeast 1335 British Ale II. Primary was 10 days, then just over 2 week
 					<key>BoilDuration</key>
 					<string>60.000000</string>
 					<key>DateLastModified</key>
-					<date>2016-07-30T19:24:08Z</date>
+					<date>2016-08-26T14:13:35Z</date>
 					<key>ExtractEfficiency</key>
 					<string>80.000000</string>
 					<key>FinishedBatchVolume</key>
@@ -10393,7 +10393,7 @@ Yeast was Wyeast 1335 British Ale II. Primary was 10 days, then just over 2 week
 					<key>BoilDuration</key>
 					<string>60.000000</string>
 					<key>DateLastModified</key>
-					<date>2016-07-30T19:24:08Z</date>
+					<date>2016-08-26T14:13:35Z</date>
 					<key>ExtractEfficiency</key>
 					<string>80.000000</string>
 					<key>FinishedBatchVolume</key>
@@ -10451,7 +10451,7 @@ Yeast was Wyeast 1335 British Ale II. Primary was 10 days, then just over 2 week
 			<key>SpargeMethod</key>
 			<string>Fly Sparge</string>
 			<key>TastingNotes</key>
-			<string></string>
+			<string>Really good - maybe best yet. Maybe try some wheat w/ the caravienne.</string>
 			<key>UUID</key>
 			<string>CBB72348-530C-48E5-9D82-DA56985D3F8C</string>
 			<key>WaterGrainRatio</key>

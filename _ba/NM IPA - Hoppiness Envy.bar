@@ -1168,21 +1168,21 @@ Kegged: really good, but beer never cleared (dry hop and/or highish ph?)</string
 			<key>Actuals</key>
 			<dict>
 				<key>ABV</key>
-				<string>8.560403</string>
+				<string>6.314514</string>
 				<key>ABW</key>
-				<string>6.796960</string>
+				<string>4.929906</string>
 				<key>ActualMashEfficiency</key>
 				<string>77.091942</string>
 				<key>ApparentAttenuation</key>
-				<string>99.980957</string>
+				<string>72.517242</string>
 				<key>Color</key>
 				<string>7.771578</string>
 				<key>FG</key>
-				<string>1.000000</string>
+				<string>1.017002</string>
 				<key>FGHydroReading</key>
-				<string>1.000000</string>
+				<string>1.016000</string>
 				<key>FGTemp</key>
-				<string>15.0</string>
+				<string>20.555555</string>
 				<key>FermentationTemperature</key>
 				<string>20.000000</string>
 				<key>FinalBatchVolume</key>
@@ -1208,7 +1208,7 @@ Kegged: really good, but beer never cleared (dry hop and/or highish ph?)</string
 				<key>PreBoilWortVolume</key>
 				<string>30283.279297</string>
 				<key>RealAttenuation</key>
-				<string>81.904404</string>
+				<string>59.406120</string>
 				<key>VolumeAtPitching</key>
 				<string>20819.755859</string>
 				<key>VolumeToFermenter</key>
@@ -1217,7 +1217,7 @@ Kegged: really good, but beer never cleared (dry hop and/or highish ph?)</string
 				<string>0.000000</string>
 			</dict>
 			<key>AdjustedInventory</key>
-			<string>0</string>
+			<string>1</string>
 			<key>BatchNotes</key>
 			<string>MASH: 5 gallons - 7g gyp, 1.3g cc, 5ml phos acid 70%
 SPAR: 5.5 gallons - 7.7g gyp, 1.4g CC, 2.5ml phos acid (70%) 
@@ -1230,13 +1230,13 @@ Put a splash of filtered water in</string>
 			<key>DateBrewed</key>
 			<date>2016-08-06T15:34:12Z</date>
 			<key>DateLastModified</key>
-			<date>2016-08-06T22:09:52Z</date>
+			<date>2016-08-27T14:51:39Z</date>
 			<key>DatePackaged</key>
-			<date>2016-08-06T15:34:12Z</date>
+			<date>2016-08-27T05:00:00Z</date>
 			<key>DateRacked</key>
 			<date>2016-08-06T15:34:12Z</date>
 			<key>DateReady</key>
-			<date>2016-08-06T15:34:12Z</date>
+			<date>2016-08-27T05:00:00Z</date>
 			<key>FermentationNotes</key>
 			<string></string>
 			<key>MTThermalMass</key>
@@ -2355,7 +2355,7 @@ Orginal grain bill 75% efficiency:
 					<key>BoilDuration</key>
 					<string>90</string>
 					<key>DateLastModified</key>
-					<date>2016-08-06T22:09:28Z</date>
+					<date>2016-08-27T14:34:52Z</date>
 					<key>ExtractEfficiency</key>
 					<string>80.000000</string>
 					<key>FinishedBatchVolume</key>
@@ -2407,7 +2407,11 @@ Orginal grain bill 75% efficiency:
 				<string>2</string>
 			</dict>
 			<key>PackagingNotes</key>
-			<string></string>
+			<string>8/11 - 1oz equinox
+8/12 - 2oz citra
+8/13 - 1oz equinox
+8/14 - 1oz each
+8/19 - begin crash</string>
 			<key>RoomTemperature</key>
 			<string>23.888889</string>
 			<key>SpargeMethod</key>
