@@ -15,10 +15,16 @@ if ($handle = opendir($dir)) {
 			else {
 				// get the recipe name
 				$r = explode('-batch', $name[0]);
-				if (!array_key_exists($r[0], $recipes))
-					$recipes[$r[0]] = null;
 
-				$recipes[$r[0]][] = rtrim($entry, '.html');
+				if (!array_key_exists($r[0], $recipes)) {
+					$recipes[$r[0]] = null;
+				}
+
+				// place in batch order
+				if (!empty($r[1])) {
+					$order = ltrim($r[1], '-');
+				}
+				$recipes[$r[0]][$order] = rtrim($entry, '.html');
 			}
 		}
 	}
@@ -29,13 +35,12 @@ ksort($recipes);
 $content = '';
 
 foreach ($recipes as $key => $value) {
-	//echo "<pre>"; var_dump($value); echo '</pre>';
 	$content .= '<ul>';
 	$content .= sprintf('<li><b><a href="%s/%s.html">%s</a></b>', $dir, $key, $key);
 	if (isset($value)) {
 		$content .=  '<ul>';
 		if (is_array($value)) {
-			asort($value);
+			ksort($value);
 			foreach ($value as $k => $v) {
 				// we only want the batch
 				$v = trim($v);
@@ -44,8 +49,10 @@ foreach ($recipes as $key => $value) {
 				$content .= sprintf('<li><a class="batch" href="%s/%s.html"><span>Batch %s</span></a></li>', $dir, $v, $n[$l-1]);
 			}
 		}
-		else
+		else {
+			print_r("Whoops:");
 			var_dump($value); // something went wrong
+		}
 		$content .= '</ul>';
 	}
 	$content .= "</li>";
