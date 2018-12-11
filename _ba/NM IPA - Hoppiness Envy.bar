@@ -22,7 +22,7 @@
 				<key>ApparentAttenuation</key>
 				<string>71.203850</string>
 				<key>Color</key>
-				<string>6.636721</string>
+				<string>5.362518</string>
 				<key>FG</key>
 				<string>1.017000</string>
 				<key>FGHydroReading</key>
@@ -119,7 +119,7 @@ Added about .3 gallons filtered water</string>
 				<key>ExpectedABW</key>
 				<string>4.814736</string>
 				<key>ExpectedColor</key>
-				<string>6.636721</string>
+				<string>5.362518</string>
 				<key>ExpectedFinalGravity</key>
 				<string>1.014670</string>
 				<key>ExpectedIBU</key>
@@ -159,9 +159,9 @@ Added about .3 gallons filtered water</string>
 						<key>Color</key>
 						<string>2.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>7.661396</string>
+						<string>6.190464</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>3.889033</string>
+						<string>3.142367</string>
 						<key>DateLastModified</key>
 						<date>2014-12-31T01:33:04Z</date>
 						<key>Description</key>
@@ -222,9 +222,9 @@ Added about .3 gallons filtered water</string>
 						<key>Color</key>
 						<string>22.500000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>3.747423</string>
+						<string>3.027945</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>1.902245</string>
+						<string>1.537028</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -283,9 +283,9 @@ Added about .3 gallons filtered water</string>
 						<key>Color</key>
 						<string>10.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>1.665522</string>
+						<string>1.345754</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>0.845443</string>
+						<string>0.683124</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -1176,7 +1176,7 @@ Kegged: really good, but beer never cleared (dry hop and/or highish ph?)</string
 				<key>ApparentAttenuation</key>
 				<string>72.517242</string>
 				<key>Color</key>
-				<string>7.771578</string>
+				<string>7.357850</string>
 				<key>FG</key>
 				<string>1.017002</string>
 				<key>FGHydroReading</key>
@@ -1272,7 +1272,7 @@ Put a splash of filtered water in</string>
 				<key>ExpectedABW</key>
 				<string>4.806970</string>
 				<key>ExpectedColor</key>
-				<string>7.771578</string>
+				<string>7.357850</string>
 				<key>ExpectedFinalGravity</key>
 				<string>1.015429</string>
 				<key>ExpectedIBU</key>
@@ -1312,9 +1312,9 @@ Put a splash of filtered water in</string>
 						<key>Color</key>
 						<string>4.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>11.313551</string>
+						<string>10.711262</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>5.742919</string>
+						<string>5.437189</string>
 						<key>DateLastModified</key>
 						<date>2009-09-01T14:06:38Z</date>
 						<key>Description</key>
@@ -1375,9 +1375,9 @@ Put a splash of filtered water in</string>
 						<key>Color</key>
 						<string>22.499006</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>2.766779</string>
+						<string>2.619486</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>1.404456</string>
+						<string>1.329688</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -1436,9 +1436,9 @@ Put a splash of filtered water in</string>
 						<key>Color</key>
 						<string>9.999558</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>1.229679</string>
+						<string>1.164216</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>0.624203</string>
+						<string>0.590972</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -2445,7 +2445,7 @@ Orginal grain bill 75% efficiency:
 	<key>ExpectedABW</key>
 	<string>4.764395</string>
 	<key>ExpectedColor</key>
-	<string>7.003037</string>
+	<string>6.039094</string>
 	<key>ExpectedFinalGravity</key>
 	<string>1.014527</string>
 	<key>ExpectedIBU</key>
@@ -2462,9 +2462,9 @@ Orginal grain bill 75% efficiency:
 			<key>Color</key>
 			<string>1.800000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>3.054146</string>
+			<string>2.633754</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>1.550328</string>
+			<string>1.336931</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>
@@ -2500,9 +2500,9 @@ Orginal grain bill 75% efficiency:
 			<key>Color</key>
 			<string>3.500000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>5.938617</string>
+			<string>5.121188</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>3.014526</string>
+			<string>2.599587</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>
@@ -2538,9 +2538,9 @@ Orginal grain bill 75% efficiency:
 			<key>Color</key>
 			<string>22.500000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>3.325306</string>
+			<string>2.867589</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>1.687972</string>
+			<string>1.455629</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>
@@ -2576,9 +2576,9 @@ Orginal grain bill 75% efficiency:
 			<key>Color</key>
 			<string>10.000000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>1.477914</string>
+			<string>1.274485</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>0.750210</string>
+			<string>0.646946</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>

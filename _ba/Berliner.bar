@@ -22,7 +22,7 @@
 				<key>ApparentAttenuation</key>
 				<string>68.881294</string>
 				<key>Color</key>
-				<string>5.316409</string>
+				<string>2.445349</string>
 				<key>FG</key>
 				<string>1.009283</string>
 				<key>FGHydroReading</key>
@@ -115,7 +115,7 @@
 				<key>ExpectedABW</key>
 				<string>2.190000</string>
 				<key>ExpectedColor</key>
-				<string>5.316409</string>
+				<string>2.445349</string>
 				<key>ExpectedFinalGravity</key>
 				<string>1.010242</string>
 				<key>ExpectedIBU</key>
@@ -155,9 +155,9 @@
 						<key>Color</key>
 						<string>1.300000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>4.125854</string>
+						<string>1.897738</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>2.094342</string>
+						<string>0.963319</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -216,9 +216,9 @@
 						<key>Color</key>
 						<string>2.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>6.347468</string>
+						<string>2.919597</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>3.222065</string>
+						<string>1.482029</string>
 						<key>DateLastModified</key>
 						<date>2012-01-21T01:54:04Z</date>
 						<key>Description</key>
@@ -605,7 +605,7 @@
 				<key>ApparentAttenuation</key>
 				<string>56.676720</string>
 				<key>Color</key>
-				<string>5.233088</string>
+				<string>2.213507</string>
 				<key>FG</key>
 				<string>1.013475</string>
 				<key>FGHydroReading</key>
@@ -705,7 +705,7 @@ Pitched 1007 w/o starter, probably good idea to pitch a small active starter nex
 				<key>ExpectedABW</key>
 				<string>2.191707</string>
 				<key>ExpectedColor</key>
-				<string>5.233088</string>
+				<string>2.213507</string>
 				<key>ExpectedFinalGravity</key>
 				<string>1.010250</string>
 				<key>ExpectedIBU</key>
@@ -745,9 +745,9 @@ Pitched 1007 w/o starter, probably good idea to pitch a small active starter nex
 						<key>Color</key>
 						<string>1.300000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>4.307521</string>
+						<string>1.822008</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>2.186559</string>
+						<string>0.924877</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -806,9 +806,9 @@ Pitched 1007 w/o starter, probably good idea to pitch a small active starter nex
 						<key>Color</key>
 						<string>2.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>6.001660</string>
+						<string>2.538599</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>3.046528</string>
+						<string>1.288629</string>
 						<key>DateLastModified</key>
 						<date>2012-01-21T01:54:04Z</date>
 						<key>Description</key>
@@ -1198,7 +1198,7 @@ Carbed: too sour, too much time w/ lacto. But that Joe Snow syrup is awesome. </
 				<key>ApparentAttenuation</key>
 				<string>73.257217</string>
 				<key>Color</key>
-				<string>5.233088</string>
+				<string>2.213507</string>
 				<key>FG</key>
 				<string>1.008665</string>
 				<key>FGHydroReading</key>
@@ -1295,7 +1295,7 @@ Sunday the 7th - pitched active 600ml starter into 60F fermenter, set to freeris
 				<key>ExpectedABW</key>
 				<string>2.191707</string>
 				<key>ExpectedColor</key>
-				<string>5.233088</string>
+				<string>2.213507</string>
 				<key>ExpectedFinalGravity</key>
 				<string>1.010250</string>
 				<key>ExpectedIBU</key>
@@ -1312,9 +1312,9 @@ Sunday the 7th - pitched active 600ml starter into 60F fermenter, set to freeris
 						<key>Color</key>
 						<string>1.300000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>4.307521</string>
+						<string>1.822008</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>2.186559</string>
+						<string>0.924877</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -1350,9 +1350,9 @@ Sunday the 7th - pitched active 600ml starter into 60F fermenter, set to freeris
 						<key>Color</key>
 						<string>2.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>6.001660</string>
+						<string>2.538599</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>3.046528</string>
+						<string>1.288629</string>
 						<key>DateLastModified</key>
 						<date>2012-01-21T01:54:04Z</date>
 						<key>Description</key>
@@ -1751,7 +1751,7 @@ Sunday the 7th - pitched active 600ml starter into 60F fermenter, set to freeris
 	<key>ExpectedABW</key>
 	<string>2.191707</string>
 	<key>ExpectedColor</key>
-	<string>5.233088</string>
+	<string>2.213507</string>
 	<key>ExpectedFinalGravity</key>
 	<string>1.010250</string>
 	<key>ExpectedIBU</key>
@@ -1768,9 +1768,9 @@ Sunday the 7th - pitched active 600ml starter into 60F fermenter, set to freeris
 			<key>Color</key>
 			<string>1.300000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>4.307521</string>
+			<string>1.822008</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>2.186559</string>
+			<string>0.924877</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>
@@ -1806,9 +1806,9 @@ Sunday the 7th - pitched active 600ml starter into 60F fermenter, set to freeris
 			<key>Color</key>
 			<string>2.000000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>6.001660</string>
+			<string>2.538599</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>3.046528</string>
+			<string>1.288629</string>
 			<key>DateLastModified</key>
 			<date>2012-01-21T01:54:04Z</date>
 			<key>Description</key>

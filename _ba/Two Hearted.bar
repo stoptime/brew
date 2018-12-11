@@ -22,7 +22,7 @@
 				<key>ApparentAttenuation</key>
 				<string>77.143768</string>
 				<key>Color</key>
-				<string>6.074528</string>
+				<string>4.238666</string>
 				<key>FG</key>
 				<string>1.011802</string>
 				<key>FGHydroReading</key>
@@ -115,7 +115,7 @@
 				<key>ExpectedABW</key>
 				<string>4.403769</string>
 				<key>ExpectedColor</key>
-				<string>6.074528</string>
+				<string>4.238666</string>
 				<key>ExpectedFinalGravity</key>
 				<string>1.013500</string>
 				<key>ExpectedIBU</key>
@@ -155,9 +155,9 @@
 						<key>Color</key>
 						<string>1.800000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>6.927519</string>
+						<string>4.833863</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>3.516507</string>
+						<string>2.453737</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -216,9 +216,9 @@
 						<key>Color</key>
 						<string>5.500000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>2.272960</string>
+						<string>1.586019</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>1.153787</string>
+						<string>0.805086</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -277,9 +277,9 @@
 						<key>Color</key>
 						<string>1.600000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>0.661226</string>
+						<string>0.461388</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>0.335648</string>
+						<string>0.234207</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -358,9 +358,9 @@
 						<key>Color</key>
 						<string>1.300000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>0.167892</string>
+						<string>0.117151</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>0.085224</string>
+						<string>0.059467</string>
 						<key>DateLastModified</key>
 						<date>2010-05-14T13:41:07Z</date>
 						<key>Extract</key>
@@ -419,9 +419,9 @@
 						<key>Color</key>
 						<string>15.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>1.937224</string>
+						<string>1.351750</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>0.983363</string>
+						<string>0.686168</string>
 						<key>DateLastModified</key>
 						<date>2010-05-08T14:52:10Z</date>
 						<key>Extract</key>
@@ -1298,7 +1298,7 @@ Called for Wyeast 1272 Am. II</string>
 				<key>ApparentAttenuation</key>
 				<string>78.256866</string>
 				<key>Color</key>
-				<string>6.196004</string>
+				<string>4.492167</string>
 				<key>FG</key>
 				<string>1.012744</string>
 				<key>FGHydroReading</key>
@@ -1391,7 +1391,7 @@ Called for Wyeast 1272 Am. II</string>
 				<key>ExpectedABW</key>
 				<string>4.793956</string>
 				<key>ExpectedColor</key>
-				<string>6.196004</string>
+				<string>4.492167</string>
 				<key>ExpectedFinalGravity</key>
 				<string>1.014611</string>
 				<key>ExpectedIBU</key>
@@ -1431,9 +1431,9 @@ Called for Wyeast 1272 Am. II</string>
 						<key>Color</key>
 						<string>1.800000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>7.867932</string>
+						<string>5.704332</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>3.993874</string>
+						<string>2.895600</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -1492,9 +1492,9 @@ Called for Wyeast 1272 Am. II</string>
 						<key>Color</key>
 						<string>3.500000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>2.447747</string>
+						<string>1.774642</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>1.242511</string>
+						<string>0.900833</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Description</key>
@@ -1555,9 +1555,9 @@ Called for Wyeast 1272 Am. II</string>
 						<key>Color</key>
 						<string>10.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>1.748392</string>
+						<string>1.267602</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>0.887508</string>
+						<string>0.643453</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -1593,9 +1593,9 @@ Called for Wyeast 1272 Am. II</string>
 						<key>Color</key>
 						<string>1.300000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>0.142060</string>
+						<string>0.102995</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>0.072112</string>
+						<string>0.052282</string>
 						<key>DateLastModified</key>
 						<date>2010-05-14T13:41:07Z</date>
 						<key>Extract</key>
@@ -2543,7 +2543,7 @@ Called for Wyeast 1272 Am. II</string>
 	<key>ExpectedABW</key>
 	<string>4.430784</string>
 	<key>ExpectedColor</key>
-	<string>6.084616</string>
+	<string>4.259977</string>
 	<key>ExpectedFinalGravity</key>
 	<string>1.013577</string>
 	<key>ExpectedIBU</key>
@@ -2560,9 +2560,9 @@ Called for Wyeast 1272 Am. II</string>
 			<key>Color</key>
 			<string>1.800000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>6.888470</string>
+			<string>4.822774</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>3.496685</string>
+			<string>2.448108</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>
@@ -2598,9 +2598,9 @@ Called for Wyeast 1272 Am. II</string>
 			<key>Color</key>
 			<string>3.500000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>2.876553</string>
+			<string>2.013940</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>1.460179</string>
+			<string>1.022305</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>
@@ -2636,9 +2636,9 @@ Called for Wyeast 1272 Am. II</string>
 			<key>Color</key>
 			<string>10.000000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>2.054727</string>
+			<string>1.438561</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>1.043008</string>
+			<string>0.730234</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>
@@ -2674,9 +2674,9 @@ Called for Wyeast 1272 Am. II</string>
 			<key>Color</key>
 			<string>1.300000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>0.166945</string>
+			<string>0.116882</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>0.084744</string>
+			<string>0.059331</string>
 			<key>DateLastModified</key>
 			<date>2010-05-14T13:41:07Z</date>
 			<key>Extract</key>

@@ -22,7 +22,7 @@
 				<key>ApparentAttenuation</key>
 				<string>77.443535</string>
 				<key>Color</key>
-				<string>5.405720</string>
+				<string>2.683161</string>
 				<key>FG</key>
 				<string>1.011036</string>
 				<key>FGHydroReading</key>
@@ -115,7 +115,7 @@
 				<key>ExpectedABW</key>
 				<string>3.731161</string>
 				<key>ExpectedColor</key>
-				<string>5.405720</string>
+				<string>2.683161</string>
 				<key>ExpectedFinalGravity</key>
 				<string>1.011557</string>
 				<key>ExpectedIBU</key>
@@ -155,9 +155,9 @@
 						<key>Color</key>
 						<string>1.300000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>10.649270</string>
+						<string>5.285827</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>5.405721</string>
+						<string>2.683161</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Description</key>
@@ -789,7 +789,7 @@ Daniels: BU/GU Ratio - .75-.80</string>
 				<key>ApparentAttenuation</key>
 				<string>78.023315</string>
 				<key>Color</key>
-				<string>5.602222</string>
+				<string>3.175551</string>
 				<key>FG</key>
 				<string>1.010544</string>
 				<key>FGHydroReading</key>
@@ -882,7 +882,7 @@ Daniels: BU/GU Ratio - .75-.80</string>
 				<key>ExpectedABW</key>
 				<string>3.820610</string>
 				<key>ExpectedColor</key>
-				<string>5.602222</string>
+				<string>3.175551</string>
 				<key>ExpectedFinalGravity</key>
 				<string>1.011818</string>
 				<key>ExpectedIBU</key>
@@ -922,9 +922,9 @@ Daniels: BU/GU Ratio - .75-.80</string>
 						<key>Color</key>
 						<string>1.300000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>7.774396</string>
+						<string>4.406822</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>3.946394</string>
+						<string>2.236965</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Description</key>
@@ -985,9 +985,9 @@ Daniels: BU/GU Ratio - .75-.80</string>
 						<key>Color</key>
 						<string>4.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>3.261984</string>
+						<string>1.849016</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>1.655829</string>
+						<string>0.938587</string>
 						<key>DateLastModified</key>
 						<date>2009-09-01T14:06:38Z</date>
 						<key>Extract</key>
@@ -1799,7 +1799,7 @@ Typical Alpha Acid: 12 - 16%</string>
 				<key>ApparentAttenuation</key>
 				<string>79.966011</string>
 				<key>Color</key>
-				<string>6.725045</string>
+				<string>5.529083</string>
 				<key>FG</key>
 				<string>1.010684</string>
 				<key>FGHydroReading</key>
@@ -1892,7 +1892,7 @@ Typical Alpha Acid: 12 - 16%</string>
 				<key>ExpectedABW</key>
 				<string>3.790166</string>
 				<key>ExpectedColor</key>
-				<string>6.725045</string>
+				<string>5.529083</string>
 				<key>ExpectedFinalGravity</key>
 				<string>1.011729</string>
 				<key>ExpectedIBU</key>
@@ -1952,9 +1952,9 @@ Typical Alpha Acid: 12 - 16%</string>
 						<key>Color</key>
 						<string>4.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>12.337076</string>
+						<string>10.143087</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>6.262475</string>
+						<string>5.148775</string>
 						<key>DateLastModified</key>
 						<date>2009-09-01T14:06:38Z</date>
 						<key>Description</key>
@@ -2015,9 +2015,9 @@ Typical Alpha Acid: 12 - 16%</string>
 						<key>Color</key>
 						<string>2.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>0.911261</string>
+						<string>0.749205</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>0.462569</string>
+						<string>0.380307</string>
 						<key>DateLastModified</key>
 						<date>2012-01-21T01:54:04Z</date>
 						<key>Extract</key>
@@ -2938,7 +2938,7 @@ dry hop 1 oz each carboy of: columbus, simcoe, centenial</string>
 	<key>ExpectedABW</key>
 	<string>3.731161</string>
 	<key>ExpectedColor</key>
-	<string>5.405720</string>
+	<string>2.683161</string>
 	<key>ExpectedFinalGravity</key>
 	<string>1.011557</string>
 	<key>ExpectedIBU</key>
@@ -2978,9 +2978,9 @@ dry hop 1 oz each carboy of: columbus, simcoe, centenial</string>
 			<key>Color</key>
 			<string>1.300000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>10.649270</string>
+			<string>5.285827</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>5.405721</string>
+			<string>2.683161</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Description</key>

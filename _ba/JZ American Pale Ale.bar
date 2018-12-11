@@ -22,7 +22,7 @@
 				<key>ApparentAttenuation</key>
 				<string>79.875511</string>
 				<key>Color</key>
-				<string>6.589161</string>
+				<string>5.271843</string>
 				<key>FG</key>
 				<string>1.011036</string>
 				<key>FGHydroReading</key>
@@ -116,7 +116,7 @@ After 1 week in temp contolled fridge, move to closet - 69 ambient.</string>
 				<key>ExpectedABW</key>
 				<string>4.560988</string>
 				<key>ExpectedColor</key>
-				<string>6.778077</string>
+				<string>5.627995</string>
 				<key>ExpectedFinalGravity</key>
 				<string>1.012868</string>
 				<key>ExpectedIBU</key>
@@ -156,9 +156,9 @@ After 1 week in temp contolled fridge, move to closet - 69 ambient.</string>
 						<key>Color</key>
 						<string>1.800000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>5.605066</string>
+						<string>4.654016</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>2.845211</string>
+						<string>2.362445</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Description</key>
@@ -215,9 +215,9 @@ After 1 week in temp contolled fridge, move to closet - 69 ambient.</string>
 						<key>Color</key>
 						<string>28.000002</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>6.227853</string>
+						<string>5.171132</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>3.161347</string>
+						<string>2.624940</string>
 						<key>Extract</key>
 						<string>73.000000</string>
 						<key>GravityPointsForAddition</key>
@@ -268,9 +268,9 @@ After 1 week in temp contolled fridge, move to closet - 69 ambient.</string>
 						<key>Color</key>
 						<string>5.500000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>1.223327</string>
+						<string>1.015757</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>0.620978</string>
+						<string>0.515613</string>
 						<key>Extract</key>
 						<string>81.000000</string>
 						<key>GravityPointsForAddition</key>
@@ -321,9 +321,9 @@ After 1 week in temp contolled fridge, move to closet - 69 ambient.</string>
 						<key>Color</key>
 						<string>2.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>0.296564</string>
+						<string>0.246244</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>0.150540</string>
+						<string>0.124997</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -1199,7 +1199,7 @@ Color: 6
 	<key>ExpectedABW</key>
 	<string>4.560988</string>
 	<key>ExpectedColor</key>
-	<string>6.760769</string>
+	<string>5.595802</string>
 	<key>ExpectedFinalGravity</key>
 	<string>1.012868</string>
 	<key>ExpectedIBU</key>
@@ -1216,9 +1216,9 @@ Color: 6
 			<key>Color</key>
 			<string>1.800000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>5.637709</string>
+			<string>4.666258</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>2.861781</string>
+			<string>2.368659</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Description</key>
@@ -1252,9 +1252,9 @@ Color: 6
 			<key>Color</key>
 			<string>25.000000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>5.592967</string>
+			<string>4.629226</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>2.839069</string>
+			<string>2.349861</string>
 			<key>Extract</key>
 			<string>73.000000</string>
 			<key>GravityPointsForAddition</key>
@@ -1282,9 +1282,9 @@ Color: 6
 			<key>Color</key>
 			<string>8.000000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>1.789749</string>
+			<string>1.481352</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>0.908502</string>
+			<string>0.751955</string>
 			<key>Extract</key>
 			<string>81.000000</string>
 			<key>GravityPointsForAddition</key>
@@ -1312,9 +1312,9 @@ Color: 6
 			<key>Color</key>
 			<string>2.000000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>0.298291</string>
+			<string>0.246892</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>0.151417</string>
+			<string>0.125326</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>

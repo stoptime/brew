@@ -22,7 +22,7 @@
 				<key>ApparentAttenuation</key>
 				<string>75.313293</string>
 				<key>Color</key>
-				<string>9.650000</string>
+				<string>10.207026</string>
 				<key>FG</key>
 				<string>1.014275</string>
 				<key>FGHydroReading</key>
@@ -116,7 +116,7 @@ Calcium chloride</string>
 				<key>ExpectedABW</key>
 				<string>5.109746</string>
 				<key>ExpectedColor</key>
-				<string>9.650000</string>
+				<string>10.207026</string>
 				<key>ExpectedFinalGravity</key>
 				<string>1.015502</string>
 				<key>ExpectedIBU</key>
@@ -133,9 +133,9 @@ Calcium chloride</string>
 						<key>Color</key>
 						<string>1.300000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>1.248164</string>
+						<string>1.320212</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>0.633586</string>
+						<string>0.670158</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -171,9 +171,9 @@ Calcium chloride</string>
 						<key>Color</key>
 						<string>5.500000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>4.224555</string>
+						<string>4.468409</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>2.144444</string>
+						<string>2.268228</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -209,9 +209,9 @@ Calcium chloride</string>
 						<key>Color</key>
 						<string>3.500000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>2.016265</string>
+						<string>2.132650</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>1.023485</string>
+						<string>1.082564</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -247,9 +247,9 @@ Calcium chloride</string>
 						<key>Color</key>
 						<string>60.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>11.521516</string>
+						<string>12.186571</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>5.848485</string>
+						<string>6.186077</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -833,7 +833,7 @@ Calcium chloride</string>
 	<key>ExpectedABW</key>
 	<string>5.109746</string>
 	<key>ExpectedColor</key>
-	<string>9.650000</string>
+	<string>10.207026</string>
 	<key>ExpectedFinalGravity</key>
 	<string>1.015502</string>
 	<key>ExpectedIBU</key>
@@ -850,9 +850,9 @@ Calcium chloride</string>
 			<key>Color</key>
 			<string>1.300000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>1.248164</string>
+			<string>1.320212</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>0.633586</string>
+			<string>0.670158</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>
@@ -888,9 +888,9 @@ Calcium chloride</string>
 			<key>Color</key>
 			<string>5.500000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>4.224555</string>
+			<string>4.468409</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>2.144444</string>
+			<string>2.268228</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>
@@ -926,9 +926,9 @@ Calcium chloride</string>
 			<key>Color</key>
 			<string>3.500000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>2.016265</string>
+			<string>2.132650</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>1.023485</string>
+			<string>1.082564</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>
@@ -964,9 +964,9 @@ Calcium chloride</string>
 			<key>Color</key>
 			<string>60.000000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>11.521516</string>
+			<string>12.186571</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>5.848485</string>
+			<string>6.186077</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>

@@ -31,7 +31,7 @@
 	<key>ExpectedABW</key>
 	<string>2.667575</string>
 	<key>ExpectedColor</key>
-	<string>20.362797</string>
+	<string>22.492121</string>
 	<key>ExpectedFinalGravity</key>
 	<string>1.010780</string>
 	<key>ExpectedIBU</key>
@@ -48,9 +48,9 @@
 			<key>Color</key>
 			<string>4.000000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>3.585604</string>
+			<string>3.960548</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>1.820104</string>
+			<string>2.010431</string>
 			<key>DateLastModified</key>
 			<date>2009-09-01T14:06:38Z</date>
 			<key>Extract</key>
@@ -86,9 +86,9 @@
 			<key>Color</key>
 			<string>90.000000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>5.762705</string>
+			<string>6.365308</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>2.925231</string>
+			<string>3.231121</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>
@@ -124,9 +124,9 @@
 			<key>Color</key>
 			<string>35.000000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>2.241003</string>
+			<string>2.475343</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>1.137565</string>
+			<string>1.256519</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>
@@ -162,9 +162,9 @@
 			<key>Color</key>
 			<string>450.000000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>10.805073</string>
+			<string>11.934953</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>5.484809</string>
+			<string>6.058352</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>
@@ -200,9 +200,9 @@
 			<key>Color</key>
 			<string>640.000000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>15.367214</string>
+			<string>16.974155</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>7.800617</string>
+			<string>8.616322</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>
@@ -238,9 +238,9 @@
 			<key>Color</key>
 			<string>147.000000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>2.353104</string>
+			<string>2.599167</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>1.194469</string>
+			<string>1.319374</string>
 			<key>DateLastModified</key>
 			<date>2009-10-17T15:31:54Z</date>
 			<key>Extract</key>

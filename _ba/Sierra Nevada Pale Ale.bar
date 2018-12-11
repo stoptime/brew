@@ -22,7 +22,7 @@
 				<key>ApparentAttenuation</key>
 				<string>79.546341</string>
 				<key>Color</key>
-				<string>7.216722</string>
+				<string>6.418041</string>
 				<key>FG</key>
 				<string>1.010373</string>
 				<key>FGHydroReading</key>
@@ -115,7 +115,7 @@
 				<key>ExpectedABW</key>
 				<string>4.100419</string>
 				<key>ExpectedColor</key>
-				<string>7.216722</string>
+				<string>6.418041</string>
 				<key>ExpectedFinalGravity</key>
 				<string>1.012628</string>
 				<key>ExpectedIBU</key>
@@ -155,9 +155,9 @@
 						<key>Color</key>
 						<string>1.800000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>4.067364</string>
+						<string>3.617225</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>2.064652</string>
+						<string>1.836155</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -216,9 +216,9 @@
 						<key>Color</key>
 						<string>1.300000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>0.734385</string>
+						<string>0.653110</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>0.372784</string>
+						<string>0.331528</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -277,9 +277,9 @@
 						<key>Color</key>
 						<string>60.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>9.415194</string>
+						<string>8.373205</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>4.779286</string>
+						<string>4.250358</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Description</key>
@@ -1142,7 +1142,7 @@ ABV: 5.4%</string>
 	<key>ExpectedABW</key>
 	<string>3.996284</string>
 	<key>ExpectedColor</key>
-	<string>7.246723</string>
+	<string>6.470419</string>
 	<key>ExpectedFinalGravity</key>
 	<string>1.012327</string>
 	<key>ExpectedIBU</key>
@@ -1159,9 +1159,9 @@ ABV: 5.4%</string>
 			<key>Color</key>
 			<string>1.800000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>4.933083</string>
+			<string>4.404627</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>2.504103</string>
+			<string>2.235852</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>
@@ -1197,9 +1197,9 @@ ABV: 5.4%</string>
 			<key>Color</key>
 			<string>60.000000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>9.342960</string>
+			<string>8.342097</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>4.742619</string>
+			<string>4.234567</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>

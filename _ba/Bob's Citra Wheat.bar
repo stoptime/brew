@@ -22,7 +22,7 @@
 				<key>ApparentAttenuation</key>
 				<string>81.864807</string>
 				<key>Color</key>
-				<string>6.420830</string>
+				<string>4.944954</string>
 				<key>FG</key>
 				<string>1.011180</string>
 				<key>FGHydroReading</key>
@@ -115,7 +115,7 @@
 				<key>ExpectedABW</key>
 				<string>4.165815</string>
 				<key>ExpectedColor</key>
-				<string>6.420830</string>
+				<string>4.944954</string>
 				<key>ExpectedFinalGravity</key>
 				<string>1.012817</string>
 				<key>ExpectedIBU</key>
@@ -155,9 +155,9 @@
 						<key>Color</key>
 						<string>1.800000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>4.570010</string>
+						<string>3.519559</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>2.319802</string>
+						<string>1.786578</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -216,9 +216,9 @@
 						<key>Color</key>
 						<string>2.500000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>4.533641</string>
+						<string>3.491549</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>2.301341</string>
+						<string>1.772360</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -277,9 +277,9 @@
 						<key>Color</key>
 						<string>2.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>2.674906</string>
+						<string>2.060059</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>1.357821</string>
+						<string>1.045715</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Description</key>
@@ -340,9 +340,9 @@
 						<key>Color</key>
 						<string>1.600000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>0.870479</string>
+						<string>0.670393</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>0.441868</string>
+						<string>0.340301</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -883,7 +883,7 @@
 				<key>ApparentAttenuation</key>
 				<string>80.114433</string>
 				<key>Color</key>
-				<string>6.028146</string>
+				<string>4.140035</string>
 				<key>FG</key>
 				<string>1.009802</string>
 				<key>FGHydroReading</key>
@@ -976,7 +976,7 @@
 				<key>ExpectedABW</key>
 				<string>3.945587</string>
 				<key>ExpectedColor</key>
-				<string>6.028146</string>
+				<string>4.140035</string>
 				<key>ExpectedFinalGravity</key>
 				<string>1.012180</string>
 				<key>ExpectedIBU</key>
@@ -1016,9 +1016,9 @@
 						<key>Color</key>
 						<string>2.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>6.250235</string>
+						<string>4.292562</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>3.172708</string>
+						<string>2.178965</string>
 						<key>DateLastModified</key>
 						<date>2012-01-21T01:54:04Z</date>
 						<key>Description</key>
@@ -1079,9 +1079,9 @@
 						<key>Color</key>
 						<string>1.800000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>5.625212</string>
+						<string>3.863306</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>2.855438</string>
+						<string>1.961069</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -1627,7 +1627,7 @@
 				<key>ApparentAttenuation</key>
 				<string>78.510460</string>
 				<key>Color</key>
-				<string>5.840000</string>
+				<string>3.728212</string>
 				<key>FG</key>
 				<string>1.008486</string>
 				<key>FGHydroReading</key>
@@ -1720,7 +1720,7 @@
 				<key>ExpectedABW</key>
 				<string>4.067089</string>
 				<key>ExpectedColor</key>
-				<string>5.840000</string>
+				<string>3.728212</string>
 				<key>ExpectedFinalGravity</key>
 				<string>1.012532</string>
 				<key>ExpectedIBU</key>
@@ -1760,9 +1760,9 @@
 						<key>Color</key>
 						<string>2.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>6.055158</string>
+						<string>3.865567</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>3.073684</string>
+						<string>1.962217</string>
 						<key>DateLastModified</key>
 						<date>2012-01-21T01:54:04Z</date>
 						<key>Description</key>
@@ -1823,9 +1823,9 @@
 						<key>Color</key>
 						<string>1.800000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>5.449642</string>
+						<string>3.479010</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>2.766316</string>
+						<string>1.765995</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -2416,7 +2416,7 @@
 	<key>ExpectedABW</key>
 	<string>3.945587</string>
 	<key>ExpectedColor</key>
-	<string>6.028146</string>
+	<string>4.140035</string>
 	<key>ExpectedFinalGravity</key>
 	<string>1.012180</string>
 	<key>ExpectedIBU</key>
@@ -2433,9 +2433,9 @@
 			<key>Color</key>
 			<string>2.000000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>6.250235</string>
+			<string>4.292562</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>3.172708</string>
+			<string>2.178965</string>
 			<key>DateLastModified</key>
 			<date>2012-01-21T01:54:04Z</date>
 			<key>Description</key>
@@ -2473,9 +2473,9 @@
 			<key>Color</key>
 			<string>1.800000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>5.625212</string>
+			<string>3.863306</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>2.855438</string>
+			<string>1.961069</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>

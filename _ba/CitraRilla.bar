@@ -22,7 +22,7 @@
 				<key>ApparentAttenuation</key>
 				<string>67.068138</string>
 				<key>Color</key>
-				<string>6.046550</string>
+				<string>4.179298</string>
 				<key>FG</key>
 				<string>1.017802</string>
 				<key>FGHydroReading</key>
@@ -117,7 +117,7 @@ sparge: same with .5 tsp acid</string>
 				<key>ExpectedABW</key>
 				<string>4.339446</string>
 				<key>ExpectedColor</key>
-				<string>6.046550</string>
+				<string>4.179298</string>
 				<key>ExpectedFinalGravity</key>
 				<string>1.014026</string>
 				<key>ExpectedIBU</key>
@@ -157,9 +157,9 @@ sparge: same with .5 tsp acid</string>
 						<key>Color</key>
 						<string>2.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>7.898296</string>
+						<string>5.459201</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>4.009287</string>
+						<string>2.771168</string>
 						<key>DateLastModified</key>
 						<date>2014-12-31T01:33:04Z</date>
 						<key>Extract</key>
@@ -218,9 +218,9 @@ sparge: same with .5 tsp acid</string>
 						<key>Color</key>
 						<string>4.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>3.949234</string>
+						<string>2.729660</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>2.004688</string>
+						<string>1.385614</string>
 						<key>DateLastModified</key>
 						<date>2009-09-01T14:06:38Z</date>
 						<key>Extract</key>
@@ -279,9 +279,9 @@ sparge: same with .5 tsp acid</string>
 						<key>Color</key>
 						<string>1.300000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>0.064175</string>
+						<string>0.044357</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>0.032576</string>
+						<string>0.022516</string>
 						<key>DateLastModified</key>
 						<date>2010-05-14T13:41:07Z</date>
 						<key>Extract</key>
@@ -1168,7 +1168,7 @@ Typical Alpha Acid: 12 - 16%</string>
 				<key>ApparentAttenuation</key>
 				<string>69.504562</string>
 				<key>Color</key>
-				<string>5.949821</string>
+				<string>3.970979</string>
 				<key>FG</key>
 				<string>1.017036</string>
 				<key>FGHydroReading</key>
@@ -1265,7 +1265,7 @@ dry hopped 1oz each citra/amarillo 6/26 Friday</string>
 				<key>ExpectedABW</key>
 				<string>3.583734</string>
 				<key>ExpectedColor</key>
-				<string>5.949821</string>
+				<string>3.970979</string>
 				<key>ExpectedFinalGravity</key>
 				<string>1.011721</string>
 				<key>ExpectedIBU</key>
@@ -1305,9 +1305,9 @@ dry hopped 1oz each citra/amarillo 6/26 Friday</string>
 						<key>Color</key>
 						<string>2.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>7.636582</string>
+						<string>5.096743</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>3.876438</string>
+						<string>2.587179</string>
 						<key>DateLastModified</key>
 						<date>2014-12-31T01:33:04Z</date>
 						<key>Extract</key>
@@ -1366,9 +1366,9 @@ dry hopped 1oz each citra/amarillo 6/26 Friday</string>
 						<key>Color</key>
 						<string>4.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>4.019252</string>
+						<string>2.682495</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>2.040230</string>
+						<string>1.361673</string>
 						<key>DateLastModified</key>
 						<date>2009-09-01T14:06:38Z</date>
 						<key>Extract</key>
@@ -1427,9 +1427,9 @@ dry hopped 1oz each citra/amarillo 6/26 Friday</string>
 						<key>Color</key>
 						<string>1.300000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>0.065315</string>
+						<string>0.043592</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>0.033155</string>
+						<string>0.022128</string>
 						<key>DateLastModified</key>
 						<date>2010-05-14T13:41:07Z</date>
 						<key>Extract</key>
@@ -2326,7 +2326,7 @@ Typical Alpha Acid: 12 - 16%</string>
 	<key>ExpectedABW</key>
 	<string>4.339446</string>
 	<key>ExpectedColor</key>
-	<string>6.046550</string>
+	<string>4.179298</string>
 	<key>ExpectedFinalGravity</key>
 	<string>1.014026</string>
 	<key>ExpectedIBU</key>
@@ -2343,9 +2343,9 @@ Typical Alpha Acid: 12 - 16%</string>
 			<key>Color</key>
 			<string>2.000000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>7.898296</string>
+			<string>5.459201</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>4.009287</string>
+			<string>2.771168</string>
 			<key>DateLastModified</key>
 			<date>2014-12-31T01:33:04Z</date>
 			<key>Extract</key>
@@ -2381,9 +2381,9 @@ Typical Alpha Acid: 12 - 16%</string>
 			<key>Color</key>
 			<string>4.000000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>3.949234</string>
+			<string>2.729660</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>2.004688</string>
+			<string>1.385614</string>
 			<key>DateLastModified</key>
 			<date>2009-09-01T14:06:38Z</date>
 			<key>Extract</key>
@@ -2419,9 +2419,9 @@ Typical Alpha Acid: 12 - 16%</string>
 			<key>Color</key>
 			<string>1.300000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>0.064175</string>
+			<string>0.044357</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>0.032576</string>
+			<string>0.022516</string>
 			<key>DateLastModified</key>
 			<date>2010-05-14T13:41:07Z</date>
 			<key>Extract</key>

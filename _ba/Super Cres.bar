@@ -22,7 +22,7 @@
 				<key>ApparentAttenuation</key>
 				<string>82.753441</string>
 				<key>Color</key>
-				<string>6.676683</string>
+				<string>5.438169</string>
 				<key>FG</key>
 				<string>1.011180</string>
 				<key>FGHydroReading</key>
@@ -115,7 +115,7 @@
 				<key>ExpectedABW</key>
 				<string>5.802418</string>
 				<key>ExpectedColor</key>
-				<string>6.788738</string>
+				<string>5.647783</string>
 				<key>ExpectedFinalGravity</key>
 				<string>1.010758</string>
 				<key>ExpectedIBU</key>
@@ -155,9 +155,9 @@
 						<key>Color</key>
 						<string>1.800000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>3.980699</string>
+						<string>3.311680</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>2.020659</string>
+						<string>1.681056</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -216,9 +216,9 @@
 						<key>Color</key>
 						<string>1.300000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>2.053536</string>
+						<string>1.708407</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>1.042404</string>
+						<string>0.867212</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -277,9 +277,9 @@
 						<key>Color</key>
 						<string>40.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>7.108552</string>
+						<string>5.913846</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>3.608402</string>
+						<string>3.001953</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -358,9 +358,9 @@
 						<key>Color</key>
 						<string>1.300000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>0.231028</string>
+						<string>0.192200</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>0.117273</string>
+						<string>0.097563</string>
 						<key>DateLastModified</key>
 						<date>2010-05-14T13:41:07Z</date>
 						<key>Extract</key>
@@ -1698,7 +1698,7 @@ Perfect after 1 week in chest freezer at 10psi.
 				<key>ApparentAttenuation</key>
 				<string>80.996826</string>
 				<key>Color</key>
-				<string>7.320817</string>
+				<string>6.598957</string>
 				<key>FG</key>
 				<string>1.011036</string>
 				<key>FGHydroReading</key>
@@ -1793,7 +1793,7 @@ Final Wort PH: 5.41</string>
 				<key>ExpectedABW</key>
 				<string>4.829072</string>
 				<key>ExpectedColor</key>
-				<string>7.320817</string>
+				<string>6.598957</string>
 				<key>ExpectedFinalGravity</key>
 				<string>1.013570</string>
 				<key>ExpectedIBU</key>
@@ -1833,9 +1833,9 @@ Final Wort PH: 5.41</string>
 						<key>Color</key>
 						<string>1.800000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>5.527556</string>
+						<string>4.982518</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>2.805866</string>
+						<string>2.529197</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -1894,9 +1894,9 @@ Final Wort PH: 5.41</string>
 						<key>Color</key>
 						<string>40.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>5.896061</string>
+						<string>5.314687</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>2.992924</string>
+						<string>2.697811</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -1955,9 +1955,9 @@ Final Wort PH: 5.41</string>
 						<key>Color</key>
 						<string>1.300000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>0.111780</string>
+						<string>0.100758</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>0.056741</string>
+						<string>0.051146</string>
 						<key>DateLastModified</key>
 						<date>2010-05-14T13:41:07Z</date>
 						<key>Extract</key>
@@ -2016,9 +2016,9 @@ Final Wort PH: 5.41</string>
 						<key>Color</key>
 						<string>47.000004</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>2.886614</string>
+						<string>2.601983</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>1.465286</string>
+						<string>1.320803</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -3096,7 +3096,7 @@ Perfect after 1 week in chest freezer at 10psi.
 				<key>ApparentAttenuation</key>
 				<string>73.736336</string>
 				<key>Color</key>
-				<string>7.759745</string>
+				<string>7.338395</string>
 				<key>FG</key>
 				<string>1.017036</string>
 				<key>FGHydroReading</key>
@@ -3189,7 +3189,7 @@ Perfect after 1 week in chest freezer at 10psi.
 				<key>ExpectedABW</key>
 				<string>4.787732</string>
 				<key>ExpectedColor</key>
-				<string>7.759745</string>
+				<string>7.338395</string>
 				<key>ExpectedFinalGravity</key>
 				<string>1.013462</string>
 				<key>ExpectedIBU</key>
@@ -3229,9 +3229,9 @@ Perfect after 1 week in chest freezer at 10psi.
 						<key>Color</key>
 						<string>1.800000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>7.226457</string>
+						<string>6.834064</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>3.668252</string>
+						<string>3.469068</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -3310,9 +3310,9 @@ Perfect after 1 week in chest freezer at 10psi.
 						<key>Color</key>
 						<string>40.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>7.806530</string>
+						<string>7.382639</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>3.962705</string>
+						<string>3.747532</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -3371,9 +3371,9 @@ Perfect after 1 week in chest freezer at 10psi.
 						<key>Color</key>
 						<string>1.300000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>0.253713</string>
+						<string>0.239936</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>0.128788</string>
+						<string>0.121795</string>
 						<key>DateLastModified</key>
 						<date>2010-05-14T13:41:07Z</date>
 						<key>Extract</key>
@@ -4775,7 +4775,7 @@ Perfect after 1 week in chest freezer at 10psi.
 	<key>ExpectedABW</key>
 	<string>4.832503</string>
 	<key>ExpectedColor</key>
-	<string>6.810761</string>
+	<string>5.688560</string>
 	<key>ExpectedFinalGravity</key>
 	<string>1.013579</string>
 	<key>ExpectedIBU</key>
@@ -4792,9 +4792,9 @@ Perfect after 1 week in chest freezer at 10psi.
 			<key>Color</key>
 			<string>1.800000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>6.385088</string>
+			<string>5.333024</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>3.241161</string>
+			<string>2.707119</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>
@@ -4830,9 +4830,9 @@ Perfect after 1 week in chest freezer at 10psi.
 			<key>Color</key>
 			<string>40.000000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>6.810761</string>
+			<string>5.688560</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>3.457239</string>
+			<string>2.887594</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>
@@ -4868,9 +4868,9 @@ Perfect after 1 week in chest freezer at 10psi.
 			<key>Color</key>
 			<string>1.300000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>0.221350</string>
+			<string>0.184878</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>0.112360</string>
+			<string>0.093847</string>
 			<key>DateLastModified</key>
 			<date>2010-05-14T13:41:07Z</date>
 			<key>Extract</key>

@@ -22,7 +22,7 @@
 				<key>ApparentAttenuation</key>
 				<string>69.972015</string>
 				<key>Color</key>
-				<string>39.974998</string>
+				<string>39.253391</string>
 				<key>FG</key>
 				<string>1.014802</string>
 				<key>FGHydroReading</key>
@@ -116,7 +116,7 @@ Add pepper at end of boil, and then to chilled wort.</string>
 				<key>ExpectedABW</key>
 				<string>4.084022</string>
 				<key>ExpectedColor</key>
-				<string>39.974998</string>
+				<string>39.253391</string>
 				<key>ExpectedFinalGravity</key>
 				<string>1.016894</string>
 				<key>ExpectedIBU</key>
@@ -133,9 +133,9 @@ Add pepper at end of boil, and then to chilled wort.</string>
 						<key>Color</key>
 						<string>5.700000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>3.817541</string>
+						<string>3.748628</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>1.937838</string>
+						<string>1.902857</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -171,9 +171,9 @@ Add pepper at end of boil, and then to chilled wort.</string>
 						<key>Color</key>
 						<string>1.800000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>0.703231</string>
+						<string>0.690537</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>0.356970</string>
+						<string>0.350526</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -209,9 +209,9 @@ Add pepper at end of boil, and then to chilled wort.</string>
 						<key>Color</key>
 						<string>135.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>22.603863</string>
+						<string>22.195829</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>11.474042</string>
+						<string>11.266919</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -247,9 +247,9 @@ Add pepper at end of boil, and then to chilled wort.</string>
 						<key>Color</key>
 						<string>350.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>29.301304</string>
+						<string>28.772371</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>14.873758</string>
+						<string>14.605265</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -285,9 +285,9 @@ Add pepper at end of boil, and then to chilled wort.</string>
 						<key>Color</key>
 						<string>500.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>22.324806</string>
+						<string>21.921808</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>11.332389</string>
+						<string>11.127822</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -1072,7 +1072,7 @@ Add pepper at end of boil, and then to chilled wort.</string>
 	<key>ExpectedABW</key>
 	<string>4.084022</string>
 	<key>ExpectedColor</key>
-	<string>39.974998</string>
+	<string>39.253391</string>
 	<key>ExpectedFinalGravity</key>
 	<string>1.016894</string>
 	<key>ExpectedIBU</key>
@@ -1089,9 +1089,9 @@ Add pepper at end of boil, and then to chilled wort.</string>
 			<key>Color</key>
 			<string>5.700000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>3.817541</string>
+			<string>3.748628</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>1.937838</string>
+			<string>1.902857</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>
@@ -1127,9 +1127,9 @@ Add pepper at end of boil, and then to chilled wort.</string>
 			<key>Color</key>
 			<string>1.800000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>0.703231</string>
+			<string>0.690537</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>0.356970</string>
+			<string>0.350526</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>
@@ -1165,9 +1165,9 @@ Add pepper at end of boil, and then to chilled wort.</string>
 			<key>Color</key>
 			<string>135.000000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>22.603863</string>
+			<string>22.195829</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>11.474042</string>
+			<string>11.266919</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>
@@ -1203,9 +1203,9 @@ Add pepper at end of boil, and then to chilled wort.</string>
 			<key>Color</key>
 			<string>350.000000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>29.301304</string>
+			<string>28.772371</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>14.873758</string>
+			<string>14.605265</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>
@@ -1241,9 +1241,9 @@ Add pepper at end of boil, and then to chilled wort.</string>
 			<key>Color</key>
 			<string>500.000000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>22.324806</string>
+			<string>21.921808</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>11.332389</string>
+			<string>11.127822</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>

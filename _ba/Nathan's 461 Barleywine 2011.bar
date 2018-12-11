@@ -22,7 +22,7 @@
 				<key>ApparentAttenuation</key>
 				<string>84.858910</string>
 				<key>Color</key>
-				<string>18.148319</string>
+				<string>20.259230</string>
 				<key>FG</key>
 				<string>1.012475</string>
 				<key>FGHydroReading</key>
@@ -115,7 +115,7 @@
 				<key>ExpectedABW</key>
 				<string>7.572746</string>
 				<key>ExpectedColor</key>
-				<string>18.148319</string>
+				<string>20.259230</string>
 				<key>ExpectedFinalGravity</key>
 				<string>1.019922</string>
 				<key>ExpectedIBU</key>
@@ -132,9 +132,9 @@
 						<key>Color</key>
 						<string>1.800000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>3.718904</string>
+						<string>4.151466</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>1.887769</string>
+						<string>2.107343</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -170,9 +170,9 @@
 						<key>Color</key>
 						<string>2.500000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>2.131647</string>
+						<string>2.379588</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>1.082054</string>
+						<string>1.207913</string>
 						<key>DateLastModified</key>
 						<date>2010-04-21T13:42:38Z</date>
 						<key>Extract</key>
@@ -231,9 +231,9 @@
 						<key>Color</key>
 						<string>1.600000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>1.049403</string>
+						<string>1.171463</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>0.532692</string>
+						<string>0.594651</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -292,9 +292,9 @@
 						<key>Color</key>
 						<string>120.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>19.002266</string>
+						<string>21.212503</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>9.645821</string>
+						<string>10.767768</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Description</key>
@@ -355,9 +355,9 @@
 						<key>Color</key>
 						<string>15.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>1.979446</string>
+						<string>2.209684</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>1.004795</string>
+						<string>1.121667</string>
 						<key>DateLastModified</key>
 						<date>2010-05-08T14:52:10Z</date>
 						<key>Extract</key>
@@ -416,9 +416,9 @@
 						<key>Color</key>
 						<string>60.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>7.870523</string>
+						<string>8.785978</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>3.995189</string>
+						<string>4.459887</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Description</key>
@@ -2403,7 +2403,7 @@ Pre-Boil Gravity:      1.081    SG          19.49  Plato</string>
 				<key>ApparentAttenuation</key>
 				<string>77.959778</string>
 				<key>Color</key>
-				<string>19.468170</string>
+				<string>21.602835</string>
 				<key>FG</key>
 				<string>1.010000</string>
 				<key>FGHydroReading</key>
@@ -2496,7 +2496,7 @@ Pre-Boil Gravity:      1.081    SG          19.49  Plato</string>
 				<key>ExpectedABW</key>
 				<string>7.208644</string>
 				<key>ExpectedColor</key>
-				<string>19.468170</string>
+				<string>21.602835</string>
 				<key>ExpectedFinalGravity</key>
 				<string>1.021237</string>
 				<key>ExpectedIBU</key>
@@ -2513,9 +2513,9 @@ Pre-Boil Gravity:      1.081    SG          19.49  Plato</string>
 						<key>Color</key>
 						<string>1.800000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>6.125610</string>
+						<string>6.797276</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>3.109447</string>
+						<string>3.450394</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -2551,9 +2551,9 @@ Pre-Boil Gravity:      1.081    SG          19.49  Plato</string>
 						<key>Color</key>
 						<string>150.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>23.203068</string>
+						<string>25.747259</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>11.778208</string>
+						<string>13.069675</string>
 						<key>DateLastModified</key>
 						<date>2012-04-09T23:49:11Z</date>
 						<key>Extract</key>
@@ -2612,9 +2612,9 @@ Pre-Boil Gravity:      1.081    SG          19.49  Plato</string>
 						<key>Color</key>
 						<string>15.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>1.933631</string>
+						<string>2.145652</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>0.981539</string>
+						<string>1.089164</string>
 						<key>DateLastModified</key>
 						<date>2010-05-08T14:52:10Z</date>
 						<key>Extract</key>
@@ -2650,9 +2650,9 @@ Pre-Boil Gravity:      1.081    SG          19.49  Plato</string>
 						<key>Color</key>
 						<string>55.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>7.089983</string>
+						<string>7.867392</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>3.598976</string>
+						<string>3.993600</string>
 						<key>DateLastModified</key>
 						<date>2012-04-09T23:50:05Z</date>
 						<key>Extract</key>
@@ -3787,7 +3787,7 @@ Pre-Boil Gravity:      1.081    SG          19.49  Plato</string>
 	<key>ExpectedABW</key>
 	<string>7.208644</string>
 	<key>ExpectedColor</key>
-	<string>19.468170</string>
+	<string>21.602835</string>
 	<key>ExpectedFinalGravity</key>
 	<string>1.021237</string>
 	<key>ExpectedIBU</key>
@@ -3804,9 +3804,9 @@ Pre-Boil Gravity:      1.081    SG          19.49  Plato</string>
 			<key>Color</key>
 			<string>1.800000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>6.125610</string>
+			<string>6.797276</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>3.109447</string>
+			<string>3.450394</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>
@@ -3842,9 +3842,9 @@ Pre-Boil Gravity:      1.081    SG          19.49  Plato</string>
 			<key>Color</key>
 			<string>150.000000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>23.203068</string>
+			<string>25.747259</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>11.778208</string>
+			<string>13.069675</string>
 			<key>DateLastModified</key>
 			<date>2012-04-09T23:49:11Z</date>
 			<key>Extract</key>
@@ -3880,9 +3880,9 @@ Pre-Boil Gravity:      1.081    SG          19.49  Plato</string>
 			<key>Color</key>
 			<string>15.000000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>1.933631</string>
+			<string>2.145652</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>0.981539</string>
+			<string>1.089164</string>
 			<key>DateLastModified</key>
 			<date>2010-05-08T14:52:10Z</date>
 			<key>Extract</key>
@@ -3918,9 +3918,9 @@ Pre-Boil Gravity:      1.081    SG          19.49  Plato</string>
 			<key>Color</key>
 			<string>55.000000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>7.089983</string>
+			<string>7.867392</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>3.598976</string>
+			<string>3.993600</string>
 			<key>DateLastModified</key>
 			<date>2012-04-09T23:50:05Z</date>
 			<key>Extract</key>

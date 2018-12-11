@@ -22,7 +22,7 @@
 				<key>ApparentAttenuation</key>
 				<string>68.971024</string>
 				<key>Color</key>
-				<string>6.588418</string>
+				<string>5.270422</string>
 				<key>FG</key>
 				<string>1.016458</string>
 				<key>FGHydroReading</key>
@@ -116,7 +116,7 @@ Used harvested yeast from active maibock fermentation, around 100ml in jar of 55
 				<key>ExpectedABW</key>
 				<string>4.074737</string>
 				<key>ExpectedColor</key>
-				<string>6.588418</string>
+				<string>5.270422</string>
 				<key>ExpectedFinalGravity</key>
 				<string>1.016091</string>
 				<key>ExpectedIBU</key>
@@ -156,9 +156,9 @@ Used harvested yeast from active maibock fermentation, around 100ml in jar of 55
 						<key>Color</key>
 						<string>1.800000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>3.313862</string>
+						<string>2.650932</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>1.682163</string>
+						<string>1.345651</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -217,9 +217,9 @@ Used harvested yeast from active maibock fermentation, around 100ml in jar of 55
 						<key>Color</key>
 						<string>3.500000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>3.221740</string>
+						<string>2.577239</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>1.635401</string>
+						<string>1.308243</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -278,9 +278,9 @@ Used harvested yeast from active maibock fermentation, around 100ml in jar of 55
 						<key>Color</key>
 						<string>2.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>1.840994</string>
+						<string>1.472708</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>0.934515</string>
+						<string>0.747567</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -339,9 +339,9 @@ Used harvested yeast from active maibock fermentation, around 100ml in jar of 55
 						<key>Color</key>
 						<string>20.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>4.602586</string>
+						<string>3.681850</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>2.336338</string>
+						<string>1.868960</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Description</key>
@@ -1468,7 +1468,7 @@ TOOK 3rd at BOSS 2011</string>
 				<key>ApparentAttenuation</key>
 				<string>71.887337</string>
 				<key>Color</key>
-				<string>6.803822</string>
+				<string>5.675726</string>
 				<key>FG</key>
 				<string>1.016000</string>
 				<key>FGHydroReading</key>
@@ -1561,7 +1561,7 @@ TOOK 3rd at BOSS 2011</string>
 				<key>ExpectedABW</key>
 				<string>4.382027</string>
 				<key>ExpectedColor</key>
-				<string>6.803822</string>
+				<string>5.675726</string>
 				<key>ExpectedFinalGravity</key>
 				<string>1.013438</string>
 				<key>ExpectedIBU</key>
@@ -1601,9 +1601,9 @@ TOOK 3rd at BOSS 2011</string>
 						<key>Color</key>
 						<string>1.800000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>4.287746</string>
+						<string>3.576824</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>2.176521</string>
+						<string>1.815647</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -1662,9 +1662,9 @@ TOOK 3rd at BOSS 2011</string>
 						<key>Color</key>
 						<string>3.500000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>3.981898</string>
+						<string>3.321687</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>2.021268</string>
+						<string>1.686135</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -1723,9 +1723,9 @@ TOOK 3rd at BOSS 2011</string>
 						<key>Color</key>
 						<string>1.300000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>0.369757</string>
+						<string>0.308450</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>0.187694</string>
+						<string>0.156573</string>
 						<key>DateLastModified</key>
 						<date>2010-05-14T13:41:07Z</date>
 						<key>Extract</key>
@@ -1784,9 +1784,9 @@ TOOK 3rd at BOSS 2011</string>
 						<key>Color</key>
 						<string>5.500000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>1.564317</string>
+						<string>1.304948</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>0.794069</string>
+						<string>0.662410</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -1883,9 +1883,9 @@ TOOK 3rd at BOSS 2011</string>
 						<key>Color</key>
 						<string>59.999996</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>3.199811</string>
+						<string>2.669271</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>1.624269</string>
+						<string>1.354960</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -2901,7 +2901,7 @@ TOOK 3rd at BOSS 2011</string>
 				<key>ApparentAttenuation</key>
 				<string>76.254913</string>
 				<key>Color</key>
-				<string>6.780377</string>
+				<string>5.632266</string>
 				<key>FG</key>
 				<string>1.012000</string>
 				<key>FGHydroReading</key>
@@ -2994,7 +2994,7 @@ TOOK 3rd at BOSS 2011</string>
 				<key>ExpectedABW</key>
 				<string>4.370409</string>
 				<key>ExpectedColor</key>
-				<string>6.780377</string>
+				<string>5.632266</string>
 				<key>ExpectedFinalGravity</key>
 				<string>1.013404</string>
 				<key>ExpectedIBU</key>
@@ -3034,9 +3034,9 @@ TOOK 3rd at BOSS 2011</string>
 						<key>Color</key>
 						<string>1.800000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>3.611608</string>
+						<string>3.000060</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>1.833303</string>
+						<string>1.522873</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -3095,9 +3095,9 @@ TOOK 3rd at BOSS 2011</string>
 						<key>Color</key>
 						<string>2.500000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>2.866355</string>
+						<string>2.381000</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>1.455003</string>
+						<string>1.208629</string>
 						<key>DateLastModified</key>
 						<date>2010-04-21T13:42:38Z</date>
 						<key>Description</key>
@@ -3158,9 +3158,9 @@ TOOK 3rd at BOSS 2011</string>
 						<key>Color</key>
 						<string>2.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>1.146542</string>
+						<string>0.952400</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>0.582001</string>
+						<string>0.483452</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -3219,9 +3219,9 @@ TOOK 3rd at BOSS 2011</string>
 						<key>Color</key>
 						<string>40.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>5.732837</string>
+						<string>4.762104</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>2.910069</string>
+						<string>2.417312</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Description</key>
@@ -4407,7 +4407,7 @@ TOOK 3rd at BOSS 2011</string>
 				<key>ApparentAttenuation</key>
 				<string>76.170792</string>
 				<key>Color</key>
-				<string>7.012535</string>
+				<string>6.056165</string>
 				<key>FG</key>
 				<string>1.014036</string>
 				<key>FGHydroReading</key>
@@ -4500,7 +4500,7 @@ TOOK 3rd at BOSS 2011</string>
 				<key>ExpectedABW</key>
 				<string>3.770566</string>
 				<key>ExpectedColor</key>
-				<string>7.012535</string>
+				<string>6.056165</string>
 				<key>ExpectedFinalGravity</key>
 				<string>1.011672</string>
 				<key>ExpectedIBU</key>
@@ -4540,9 +4540,9 @@ TOOK 3rd at BOSS 2011</string>
 						<key>Color</key>
 						<string>1.800000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>4.080430</string>
+						<string>3.523941</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>2.071284</string>
+						<string>1.788803</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -4601,9 +4601,9 @@ TOOK 3rd at BOSS 2011</string>
 						<key>Color</key>
 						<string>2.500000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>3.333611</string>
+						<string>2.878973</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>1.692189</string>
+						<string>1.461408</string>
 						<key>DateLastModified</key>
 						<date>2010-04-21T13:42:38Z</date>
 						<key>Description</key>
@@ -4664,9 +4664,9 @@ TOOK 3rd at BOSS 2011</string>
 						<key>Color</key>
 						<string>2.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>1.066755</string>
+						<string>0.921271</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>0.541500</string>
+						<string>0.467650</string>
 						<key>DateLastModified</key>
 						<date>2012-01-21T01:54:04Z</date>
 						<key>Description</key>
@@ -4727,9 +4727,9 @@ TOOK 3rd at BOSS 2011</string>
 						<key>Color</key>
 						<string>40.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>5.333896</string>
+						<string>4.606459</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>2.707561</string>
+						<string>2.338304</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Description</key>
@@ -5753,7 +5753,7 @@ TOOK 3rd at BOSS 2011</string>
 				<key>ApparentAttenuation</key>
 				<string>80.213760</string>
 				<key>Color</key>
-				<string>7.778958</string>
+				<string>7.369969</string>
 				<key>FG</key>
 				<string>1.010917</string>
 				<key>FGHydroReading</key>
@@ -5846,7 +5846,7 @@ TOOK 3rd at BOSS 2011</string>
 				<key>ExpectedABW</key>
 				<string>4.402071</string>
 				<key>ExpectedColor</key>
-				<string>7.925575</string>
+				<string>7.608923</string>
 				<key>ExpectedFinalGravity</key>
 				<string>1.013495</string>
 				<key>ExpectedIBU</key>
@@ -5906,9 +5906,9 @@ TOOK 3rd at BOSS 2011</string>
 						<key>Color</key>
 						<string>1.800000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>4.569699</string>
+						<string>4.387125</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>2.319644</string>
+						<string>2.226967</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -5987,9 +5987,9 @@ TOOK 3rd at BOSS 2011</string>
 						<key>Color</key>
 						<string>2.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>0.634695</string>
+						<string>0.609337</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>0.322180</string>
+						<string>0.309308</string>
 						<key>DateLastModified</key>
 						<date>2012-01-21T01:54:04Z</date>
 						<key>Description</key>
@@ -6070,9 +6070,9 @@ TOOK 3rd at BOSS 2011</string>
 						<key>Color</key>
 						<string>28.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>5.331434</string>
+						<string>5.118426</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>2.706311</string>
+						<string>2.598186</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -6131,9 +6131,9 @@ TOOK 3rd at BOSS 2011</string>
 						<key>Color</key>
 						<string>40.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>5.077556</string>
+						<string>4.874691</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>2.577440</string>
+						<string>2.474463</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Description</key>
@@ -7075,7 +7075,7 @@ Typical Alpha Acid: 12 - 16%</string>
 				<key>ApparentAttenuation</key>
 				<string>78.056709</string>
 				<key>Color</key>
-				<string>5.723624</string>
+				<string>3.462781</string>
 				<key>FG</key>
 				<string>1.010802</string>
 				<key>FGHydroReading</key>
@@ -7168,7 +7168,7 @@ Typical Alpha Acid: 12 - 16%</string>
 				<key>ExpectedABW</key>
 				<string>4.097958</string>
 				<key>ExpectedColor</key>
-				<string>5.723624</string>
+				<string>3.462781</string>
 				<key>ExpectedFinalGravity</key>
 				<string>1.012621</string>
 				<key>ExpectedIBU</key>
@@ -7228,9 +7228,9 @@ Typical Alpha Acid: 12 - 16%</string>
 						<key>Color</key>
 						<string>1.800000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>9.705851</string>
+						<string>5.872020</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>4.926828</string>
+						<string>2.980721</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -7309,9 +7309,9 @@ Typical Alpha Acid: 12 - 16%</string>
 						<key>Color</key>
 						<string>2.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>1.201669</string>
+						<string>0.727007</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>0.609984</string>
+						<string>0.369039</string>
 						<key>DateLastModified</key>
 						<date>2012-01-21T01:54:04Z</date>
 						<key>Description</key>
@@ -7372,9 +7372,9 @@ Typical Alpha Acid: 12 - 16%</string>
 						<key>Color</key>
 						<string>1.400000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>0.368019</string>
+						<string>0.222651</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>0.186812</string>
+						<string>0.113021</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Description</key>
@@ -8529,7 +8529,7 @@ Typical Alpha Acid: 12 - 16%</string>
 				<key>ApparentAttenuation</key>
 				<string>80.833992</string>
 				<key>Color</key>
-				<string>6.208939</string>
+				<string>4.518772</string>
 				<key>FG</key>
 				<string>1.009581</string>
 				<key>FGHydroReading</key>
@@ -8622,7 +8622,7 @@ Typical Alpha Acid: 12 - 16%</string>
 				<key>ExpectedABW</key>
 				<string>4.268944</string>
 				<key>ExpectedColor</key>
-				<string>6.208939</string>
+				<string>4.518772</string>
 				<key>ExpectedFinalGravity</key>
 				<string>1.013113</string>
 				<key>ExpectedIBU</key>
@@ -8682,9 +8682,9 @@ Typical Alpha Acid: 12 - 16%</string>
 						<key>Color</key>
 						<string>1.800000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>7.165216</string>
+						<string>5.214736</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>3.637166</string>
+						<string>2.647074</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -8743,9 +8743,9 @@ Typical Alpha Acid: 12 - 16%</string>
 						<key>Color</key>
 						<string>2.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>1.447518</string>
+						<string>1.053482</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>0.734781</string>
+						<string>0.534762</string>
 						<key>DateLastModified</key>
 						<date>2012-01-21T01:54:04Z</date>
 						<key>Description</key>
@@ -8806,9 +8806,9 @@ Typical Alpha Acid: 12 - 16%</string>
 						<key>Color</key>
 						<string>40.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>3.618875</string>
+						<string>2.633762</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>1.836992</string>
+						<string>1.336935</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Description</key>
@@ -9933,7 +9933,7 @@ Typical Alpha Acid: 12 - 16%</string>
 	<key>ExpectedABW</key>
 	<string>4.367303</string>
 	<key>ExpectedColor</key>
-	<string>7.325058</string>
+	<string>6.606279</string>
 	<key>ExpectedFinalGravity</key>
 	<string>1.013395</string>
 	<key>ExpectedIBU</key>
@@ -9950,9 +9950,9 @@ Typical Alpha Acid: 12 - 16%</string>
 			<key>Color</key>
 			<string>1.800000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>2.650474</string>
+			<string>2.390394</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>1.345418</string>
+			<string>1.213398</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>
@@ -9988,9 +9988,9 @@ Typical Alpha Acid: 12 - 16%</string>
 			<key>Color</key>
 			<string>3.500000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>3.435801</string>
+			<string>3.098659</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>1.744061</string>
+			<string>1.572923</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>
@@ -10026,9 +10026,9 @@ Typical Alpha Acid: 12 - 16%</string>
 			<key>Color</key>
 			<string>2.000000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>0.981657</string>
+			<string>0.885331</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>0.498303</string>
+			<string>0.449407</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>
@@ -10064,9 +10064,9 @@ Typical Alpha Acid: 12 - 16%</string>
 			<key>Color</key>
 			<string>40.000000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>7.362432</string>
+			<string>6.639986</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>3.737275</string>
+			<string>3.370551</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Description</key>

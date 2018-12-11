@@ -22,7 +22,7 @@
 				<key>ApparentAttenuation</key>
 				<string>78.086578</string>
 				<key>Color</key>
-				<string>5.241307</string>
+				<string>2.236860</string>
 				<key>FG</key>
 				<string>1.010000</string>
 				<key>FGHydroReading</key>
@@ -118,7 +118,7 @@ Post-ferm: krausen really sticks around.</string>
 				<key>ExpectedABW</key>
 				<string>3.468017</string>
 				<key>ExpectedColor</key>
-				<string>5.294586</string>
+				<string>2.385630</string>
 				<key>ExpectedFinalGravity</key>
 				<string>1.010788</string>
 				<key>ExpectedIBU</key>
@@ -158,9 +158,9 @@ Post-ferm: krausen really sticks around.</string>
 						<key>Color</key>
 						<string>1.300000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>9.564744</string>
+						<string>4.309675</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>4.855200</string>
+						<string>2.187652</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -219,9 +219,9 @@ Post-ferm: krausen really sticks around.</string>
 						<key>Color</key>
 						<string>2.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>0.865586</string>
+						<string>0.390015</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>0.439384</string>
+						<string>0.197977</string>
 						<key>DateLastModified</key>
 						<date>2012-01-21T01:54:04Z</date>
 						<key>Extract</key>
@@ -720,7 +720,7 @@ Post-ferm: krausen really sticks around.</string>
 				<key>ApparentAttenuation</key>
 				<string>78.012238</string>
 				<key>Color</key>
-				<string>5.250176</string>
+				<string>2.261934</string>
 				<key>FG</key>
 				<string>1.009628</string>
 				<key>FGHydroReading</key>
@@ -815,7 +815,7 @@ calibrated ph: 5.3 after 20m - temp: 151F (intentionally bit higher)</string>
 				<key>ExpectedABW</key>
 				<string>3.259259</string>
 				<key>ExpectedColor</key>
-				<string>5.250176</string>
+				<string>2.261934</string>
 				<key>ExpectedFinalGravity</key>
 				<string>1.010716</string>
 				<key>ExpectedIBU</key>
@@ -855,9 +855,9 @@ calibrated ph: 5.3 after 20m - temp: 151F (intentionally bit higher)</string>
 						<key>Color</key>
 						<string>1.300000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>10.250085</string>
+						<string>4.416045</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>5.203088</string>
+						<string>2.241647</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -916,9 +916,9 @@ calibrated ph: 5.3 after 20m - temp: 151F (intentionally bit higher)</string>
 						<key>Color</key>
 						<string>2.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>0.092762</string>
+						<string>0.039965</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>0.047088</string>
+						<string>0.020287</string>
 						<key>DateLastModified</key>
 						<date>2012-01-21T01:54:04Z</date>
 						<key>Extract</key>
@@ -1552,7 +1552,7 @@ calibrated ph: 5.3 after 20m - temp: 151F (intentionally bit higher)</string>
 				<key>ApparentAttenuation</key>
 				<string>79.611061</string>
 				<key>Color</key>
-				<string>5.393263</string>
+				<string>2.650585</string>
 				<key>FG</key>
 				<string>1.009458</string>
 				<key>FGHydroReading</key>
@@ -1650,7 +1650,7 @@ Almost fruit-loopy notes after 5m adddition.</string>
 				<key>ExpectedABW</key>
 				<string>3.477749</string>
 				<key>ExpectedColor</key>
-				<string>5.393263</string>
+				<string>2.650585</string>
 				<key>ExpectedFinalGravity</key>
 				<string>1.010816</string>
 				<key>ExpectedIBU</key>
@@ -1690,9 +1690,9 @@ Almost fruit-loopy notes after 5m adddition.</string>
 						<key>Color</key>
 						<string>1.300000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>5.898369</string>
+						<string>2.898825</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>2.994096</string>
+						<string>1.471485</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -1751,9 +1751,9 @@ Almost fruit-loopy notes after 5m adddition.</string>
 						<key>Color</key>
 						<string>2.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>3.781090</string>
+						<string>1.858263</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>1.919335</string>
+						<string>0.943281</string>
 						<key>DateLastModified</key>
 						<date>2014-12-31T01:33:04Z</date>
 						<key>Extract</key>
@@ -1812,9 +1812,9 @@ Almost fruit-loopy notes after 5m adddition.</string>
 						<key>Color</key>
 						<string>2.500000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>0.945274</string>
+						<string>0.464566</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>0.479834</string>
+						<string>0.235820</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Description</key>
@@ -2797,7 +2797,7 @@ Typical Alpha Acid: 12 - 16%</string>
 				<key>ApparentAttenuation</key>
 				<string>78.885796</string>
 				<key>Color</key>
-				<string>5.306919</string>
+				<string>2.419462</string>
 				<key>FG</key>
 				<string>1.009632</string>
 				<key>FGHydroReading</key>
@@ -2892,7 +2892,7 @@ est ph: 5.4 - intentionally mashed 152F</string>
 				<key>ExpectedABW</key>
 				<string>3.443618</string>
 				<key>ExpectedColor</key>
-				<string>5.306919</string>
+				<string>2.419462</string>
 				<key>ExpectedFinalGravity</key>
 				<string>1.011288</string>
 				<key>ExpectedIBU</key>
@@ -2932,9 +2932,9 @@ est ph: 5.4 - intentionally mashed 152F</string>
 						<key>Color</key>
 						<string>1.300000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>9.392208</string>
+						<string>4.281974</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>4.767618</string>
+						<string>2.173591</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -2993,9 +2993,9 @@ est ph: 5.4 - intentionally mashed 152F</string>
 						<key>Color</key>
 						<string>2.499890</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>1.062422</string>
+						<string>0.484366</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>0.539301</string>
+						<string>0.245871</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Description</key>
@@ -4495,7 +4495,7 @@ Typical Alpha Acid: 12 - 16%</string>
 				<key>ApparentAttenuation</key>
 				<string>81.015305</string>
 				<key>Color</key>
-				<string>5.306921</string>
+				<string>2.419469</string>
 				<key>FG</key>
 				<string>1.009084</string>
 				<key>FGHydroReading</key>
@@ -4594,7 +4594,7 @@ About all the sludge from the kettle got in</string>
 				<key>ExpectedABW</key>
 				<string>3.490021</string>
 				<key>ExpectedColor</key>
-				<string>5.306921</string>
+				<string>2.419469</string>
 				<key>ExpectedFinalGravity</key>
 				<string>1.010852</string>
 				<key>ExpectedIBU</key>
@@ -4634,9 +4634,9 @@ About all the sludge from the kettle got in</string>
 						<key>Color</key>
 						<string>1.300000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>9.392171</string>
+						<string>4.281968</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>4.767599</string>
+						<string>2.173588</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -4695,9 +4695,9 @@ About all the sludge from the kettle got in</string>
 						<key>Color</key>
 						<string>2.500000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>1.062465</string>
+						<string>0.484386</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>0.539322</string>
+						<string>0.245881</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Description</key>
@@ -5271,7 +5271,7 @@ About all the sludge from the kettle got in</string>
 	<key>ExpectedABW</key>
 	<string>3.468017</string>
 	<key>ExpectedColor</key>
-	<string>5.294586</string>
+	<string>2.385630</string>
 	<key>ExpectedFinalGravity</key>
 	<string>1.010788</string>
 	<key>ExpectedIBU</key>
@@ -5288,9 +5288,9 @@ About all the sludge from the kettle got in</string>
 			<key>Color</key>
 			<string>1.300000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>9.564744</string>
+			<string>4.309675</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>4.855200</string>
+			<string>2.187652</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>
@@ -5326,9 +5326,9 @@ About all the sludge from the kettle got in</string>
 			<key>Color</key>
 			<string>2.000000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>0.865586</string>
+			<string>0.390015</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>0.439384</string>
+			<string>0.197977</string>
 			<key>DateLastModified</key>
 			<date>2012-01-21T01:54:04Z</date>
 			<key>Extract</key>

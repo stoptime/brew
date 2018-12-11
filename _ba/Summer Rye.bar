@@ -1,0 +1,2939 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Acid</key>
+	<string>Unadjusted</string>
+	<key>ApparentAttenuation</key>
+	<string>74.937393</string>
+	<key>Attenuation</key>
+	<string>75.000000</string>
+	<key>Batches</key>
+	<array>
+		<dict>
+			<key>Actuals</key>
+			<dict>
+				<key>ABV</key>
+				<string>4.269979</string>
+				<key>ABW</key>
+				<string>3.347961</string>
+				<key>ActualMashEfficiency</key>
+				<string>67.618378</string>
+				<key>ApparentAttenuation</key>
+				<string>71.081177</string>
+				<key>Color</key>
+				<string>4.063314</string>
+				<key>FG</key>
+				<string>1.012665</string>
+				<key>FGHydroReading</key>
+				<string>1.012000</string>
+				<key>FGTemp</key>
+				<string>18.888889</string>
+				<key>FermentationTemperature</key>
+				<string>20.000000</string>
+				<key>FinalBatchVolume</key>
+				<string>20819.755859</string>
+				<key>FinalWortVolume</key>
+				<string>21652.544922</string>
+				<key>HydrometerCalibratedAt</key>
+				<string>15.0</string>
+				<key>IBU</key>
+				<string>0.000000</string>
+				<key>OG</key>
+				<string>1.045000</string>
+				<key>OGHydroReading</key>
+				<string>1.045000</string>
+				<key>OGTemp</key>
+				<string>15.0</string>
+				<key>PreBoilGrav</key>
+				<string>1.036774</string>
+				<key>PreBoilHydroReading</key>
+				<string>1.036000</string>
+				<key>PreBoilTemp</key>
+				<string>19.444445</string>
+				<key>PreBoilWortVolume</key>
+				<string>26497.869141</string>
+				<key>RealAttenuation</key>
+				<string>58.229698</string>
+				<key>VolumeAtPitching</key>
+				<string>21652.544922</string>
+				<key>VolumeToFermenter</key>
+				<string>21652.544922</string>
+				<key>VolumeWaterAdded</key>
+				<string>0.000000</string>
+			</dict>
+			<key>AdjustedInventory</key>
+			<string>1</string>
+			<key>BatchNotes</key>
+			<string>BIAB: 8.3gal: 2.5g CC - 4.2g gyp - 8.3ml 85% phos acid
+strike: 158F
+Est ph: 5.2</string>
+			<key>BatchTitle</key>
+			<string>Batch 1 of Summer Rye</string>
+			<key>BoilNotes</key>
+			<string></string>
+			<key>DateBrewed</key>
+			<date>2017-03-19T05:00:00Z</date>
+			<key>DateLastModified</key>
+			<date>2017-06-22T00:01:35Z</date>
+			<key>DatePackaged</key>
+			<date>2017-04-12T05:00:00Z</date>
+			<key>DateRacked</key>
+			<date>2017-04-01T05:00:00Z</date>
+			<key>DateReady</key>
+			<date>2017-04-12T05:00:00Z</date>
+			<key>FermentationNotes</key>
+			<string>800ml starter
+guessed on OG - forgot to enter!</string>
+			<key>MTThermalMass</key>
+			<string>680.400024</string>
+			<key>ModifiedRecipe</key>
+			<dict>
+				<key>Acid</key>
+				<string>Unadjusted</string>
+				<key>ApparentAttenuation</key>
+				<string>74.425217</string>
+				<key>Attenuation</key>
+				<string>74.500000</string>
+				<key>Batches</key>
+				<array/>
+				<key>BoilDuration</key>
+				<string>60.000000</string>
+				<key>CaCO3</key>
+				<string>0.0</string>
+				<key>CaCl2</key>
+				<string>0.0</string>
+				<key>CaSO4</key>
+				<string>0.0</string>
+				<key>Carbonation</key>
+				<string>Nothing</string>
+				<key>CarbonationVolumes</key>
+				<string>0.0</string>
+				<key>Conditioning</key>
+				<string>Lagered for 4 weeks</string>
+				<key>DateLastModified</key>
+				<date>2017-03-12T15:23:18Z</date>
+				<key>ExpectedABV</key>
+				<string>4.497174</string>
+				<key>ExpectedABW</key>
+				<string>3.530986</string>
+				<key>ExpectedColor</key>
+				<string>4.063314</string>
+				<key>ExpectedFinalGravity</key>
+				<string>1.011263</string>
+				<key>ExpectedIBU</key>
+				<string>0.000000</string>
+				<key>ExpectedOriginalGravity</key>
+				<string>1.045321</string>
+				<key>ExpectedPreBoilGravity</key>
+				<string>1.038069</string>
+				<key>FermentableIngredients</key>
+				<array>
+					<dict>
+						<key>Amount</key>
+						<string>1360.800049</string>
+						<key>Color</key>
+						<string>1.800000</string>
+						<key>ColorForAdditionInEBC</key>
+						<string>1.493137</string>
+						<key>ColorForAdditionInSRM</key>
+						<string>0.757937</string>
+						<key>DateLastModified</key>
+						<date>2009-08-09T18:00:38Z</date>
+						<key>Extract</key>
+						<string>80.000000</string>
+						<key>Form</key>
+						<string>Loose Whole Hops</string>
+						<key>GravityPointsForAddition</key>
+						<string>13.232491</string>
+						<key>Ingredient</key>
+						<string>US 2-Row Malt</string>
+						<key>IsGrain</key>
+						<string>1.000000</string>
+						<key>MCUForAddition</key>
+						<string>0.803589</string>
+						<key>MCUPercentage</key>
+						<string>18.653179</string>
+						<key>Minutes</key>
+						<string>0.000000</string>
+						<key>Moisture</key>
+						<string>4.000000</string>
+						<key>MustBeMashed</key>
+						<string>1.000000</string>
+						<key>Percentage</key>
+						<string>28.571880</string>
+						<key>UUID</key>
+						<string>F621AEFD-DEDE-4FA8-9CD3-DBBC939F43F8</string>
+						<key>When</key>
+						<string>In Mash/Steeped</string>
+					</dict>
+					<dict>
+						<key>Amount</key>
+						<string>1360.770020</string>
+						<key>Batches</key>
+						<array>
+							<dict>
+								<key>Amount</key>
+								<string>1360.770020</string>
+								<key>AmountInStock</key>
+								<string>13834.369141</string>
+								<key>BatchName</key>
+								<string>New Batch</string>
+								<key>Color</key>
+								<string>4.000000</string>
+								<key>DeliveredOn</key>
+								<date>2017-01-20T18:00:00Z</date>
+								<key>ExpiresOn</key>
+								<date>2018-01-20T16:53:54Z</date>
+								<key>Extract</key>
+								<string>81.000000</string>
+								<key>IngredientType</key>
+								<string>Fermentable</string>
+								<key>UUID</key>
+								<string>77163A39-4086-4C4B-994F-E3D93870F05F</string>
+							</dict>
+						</array>
+						<key>Color</key>
+						<string>4.000000</string>
+						<key>ColorForAdditionInEBC</key>
+						<string>3.318008</string>
+						<key>ColorForAdditionInSRM</key>
+						<string>1.684268</string>
+						<key>DateLastModified</key>
+						<date>2009-09-01T14:06:38Z</date>
+						<key>Description</key>
+						<string>Maris Otter PaleOrigin: Great BritianAn English thoroughbred and a favored choice of malt for many brewers. Simpsons' Maris Otter has a rich and nutty flavor and despite its small, berry size has a strong husk. This malt delivers predictable brewhouse performance with modest, yet consistent extracts. Brewers can expect good runoffs with clear wort.Fine Grind Dry Basis: 82.23%Fine/Coarse Difference: 1.82%Coarse Grind Dry Basis: 80.73%Moisture: 4.0%Coarse Grind As-Is: 77.5%Color: 3.0 °L</string>
+						<key>Extract</key>
+						<string>81.000000</string>
+						<key>Form</key>
+						<string>Loose Whole Hops</string>
+						<key>GravityPointsForAddition</key>
+						<string>13.397601</string>
+						<key>Ingredient</key>
+						<string>Maris Otter</string>
+						<key>IsGrain</key>
+						<string>1.000000</string>
+						<key>MCUForAddition</key>
+						<string>1.785714</string>
+						<key>MCUPercentage</key>
+						<string>41.450600</string>
+						<key>Minutes</key>
+						<string>0.000000</string>
+						<key>Moisture</key>
+						<string>4.000000</string>
+						<key>MustBeMashed</key>
+						<string>1.000000</string>
+						<key>Percentage</key>
+						<string>28.571247</string>
+						<key>UUID</key>
+						<string>D8D7A8DC-AB31-4A0E-97D9-D5AFBD429966</string>
+						<key>When</key>
+						<string>In Mash/Steeped</string>
+					</dict>
+					<dict>
+						<key>Amount</key>
+						<string>1360.770020</string>
+						<key>Color</key>
+						<string>2.000000</string>
+						<key>ColorForAdditionInEBC</key>
+						<string>1.659004</string>
+						<key>ColorForAdditionInSRM</key>
+						<string>0.842134</string>
+						<key>DateLastModified</key>
+						<date>2012-01-21T01:54:04Z</date>
+						<key>Extract</key>
+						<string>75.000000</string>
+						<key>Form</key>
+						<string>Loose Whole Hops</string>
+						<key>GravityPointsForAddition</key>
+						<string>12.405187</string>
+						<key>Ingredient</key>
+						<string>US Wheat Malt</string>
+						<key>IsGrain</key>
+						<string>1</string>
+						<key>MCUForAddition</key>
+						<string>0.892857</string>
+						<key>MCUPercentage</key>
+						<string>20.725300</string>
+						<key>Minutes</key>
+						<string>0.000000</string>
+						<key>Moisture</key>
+						<string>4.000000</string>
+						<key>MustBeMashed</key>
+						<string>1</string>
+						<key>Percentage</key>
+						<string>28.571247</string>
+						<key>UUID</key>
+						<string>DEE6B52C-6EB0-4438-81C7-B3B231940067</string>
+						<key>When</key>
+						<string>In Mash/Steeped</string>
+					</dict>
+					<dict>
+						<key>Amount</key>
+						<string>680.385010</string>
+						<key>Color</key>
+						<string>3.700000</string>
+						<key>ColorForAdditionInEBC</key>
+						<string>1.534579</string>
+						<key>ColorForAdditionInSRM</key>
+						<string>0.778974</string>
+						<key>DateLastModified</key>
+						<date>2009-08-09T18:00:38Z</date>
+						<key>Extract</key>
+						<string>76.000000</string>
+						<key>Form</key>
+						<string>Loose Whole Hops</string>
+						<key>GravityPointsForAddition</key>
+						<string>6.285294</string>
+						<key>Ingredient</key>
+						<string>US Rye Malt</string>
+						<key>IsGrain</key>
+						<string>1.000000</string>
+						<key>MCUForAddition</key>
+						<string>0.825893</string>
+						<key>MCUPercentage</key>
+						<string>19.170908</string>
+						<key>Minutes</key>
+						<string>0.000000</string>
+						<key>Moisture</key>
+						<string>4.000000</string>
+						<key>MustBeMashed</key>
+						<string>1.000000</string>
+						<key>Percentage</key>
+						<string>14.285624</string>
+						<key>UUID</key>
+						<string>DDA28BAC-18A8-11DA-80C0-001124CAE2A6</string>
+						<key>When</key>
+						<string>In Mash/Steeped</string>
+					</dict>
+				</array>
+				<key>FermentationTemperature</key>
+				<string>18.0</string>
+				<key>FinalBatchVolume</key>
+				<string>20819.755859</string>
+				<key>FinalWortVolume</key>
+				<string>25437.955078</string>
+				<key>GravityForIBUCalcs</key>
+				<string>1.038069</string>
+				<key>HopIngredients</key>
+				<array>
+					<dict>
+						<key>Alpha</key>
+						<string>6.500000</string>
+						<key>Amount</key>
+						<string>56.700001</string>
+						<key>Batches</key>
+						<array>
+							<dict>
+								<key>Alpha</key>
+								<string>6.500000</string>
+								<key>Amount</key>
+								<string>56.700001</string>
+								<key>AmountInStock</key>
+								<string>56.700001</string>
+								<key>BatchName</key>
+								<string>New Batch</string>
+								<key>DeliveredOn</key>
+								<date>2017-03-18T17:00:00Z</date>
+								<key>ExpiresOn</key>
+								<date>2018-03-18T20:18:49Z</date>
+								<key>Form</key>
+								<string>Pellets</string>
+								<key>IngredientType</key>
+								<string>Hop</string>
+								<key>UUID</key>
+								<string>807D35A9-87BF-47F0-B45E-2195C4A66470</string>
+							</dict>
+						</array>
+						<key>DateLastModified</key>
+						<date>2017-02-10T20:08:17Z</date>
+						<key>Form</key>
+						<string>Loose Pellet Hops</string>
+						<key>IBUForAddition</key>
+						<string>0.000000</string>
+						<key>Minutes</key>
+						<string>0</string>
+						<key>Percentage</key>
+						<string>0.000000</string>
+						<key>UUID</key>
+						<string>3FC4088C-03A4-4C60-A3B9-37EB7B44BA8A</string>
+						<key>Variety</key>
+						<string>NZ Motueka</string>
+						<key>When</key>
+						<string>At turn off</string>
+					</dict>
+				</array>
+				<key>MashEfficiency</key>
+				<string>80.000000</string>
+				<key>MashSchedule</key>
+				<dict>
+					<key>DateLastModified</key>
+					<date>2009-08-21T14:01:32Z</date>
+					<key>ScheduleName</key>
+					<string>Single Step Infusion (67C/152F)</string>
+					<key>Steps</key>
+					<array>
+						<dict>
+							<key>Duration</key>
+							<string>60.000000</string>
+							<key>StepType</key>
+							<string>Rest at</string>
+							<key>Temperature</key>
+							<string>66.666664</string>
+						</dict>
+					</array>
+					<key>UUID</key>
+					<string>107B5B7D-7D9C-4B21-B3E1-8E31AD1333B3</string>
+					<key>Version</key>
+					<string>3</string>
+				</dict>
+				<key>MashType</key>
+				<string>Full Mash</string>
+				<key>MashpH</key>
+				<string>5.2</string>
+				<key>MgSO4</key>
+				<string>0.0</string>
+				<key>NaCl</key>
+				<string>0.0</string>
+				<key>NaHCO3</key>
+				<string>0.0</string>
+				<key>Notes</key>
+				<string>https://www.homebrewersassociation.org/homebrew-recipe/summer-rye/
+
+Original Gravity: 1.049
+Final Gravity: 1.006
+ABV: 5.7%
+IBU: 25 (?)
+SRM: 4
+Efficiency: 75%
+
+Summer Rye fits into the Alternative Grain Beer category in the 2015 BJCP Style Guidelines. It is described as fruity, spicy and grainy, with a full body and clean fermentation profile. There’s a fruity nose, with a big fruity-spicy and grainy flavor on the palate. The hops an esters create an intriguing combination, with everything wrapping up in a dry finish
+
+An unusual hopping technique is utilized, with the New Zealand hop additions taking place entirely after the boil while still creating the perception of a 25 IBU beer. The brewer also has the option of using different yeast strains to achieve an even fruitier yeast profile.
+
+Water Treatment
+Reverse Osmosis water treated with 1/4 tsp 10% phosphoric acid per 5 gallons. 1 tsp CaCl2 in mash.
+
+Mash
+15 minutes at 131°F (55°C). 60 minutes at 151°F (66°C).
+
+Boil Length
+90 minutes. Add the hop addition at flameout.
+
+Fermentation
+66°F (19°C)
+
+Variations
+You might prefer to use fruitier yeast, like Wyeast 1272 or Wyeast 1335. Substitute any other hops, but try to use the same quantity as this recipe. You don't have to go the spicy route; you can try fruity or citrusy. I'd avoid hops with abundant resin smell and taste, as that character clashes with the graininess of the rye.</string>
+				<key>OtherIngredients</key>
+				<array/>
+				<key>PreBoilWortVolume</key>
+				<string>30283.279297</string>
+				<key>Profile</key>
+				<dict>
+					<key>BoilDuration</key>
+					<string>60.000000</string>
+					<key>DateLastModified</key>
+					<date>2015-09-02T20:25:31Z</date>
+					<key>ExtractEfficiency</key>
+					<string>80.000000</string>
+					<key>FinishedBatchVolume</key>
+					<string>20819.755859</string>
+					<key>MTThermalMass</key>
+					<string>680.400024</string>
+					<key>PostBoilVolume</key>
+					<string>25437.955078</string>
+					<key>PreBoilVolume</key>
+					<string>30283.279297</string>
+					<key>PreferredMashSchedule</key>
+					<string>107B5B7D-7D9C-4B21-B3E1-8E31AD1333B3</string>
+					<key>PreferredRecipeType</key>
+					<string>Full Mash</string>
+					<key>PreferredSpargeMethod</key>
+					<string>Fly Sparge</string>
+					<key>ProfileName</key>
+					<string>8 Gal - 80%</string>
+					<key>UUID</key>
+					<string>618E631F-BA4D-4D52-93E5-E6384318E94E</string>
+					<key>Version</key>
+					<string>2</string>
+					<key>VolumeAtPitching</key>
+					<string>22712.460938</string>
+					<key>VolumeToFermenter</key>
+					<string>22712.460938</string>
+					<key>VolumeWaterAdded</key>
+					<string>0.000000</string>
+					<key>WaterGrainRatio</key>
+					<string>3.338177</string>
+				</dict>
+				<key>RecipeTitle</key>
+				<string>Summer Rye</string>
+				<key>Style</key>
+				<string>American Ale-American Pale Ale</string>
+				<key>UUID</key>
+				<string>0D5651B0-BFCB-4662-AB97-7BED7999492F</string>
+				<key>VolumeAtPitching</key>
+				<string>22712.460938</string>
+				<key>VolumeToFermenter</key>
+				<string>22712.460938</string>
+				<key>VolumeWaterAdded</key>
+				<string>0.000000</string>
+				<key>WaterProfileUsed</key>
+				<string> No Water Profile Chosen</string>
+				<key>Yeast</key>
+				<string>Wyeast 1335-British Ale II</string>
+				<key>YeastAmount</key>
+				<string>1</string>
+			</dict>
+			<key>OriginalRecipe</key>
+			<dict>
+				<key>Acid</key>
+				<string>Unadjusted</string>
+				<key>ApparentAttenuation</key>
+				<string>74.937393</string>
+				<key>Attenuation</key>
+				<string>75.000000</string>
+				<key>BoilDuration</key>
+				<string>60.000000</string>
+				<key>CaCO3</key>
+				<string>0.0</string>
+				<key>CaCl2</key>
+				<string>0.0</string>
+				<key>CaSO4</key>
+				<string>0.0</string>
+				<key>Carbonation</key>
+				<string>Nothing</string>
+				<key>CarbonationVolumes</key>
+				<string>0.0</string>
+				<key>Conditioning</key>
+				<string>Lagered for 4 weeks</string>
+				<key>DateLastModified</key>
+				<date>2017-03-12T15:23:18Z</date>
+				<key>ExpectedABV</key>
+				<string>4.966003</string>
+				<key>ExpectedABW</key>
+				<string>3.896109</string>
+				<key>ExpectedColor</key>
+				<string>3.649116</string>
+				<key>ExpectedFinalGravity</key>
+				<string>1.012037</string>
+				<key>ExpectedIBU</key>
+				<string>0.000000</string>
+				<key>ExpectedOriginalGravity</key>
+				<string>1.049566</string>
+				<key>ExpectedPreBoilGravity</key>
+				<string>1.041635</string>
+				<key>FermentableIngredients</key>
+				<array>
+					<dict>
+						<key>Amount</key>
+						<string>1814.359985</string>
+						<key>Color</key>
+						<string>1.800000</string>
+						<key>ColorForAdditionInEBC</key>
+						<string>2.091276</string>
+						<key>ColorForAdditionInSRM</key>
+						<string>1.061561</string>
+						<key>DateLastModified</key>
+						<date>2009-08-09T18:00:38Z</date>
+						<key>Extract</key>
+						<string>80.000000</string>
+						<key>Form</key>
+						<string>Loose Whole Hops</string>
+						<key>GravityPointsForAddition</key>
+						<string>17.642931</string>
+						<key>Ingredient</key>
+						<string>US 2-Row Malt</string>
+						<key>IsGrain</key>
+						<string>1.000000</string>
+						<key>MCUForAddition</key>
+						<string>1.071429</string>
+						<key>MCUPercentage</key>
+						<string>29.090919</string>
+						<key>Minutes</key>
+						<string>0.000000</string>
+						<key>Moisture</key>
+						<string>4.000000</string>
+						<key>MustBeMashed</key>
+						<string>1.000000</string>
+						<key>Percentage</key>
+						<string>34.782608</string>
+						<key>UUID</key>
+						<string>F621AEFD-DEDE-4FA8-9CD3-DBBC939F43F8</string>
+						<key>When</key>
+						<string>In Mash/Steeped</string>
+					</dict>
+					<dict>
+						<key>Amount</key>
+						<string>1360.770020</string>
+						<key>Color</key>
+						<string>2.000000</string>
+						<key>ColorForAdditionInEBC</key>
+						<string>1.742729</string>
+						<key>ColorForAdditionInSRM</key>
+						<string>0.884634</string>
+						<key>DateLastModified</key>
+						<date>2014-12-31T01:33:04Z</date>
+						<key>Extract</key>
+						<string>80.000000</string>
+						<key>Form</key>
+						<string>Loose Whole Hops</string>
+						<key>GravityPointsForAddition</key>
+						<string>13.232199</string>
+						<key>Ingredient</key>
+						<string>Golden Promise</string>
+						<key>IsGrain</key>
+						<string>1</string>
+						<key>MCUForAddition</key>
+						<string>0.892857</string>
+						<key>MCUPercentage</key>
+						<string>24.242420</string>
+						<key>Minutes</key>
+						<string>0.000000</string>
+						<key>Moisture</key>
+						<string>3.400000</string>
+						<key>MustBeMashed</key>
+						<string>1</string>
+						<key>Percentage</key>
+						<string>26.086956</string>
+						<key>UUID</key>
+						<string>FC6E556C-F0E8-4E8D-BED4-CC1801A7A02F</string>
+						<key>When</key>
+						<string>In Mash/Steeped</string>
+					</dict>
+					<dict>
+						<key>Amount</key>
+						<string>1360.770020</string>
+						<key>Color</key>
+						<string>2.000000</string>
+						<key>ColorForAdditionInEBC</key>
+						<string>1.742729</string>
+						<key>ColorForAdditionInSRM</key>
+						<string>0.884634</string>
+						<key>DateLastModified</key>
+						<date>2012-01-21T01:54:04Z</date>
+						<key>Extract</key>
+						<string>75.000000</string>
+						<key>Form</key>
+						<string>Loose Whole Hops</string>
+						<key>GravityPointsForAddition</key>
+						<string>12.405187</string>
+						<key>Ingredient</key>
+						<string>US Wheat Malt</string>
+						<key>IsGrain</key>
+						<string>1</string>
+						<key>MCUForAddition</key>
+						<string>0.892857</string>
+						<key>MCUPercentage</key>
+						<string>24.242420</string>
+						<key>Minutes</key>
+						<string>0.000000</string>
+						<key>Moisture</key>
+						<string>4.000000</string>
+						<key>MustBeMashed</key>
+						<string>1</string>
+						<key>Percentage</key>
+						<string>26.086956</string>
+						<key>UUID</key>
+						<string>DEE6B52C-6EB0-4438-81C7-B3B231940067</string>
+						<key>When</key>
+						<string>In Mash/Steeped</string>
+					</dict>
+					<dict>
+						<key>Amount</key>
+						<string>680.385010</string>
+						<key>Color</key>
+						<string>3.700000</string>
+						<key>ColorForAdditionInEBC</key>
+						<string>1.612025</string>
+						<key>ColorForAdditionInSRM</key>
+						<string>0.818287</string>
+						<key>DateLastModified</key>
+						<date>2009-08-09T18:00:38Z</date>
+						<key>Extract</key>
+						<string>76.000000</string>
+						<key>Form</key>
+						<string>Loose Whole Hops</string>
+						<key>GravityPointsForAddition</key>
+						<string>6.285294</string>
+						<key>Ingredient</key>
+						<string>US Rye Malt</string>
+						<key>IsGrain</key>
+						<string>1.000000</string>
+						<key>MCUForAddition</key>
+						<string>0.825893</string>
+						<key>MCUPercentage</key>
+						<string>22.424244</string>
+						<key>Minutes</key>
+						<string>0.000000</string>
+						<key>Moisture</key>
+						<string>4.000000</string>
+						<key>MustBeMashed</key>
+						<string>1.000000</string>
+						<key>Percentage</key>
+						<string>13.043478</string>
+						<key>UUID</key>
+						<string>DDA28BAC-18A8-11DA-80C0-001124CAE2A6</string>
+						<key>When</key>
+						<string>In Mash/Steeped</string>
+					</dict>
+				</array>
+				<key>FermentationTemperature</key>
+				<string>18.0</string>
+				<key>FinalBatchVolume</key>
+				<string>20819.755859</string>
+				<key>FinalWortVolume</key>
+				<string>25437.955078</string>
+				<key>GravityForIBUCalcs</key>
+				<string>1.041635</string>
+				<key>HopIngredients</key>
+				<array>
+					<dict>
+						<key>Alpha</key>
+						<string>6.500000</string>
+						<key>Amount</key>
+						<string>56.700001</string>
+						<key>DateLastModified</key>
+						<date>2017-02-10T20:08:17Z</date>
+						<key>Form</key>
+						<string>Loose Pellet Hops</string>
+						<key>IBUForAddition</key>
+						<string>0.000000</string>
+						<key>Minutes</key>
+						<string>0</string>
+						<key>Percentage</key>
+						<string>0.000000</string>
+						<key>UUID</key>
+						<string>3FC4088C-03A4-4C60-A3B9-37EB7B44BA8A</string>
+						<key>Variety</key>
+						<string>NZ Motueka</string>
+						<key>When</key>
+						<string>At turn off</string>
+					</dict>
+				</array>
+				<key>MashEfficiency</key>
+				<string>80.000000</string>
+				<key>MashSchedule</key>
+				<dict>
+					<key>DateLastModified</key>
+					<date>2009-08-21T14:01:32Z</date>
+					<key>ScheduleName</key>
+					<string>Single Step Infusion (67C/152F)</string>
+					<key>Steps</key>
+					<array>
+						<dict>
+							<key>Duration</key>
+							<string>60.000000</string>
+							<key>StepType</key>
+							<string>Rest at</string>
+							<key>Temperature</key>
+							<string>66.666664</string>
+						</dict>
+					</array>
+					<key>UUID</key>
+					<string>107B5B7D-7D9C-4B21-B3E1-8E31AD1333B3</string>
+					<key>Version</key>
+					<string>3</string>
+				</dict>
+				<key>MashType</key>
+				<string>Full Mash</string>
+				<key>MashpH</key>
+				<string>5.2</string>
+				<key>MgSO4</key>
+				<string>0.0</string>
+				<key>NaCl</key>
+				<string>0.0</string>
+				<key>NaHCO3</key>
+				<string>0.0</string>
+				<key>Notes</key>
+				<string>https://www.homebrewersassociation.org/homebrew-recipe/summer-rye/
+
+Original Gravity: 1.049
+Final Gravity: 1.006
+ABV: 5.7%
+IBU: 25 (?)
+SRM: 4
+Efficiency: 75%
+
+Summer Rye fits into the Alternative Grain Beer category in the 2015 BJCP Style Guidelines. It is described as fruity, spicy and grainy, with a full body and clean fermentation profile. There’s a fruity nose, with a big fruity-spicy and grainy flavor on the palate. The hops an esters create an intriguing combination, with everything wrapping up in a dry finish
+
+An unusual hopping technique is utilized, with the New Zealand hop additions taking place entirely after the boil while still creating the perception of a 25 IBU beer. The brewer also has the option of using different yeast strains to achieve an even fruitier yeast profile.
+
+Water Treatment
+Reverse Osmosis water treated with 1/4 tsp 10% phosphoric acid per 5 gallons. 1 tsp CaCl2 in mash.
+
+Mash
+15 minutes at 131°F (55°C). 60 minutes at 151°F (66°C).
+
+Boil Length
+90 minutes. Add the hop addition at flameout.
+
+Fermentation
+66°F (19°C)
+
+Variations
+You might prefer to use fruitier yeast, like Wyeast 1272 or Wyeast 1335. Substitute any other hops, but try to use the same quantity as this recipe. You don't have to go the spicy route; you can try fruity or citrusy. I'd avoid hops with abundant resin smell and taste, as that character clashes with the graininess of the rye.</string>
+				<key>OtherIngredients</key>
+				<array/>
+				<key>PreBoilWortVolume</key>
+				<string>30283.279297</string>
+				<key>Profile</key>
+				<dict>
+					<key>BoilDuration</key>
+					<string>60.000000</string>
+					<key>DateLastModified</key>
+					<date>2015-09-02T20:25:31Z</date>
+					<key>ExtractEfficiency</key>
+					<string>80.000000</string>
+					<key>FinishedBatchVolume</key>
+					<string>20819.755859</string>
+					<key>MTThermalMass</key>
+					<string>680.400024</string>
+					<key>PostBoilVolume</key>
+					<string>25437.955078</string>
+					<key>PreBoilVolume</key>
+					<string>30283.279297</string>
+					<key>PreferredMashSchedule</key>
+					<string>107B5B7D-7D9C-4B21-B3E1-8E31AD1333B3</string>
+					<key>PreferredRecipeType</key>
+					<string>Full Mash</string>
+					<key>PreferredSpargeMethod</key>
+					<string>Fly Sparge</string>
+					<key>ProfileName</key>
+					<string>8 Gal - 80%</string>
+					<key>UUID</key>
+					<string>618E631F-BA4D-4D52-93E5-E6384318E94E</string>
+					<key>Version</key>
+					<string>2</string>
+					<key>VolumeAtPitching</key>
+					<string>22712.460938</string>
+					<key>VolumeToFermenter</key>
+					<string>22712.460938</string>
+					<key>VolumeWaterAdded</key>
+					<string>0.000000</string>
+					<key>WaterGrainRatio</key>
+					<string>3.338177</string>
+				</dict>
+				<key>RecipeTitle</key>
+				<string>Summer Rye</string>
+				<key>Style</key>
+				<string>American Ale-American Pale Ale</string>
+				<key>UUID</key>
+				<string>0D5651B0-BFCB-4662-AB97-7BED7999492F</string>
+				<key>VolumeAtPitching</key>
+				<string>22712.460938</string>
+				<key>VolumeToFermenter</key>
+				<string>22712.460938</string>
+				<key>VolumeWaterAdded</key>
+				<string>0.000000</string>
+				<key>WaterProfileUsed</key>
+				<string> No Water Profile Chosen</string>
+				<key>Yeast</key>
+				<string>Wyeast 1056-American Ale</string>
+				<key>YeastAmount</key>
+				<string>1</string>
+			</dict>
+			<key>PackagingNotes</key>
+			<string></string>
+			<key>RoomTemperature</key>
+			<string>15.0</string>
+			<key>SpargeMethod</key>
+			<string>Fly Sparge</string>
+			<key>TastingNotes</key>
+			<string>I really liked it - but really need to whirlpool those hops 1st I think before chilling</string>
+			<key>UUID</key>
+			<string>1F91E788-61E5-4FE4-83A2-7B25197A6364</string>
+			<key>WaterGrainRatio</key>
+			<string>3.338177</string>
+		</dict>
+		<dict>
+			<key>Actuals</key>
+			<dict>
+				<key>ABV</key>
+				<string>4.650642</string>
+				<key>ABW</key>
+				<string>3.659234</string>
+				<key>ActualMashEfficiency</key>
+				<string>67.417809</string>
+				<key>ApparentAttenuation</key>
+				<string>78.820107</string>
+				<key>Color</key>
+				<string>4.063314</string>
+				<key>FG</key>
+				<string>1.009121</string>
+				<key>FGHydroReading</key>
+				<string>1.008000</string>
+				<key>FGTemp</key>
+				<string>21.111111</string>
+				<key>FermentationTemperature</key>
+				<string>20.000000</string>
+				<key>FinalBatchVolume</key>
+				<string>20819.755859</string>
+				<key>FinalWortVolume</key>
+				<string>21652.544922</string>
+				<key>HydrometerCalibratedAt</key>
+				<string>15.0</string>
+				<key>IBU</key>
+				<string>0.000000</string>
+				<key>OG</key>
+				<string>1.044368</string>
+				<key>OGHydroReading</key>
+				<string>1.043000</string>
+				<key>OGTemp</key>
+				<string>22.222223</string>
+				<key>PreBoilGrav</key>
+				<string>1.036665</string>
+				<key>PreBoilHydroReading</key>
+				<string>1.036000</string>
+				<key>PreBoilTemp</key>
+				<string>18.888889</string>
+				<key>PreBoilWortVolume</key>
+				<string>26497.869141</string>
+				<key>RealAttenuation</key>
+				<string>64.569435</string>
+				<key>VolumeAtPitching</key>
+				<string>21652.544922</string>
+				<key>VolumeToFermenter</key>
+				<string>21652.544922</string>
+				<key>VolumeWaterAdded</key>
+				<string>0.000000</string>
+			</dict>
+			<key>AdjustedInventory</key>
+			<string>1</string>
+			<key>BatchNotes</key>
+			<string>BIAB: 8.3gal: 2.5g CC - 4.2g gyp - 8.3ml 85% phos acid
+strike: 158F
+Est ph: 5.2	
+Mashed in 2 degree lower strike temp = 150F</string>
+			<key>BatchTitle</key>
+			<string>Batch 2 of Summer Rye - Amarillo</string>
+			<key>BoilNotes</key>
+			<string>Flame went out at some point. </string>
+			<key>DateBrewed</key>
+			<date>2017-06-22T05:00:00Z</date>
+			<key>DateLastModified</key>
+			<date>2017-08-25T21:36:20Z</date>
+			<key>DatePackaged</key>
+			<date>2017-07-04T22:27:38Z</date>
+			<key>DateRacked</key>
+			<date>2017-07-04T22:27:38Z</date>
+			<key>DateReady</key>
+			<date>2017-07-14T05:00:00Z</date>
+			<key>FermentationNotes</key>
+			<string>800ml starter</string>
+			<key>MTThermalMass</key>
+			<string>680.400024</string>
+			<key>ModifiedRecipe</key>
+			<dict>
+				<key>Acid</key>
+				<string>Unadjusted</string>
+				<key>ApparentAttenuation</key>
+				<string>73.927200</string>
+				<key>Attenuation</key>
+				<string>74.000000</string>
+				<key>Batches</key>
+				<array/>
+				<key>BoilDuration</key>
+				<string>60.000000</string>
+				<key>CaCO3</key>
+				<string>0.0</string>
+				<key>CaCl2</key>
+				<string>0.0</string>
+				<key>CaSO4</key>
+				<string>0.0</string>
+				<key>Carbonation</key>
+				<string>Nothing</string>
+				<key>CarbonationVolumes</key>
+				<string>0.0</string>
+				<key>Conditioning</key>
+				<string>Lagered for 4 weeks</string>
+				<key>DateLastModified</key>
+				<date>2017-03-12T15:23:18Z</date>
+				<key>ExpectedABV</key>
+				<string>4.468060</string>
+				<key>ExpectedABW</key>
+				<string>3.507358</string>
+				<key>ExpectedColor</key>
+				<string>4.063314</string>
+				<key>ExpectedFinalGravity</key>
+				<string>1.011485</string>
+				<key>ExpectedIBU</key>
+				<string>0.000000</string>
+				<key>ExpectedOriginalGravity</key>
+				<string>1.045321</string>
+				<key>ExpectedPreBoilGravity</key>
+				<string>1.038069</string>
+				<key>FermentableIngredients</key>
+				<array>
+					<dict>
+						<key>Amount</key>
+						<string>1360.800049</string>
+						<key>Color</key>
+						<string>1.800000</string>
+						<key>ColorForAdditionInEBC</key>
+						<string>1.493137</string>
+						<key>ColorForAdditionInSRM</key>
+						<string>0.757937</string>
+						<key>DateLastModified</key>
+						<date>2009-08-09T18:00:38Z</date>
+						<key>Extract</key>
+						<string>80.000000</string>
+						<key>Form</key>
+						<string>Loose Whole Hops</string>
+						<key>GravityPointsForAddition</key>
+						<string>13.232491</string>
+						<key>Ingredient</key>
+						<string>US 2-Row Malt</string>
+						<key>IsGrain</key>
+						<string>1.000000</string>
+						<key>MCUForAddition</key>
+						<string>0.803589</string>
+						<key>MCUPercentage</key>
+						<string>18.653179</string>
+						<key>Minutes</key>
+						<string>0.000000</string>
+						<key>Moisture</key>
+						<string>4.000000</string>
+						<key>MustBeMashed</key>
+						<string>1.000000</string>
+						<key>Percentage</key>
+						<string>28.571880</string>
+						<key>UUID</key>
+						<string>F621AEFD-DEDE-4FA8-9CD3-DBBC939F43F8</string>
+						<key>When</key>
+						<string>In Mash/Steeped</string>
+					</dict>
+					<dict>
+						<key>Amount</key>
+						<string>1360.770020</string>
+						<key>Batches</key>
+						<array>
+							<dict>
+								<key>Amount</key>
+								<string>1360.770020</string>
+								<key>AmountInStock</key>
+								<string>20277.601562</string>
+								<key>BatchName</key>
+								<string>Simpsons</string>
+								<key>Color</key>
+								<string>4.000000</string>
+								<key>DeliveredOn</key>
+								<date>2017-05-16T17:00:00Z</date>
+								<key>ExpiresOn</key>
+								<date>2018-05-16T22:51:38Z</date>
+								<key>Extract</key>
+								<string>81.000000</string>
+								<key>IngredientType</key>
+								<string>Fermentable</string>
+								<key>UUID</key>
+								<string>79F91E24-2CC6-4AC2-972A-CF80ADC2C219</string>
+							</dict>
+						</array>
+						<key>Color</key>
+						<string>4.000000</string>
+						<key>ColorForAdditionInEBC</key>
+						<string>3.318008</string>
+						<key>ColorForAdditionInSRM</key>
+						<string>1.684268</string>
+						<key>DateLastModified</key>
+						<date>2009-09-01T14:06:38Z</date>
+						<key>Description</key>
+						<string>Maris Otter PaleOrigin: Great BritianAn English thoroughbred and a favored choice of malt for many brewers. Simpsons' Maris Otter has a rich and nutty flavor and despite its small, berry size has a strong husk. This malt delivers predictable brewhouse performance with modest, yet consistent extracts. Brewers can expect good runoffs with clear wort.Fine Grind Dry Basis: 82.23%Fine/Coarse Difference: 1.82%Coarse Grind Dry Basis: 80.73%Moisture: 4.0%Coarse Grind As-Is: 77.5%Color: 3.0 °L</string>
+						<key>Extract</key>
+						<string>81.000000</string>
+						<key>Form</key>
+						<string>Loose Whole Hops</string>
+						<key>GravityPointsForAddition</key>
+						<string>13.397601</string>
+						<key>Ingredient</key>
+						<string>Maris Otter</string>
+						<key>IsGrain</key>
+						<string>1.000000</string>
+						<key>MCUForAddition</key>
+						<string>1.785714</string>
+						<key>MCUPercentage</key>
+						<string>41.450600</string>
+						<key>Minutes</key>
+						<string>0.000000</string>
+						<key>Moisture</key>
+						<string>4.000000</string>
+						<key>MustBeMashed</key>
+						<string>1.000000</string>
+						<key>Percentage</key>
+						<string>28.571247</string>
+						<key>UUID</key>
+						<string>D8D7A8DC-AB31-4A0E-97D9-D5AFBD429966</string>
+						<key>When</key>
+						<string>In Mash/Steeped</string>
+					</dict>
+					<dict>
+						<key>Amount</key>
+						<string>1360.770020</string>
+						<key>Color</key>
+						<string>2.000000</string>
+						<key>ColorForAdditionInEBC</key>
+						<string>1.659004</string>
+						<key>ColorForAdditionInSRM</key>
+						<string>0.842134</string>
+						<key>DateLastModified</key>
+						<date>2012-01-21T01:54:04Z</date>
+						<key>Extract</key>
+						<string>75.000000</string>
+						<key>Form</key>
+						<string>Loose Whole Hops</string>
+						<key>GravityPointsForAddition</key>
+						<string>12.405187</string>
+						<key>Ingredient</key>
+						<string>US Wheat Malt</string>
+						<key>IsGrain</key>
+						<string>1</string>
+						<key>MCUForAddition</key>
+						<string>0.892857</string>
+						<key>MCUPercentage</key>
+						<string>20.725300</string>
+						<key>Minutes</key>
+						<string>0.000000</string>
+						<key>Moisture</key>
+						<string>4.000000</string>
+						<key>MustBeMashed</key>
+						<string>1</string>
+						<key>Percentage</key>
+						<string>28.571247</string>
+						<key>UUID</key>
+						<string>DEE6B52C-6EB0-4438-81C7-B3B231940067</string>
+						<key>When</key>
+						<string>In Mash/Steeped</string>
+					</dict>
+					<dict>
+						<key>Amount</key>
+						<string>680.385010</string>
+						<key>Color</key>
+						<string>3.700000</string>
+						<key>ColorForAdditionInEBC</key>
+						<string>1.534579</string>
+						<key>ColorForAdditionInSRM</key>
+						<string>0.778974</string>
+						<key>DateLastModified</key>
+						<date>2009-08-09T18:00:38Z</date>
+						<key>Extract</key>
+						<string>76.000000</string>
+						<key>Form</key>
+						<string>Loose Whole Hops</string>
+						<key>GravityPointsForAddition</key>
+						<string>6.285294</string>
+						<key>Ingredient</key>
+						<string>US Rye Malt</string>
+						<key>IsGrain</key>
+						<string>1.000000</string>
+						<key>MCUForAddition</key>
+						<string>0.825893</string>
+						<key>MCUPercentage</key>
+						<string>19.170908</string>
+						<key>Minutes</key>
+						<string>0.000000</string>
+						<key>Moisture</key>
+						<string>4.000000</string>
+						<key>MustBeMashed</key>
+						<string>1.000000</string>
+						<key>Percentage</key>
+						<string>14.285624</string>
+						<key>UUID</key>
+						<string>DDA28BAC-18A8-11DA-80C0-001124CAE2A6</string>
+						<key>When</key>
+						<string>In Mash/Steeped</string>
+					</dict>
+				</array>
+				<key>FermentationTemperature</key>
+				<string>18.0</string>
+				<key>FinalBatchVolume</key>
+				<string>20819.755859</string>
+				<key>FinalWortVolume</key>
+				<string>25437.955078</string>
+				<key>GravityForIBUCalcs</key>
+				<string>1.038069</string>
+				<key>HopIngredients</key>
+				<array>
+					<dict>
+						<key>Alpha</key>
+						<string>8.500000</string>
+						<key>Amount</key>
+						<string>56.700001</string>
+						<key>Batches</key>
+						<array>
+							<dict>
+								<key>Alpha</key>
+								<string>8.500000</string>
+								<key>Amount</key>
+								<string>56.700001</string>
+								<key>AmountInStock</key>
+								<string>340.200012</string>
+								<key>BatchName</key>
+								<string>FH</string>
+								<key>DeliveredOn</key>
+								<date>2017-02-10T18:00:00Z</date>
+								<key>ExpiresOn</key>
+								<date>2018-02-10T18:00:00Z</date>
+								<key>Form</key>
+								<string>Whole</string>
+								<key>IngredientType</key>
+								<string>Hop</string>
+								<key>UUID</key>
+								<string>C4F99C86-B16C-4841-9000-B72FEF4BA5C6</string>
+							</dict>
+						</array>
+						<key>DateLastModified</key>
+						<date>2010-08-25T13:31:27Z</date>
+						<key>Description</key>
+						<string>Unique. Very floral and spicy. Powerful aroma with good bittering quality.</string>
+						<key>Form</key>
+						<string>Loose Whole Hops</string>
+						<key>IBUForAddition</key>
+						<string>0.000000</string>
+						<key>Minutes</key>
+						<string>0</string>
+						<key>Percentage</key>
+						<string>0.000000</string>
+						<key>UUID</key>
+						<string>C87E536D-1BD2-11DA-9896-001124CAE2A6</string>
+						<key>Variety</key>
+						<string>US Amarillo</string>
+						<key>When</key>
+						<string>At turn off</string>
+					</dict>
+				</array>
+				<key>MashEfficiency</key>
+				<string>80.000000</string>
+				<key>MashSchedule</key>
+				<dict>
+					<key>DateLastModified</key>
+					<date>2009-08-21T14:01:32Z</date>
+					<key>ScheduleName</key>
+					<string>Single Step Infusion (67C/152F)</string>
+					<key>Steps</key>
+					<array>
+						<dict>
+							<key>Duration</key>
+							<string>60.000000</string>
+							<key>StepType</key>
+							<string>Rest at</string>
+							<key>Temperature</key>
+							<string>66.666664</string>
+						</dict>
+					</array>
+					<key>UUID</key>
+					<string>107B5B7D-7D9C-4B21-B3E1-8E31AD1333B3</string>
+					<key>Version</key>
+					<string>3</string>
+				</dict>
+				<key>MashType</key>
+				<string>Full Mash</string>
+				<key>MashpH</key>
+				<string>5.2</string>
+				<key>MgSO4</key>
+				<string>0.0</string>
+				<key>NaCl</key>
+				<string>0.0</string>
+				<key>NaHCO3</key>
+				<string>0.0</string>
+				<key>Notes</key>
+				<string>https://www.homebrewersassociation.org/homebrew-recipe/summer-rye/
+
+Original Gravity: 1.049
+Final Gravity: 1.006
+ABV: 5.7%
+IBU: 25 (?)
+SRM: 4
+Efficiency: 75%
+
+Summer Rye fits into the Alternative Grain Beer category in the 2015 BJCP Style Guidelines. It is described as fruity, spicy and grainy, with a full body and clean fermentation profile. There’s a fruity nose, with a big fruity-spicy and grainy flavor on the palate. The hops an esters create an intriguing combination, with everything wrapping up in a dry finish
+
+An unusual hopping technique is utilized, with the New Zealand hop additions taking place entirely after the boil while still creating the perception of a 25 IBU beer. The brewer also has the option of using different yeast strains to achieve an even fruitier yeast profile.
+
+Water Treatment
+Reverse Osmosis water treated with 1/4 tsp 10% phosphoric acid per 5 gallons. 1 tsp CaCl2 in mash.
+
+Mash
+15 minutes at 131°F (55°C). 60 minutes at 151°F (66°C).
+
+Boil Length
+90 minutes. Add the hop addition at flameout.
+
+Fermentation
+66°F (19°C)
+
+Variations
+You might prefer to use fruitier yeast, like Wyeast 1272 or Wyeast 1335. Substitute any other hops, but try to use the same quantity as this recipe. You don't have to go the spicy route; you can try fruity or citrusy. I'd avoid hops with abundant resin smell and taste, as that character clashes with the graininess of the rye.</string>
+				<key>OtherIngredients</key>
+				<array/>
+				<key>PreBoilWortVolume</key>
+				<string>30283.279297</string>
+				<key>Profile</key>
+				<dict>
+					<key>BoilDuration</key>
+					<string>60.000000</string>
+					<key>DateLastModified</key>
+					<date>2015-09-02T20:25:31Z</date>
+					<key>ExtractEfficiency</key>
+					<string>80.000000</string>
+					<key>FinishedBatchVolume</key>
+					<string>20819.755859</string>
+					<key>MTThermalMass</key>
+					<string>680.400024</string>
+					<key>PostBoilVolume</key>
+					<string>25437.955078</string>
+					<key>PreBoilVolume</key>
+					<string>30283.279297</string>
+					<key>PreferredMashSchedule</key>
+					<string>107B5B7D-7D9C-4B21-B3E1-8E31AD1333B3</string>
+					<key>PreferredRecipeType</key>
+					<string>Full Mash</string>
+					<key>PreferredSpargeMethod</key>
+					<string>Fly Sparge</string>
+					<key>ProfileName</key>
+					<string>8 Gal - 80%</string>
+					<key>UUID</key>
+					<string>618E631F-BA4D-4D52-93E5-E6384318E94E</string>
+					<key>Version</key>
+					<string>2</string>
+					<key>VolumeAtPitching</key>
+					<string>22712.460938</string>
+					<key>VolumeToFermenter</key>
+					<string>22712.460938</string>
+					<key>VolumeWaterAdded</key>
+					<string>0.000000</string>
+					<key>WaterGrainRatio</key>
+					<string>3.338177</string>
+				</dict>
+				<key>RecipeTitle</key>
+				<string>Summer Rye</string>
+				<key>Style</key>
+				<string>American Ale-American Pale Ale</string>
+				<key>UUID</key>
+				<string>0D5651B0-BFCB-4662-AB97-7BED7999492F</string>
+				<key>VolumeAtPitching</key>
+				<string>22712.460938</string>
+				<key>VolumeToFermenter</key>
+				<string>22712.460938</string>
+				<key>VolumeWaterAdded</key>
+				<string>0.000000</string>
+				<key>WaterProfileUsed</key>
+				<string> No Water Profile Chosen</string>
+				<key>Yeast</key>
+				<string>Wyeast 1098-British Ale</string>
+				<key>YeastAmount</key>
+				<string>1</string>
+			</dict>
+			<key>OriginalRecipe</key>
+			<dict>
+				<key>Acid</key>
+				<string>Unadjusted</string>
+				<key>ApparentAttenuation</key>
+				<string>74.425217</string>
+				<key>Attenuation</key>
+				<string>74.500000</string>
+				<key>BoilDuration</key>
+				<string>60.000000</string>
+				<key>CaCO3</key>
+				<string>0.0</string>
+				<key>CaCl2</key>
+				<string>0.0</string>
+				<key>CaSO4</key>
+				<string>0.0</string>
+				<key>Carbonation</key>
+				<string>Nothing</string>
+				<key>CarbonationVolumes</key>
+				<string>0.0</string>
+				<key>Conditioning</key>
+				<string>Lagered for 4 weeks</string>
+				<key>DateLastModified</key>
+				<date>2017-03-12T15:23:18Z</date>
+				<key>ExpectedABV</key>
+				<string>4.497174</string>
+				<key>ExpectedABW</key>
+				<string>3.530986</string>
+				<key>ExpectedColor</key>
+				<string>4.063314</string>
+				<key>ExpectedFinalGravity</key>
+				<string>1.011263</string>
+				<key>ExpectedIBU</key>
+				<string>0.000000</string>
+				<key>ExpectedOriginalGravity</key>
+				<string>1.045321</string>
+				<key>ExpectedPreBoilGravity</key>
+				<string>1.038069</string>
+				<key>FermentableIngredients</key>
+				<array>
+					<dict>
+						<key>Amount</key>
+						<string>1360.800049</string>
+						<key>Color</key>
+						<string>1.800000</string>
+						<key>ColorForAdditionInEBC</key>
+						<string>1.493137</string>
+						<key>ColorForAdditionInSRM</key>
+						<string>0.757937</string>
+						<key>DateLastModified</key>
+						<date>2009-08-09T18:00:38Z</date>
+						<key>Extract</key>
+						<string>80.000000</string>
+						<key>Form</key>
+						<string>Loose Whole Hops</string>
+						<key>GravityPointsForAddition</key>
+						<string>13.232491</string>
+						<key>Ingredient</key>
+						<string>US 2-Row Malt</string>
+						<key>IsGrain</key>
+						<string>1.000000</string>
+						<key>MCUForAddition</key>
+						<string>0.803589</string>
+						<key>MCUPercentage</key>
+						<string>18.653179</string>
+						<key>Minutes</key>
+						<string>0.000000</string>
+						<key>Moisture</key>
+						<string>4.000000</string>
+						<key>MustBeMashed</key>
+						<string>1.000000</string>
+						<key>Percentage</key>
+						<string>28.571880</string>
+						<key>UUID</key>
+						<string>F621AEFD-DEDE-4FA8-9CD3-DBBC939F43F8</string>
+						<key>When</key>
+						<string>In Mash/Steeped</string>
+					</dict>
+					<dict>
+						<key>Amount</key>
+						<string>1360.770020</string>
+						<key>Batches</key>
+						<array>
+							<dict>
+								<key>Amount</key>
+								<string>1360.770020</string>
+								<key>AmountInStock</key>
+								<string>13834.369141</string>
+								<key>BatchName</key>
+								<string>New Batch</string>
+								<key>Color</key>
+								<string>4.000000</string>
+								<key>DeliveredOn</key>
+								<date>2017-01-20T18:00:00Z</date>
+								<key>ExpiresOn</key>
+								<date>2018-01-20T16:53:54Z</date>
+								<key>Extract</key>
+								<string>81.000000</string>
+								<key>IngredientType</key>
+								<string>Fermentable</string>
+								<key>UUID</key>
+								<string>77163A39-4086-4C4B-994F-E3D93870F05F</string>
+							</dict>
+						</array>
+						<key>Color</key>
+						<string>4.000000</string>
+						<key>ColorForAdditionInEBC</key>
+						<string>3.318008</string>
+						<key>ColorForAdditionInSRM</key>
+						<string>1.684268</string>
+						<key>DateLastModified</key>
+						<date>2009-09-01T14:06:38Z</date>
+						<key>Description</key>
+						<string>Maris Otter PaleOrigin: Great BritianAn English thoroughbred and a favored choice of malt for many brewers. Simpsons' Maris Otter has a rich and nutty flavor and despite its small, berry size has a strong husk. This malt delivers predictable brewhouse performance with modest, yet consistent extracts. Brewers can expect good runoffs with clear wort.Fine Grind Dry Basis: 82.23%Fine/Coarse Difference: 1.82%Coarse Grind Dry Basis: 80.73%Moisture: 4.0%Coarse Grind As-Is: 77.5%Color: 3.0 °L</string>
+						<key>Extract</key>
+						<string>81.000000</string>
+						<key>Form</key>
+						<string>Loose Whole Hops</string>
+						<key>GravityPointsForAddition</key>
+						<string>13.397601</string>
+						<key>Ingredient</key>
+						<string>Maris Otter</string>
+						<key>IsGrain</key>
+						<string>1.000000</string>
+						<key>MCUForAddition</key>
+						<string>1.785714</string>
+						<key>MCUPercentage</key>
+						<string>41.450600</string>
+						<key>Minutes</key>
+						<string>0.000000</string>
+						<key>Moisture</key>
+						<string>4.000000</string>
+						<key>MustBeMashed</key>
+						<string>1.000000</string>
+						<key>Percentage</key>
+						<string>28.571247</string>
+						<key>UUID</key>
+						<string>D8D7A8DC-AB31-4A0E-97D9-D5AFBD429966</string>
+						<key>When</key>
+						<string>In Mash/Steeped</string>
+					</dict>
+					<dict>
+						<key>Amount</key>
+						<string>1360.770020</string>
+						<key>Color</key>
+						<string>2.000000</string>
+						<key>ColorForAdditionInEBC</key>
+						<string>1.659004</string>
+						<key>ColorForAdditionInSRM</key>
+						<string>0.842134</string>
+						<key>DateLastModified</key>
+						<date>2012-01-21T01:54:04Z</date>
+						<key>Extract</key>
+						<string>75.000000</string>
+						<key>Form</key>
+						<string>Loose Whole Hops</string>
+						<key>GravityPointsForAddition</key>
+						<string>12.405187</string>
+						<key>Ingredient</key>
+						<string>US Wheat Malt</string>
+						<key>IsGrain</key>
+						<string>1</string>
+						<key>MCUForAddition</key>
+						<string>0.892857</string>
+						<key>MCUPercentage</key>
+						<string>20.725300</string>
+						<key>Minutes</key>
+						<string>0.000000</string>
+						<key>Moisture</key>
+						<string>4.000000</string>
+						<key>MustBeMashed</key>
+						<string>1</string>
+						<key>Percentage</key>
+						<string>28.571247</string>
+						<key>UUID</key>
+						<string>DEE6B52C-6EB0-4438-81C7-B3B231940067</string>
+						<key>When</key>
+						<string>In Mash/Steeped</string>
+					</dict>
+					<dict>
+						<key>Amount</key>
+						<string>680.385010</string>
+						<key>Color</key>
+						<string>3.700000</string>
+						<key>ColorForAdditionInEBC</key>
+						<string>1.534579</string>
+						<key>ColorForAdditionInSRM</key>
+						<string>0.778974</string>
+						<key>DateLastModified</key>
+						<date>2009-08-09T18:00:38Z</date>
+						<key>Extract</key>
+						<string>76.000000</string>
+						<key>Form</key>
+						<string>Loose Whole Hops</string>
+						<key>GravityPointsForAddition</key>
+						<string>6.285294</string>
+						<key>Ingredient</key>
+						<string>US Rye Malt</string>
+						<key>IsGrain</key>
+						<string>1.000000</string>
+						<key>MCUForAddition</key>
+						<string>0.825893</string>
+						<key>MCUPercentage</key>
+						<string>19.170908</string>
+						<key>Minutes</key>
+						<string>0.000000</string>
+						<key>Moisture</key>
+						<string>4.000000</string>
+						<key>MustBeMashed</key>
+						<string>1.000000</string>
+						<key>Percentage</key>
+						<string>14.285624</string>
+						<key>UUID</key>
+						<string>DDA28BAC-18A8-11DA-80C0-001124CAE2A6</string>
+						<key>When</key>
+						<string>In Mash/Steeped</string>
+					</dict>
+				</array>
+				<key>FermentationTemperature</key>
+				<string>18.0</string>
+				<key>FinalBatchVolume</key>
+				<string>20819.755859</string>
+				<key>FinalWortVolume</key>
+				<string>25437.955078</string>
+				<key>GravityForIBUCalcs</key>
+				<string>1.038069</string>
+				<key>HopIngredients</key>
+				<array>
+					<dict>
+						<key>Alpha</key>
+						<string>6.500000</string>
+						<key>Amount</key>
+						<string>56.700001</string>
+						<key>Batches</key>
+						<array>
+							<dict>
+								<key>Alpha</key>
+								<string>6.500000</string>
+								<key>Amount</key>
+								<string>56.700001</string>
+								<key>AmountInStock</key>
+								<string>56.700001</string>
+								<key>BatchName</key>
+								<string>New Batch</string>
+								<key>DeliveredOn</key>
+								<date>2017-03-18T17:00:00Z</date>
+								<key>ExpiresOn</key>
+								<date>2018-03-18T20:18:49Z</date>
+								<key>Form</key>
+								<string>Pellets</string>
+								<key>IngredientType</key>
+								<string>Hop</string>
+								<key>UUID</key>
+								<string>807D35A9-87BF-47F0-B45E-2195C4A66470</string>
+							</dict>
+						</array>
+						<key>DateLastModified</key>
+						<date>2017-02-10T20:08:17Z</date>
+						<key>Form</key>
+						<string>Loose Pellet Hops</string>
+						<key>IBUForAddition</key>
+						<string>0.000000</string>
+						<key>Minutes</key>
+						<string>0</string>
+						<key>Percentage</key>
+						<string>0.000000</string>
+						<key>UUID</key>
+						<string>3FC4088C-03A4-4C60-A3B9-37EB7B44BA8A</string>
+						<key>Variety</key>
+						<string>NZ Motueka</string>
+						<key>When</key>
+						<string>At turn off</string>
+					</dict>
+				</array>
+				<key>MashEfficiency</key>
+				<string>80.000000</string>
+				<key>MashSchedule</key>
+				<dict>
+					<key>DateLastModified</key>
+					<date>2009-08-21T14:01:32Z</date>
+					<key>ScheduleName</key>
+					<string>Single Step Infusion (67C/152F)</string>
+					<key>Steps</key>
+					<array>
+						<dict>
+							<key>Duration</key>
+							<string>60.000000</string>
+							<key>StepType</key>
+							<string>Rest at</string>
+							<key>Temperature</key>
+							<string>66.666664</string>
+						</dict>
+					</array>
+					<key>UUID</key>
+					<string>107B5B7D-7D9C-4B21-B3E1-8E31AD1333B3</string>
+					<key>Version</key>
+					<string>3</string>
+				</dict>
+				<key>MashType</key>
+				<string>Full Mash</string>
+				<key>MashpH</key>
+				<string>5.2</string>
+				<key>MgSO4</key>
+				<string>0.0</string>
+				<key>NaCl</key>
+				<string>0.0</string>
+				<key>NaHCO3</key>
+				<string>0.0</string>
+				<key>Notes</key>
+				<string>https://www.homebrewersassociation.org/homebrew-recipe/summer-rye/
+
+Original Gravity: 1.049
+Final Gravity: 1.006
+ABV: 5.7%
+IBU: 25 (?)
+SRM: 4
+Efficiency: 75%
+
+Summer Rye fits into the Alternative Grain Beer category in the 2015 BJCP Style Guidelines. It is described as fruity, spicy and grainy, with a full body and clean fermentation profile. There’s a fruity nose, with a big fruity-spicy and grainy flavor on the palate. The hops an esters create an intriguing combination, with everything wrapping up in a dry finish
+
+An unusual hopping technique is utilized, with the New Zealand hop additions taking place entirely after the boil while still creating the perception of a 25 IBU beer. The brewer also has the option of using different yeast strains to achieve an even fruitier yeast profile.
+
+Water Treatment
+Reverse Osmosis water treated with 1/4 tsp 10% phosphoric acid per 5 gallons. 1 tsp CaCl2 in mash.
+
+Mash
+15 minutes at 131°F (55°C). 60 minutes at 151°F (66°C).
+
+Boil Length
+90 minutes. Add the hop addition at flameout.
+
+Fermentation
+66°F (19°C)
+
+Variations
+You might prefer to use fruitier yeast, like Wyeast 1272 or Wyeast 1335. Substitute any other hops, but try to use the same quantity as this recipe. You don't have to go the spicy route; you can try fruity or citrusy. I'd avoid hops with abundant resin smell and taste, as that character clashes with the graininess of the rye.</string>
+				<key>OtherIngredients</key>
+				<array/>
+				<key>PreBoilWortVolume</key>
+				<string>30283.279297</string>
+				<key>Profile</key>
+				<dict>
+					<key>BoilDuration</key>
+					<string>60.000000</string>
+					<key>DateLastModified</key>
+					<date>2015-09-02T20:25:31Z</date>
+					<key>ExtractEfficiency</key>
+					<string>80.000000</string>
+					<key>FinishedBatchVolume</key>
+					<string>20819.755859</string>
+					<key>MTThermalMass</key>
+					<string>680.400024</string>
+					<key>PostBoilVolume</key>
+					<string>25437.955078</string>
+					<key>PreBoilVolume</key>
+					<string>30283.279297</string>
+					<key>PreferredMashSchedule</key>
+					<string>107B5B7D-7D9C-4B21-B3E1-8E31AD1333B3</string>
+					<key>PreferredRecipeType</key>
+					<string>Full Mash</string>
+					<key>PreferredSpargeMethod</key>
+					<string>Fly Sparge</string>
+					<key>ProfileName</key>
+					<string>8 Gal - 80%</string>
+					<key>UUID</key>
+					<string>618E631F-BA4D-4D52-93E5-E6384318E94E</string>
+					<key>Version</key>
+					<string>2</string>
+					<key>VolumeAtPitching</key>
+					<string>22712.460938</string>
+					<key>VolumeToFermenter</key>
+					<string>22712.460938</string>
+					<key>VolumeWaterAdded</key>
+					<string>0.000000</string>
+					<key>WaterGrainRatio</key>
+					<string>3.338177</string>
+				</dict>
+				<key>RecipeTitle</key>
+				<string>Summer Rye</string>
+				<key>Style</key>
+				<string>American Ale-American Pale Ale</string>
+				<key>UUID</key>
+				<string>0D5651B0-BFCB-4662-AB97-7BED7999492F</string>
+				<key>VolumeAtPitching</key>
+				<string>22712.460938</string>
+				<key>VolumeToFermenter</key>
+				<string>22712.460938</string>
+				<key>VolumeWaterAdded</key>
+				<string>0.000000</string>
+				<key>WaterProfileUsed</key>
+				<string> No Water Profile Chosen</string>
+				<key>Yeast</key>
+				<string>Wyeast 1335-British Ale II</string>
+				<key>YeastAmount</key>
+				<string>1</string>
+			</dict>
+			<key>PackagingNotes</key>
+			<string></string>
+			<key>RoomTemperature</key>
+			<string>15.0</string>
+			<key>SpargeMethod</key>
+			<string>Fly Sparge</string>
+			<key>TastingNotes</key>
+			<string>Much better than Batch 1</string>
+			<key>UUID</key>
+			<string>3024ABE3-96FE-4F06-B0AA-3D979D8F9888</string>
+			<key>WaterGrainRatio</key>
+			<string>3.338177</string>
+		</dict>
+		<dict>
+			<key>Actuals</key>
+			<dict>
+				<key>ABV</key>
+				<string>4.708065</string>
+				<key>ABW</key>
+				<string>3.700748</string>
+				<key>ActualMashEfficiency</key>
+				<string>68.461205</string>
+				<key>ApparentAttenuation</key>
+				<string>77.214226</string>
+				<key>Color</key>
+				<string>4.677948</string>
+				<key>FG</key>
+				<string>1.010121</string>
+				<key>FGHydroReading</key>
+				<string>1.009000</string>
+				<key>FGTemp</key>
+				<string>21.111111</string>
+				<key>FermentationTemperature</key>
+				<string>20.000000</string>
+				<key>FinalBatchVolume</key>
+				<string>20819.755859</string>
+				<key>FinalWortVolume</key>
+				<string>22712.460938</string>
+				<key>HydrometerCalibratedAt</key>
+				<string>15.0</string>
+				<key>IBU</key>
+				<string>13.378036</string>
+				<key>OG</key>
+				<string>1.045774</string>
+				<key>OGHydroReading</key>
+				<string>1.045000</string>
+				<key>OGTemp</key>
+				<string>19.444445</string>
+				<key>PreBoilGrav</key>
+				<string>1.037368</string>
+				<key>PreBoilHydroReading</key>
+				<string>1.036000</string>
+				<key>PreBoilTemp</key>
+				<string>22.222223</string>
+				<key>PreBoilWortVolume</key>
+				<string>26497.869141</string>
+				<key>RealAttenuation</key>
+				<string>63.253895</string>
+				<key>VolumeAtPitching</key>
+				<string>20819.755859</string>
+				<key>VolumeToFermenter</key>
+				<string>20819.755859</string>
+				<key>VolumeWaterAdded</key>
+				<string>0.000000</string>
+			</dict>
+			<key>AdjustedInventory</key>
+			<string>1</string>
+			<key>BatchNotes</key>
+			<string>BIAB: 8.3gal: 2.5g CC - 4.2g gyp - 8.3ml 85% phos acid 
+strike: 158F 
+Est ph: 5.2
+Settled at 151</string>
+			<key>BatchTitle</key>
+			<string>Batch 3 of Summer Rye Rakau</string>
+			<key>BoilNotes</key>
+			<string></string>
+			<key>DateBrewed</key>
+			<date>2017-08-25T21:36:38Z</date>
+			<key>DateLastModified</key>
+			<date>2017-09-06T23:15:43Z</date>
+			<key>DatePackaged</key>
+			<date>2017-09-06T05:00:00Z</date>
+			<key>DateRacked</key>
+			<date>2017-09-06T05:00:00Z</date>
+			<key>DateReady</key>
+			<date>2017-09-13T05:00:00Z</date>
+			<key>FermentationNotes</key>
+			<string>800ml starter</string>
+			<key>MTThermalMass</key>
+			<string>680.400024</string>
+			<key>ModifiedRecipe</key>
+			<dict>
+				<key>Acid</key>
+				<string>Unadjusted</string>
+				<key>ApparentAttenuation</key>
+				<string>73.927780</string>
+				<key>Attenuation</key>
+				<string>74.000000</string>
+				<key>Batches</key>
+				<array/>
+				<key>BoilDuration</key>
+				<string>60.000000</string>
+				<key>CaCO3</key>
+				<string>0.0</string>
+				<key>CaCl2</key>
+				<string>0.0</string>
+				<key>CaSO4</key>
+				<string>0.0</string>
+				<key>Carbonation</key>
+				<string>Nothing</string>
+				<key>CarbonationVolumes</key>
+				<string>0.0</string>
+				<key>Conditioning</key>
+				<string>Lagered for 4 weeks</string>
+				<key>DateLastModified</key>
+				<date>2017-03-12T15:23:18Z</date>
+				<key>ExpectedABV</key>
+				<string>4.484904</string>
+				<key>ExpectedABW</key>
+				<string>3.520440</string>
+				<key>ExpectedColor</key>
+				<string>4.677948</string>
+				<key>ExpectedFinalGravity</key>
+				<string>1.011525</string>
+				<key>ExpectedIBU</key>
+				<string>11.854847</string>
+				<key>ExpectedOriginalGravity</key>
+				<string>1.045486</string>
+				<key>ExpectedPreBoilGravity</key>
+				<string>1.038208</string>
+				<key>FermentableIngredients</key>
+				<array>
+					<dict>
+						<key>Amount</key>
+						<string>2721.540039</string>
+						<key>Batches</key>
+						<array>
+							<dict>
+								<key>Amount</key>
+								<string>2948.399902</string>
+								<key>AmountInStock</key>
+								<string>6669.772461</string>
+								<key>BatchName</key>
+								<string>Simpsons</string>
+								<key>Color</key>
+								<string>4.000000</string>
+								<key>DeliveredOn</key>
+								<date>2017-05-16T17:00:00Z</date>
+								<key>ExpiresOn</key>
+								<date>2018-05-16T22:51:38Z</date>
+								<key>Extract</key>
+								<string>81.000000</string>
+								<key>IngredientType</key>
+								<string>Fermentable</string>
+								<key>UUID</key>
+								<string>79F91E24-2CC6-4AC2-972A-CF80ADC2C219</string>
+							</dict>
+						</array>
+						<key>Color</key>
+						<string>4.000000</string>
+						<key>ColorForAdditionInEBC</key>
+						<string>6.221473</string>
+						<key>ColorForAdditionInSRM</key>
+						<string>3.158108</string>
+						<key>DateLastModified</key>
+						<date>2009-09-01T14:06:38Z</date>
+						<key>Description</key>
+						<string>Maris Otter PaleOrigin: Great BritianAn English thoroughbred and a favored choice of malt for many brewers. Simpsons' Maris Otter has a rich and nutty flavor and despite its small, berry size has a strong husk. This malt delivers predictable brewhouse performance with modest, yet consistent extracts. Brewers can expect good runoffs with clear wort.Fine Grind Dry Basis: 82.23%Fine/Coarse Difference: 1.82%Coarse Grind Dry Basis: 80.73%Moisture: 4.0%Coarse Grind As-Is: 77.5%Color: 3.0 °L</string>
+						<key>Extract</key>
+						<string>81.000000</string>
+						<key>Form</key>
+						<string>Loose Whole Hops</string>
+						<key>GravityPointsForAddition</key>
+						<string>26.795202</string>
+						<key>Ingredient</key>
+						<string>Maris Otter</string>
+						<key>IsGrain</key>
+						<string>1.000000</string>
+						<key>MCUForAddition</key>
+						<string>3.571429</string>
+						<key>MCUPercentage</key>
+						<string>67.510559</string>
+						<key>Minutes</key>
+						<string>0.000000</string>
+						<key>Moisture</key>
+						<string>4.000000</string>
+						<key>MustBeMashed</key>
+						<string>1.000000</string>
+						<key>Percentage</key>
+						<string>57.142853</string>
+						<key>UUID</key>
+						<string>D8D7A8DC-AB31-4A0E-97D9-D5AFBD429966</string>
+						<key>When</key>
+						<string>In Mash/Steeped</string>
+					</dict>
+					<dict>
+						<key>Amount</key>
+						<string>1360.770020</string>
+						<key>Color</key>
+						<string>2.000000</string>
+						<key>ColorForAdditionInEBC</key>
+						<string>1.555368</string>
+						<key>ColorForAdditionInSRM</key>
+						<string>0.789527</string>
+						<key>DateLastModified</key>
+						<date>2012-01-21T01:54:04Z</date>
+						<key>Extract</key>
+						<string>75.000000</string>
+						<key>Form</key>
+						<string>Loose Whole Hops</string>
+						<key>GravityPointsForAddition</key>
+						<string>12.405187</string>
+						<key>Ingredient</key>
+						<string>US Wheat Malt</string>
+						<key>IsGrain</key>
+						<string>1</string>
+						<key>MCUForAddition</key>
+						<string>0.892857</string>
+						<key>MCUPercentage</key>
+						<string>16.877634</string>
+						<key>Minutes</key>
+						<string>0.000000</string>
+						<key>Moisture</key>
+						<string>4.000000</string>
+						<key>MustBeMashed</key>
+						<string>1</string>
+						<key>Percentage</key>
+						<string>28.571426</string>
+						<key>UUID</key>
+						<string>DEE6B52C-6EB0-4438-81C7-B3B231940067</string>
+						<key>When</key>
+						<string>In Mash/Steeped</string>
+					</dict>
+					<dict>
+						<key>Amount</key>
+						<string>680.385010</string>
+						<key>Color</key>
+						<string>3.700000</string>
+						<key>ColorForAdditionInEBC</key>
+						<string>1.438716</string>
+						<key>ColorForAdditionInSRM</key>
+						<string>0.730313</string>
+						<key>DateLastModified</key>
+						<date>2009-08-09T18:00:38Z</date>
+						<key>Extract</key>
+						<string>76.000000</string>
+						<key>Form</key>
+						<string>Loose Whole Hops</string>
+						<key>GravityPointsForAddition</key>
+						<string>6.285294</string>
+						<key>Ingredient</key>
+						<string>US Rye Malt</string>
+						<key>IsGrain</key>
+						<string>1.000000</string>
+						<key>MCUForAddition</key>
+						<string>0.825893</string>
+						<key>MCUPercentage</key>
+						<string>15.611815</string>
+						<key>Minutes</key>
+						<string>0.000000</string>
+						<key>Moisture</key>
+						<string>4.000000</string>
+						<key>MustBeMashed</key>
+						<string>1.000000</string>
+						<key>Percentage</key>
+						<string>14.285713</string>
+						<key>UUID</key>
+						<string>DDA28BAC-18A8-11DA-80C0-001124CAE2A6</string>
+						<key>When</key>
+						<string>In Mash/Steeped</string>
+					</dict>
+				</array>
+				<key>FermentationTemperature</key>
+				<string>18.0</string>
+				<key>FinalBatchVolume</key>
+				<string>20819.755859</string>
+				<key>FinalWortVolume</key>
+				<string>25437.955078</string>
+				<key>GravityForIBUCalcs</key>
+				<string>1.038208</string>
+				<key>HopIngredients</key>
+				<array>
+					<dict>
+						<key>Alpha</key>
+						<string>10.400000</string>
+						<key>Amount</key>
+						<string>28.350000</string>
+						<key>Batches</key>
+						<array>
+							<dict>
+								<key>Alpha</key>
+								<string>10.400000</string>
+								<key>Amount</key>
+								<string>28.350000</string>
+								<key>AmountInStock</key>
+								<string>28.350000</string>
+								<key>BatchName</key>
+								<string>New Batch</string>
+								<key>DeliveredOn</key>
+								<date>2017-08-25T21:41:11Z</date>
+								<key>ExpiresOn</key>
+								<date>2018-08-25T21:41:11Z</date>
+								<key>Form</key>
+								<string>Pellets</string>
+								<key>IngredientType</key>
+								<string>Hop</string>
+								<key>UUID</key>
+								<string>88883375-53DC-4245-991E-2DA552BC516D</string>
+							</dict>
+							<dict>
+								<key>Alpha</key>
+								<string>10.800000</string>
+								<key>Amount</key>
+								<string>0.000000</string>
+								<key>AmountInStock</key>
+								<string>340.200012</string>
+								<key>BatchName</key>
+								<string>FH</string>
+								<key>DeliveredOn</key>
+								<date>2017-02-10T18:00:00Z</date>
+								<key>ExpiresOn</key>
+								<date>2018-02-10T18:00:00Z</date>
+								<key>Form</key>
+								<string>Whole</string>
+								<key>IngredientType</key>
+								<string>Hop</string>
+								<key>UUID</key>
+								<string>4560514B-F9A0-472E-A1D7-3F0F521171F5</string>
+							</dict>
+						</array>
+						<key>DateLastModified</key>
+						<date>2009-08-09T18:00:38Z</date>
+						<key>Form</key>
+						<string>Loose Pellet Hops</string>
+						<key>IBUForAddition</key>
+						<string>11.854847</string>
+						<key>Minutes</key>
+						<string>10</string>
+						<key>Percentage</key>
+						<string>0.000000</string>
+						<key>UUID</key>
+						<string>E0507B0E-1BD2-11DA-9896-001124CAE2A6</string>
+						<key>Variety</key>
+						<string>US Centennial</string>
+						<key>When</key>
+						<string>10 Min From End</string>
+					</dict>
+					<dict>
+						<key>Alpha</key>
+						<string>9.600000</string>
+						<key>Amount</key>
+						<string>56.700001</string>
+						<key>Batches</key>
+						<array>
+							<dict>
+								<key>Alpha</key>
+								<string>9.600000</string>
+								<key>Amount</key>
+								<string>56.700001</string>
+								<key>AmountInStock</key>
+								<string>56.700001</string>
+								<key>BatchName</key>
+								<string>New Batch</string>
+								<key>DeliveredOn</key>
+								<date>2017-08-03T20:01:55Z</date>
+								<key>ExpiresOn</key>
+								<date>2018-08-03T17:00:00Z</date>
+								<key>Form</key>
+								<string>Pellets</string>
+								<key>IngredientType</key>
+								<string>Hop</string>
+								<key>UUID</key>
+								<string>8AF18ECC-8A75-4148-93FE-98C16E1A9558</string>
+							</dict>
+						</array>
+						<key>DateLastModified</key>
+						<date>2017-08-03T20:00:57Z</date>
+						<key>Form</key>
+						<string>Loose Pellet Hops</string>
+						<key>IBUForAddition</key>
+						<string>0.000000</string>
+						<key>Minutes</key>
+						<string>0</string>
+						<key>Percentage</key>
+						<string>0.000000</string>
+						<key>UUID</key>
+						<string>42F88AC0-0824-426D-BF97-A857E05B1A8D</string>
+						<key>Variety</key>
+						<string>Rakau</string>
+						<key>When</key>
+						<string>At turn off</string>
+					</dict>
+				</array>
+				<key>MashEfficiency</key>
+				<string>80.000000</string>
+				<key>MashSchedule</key>
+				<dict>
+					<key>DateLastModified</key>
+					<date>2009-08-21T14:01:32Z</date>
+					<key>ScheduleName</key>
+					<string>Single Step Infusion (67C/152F)</string>
+					<key>Steps</key>
+					<array>
+						<dict>
+							<key>Duration</key>
+							<string>60.000000</string>
+							<key>StepType</key>
+							<string>Rest at</string>
+							<key>Temperature</key>
+							<string>66.666664</string>
+						</dict>
+					</array>
+					<key>UUID</key>
+					<string>107B5B7D-7D9C-4B21-B3E1-8E31AD1333B3</string>
+					<key>Version</key>
+					<string>3</string>
+				</dict>
+				<key>MashType</key>
+				<string>Full Mash</string>
+				<key>MashpH</key>
+				<string>5.2</string>
+				<key>MgSO4</key>
+				<string>0.0</string>
+				<key>NaCl</key>
+				<string>0.0</string>
+				<key>NaHCO3</key>
+				<string>0.0</string>
+				<key>Notes</key>
+				<string>https://www.homebrewersassociation.org/homebrew-recipe/summer-rye/
+
+Original Gravity: 1.049
+Final Gravity: 1.006
+ABV: 5.7%
+IBU: 25 (?)
+SRM: 4
+Efficiency: 75%
+
+Summer Rye fits into the Alternative Grain Beer category in the 2015 BJCP Style Guidelines. It is described as fruity, spicy and grainy, with a full body and clean fermentation profile. There’s a fruity nose, with a big fruity-spicy and grainy flavor on the palate. The hops an esters create an intriguing combination, with everything wrapping up in a dry finish
+
+An unusual hopping technique is utilized, with the New Zealand hop additions taking place entirely after the boil while still creating the perception of a 25 IBU beer. The brewer also has the option of using different yeast strains to achieve an even fruitier yeast profile.
+
+Water Treatment
+Reverse Osmosis water treated with 1/4 tsp 10% phosphoric acid per 5 gallons. 1 tsp CaCl2 in mash.
+
+Mash
+15 minutes at 131°F (55°C). 60 minutes at 151°F (66°C).
+
+Boil Length
+90 minutes. Add the hop addition at flameout.
+
+Fermentation
+66°F (19°C)
+
+Variations
+You might prefer to use fruitier yeast, like Wyeast 1272 or Wyeast 1335. Substitute any other hops, but try to use the same quantity as this recipe. You don't have to go the spicy route; you can try fruity or citrusy. I'd avoid hops with abundant resin smell and taste, as that character clashes with the graininess of the rye.</string>
+				<key>OtherIngredients</key>
+				<array/>
+				<key>PreBoilWortVolume</key>
+				<string>30283.279297</string>
+				<key>Profile</key>
+				<dict>
+					<key>BoilDuration</key>
+					<string>60.000000</string>
+					<key>DateLastModified</key>
+					<date>2015-09-02T20:25:31Z</date>
+					<key>ExtractEfficiency</key>
+					<string>80.000000</string>
+					<key>FinishedBatchVolume</key>
+					<string>20819.755859</string>
+					<key>MTThermalMass</key>
+					<string>680.400024</string>
+					<key>PostBoilVolume</key>
+					<string>25437.955078</string>
+					<key>PreBoilVolume</key>
+					<string>30283.279297</string>
+					<key>PreferredMashSchedule</key>
+					<string>107B5B7D-7D9C-4B21-B3E1-8E31AD1333B3</string>
+					<key>PreferredRecipeType</key>
+					<string>Full Mash</string>
+					<key>PreferredSpargeMethod</key>
+					<string>Batch Sparge</string>
+					<key>ProfileName</key>
+					<string>8 Gal - 80%</string>
+					<key>UUID</key>
+					<string>618E631F-BA4D-4D52-93E5-E6384318E94E</string>
+					<key>Version</key>
+					<string>2</string>
+					<key>VolumeAtPitching</key>
+					<string>22712.460938</string>
+					<key>VolumeToFermenter</key>
+					<string>22712.460938</string>
+					<key>VolumeWaterAdded</key>
+					<string>0.000000</string>
+					<key>WaterGrainRatio</key>
+					<string>3.338177</string>
+				</dict>
+				<key>RecipeTitle</key>
+				<string>Summer Rye</string>
+				<key>Style</key>
+				<string>American Ale-American Pale Ale</string>
+				<key>UUID</key>
+				<string>0D5651B0-BFCB-4662-AB97-7BED7999492F</string>
+				<key>VolumeAtPitching</key>
+				<string>22712.460938</string>
+				<key>VolumeToFermenter</key>
+				<string>22712.460938</string>
+				<key>VolumeWaterAdded</key>
+				<string>0.000000</string>
+				<key>WaterProfileUsed</key>
+				<string> No Water Profile Chosen</string>
+				<key>Yeast</key>
+				<string>Wyeast 1272-American Ale II</string>
+				<key>YeastAmount</key>
+				<string>1</string>
+			</dict>
+			<key>OriginalRecipe</key>
+			<dict>
+				<key>Acid</key>
+				<string>Unadjusted</string>
+				<key>ApparentAttenuation</key>
+				<string>74.937393</string>
+				<key>Attenuation</key>
+				<string>75.000000</string>
+				<key>BoilDuration</key>
+				<string>60.000000</string>
+				<key>CaCO3</key>
+				<string>0.0</string>
+				<key>CaCl2</key>
+				<string>0.0</string>
+				<key>CaSO4</key>
+				<string>0.0</string>
+				<key>Carbonation</key>
+				<string>Nothing</string>
+				<key>CarbonationVolumes</key>
+				<string>0.0</string>
+				<key>Conditioning</key>
+				<string>Lagered for 4 weeks</string>
+				<key>DateLastModified</key>
+				<date>2017-03-12T15:23:18Z</date>
+				<key>ExpectedABV</key>
+				<string>4.966003</string>
+				<key>ExpectedABW</key>
+				<string>3.896109</string>
+				<key>ExpectedColor</key>
+				<string>3.649116</string>
+				<key>ExpectedFinalGravity</key>
+				<string>1.012037</string>
+				<key>ExpectedIBU</key>
+				<string>0.000000</string>
+				<key>ExpectedOriginalGravity</key>
+				<string>1.049566</string>
+				<key>ExpectedPreBoilGravity</key>
+				<string>1.041635</string>
+				<key>FermentableIngredients</key>
+				<array>
+					<dict>
+						<key>Amount</key>
+						<string>1814.359985</string>
+						<key>Color</key>
+						<string>1.800000</string>
+						<key>ColorForAdditionInEBC</key>
+						<string>2.091276</string>
+						<key>ColorForAdditionInSRM</key>
+						<string>1.061561</string>
+						<key>DateLastModified</key>
+						<date>2009-08-09T18:00:38Z</date>
+						<key>Extract</key>
+						<string>80.000000</string>
+						<key>Form</key>
+						<string>Loose Whole Hops</string>
+						<key>GravityPointsForAddition</key>
+						<string>17.642931</string>
+						<key>Ingredient</key>
+						<string>US 2-Row Malt</string>
+						<key>IsGrain</key>
+						<string>1.000000</string>
+						<key>MCUForAddition</key>
+						<string>1.071429</string>
+						<key>MCUPercentage</key>
+						<string>29.090919</string>
+						<key>Minutes</key>
+						<string>0.000000</string>
+						<key>Moisture</key>
+						<string>4.000000</string>
+						<key>MustBeMashed</key>
+						<string>1.000000</string>
+						<key>Percentage</key>
+						<string>34.782608</string>
+						<key>UUID</key>
+						<string>F621AEFD-DEDE-4FA8-9CD3-DBBC939F43F8</string>
+						<key>When</key>
+						<string>In Mash/Steeped</string>
+					</dict>
+					<dict>
+						<key>Amount</key>
+						<string>1360.770020</string>
+						<key>Color</key>
+						<string>2.000000</string>
+						<key>ColorForAdditionInEBC</key>
+						<string>1.742729</string>
+						<key>ColorForAdditionInSRM</key>
+						<string>0.884634</string>
+						<key>DateLastModified</key>
+						<date>2014-12-31T01:33:04Z</date>
+						<key>Extract</key>
+						<string>80.000000</string>
+						<key>Form</key>
+						<string>Loose Whole Hops</string>
+						<key>GravityPointsForAddition</key>
+						<string>13.232199</string>
+						<key>Ingredient</key>
+						<string>Golden Promise</string>
+						<key>IsGrain</key>
+						<string>1</string>
+						<key>MCUForAddition</key>
+						<string>0.892857</string>
+						<key>MCUPercentage</key>
+						<string>24.242420</string>
+						<key>Minutes</key>
+						<string>0.000000</string>
+						<key>Moisture</key>
+						<string>3.400000</string>
+						<key>MustBeMashed</key>
+						<string>1</string>
+						<key>Percentage</key>
+						<string>26.086956</string>
+						<key>UUID</key>
+						<string>FC6E556C-F0E8-4E8D-BED4-CC1801A7A02F</string>
+						<key>When</key>
+						<string>In Mash/Steeped</string>
+					</dict>
+					<dict>
+						<key>Amount</key>
+						<string>1360.770020</string>
+						<key>Color</key>
+						<string>2.000000</string>
+						<key>ColorForAdditionInEBC</key>
+						<string>1.742729</string>
+						<key>ColorForAdditionInSRM</key>
+						<string>0.884634</string>
+						<key>DateLastModified</key>
+						<date>2012-01-21T01:54:04Z</date>
+						<key>Extract</key>
+						<string>75.000000</string>
+						<key>Form</key>
+						<string>Loose Whole Hops</string>
+						<key>GravityPointsForAddition</key>
+						<string>12.405187</string>
+						<key>Ingredient</key>
+						<string>US Wheat Malt</string>
+						<key>IsGrain</key>
+						<string>1</string>
+						<key>MCUForAddition</key>
+						<string>0.892857</string>
+						<key>MCUPercentage</key>
+						<string>24.242420</string>
+						<key>Minutes</key>
+						<string>0.000000</string>
+						<key>Moisture</key>
+						<string>4.000000</string>
+						<key>MustBeMashed</key>
+						<string>1</string>
+						<key>Percentage</key>
+						<string>26.086956</string>
+						<key>UUID</key>
+						<string>DEE6B52C-6EB0-4438-81C7-B3B231940067</string>
+						<key>When</key>
+						<string>In Mash/Steeped</string>
+					</dict>
+					<dict>
+						<key>Amount</key>
+						<string>680.385010</string>
+						<key>Color</key>
+						<string>3.700000</string>
+						<key>ColorForAdditionInEBC</key>
+						<string>1.612025</string>
+						<key>ColorForAdditionInSRM</key>
+						<string>0.818287</string>
+						<key>DateLastModified</key>
+						<date>2009-08-09T18:00:38Z</date>
+						<key>Extract</key>
+						<string>76.000000</string>
+						<key>Form</key>
+						<string>Loose Whole Hops</string>
+						<key>GravityPointsForAddition</key>
+						<string>6.285294</string>
+						<key>Ingredient</key>
+						<string>US Rye Malt</string>
+						<key>IsGrain</key>
+						<string>1.000000</string>
+						<key>MCUForAddition</key>
+						<string>0.825893</string>
+						<key>MCUPercentage</key>
+						<string>22.424244</string>
+						<key>Minutes</key>
+						<string>0.000000</string>
+						<key>Moisture</key>
+						<string>4.000000</string>
+						<key>MustBeMashed</key>
+						<string>1.000000</string>
+						<key>Percentage</key>
+						<string>13.043478</string>
+						<key>UUID</key>
+						<string>DDA28BAC-18A8-11DA-80C0-001124CAE2A6</string>
+						<key>When</key>
+						<string>In Mash/Steeped</string>
+					</dict>
+				</array>
+				<key>FermentationTemperature</key>
+				<string>18.0</string>
+				<key>FinalBatchVolume</key>
+				<string>20819.755859</string>
+				<key>FinalWortVolume</key>
+				<string>25437.955078</string>
+				<key>GravityForIBUCalcs</key>
+				<string>1.041635</string>
+				<key>HopIngredients</key>
+				<array>
+					<dict>
+						<key>Alpha</key>
+						<string>6.500000</string>
+						<key>Amount</key>
+						<string>56.700001</string>
+						<key>DateLastModified</key>
+						<date>2017-02-10T20:08:17Z</date>
+						<key>Form</key>
+						<string>Loose Pellet Hops</string>
+						<key>IBUForAddition</key>
+						<string>0.000000</string>
+						<key>Minutes</key>
+						<string>0</string>
+						<key>Percentage</key>
+						<string>0.000000</string>
+						<key>UUID</key>
+						<string>3FC4088C-03A4-4C60-A3B9-37EB7B44BA8A</string>
+						<key>Variety</key>
+						<string>NZ Motueka</string>
+						<key>When</key>
+						<string>At turn off</string>
+					</dict>
+				</array>
+				<key>MashEfficiency</key>
+				<string>80.000000</string>
+				<key>MashSchedule</key>
+				<dict>
+					<key>DateLastModified</key>
+					<date>2009-08-21T14:01:32Z</date>
+					<key>ScheduleName</key>
+					<string>Single Step Infusion (67C/152F)</string>
+					<key>Steps</key>
+					<array>
+						<dict>
+							<key>Duration</key>
+							<string>60.000000</string>
+							<key>StepType</key>
+							<string>Rest at</string>
+							<key>Temperature</key>
+							<string>66.666664</string>
+						</dict>
+					</array>
+					<key>UUID</key>
+					<string>107B5B7D-7D9C-4B21-B3E1-8E31AD1333B3</string>
+					<key>Version</key>
+					<string>3</string>
+				</dict>
+				<key>MashType</key>
+				<string>Full Mash</string>
+				<key>MashpH</key>
+				<string>5.2</string>
+				<key>MgSO4</key>
+				<string>0.0</string>
+				<key>NaCl</key>
+				<string>0.0</string>
+				<key>NaHCO3</key>
+				<string>0.0</string>
+				<key>Notes</key>
+				<string>https://www.homebrewersassociation.org/homebrew-recipe/summer-rye/
+
+Original Gravity: 1.049
+Final Gravity: 1.006
+ABV: 5.7%
+IBU: 25 (?)
+SRM: 4
+Efficiency: 75%
+
+Summer Rye fits into the Alternative Grain Beer category in the 2015 BJCP Style Guidelines. It is described as fruity, spicy and grainy, with a full body and clean fermentation profile. There’s a fruity nose, with a big fruity-spicy and grainy flavor on the palate. The hops an esters create an intriguing combination, with everything wrapping up in a dry finish
+
+An unusual hopping technique is utilized, with the New Zealand hop additions taking place entirely after the boil while still creating the perception of a 25 IBU beer. The brewer also has the option of using different yeast strains to achieve an even fruitier yeast profile.
+
+Water Treatment
+Reverse Osmosis water treated with 1/4 tsp 10% phosphoric acid per 5 gallons. 1 tsp CaCl2 in mash.
+
+Mash
+15 minutes at 131°F (55°C). 60 minutes at 151°F (66°C).
+
+Boil Length
+90 minutes. Add the hop addition at flameout.
+
+Fermentation
+66°F (19°C)
+
+Variations
+You might prefer to use fruitier yeast, like Wyeast 1272 or Wyeast 1335. Substitute any other hops, but try to use the same quantity as this recipe. You don't have to go the spicy route; you can try fruity or citrusy. I'd avoid hops with abundant resin smell and taste, as that character clashes with the graininess of the rye.</string>
+				<key>OtherIngredients</key>
+				<array/>
+				<key>PreBoilWortVolume</key>
+				<string>30283.279297</string>
+				<key>Profile</key>
+				<dict>
+					<key>BoilDuration</key>
+					<string>60.000000</string>
+					<key>DateLastModified</key>
+					<date>2015-09-02T20:25:31Z</date>
+					<key>ExtractEfficiency</key>
+					<string>80.000000</string>
+					<key>FinishedBatchVolume</key>
+					<string>20819.755859</string>
+					<key>MTThermalMass</key>
+					<string>680.400024</string>
+					<key>PostBoilVolume</key>
+					<string>25437.955078</string>
+					<key>PreBoilVolume</key>
+					<string>30283.279297</string>
+					<key>PreferredMashSchedule</key>
+					<string>107B5B7D-7D9C-4B21-B3E1-8E31AD1333B3</string>
+					<key>PreferredRecipeType</key>
+					<string>Full Mash</string>
+					<key>PreferredSpargeMethod</key>
+					<string>Fly Sparge</string>
+					<key>ProfileName</key>
+					<string>8 Gal - 80%</string>
+					<key>UUID</key>
+					<string>618E631F-BA4D-4D52-93E5-E6384318E94E</string>
+					<key>Version</key>
+					<string>2</string>
+					<key>VolumeAtPitching</key>
+					<string>22712.460938</string>
+					<key>VolumeToFermenter</key>
+					<string>22712.460938</string>
+					<key>VolumeWaterAdded</key>
+					<string>0.000000</string>
+					<key>WaterGrainRatio</key>
+					<string>3.338177</string>
+				</dict>
+				<key>RecipeTitle</key>
+				<string>Summer Rye</string>
+				<key>Style</key>
+				<string>American Ale-American Pale Ale</string>
+				<key>UUID</key>
+				<string>0D5651B0-BFCB-4662-AB97-7BED7999492F</string>
+				<key>VolumeAtPitching</key>
+				<string>22712.460938</string>
+				<key>VolumeToFermenter</key>
+				<string>22712.460938</string>
+				<key>VolumeWaterAdded</key>
+				<string>0.000000</string>
+				<key>WaterProfileUsed</key>
+				<string> No Water Profile Chosen</string>
+				<key>Yeast</key>
+				<string>Wyeast 1056-American Ale</string>
+				<key>YeastAmount</key>
+				<string>1</string>
+			</dict>
+			<key>PackagingNotes</key>
+			<string></string>
+			<key>RoomTemperature</key>
+			<string>15.0</string>
+			<key>SpargeMethod</key>
+			<string>Batch Sparge</string>
+			<key>TastingNotes</key>
+			<string></string>
+			<key>UUID</key>
+			<string>F150DA35-602D-44FE-81C5-5D5B820D0E30</string>
+			<key>WaterGrainRatio</key>
+			<string>3.338177</string>
+		</dict>
+	</array>
+	<key>BoilDuration</key>
+	<string>60.000000</string>
+	<key>CaCO3</key>
+	<string>0.0</string>
+	<key>CaCl2</key>
+	<string>0.0</string>
+	<key>CaSO4</key>
+	<string>0.0</string>
+	<key>Carbonation</key>
+	<string>Nothing</string>
+	<key>CarbonationVolumes</key>
+	<string>0.0</string>
+	<key>Conditioning</key>
+	<string>Lagered for 4 weeks</string>
+	<key>DateLastModified</key>
+	<date>2017-03-12T15:23:18Z</date>
+	<key>ExpectedABV</key>
+	<string>4.966003</string>
+	<key>ExpectedABW</key>
+	<string>3.896109</string>
+	<key>ExpectedColor</key>
+	<string>3.649116</string>
+	<key>ExpectedFinalGravity</key>
+	<string>1.012037</string>
+	<key>ExpectedIBU</key>
+	<string>0.000000</string>
+	<key>ExpectedOriginalGravity</key>
+	<string>1.049566</string>
+	<key>ExpectedPreBoilGravity</key>
+	<string>1.041635</string>
+	<key>FermentableIngredients</key>
+	<array>
+		<dict>
+			<key>Amount</key>
+			<string>1814.359985</string>
+			<key>Color</key>
+			<string>1.800000</string>
+			<key>ColorForAdditionInEBC</key>
+			<string>2.091276</string>
+			<key>ColorForAdditionInSRM</key>
+			<string>1.061561</string>
+			<key>DateLastModified</key>
+			<date>2009-08-09T18:00:38Z</date>
+			<key>Extract</key>
+			<string>80.000000</string>
+			<key>Form</key>
+			<string>Loose Whole Hops</string>
+			<key>GravityPointsForAddition</key>
+			<string>17.642931</string>
+			<key>Ingredient</key>
+			<string>US 2-Row Malt</string>
+			<key>IsGrain</key>
+			<string>1.000000</string>
+			<key>MCUForAddition</key>
+			<string>1.071429</string>
+			<key>MCUPercentage</key>
+			<string>29.090919</string>
+			<key>Minutes</key>
+			<string>0.000000</string>
+			<key>Moisture</key>
+			<string>4.000000</string>
+			<key>MustBeMashed</key>
+			<string>1.000000</string>
+			<key>Percentage</key>
+			<string>34.782608</string>
+			<key>UUID</key>
+			<string>F621AEFD-DEDE-4FA8-9CD3-DBBC939F43F8</string>
+			<key>When</key>
+			<string>In Mash/Steeped</string>
+		</dict>
+		<dict>
+			<key>Amount</key>
+			<string>1360.770020</string>
+			<key>Color</key>
+			<string>2.000000</string>
+			<key>ColorForAdditionInEBC</key>
+			<string>1.742729</string>
+			<key>ColorForAdditionInSRM</key>
+			<string>0.884634</string>
+			<key>DateLastModified</key>
+			<date>2014-12-31T01:33:04Z</date>
+			<key>Extract</key>
+			<string>80.000000</string>
+			<key>Form</key>
+			<string>Loose Whole Hops</string>
+			<key>GravityPointsForAddition</key>
+			<string>13.232199</string>
+			<key>Ingredient</key>
+			<string>Golden Promise</string>
+			<key>IsGrain</key>
+			<string>1</string>
+			<key>MCUForAddition</key>
+			<string>0.892857</string>
+			<key>MCUPercentage</key>
+			<string>24.242420</string>
+			<key>Minutes</key>
+			<string>0.000000</string>
+			<key>Moisture</key>
+			<string>3.400000</string>
+			<key>MustBeMashed</key>
+			<string>1</string>
+			<key>Percentage</key>
+			<string>26.086956</string>
+			<key>UUID</key>
+			<string>FC6E556C-F0E8-4E8D-BED4-CC1801A7A02F</string>
+			<key>When</key>
+			<string>In Mash/Steeped</string>
+		</dict>
+		<dict>
+			<key>Amount</key>
+			<string>1360.770020</string>
+			<key>Color</key>
+			<string>2.000000</string>
+			<key>ColorForAdditionInEBC</key>
+			<string>1.742729</string>
+			<key>ColorForAdditionInSRM</key>
+			<string>0.884634</string>
+			<key>DateLastModified</key>
+			<date>2012-01-21T01:54:04Z</date>
+			<key>Extract</key>
+			<string>75.000000</string>
+			<key>Form</key>
+			<string>Loose Whole Hops</string>
+			<key>GravityPointsForAddition</key>
+			<string>12.405187</string>
+			<key>Ingredient</key>
+			<string>US Wheat Malt</string>
+			<key>IsGrain</key>
+			<string>1</string>
+			<key>MCUForAddition</key>
+			<string>0.892857</string>
+			<key>MCUPercentage</key>
+			<string>24.242420</string>
+			<key>Minutes</key>
+			<string>0.000000</string>
+			<key>Moisture</key>
+			<string>4.000000</string>
+			<key>MustBeMashed</key>
+			<string>1</string>
+			<key>Percentage</key>
+			<string>26.086956</string>
+			<key>UUID</key>
+			<string>DEE6B52C-6EB0-4438-81C7-B3B231940067</string>
+			<key>When</key>
+			<string>In Mash/Steeped</string>
+		</dict>
+		<dict>
+			<key>Amount</key>
+			<string>680.385010</string>
+			<key>Color</key>
+			<string>3.700000</string>
+			<key>ColorForAdditionInEBC</key>
+			<string>1.612025</string>
+			<key>ColorForAdditionInSRM</key>
+			<string>0.818287</string>
+			<key>DateLastModified</key>
+			<date>2009-08-09T18:00:38Z</date>
+			<key>Extract</key>
+			<string>76.000000</string>
+			<key>Form</key>
+			<string>Loose Whole Hops</string>
+			<key>GravityPointsForAddition</key>
+			<string>6.285294</string>
+			<key>Ingredient</key>
+			<string>US Rye Malt</string>
+			<key>IsGrain</key>
+			<string>1.000000</string>
+			<key>MCUForAddition</key>
+			<string>0.825893</string>
+			<key>MCUPercentage</key>
+			<string>22.424244</string>
+			<key>Minutes</key>
+			<string>0.000000</string>
+			<key>Moisture</key>
+			<string>4.000000</string>
+			<key>MustBeMashed</key>
+			<string>1.000000</string>
+			<key>Percentage</key>
+			<string>13.043478</string>
+			<key>UUID</key>
+			<string>DDA28BAC-18A8-11DA-80C0-001124CAE2A6</string>
+			<key>When</key>
+			<string>In Mash/Steeped</string>
+		</dict>
+	</array>
+	<key>FermentationTemperature</key>
+	<string>18.0</string>
+	<key>FinalBatchVolume</key>
+	<string>20819.755859</string>
+	<key>FinalWortVolume</key>
+	<string>25437.955078</string>
+	<key>GravityForIBUCalcs</key>
+	<string>1.041635</string>
+	<key>HopIngredients</key>
+	<array>
+		<dict>
+			<key>Alpha</key>
+			<string>6.500000</string>
+			<key>Amount</key>
+			<string>56.700001</string>
+			<key>DateLastModified</key>
+			<date>2017-02-10T20:08:17Z</date>
+			<key>Form</key>
+			<string>Loose Pellet Hops</string>
+			<key>IBUForAddition</key>
+			<string>0.000000</string>
+			<key>Minutes</key>
+			<string>0</string>
+			<key>Percentage</key>
+			<string>0.000000</string>
+			<key>UUID</key>
+			<string>3FC4088C-03A4-4C60-A3B9-37EB7B44BA8A</string>
+			<key>Variety</key>
+			<string>NZ Motueka</string>
+			<key>When</key>
+			<string>At turn off</string>
+		</dict>
+	</array>
+	<key>MashEfficiency</key>
+	<string>80.000000</string>
+	<key>MashSchedule</key>
+	<dict>
+		<key>DateLastModified</key>
+		<date>2009-08-21T14:01:32Z</date>
+		<key>ScheduleName</key>
+		<string>Single Step Infusion (67C/152F)</string>
+		<key>Steps</key>
+		<array>
+			<dict>
+				<key>Duration</key>
+				<string>60.000000</string>
+				<key>StepType</key>
+				<string>Rest at</string>
+				<key>Temperature</key>
+				<string>66.666664</string>
+			</dict>
+		</array>
+		<key>UUID</key>
+		<string>107B5B7D-7D9C-4B21-B3E1-8E31AD1333B3</string>
+		<key>Version</key>
+		<string>3</string>
+	</dict>
+	<key>MashType</key>
+	<string>Full Mash</string>
+	<key>MashpH</key>
+	<string>5.2</string>
+	<key>MgSO4</key>
+	<string>0.0</string>
+	<key>NaCl</key>
+	<string>0.0</string>
+	<key>NaHCO3</key>
+	<string>0.0</string>
+	<key>Notes</key>
+	<string>https://www.homebrewersassociation.org/homebrew-recipe/summer-rye/
+
+Original Gravity: 1.049
+Final Gravity: 1.006
+ABV: 5.7%
+IBU: 25 (?)
+SRM: 4
+Efficiency: 75%
+
+Summer Rye fits into the Alternative Grain Beer category in the 2015 BJCP Style Guidelines. It is described as fruity, spicy and grainy, with a full body and clean fermentation profile. There’s a fruity nose, with a big fruity-spicy and grainy flavor on the palate. The hops an esters create an intriguing combination, with everything wrapping up in a dry finish
+
+An unusual hopping technique is utilized, with the New Zealand hop additions taking place entirely after the boil while still creating the perception of a 25 IBU beer. The brewer also has the option of using different yeast strains to achieve an even fruitier yeast profile.
+
+Water Treatment
+Reverse Osmosis water treated with 1/4 tsp 10% phosphoric acid per 5 gallons. 1 tsp CaCl2 in mash.
+
+Mash
+15 minutes at 131°F (55°C). 60 minutes at 151°F (66°C).
+
+Boil Length
+90 minutes. Add the hop addition at flameout.
+
+Fermentation
+66°F (19°C)
+
+Variations
+You might prefer to use fruitier yeast, like Wyeast 1272 or Wyeast 1335. Substitute any other hops, but try to use the same quantity as this recipe. You don't have to go the spicy route; you can try fruity or citrusy. I'd avoid hops with abundant resin smell and taste, as that character clashes with the graininess of the rye.</string>
+	<key>OtherIngredients</key>
+	<array/>
+	<key>PreBoilWortVolume</key>
+	<string>30283.279297</string>
+	<key>Profile</key>
+	<dict>
+		<key>BoilDuration</key>
+		<string>60.000000</string>
+		<key>DateLastModified</key>
+		<date>2015-09-02T20:25:31Z</date>
+		<key>ExtractEfficiency</key>
+		<string>80.000000</string>
+		<key>FinishedBatchVolume</key>
+		<string>20819.755859</string>
+		<key>MTThermalMass</key>
+		<string>680.400024</string>
+		<key>PostBoilVolume</key>
+		<string>25437.955078</string>
+		<key>PreBoilVolume</key>
+		<string>30283.279297</string>
+		<key>PreferredMashSchedule</key>
+		<string>107B5B7D-7D9C-4B21-B3E1-8E31AD1333B3</string>
+		<key>PreferredRecipeType</key>
+		<string>Full Mash</string>
+		<key>PreferredSpargeMethod</key>
+		<string>Fly Sparge</string>
+		<key>ProfileName</key>
+		<string>8 Gal - 80%</string>
+		<key>UUID</key>
+		<string>618E631F-BA4D-4D52-93E5-E6384318E94E</string>
+		<key>Version</key>
+		<string>2</string>
+		<key>VolumeAtPitching</key>
+		<string>22712.460938</string>
+		<key>VolumeToFermenter</key>
+		<string>22712.460938</string>
+		<key>VolumeWaterAdded</key>
+		<string>0.000000</string>
+		<key>WaterGrainRatio</key>
+		<string>3.338177</string>
+	</dict>
+	<key>RecipeTitle</key>
+	<string>Summer Rye</string>
+	<key>Style</key>
+	<string>American Ale-American Pale Ale</string>
+	<key>UUID</key>
+	<string>0D5651B0-BFCB-4662-AB97-7BED7999492F</string>
+	<key>VolumeAtPitching</key>
+	<string>22712.460938</string>
+	<key>VolumeToFermenter</key>
+	<string>22712.460938</string>
+	<key>VolumeWaterAdded</key>
+	<string>0.000000</string>
+	<key>WaterProfileUsed</key>
+	<string> No Water Profile Chosen</string>
+	<key>Yeast</key>
+	<string>Wyeast 1056-American Ale</string>
+	<key>YeastAmount</key>
+	<string>1</string>
+</dict>
+</plist>

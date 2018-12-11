@@ -22,7 +22,7 @@
 				<key>ApparentAttenuation</key>
 				<string>71.342049</string>
 				<key>Color</key>
-				<string>24.949638</string>
+				<string>26.825089</string>
 				<key>FG</key>
 				<string>1.016581</string>
 				<key>FGHydroReading</key>
@@ -116,7 +116,7 @@ mash ph water: 6.4 / 6</string>
 				<key>ExpectedABW</key>
 				<string>4.061728</string>
 				<key>ExpectedColor</key>
-				<string>24.949638</string>
+				<string>26.825089</string>
 				<key>ExpectedFinalGravity</key>
 				<string>1.015299</string>
 				<key>ExpectedIBU</key>
@@ -156,9 +156,9 @@ mash ph water: 6.4 / 6</string>
 						<key>Color</key>
 						<string>2.500000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>2.979874</string>
+						<string>3.203869</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>1.512626</string>
+						<string>1.626330</string>
 						<key>DateLastModified</key>
 						<date>2010-04-21T13:42:38Z</date>
 						<key>Extract</key>
@@ -194,9 +194,9 @@ mash ph water: 6.4 / 6</string>
 						<key>Color</key>
 						<string>56.700001</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>7.987145</string>
+						<string>8.587535</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>4.054389</string>
+						<string>4.359155</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -255,9 +255,9 @@ mash ph water: 6.4 / 6</string>
 						<key>Color</key>
 						<string>40.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>4.334362</string>
+						<string>4.660173</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>2.200184</string>
+						<string>2.365570</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -316,9 +316,9 @@ mash ph water: 6.4 / 6</string>
 						<key>Color</key>
 						<string>420.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>33.849403</string>
+						<string>36.393845</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>17.182438</string>
+						<string>18.474033</string>
 						<key>DateLastModified</key>
 						<date>2010-10-06T18:29:56Z</date>
 						<key>Description</key>
@@ -961,7 +961,7 @@ Wyeast 1028 or Nottingham</string>
 	<key>ExpectedABW</key>
 	<string>3.952176</string>
 	<key>ExpectedColor</key>
-	<string>20.010485</string>
+	<string>22.143867</string>
 	<key>ExpectedFinalGravity</key>
 	<string>1.014911</string>
 	<key>ExpectedIBU</key>
@@ -978,9 +978,9 @@ Wyeast 1028 or Nottingham</string>
 			<key>Color</key>
 			<string>2.500000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>3.160964</string>
+			<string>3.497965</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>1.604550</string>
+			<string>1.775617</string>
 			<key>DateLastModified</key>
 			<date>2010-04-21T13:42:38Z</date>
 			<key>Extract</key>
@@ -1016,9 +1016,9 @@ Wyeast 1028 or Nottingham</string>
 			<key>Color</key>
 			<string>56.700001</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>6.517334</string>
+			<string>7.212168</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>3.308291</string>
+			<string>3.660999</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>
@@ -1054,9 +1054,9 @@ Wyeast 1028 or Nottingham</string>
 			<key>Color</key>
 			<string>40.000000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>4.597766</string>
+			<string>5.087950</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>2.333892</string>
+			<string>2.582715</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>
@@ -1092,9 +1092,9 @@ Wyeast 1028 or Nottingham</string>
 			<key>Color</key>
 			<string>350.000000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>25.144590</string>
+			<string>27.825338</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>12.763752</string>
+			<string>14.124537</string>
 			<key>DateLastModified</key>
 			<date>2010-03-13T16:30:25Z</date>
 			<key>Extract</key>

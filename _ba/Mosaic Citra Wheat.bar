@@ -22,7 +22,7 @@
 				<key>ApparentAttenuation</key>
 				<string>73.753830</string>
 				<key>Color</key>
-				<string>6.396456</string>
+				<string>4.896806</string>
 				<key>FG</key>
 				<string>1.011886</string>
 				<key>FGHydroReading</key>
@@ -117,7 +117,7 @@ Bru'n water est ph: 5.3; actual -- 5.3ish</string>
 				<key>ExpectedABW</key>
 				<string>4.033094</string>
 				<key>ExpectedColor</key>
-				<string>6.396456</string>
+				<string>4.896806</string>
 				<key>ExpectedFinalGravity</key>
 				<string>1.013097</string>
 				<key>ExpectedIBU</key>
@@ -157,9 +157,9 @@ Bru'n water est ph: 5.3; actual -- 5.3ish</string>
 						<key>Color</key>
 						<string>4.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>9.285016</string>
+						<string>7.108142</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>4.713206</string>
+						<string>3.608194</string>
 						<key>DateLastModified</key>
 						<date>2009-09-01T14:06:38Z</date>
 						<key>Extract</key>
@@ -195,9 +195,9 @@ Bru'n water est ph: 5.3; actual -- 5.3ish</string>
 						<key>Color</key>
 						<string>2.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>3.316003</string>
+						<string>2.538566</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>1.683250</string>
+						<string>1.288612</string>
 						<key>DateLastModified</key>
 						<date>2012-01-21T01:54:04Z</date>
 						<key>Extract</key>
@@ -1145,7 +1145,7 @@ Bru'n water est ph: 5.3; actual -- 5.3ish</string>
 	<key>ExpectedABW</key>
 	<string>4.033094</string>
 	<key>ExpectedColor</key>
-	<string>6.396456</string>
+	<string>4.896806</string>
 	<key>ExpectedFinalGravity</key>
 	<string>1.013097</string>
 	<key>ExpectedIBU</key>
@@ -1162,9 +1162,9 @@ Bru'n water est ph: 5.3; actual -- 5.3ish</string>
 			<key>Color</key>
 			<string>4.000000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>9.285016</string>
+			<string>7.108142</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>4.713206</string>
+			<string>3.608194</string>
 			<key>DateLastModified</key>
 			<date>2009-09-01T14:06:38Z</date>
 			<key>Extract</key>
@@ -1200,9 +1200,9 @@ Bru'n water est ph: 5.3; actual -- 5.3ish</string>
 			<key>Color</key>
 			<string>2.000000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>3.316003</string>
+			<string>2.538566</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>1.683250</string>
+			<string>1.288612</string>
 			<key>DateLastModified</key>
 			<date>2012-01-21T01:54:04Z</date>
 			<key>Extract</key>

@@ -31,7 +31,7 @@
 	<key>ExpectedABW</key>
 	<string>5.583690</string>
 	<key>ExpectedColor</key>
-	<string>8.471141</string>
+	<string>8.469783</string>
 	<key>ExpectedFinalGravity</key>
 	<string>1.016824</string>
 	<key>ExpectedIBU</key>
@@ -48,9 +48,9 @@
 			<key>Color</key>
 			<string>1.800000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>4.716462</string>
+			<string>4.715706</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>2.394143</string>
+			<string>2.393759</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>
@@ -86,9 +86,9 @@
 			<key>Color</key>
 			<string>1.300000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>0.377538</string>
+			<string>0.377477</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>0.191643</string>
+			<string>0.191613</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>
@@ -124,9 +124,9 @@
 			<key>Color</key>
 			<string>40.000000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>11.594148</string>
+			<string>11.592290</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>5.885355</string>
+			<string>5.884411</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>

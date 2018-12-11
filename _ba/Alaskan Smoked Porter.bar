@@ -22,7 +22,7 @@
 				<key>ApparentAttenuation</key>
 				<string>63.736961</string>
 				<key>Color</key>
-				<string>41.211346</string>
+				<string>40.191925</string>
 				<key>FG</key>
 				<string>1.025036</string>
 				<key>FGHydroReading</key>
@@ -116,7 +116,7 @@ Took sparge ph down to 6.25</string>
 				<key>ExpectedABW</key>
 				<string>5.502016</string>
 				<key>ExpectedColor</key>
-				<string>41.211346</string>
+				<string>40.191925</string>
 				<key>ExpectedFinalGravity</key>
 				<string>1.017484</string>
 				<key>ExpectedIBU</key>
@@ -133,9 +133,9 @@ Took sparge ph down to 6.25</string>
 						<key>Color</key>
 						<string>2.500000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>2.466232</string>
+						<string>2.405226</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>1.251894</string>
+						<string>1.220927</string>
 						<key>DateLastModified</key>
 						<date>2010-10-05T14:27:57Z</date>
 						<key>Description</key>
@@ -196,9 +196,9 @@ Took sparge ph down to 6.25</string>
 						<key>Color</key>
 						<string>5.500000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>1.910941</string>
+						<string>1.863672</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>0.970021</string>
+						<string>0.946026</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -257,9 +257,9 @@ Took sparge ph down to 6.25</string>
 						<key>Color</key>
 						<string>350.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>34.743633</string>
+						<string>33.884201</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>17.636362</string>
+						<string>17.200102</string>
 						<key>DateLastModified</key>
 						<date>2010-03-13T16:30:25Z</date>
 						<key>Description</key>
@@ -320,9 +320,9 @@ Took sparge ph down to 6.25</string>
 						<key>Color</key>
 						<string>40.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>2.978092</string>
+						<string>2.904425</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>1.511722</string>
+						<string>1.474327</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -381,9 +381,9 @@ Took sparge ph down to 6.25</string>
 						<key>Color</key>
 						<string>500.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>27.919605</string>
+						<string>27.228975</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>14.172389</string>
+						<string>13.821815</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Description</key>
@@ -421,9 +421,9 @@ Took sparge ph down to 6.25</string>
 						<key>Color</key>
 						<string>450.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>11.167843</string>
+						<string>10.891590</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>5.668956</string>
+						<string>5.528726</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -1129,7 +1129,7 @@ Wyeast 1968 or 002.</string>
 	<key>ExpectedABW</key>
 	<string>5.044758</string>
 	<key>ExpectedColor</key>
-	<string>40.399563</string>
+	<string>39.576836</string>
 	<key>ExpectedFinalGravity</key>
 	<string>1.016137</string>
 	<key>ExpectedIBU</key>
@@ -1146,9 +1146,9 @@ Wyeast 1968 or 002.</string>
 			<key>Color</key>
 			<string>1.800000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>1.477945</string>
+			<string>1.447847</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>0.750226</string>
+			<string>0.734948</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>
@@ -1184,9 +1184,9 @@ Wyeast 1968 or 002.</string>
 			<key>Color</key>
 			<string>5.500000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>2.189597</string>
+			<string>2.145007</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>1.111471</string>
+			<string>1.088836</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>
@@ -1222,9 +1222,9 @@ Wyeast 1968 or 002.</string>
 			<key>Color</key>
 			<string>350.000000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>43.542171</string>
+			<string>42.655449</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>22.102625</string>
+			<string>21.652512</string>
 			<key>DateLastModified</key>
 			<date>2010-03-13T16:30:25Z</date>
 			<key>Description</key>
@@ -1262,9 +1262,9 @@ Wyeast 1968 or 002.</string>
 			<key>Color</key>
 			<string>40.000000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>2.985815</string>
+			<string>2.925010</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>1.515642</string>
+			<string>1.484776</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>
@@ -1300,9 +1300,9 @@ Wyeast 1968 or 002.</string>
 			<key>Color</key>
 			<string>525.000000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>29.391607</string>
+			<string>28.793058</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>14.919599</string>
+			<string>14.615765</string>
 			<key>DateLastModified</key>
 			<date>2010-03-13T16:45:29Z</date>
 			<key>Extract</key>

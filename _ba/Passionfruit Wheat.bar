@@ -22,7 +22,7 @@
 				<key>ApparentAttenuation</key>
 				<string>78.218636</string>
 				<key>Color</key>
-				<string>6.025000</string>
+				<string>4.133305</string>
 				<key>FG</key>
 				<string>1.010763</string>
 				<key>FGHydroReading</key>
@@ -115,7 +115,7 @@
 				<key>ExpectedABW</key>
 				<string>4.094807</string>
 				<key>ExpectedColor</key>
-				<string>6.025000</string>
+				<string>4.133305</string>
 				<key>ExpectedFinalGravity</key>
 				<string>1.011635</string>
 				<key>ExpectedIBU</key>
@@ -155,9 +155,9 @@
 						<key>Color</key>
 						<string>1.800000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>4.031066</string>
+						<string>2.765415</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>2.046227</string>
+						<string>1.403764</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -216,9 +216,9 @@
 						<key>Color</key>
 						<string>2.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>4.478963</string>
+						<string>3.072684</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>2.273586</string>
+						<string>1.559738</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Description</key>
@@ -279,9 +279,9 @@
 						<key>Color</key>
 						<string>15.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>3.359222</string>
+						<string>2.304512</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>1.705189</string>
+						<string>1.169803</string>
 						<key>DateLastModified</key>
 						<date>2010-05-08T14:52:10Z</date>
 						<key>Extract</key>
@@ -859,7 +859,7 @@ When initial fermentation slows, rack to secondary and add fruit. Fermentation s
 	<key>ExpectedABW</key>
 	<string>4.181797</string>
 	<key>ExpectedColor</key>
-	<string>5.900000</string>
+	<string>3.861713</string>
 	<key>ExpectedFinalGravity</key>
 	<string>1.012194</string>
 	<key>ExpectedIBU</key>
@@ -876,9 +876,9 @@ When initial fermentation slows, rack to secondary and add fruit. Fermentation s
 			<key>Color</key>
 			<string>1.800000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>4.358625</string>
+			<string>2.852841</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>2.212500</string>
+			<string>1.448143</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>
@@ -914,9 +914,9 @@ When initial fermentation slows, rack to secondary and add fruit. Fermentation s
 			<key>Color</key>
 			<string>1.500000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>3.632188</string>
+			<string>2.377367</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>1.843750</string>
+			<string>1.206785</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>
@@ -952,9 +952,9 @@ When initial fermentation slows, rack to secondary and add fruit. Fermentation s
 			<key>Color</key>
 			<string>15.000000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>3.632188</string>
+			<string>2.377367</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>1.843750</string>
+			<string>1.206785</string>
 			<key>DateLastModified</key>
 			<date>2010-05-08T14:52:10Z</date>
 			<key>Extract</key>

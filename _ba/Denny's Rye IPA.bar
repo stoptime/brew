@@ -22,7 +22,7 @@
 				<key>ApparentAttenuation</key>
 				<string>72.882996</string>
 				<key>Color</key>
-				<string>10.216178</string>
+				<string>10.994089</string>
 				<key>FG</key>
 				<string>1.020000</string>
 				<key>FGHydroReading</key>
@@ -118,7 +118,7 @@ Trouble chilling - put in fridge to take down.</string>
 				<key>ExpectedABW</key>
 				<string>5.890785</string>
 				<key>ExpectedColor</key>
-				<string>10.216178</string>
+				<string>10.994089</string>
 				<key>ExpectedFinalGravity</key>
 				<string>1.017673</string>
 				<key>ExpectedIBU</key>
@@ -158,9 +158,9 @@ Trouble chilling - put in fridge to take down.</string>
 						<key>Color</key>
 						<string>1.800000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>3.664886</string>
+						<string>3.943949</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>1.860348</string>
+						<string>2.002004</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -219,9 +219,9 @@ Trouble chilling - put in fridge to take down.</string>
 						<key>Color</key>
 						<string>3.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>1.465922</string>
+						<string>1.577545</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>0.744123</string>
+						<string>0.800784</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -280,9 +280,9 @@ Trouble chilling - put in fridge to take down.</string>
 						<key>Color</key>
 						<string>60.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>9.772814</string>
+						<string>10.516966</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>4.960819</string>
+						<string>5.338561</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -341,9 +341,9 @@ Trouble chilling - put in fridge to take down.</string>
 						<key>Color</key>
 						<string>1.300000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>0.132343</string>
+						<string>0.142420</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>0.067179</string>
+						<string>0.072294</string>
 						<key>DateLastModified</key>
 						<date>2010-05-14T13:41:07Z</date>
 						<key>Extract</key>
@@ -402,9 +402,9 @@ Trouble chilling - put in fridge to take down.</string>
 						<key>Color</key>
 						<string>2.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>0.203605</string>
+						<string>0.219108</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>0.103353</string>
+						<string>0.111222</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Description</key>
@@ -465,9 +465,9 @@ Trouble chilling - put in fridge to take down.</string>
 						<key>Color</key>
 						<string>59.997353</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>4.886299</string>
+						<string>5.258366</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>2.480355</string>
+						<string>2.669221</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -1533,7 +1533,7 @@ Amount Name Type Time
 	<key>ExpectedABW</key>
 	<string>5.803314</string>
 	<key>ExpectedColor</key>
-	<string>9.922685</string>
+	<string>10.589438</string>
 	<key>ExpectedFinalGravity</key>
 	<string>1.017432</string>
 	<key>ExpectedIBU</key>
@@ -1550,9 +1550,9 @@ Amount Name Type Time
 			<key>Color</key>
 			<string>1.800000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>3.634802</string>
+			<string>3.879042</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>1.845077</string>
+			<string>1.969057</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>
@@ -1588,9 +1588,9 @@ Amount Name Type Time
 			<key>Color</key>
 			<string>3.700000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>2.054420</string>
+			<string>2.192466</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>1.042853</string>
+			<string>1.112927</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>
@@ -1626,9 +1626,9 @@ Amount Name Type Time
 			<key>Color</key>
 			<string>60.000000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>13.506047</string>
+			<string>14.413585</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>6.855861</string>
+			<string>7.316540</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>
@@ -1664,9 +1664,9 @@ Amount Name Type Time
 			<key>Color</key>
 			<string>1.300000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>0.138832</string>
+			<string>0.148161</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>0.070473</string>
+			<string>0.075208</string>
 			<key>DateLastModified</key>
 			<date>2010-05-14T13:41:07Z</date>
 			<key>Extract</key>
@@ -1702,9 +1702,9 @@ Amount Name Type Time
 			<key>Color</key>
 			<string>2.000000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>0.213588</string>
+			<string>0.227940</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>0.108420</string>
+			<string>0.115706</string>
 			<key>DateLastModified</key>
 			<date>2012-01-21T01:54:04Z</date>
 			<key>Extract</key>

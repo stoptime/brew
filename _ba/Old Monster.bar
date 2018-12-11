@@ -22,7 +22,7 @@
 				<key>ApparentAttenuation</key>
 				<string>73.123070</string>
 				<key>Color</key>
-				<string>13.843799</string>
+				<string>15.549138</string>
 				<key>FG</key>
 				<string>1.027802</string>
 				<key>FGHydroReading</key>
@@ -119,7 +119,7 @@ Afer 4 weeks, only down to 1.035. Pitched 1L saf-05 starter at high krausen.  </
 				<key>ExpectedABW</key>
 				<string>10.119188</string>
 				<key>ExpectedColor</key>
-				<string>13.843799</string>
+				<string>15.549138</string>
 				<key>ExpectedFinalGravity</key>
 				<string>1.022037</string>
 				<key>ExpectedIBU</key>
@@ -159,9 +159,9 @@ Afer 4 weeks, only down to 1.035. Pitched 1L saf-05 starter at high krausen.  </
 						<key>Color</key>
 						<string>1.800000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>2.684398</string>
+						<string>3.015074</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>1.362639</string>
+						<string>1.530494</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -220,9 +220,9 @@ Afer 4 weeks, only down to 1.035. Pitched 1L saf-05 starter at high krausen.  </
 						<key>Color</key>
 						<string>3.700000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>5.517807</string>
+						<string>6.197515</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>2.800917</string>
+						<string>3.145947</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -281,9 +281,9 @@ Afer 4 weeks, only down to 1.035. Pitched 1L saf-05 starter at high krausen.  </
 						<key>Color</key>
 						<string>15.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>2.236949</string>
+						<string>2.512506</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>1.135507</string>
+						<string>1.275384</string>
 						<key>DateLastModified</key>
 						<date>2010-05-08T14:52:10Z</date>
 						<key>Extract</key>
@@ -342,9 +342,9 @@ Afer 4 weeks, only down to 1.035. Pitched 1L saf-05 starter at high krausen.  </
 						<key>Color</key>
 						<string>40.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>3.728331</string>
+						<string>4.187603</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>1.892554</string>
+						<string>2.125687</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -403,9 +403,9 @@ Afer 4 weeks, only down to 1.035. Pitched 1L saf-05 starter at high krausen.  </
 						<key>Color</key>
 						<string>59.998672</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>5.368677</string>
+						<string>6.030014</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>2.725217</string>
+						<string>3.060921</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Description</key>
@@ -466,9 +466,9 @@ Afer 4 weeks, only down to 1.035. Pitched 1L saf-05 starter at high krausen.  </
 						<key>Color</key>
 						<string>200.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>7.456497</string>
+						<string>8.375021</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>3.785024</string>
+						<string>4.251279</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -547,9 +547,9 @@ Afer 4 weeks, only down to 1.035. Pitched 1L saf-05 starter at high krausen.  </
 						<key>Color</key>
 						<string>120.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>0.279625</string>
+						<string>0.314070</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>0.141942</string>
+						<string>0.159427</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -1436,7 +1436,7 @@ Alcohol: 12.5% ABV</string>
 	<key>ExpectedABW</key>
 	<string>10.106941</string>
 	<key>ExpectedColor</key>
-	<string>15.587500</string>
+	<string>17.526636</string>
 	<key>ExpectedFinalGravity</key>
 	<string>1.022009</string>
 	<key>ExpectedIBU</key>
@@ -1453,9 +1453,9 @@ Alcohol: 12.5% ABV</string>
 			<key>Color</key>
 			<string>1.800000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>5.076765</string>
+			<string>5.708331</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>2.577038</string>
+			<string>2.897630</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>
@@ -1491,9 +1491,9 @@ Alcohol: 12.5% ABV</string>
 			<key>Color</key>
 			<string>15.000000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>2.115319</string>
+			<string>2.378471</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>1.073766</string>
+			<string>1.207346</string>
 			<key>DateLastModified</key>
 			<date>2010-05-08T14:52:10Z</date>
 			<key>Extract</key>
@@ -1529,9 +1529,9 @@ Alcohol: 12.5% ABV</string>
 			<key>Color</key>
 			<string>80.000000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>11.281699</string>
+			<string>12.685180</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>5.726750</string>
+			<string>6.439178</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>
@@ -1567,9 +1567,9 @@ Alcohol: 12.5% ABV</string>
 			<key>Color</key>
 			<string>200.000000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>7.051062</string>
+			<string>7.928237</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>3.579219</string>
+			<string>4.024486</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>
@@ -1605,9 +1605,9 @@ Alcohol: 12.5% ABV</string>
 			<key>Color</key>
 			<string>147.000000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>5.182531</string>
+			<string>5.827255</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>2.630726</string>
+			<string>2.957997</string>
 			<key>DateLastModified</key>
 			<date>2009-10-17T15:31:54Z</date>
 			<key>Extract</key>

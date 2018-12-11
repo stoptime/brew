@@ -22,7 +22,7 @@
 				<key>ApparentAttenuation</key>
 				<string>82.343086</string>
 				<key>Color</key>
-				<string>7.070024</string>
+				<string>6.159033</string>
 				<key>FG</key>
 				<string>1.010690</string>
 				<key>FGHydroReading</key>
@@ -116,7 +116,7 @@ aerated 40 seconds, full</string>
 				<key>ExpectedABW</key>
 				<string>6.199726</string>
 				<key>ExpectedColor</key>
-				<string>7.070024</string>
+				<string>6.159033</string>
 				<key>ExpectedFinalGravity</key>
 				<string>1.013716</string>
 				<key>ExpectedIBU</key>
@@ -156,9 +156,9 @@ aerated 40 seconds, full</string>
 						<key>Color</key>
 						<string>1.800000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>6.611444</string>
+						<string>5.759542</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>3.356063</string>
+						<string>2.923625</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -217,9 +217,9 @@ aerated 40 seconds, full</string>
 						<key>Color</key>
 						<string>40.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>7.052052</string>
+						<string>6.143377</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>3.579722</string>
+						<string>3.118466</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -278,9 +278,9 @@ aerated 40 seconds, full</string>
 						<key>Color</key>
 						<string>1.500000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>0.264452</string>
+						<string>0.230377</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>0.134240</string>
+						<string>0.116942</string>
 						<key>DateLastModified</key>
 						<date>2010-05-14T13:41:07Z</date>
 						<key>Extract</key>
@@ -1510,7 +1510,7 @@ DRY HOPPING:
 				<key>ApparentAttenuation</key>
 				<string>79.849854</string>
 				<key>Color</key>
-				<string>7.070000</string>
+				<string>6.158989</string>
 				<key>FG</key>
 				<string>1.014180</string>
 				<key>FGHydroReading</key>
@@ -1603,7 +1603,7 @@ DRY HOPPING:
 				<key>ExpectedABW</key>
 				<string>5.573024</string>
 				<key>ExpectedColor</key>
-				<string>7.070000</string>
+				<string>6.158989</string>
 				<key>ExpectedFinalGravity</key>
 				<string>1.016163</string>
 				<key>ExpectedIBU</key>
@@ -1620,9 +1620,9 @@ DRY HOPPING:
 						<key>Color</key>
 						<string>1.800000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>6.611345</string>
+						<string>5.759435</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>3.356013</string>
+						<string>2.923571</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -1681,9 +1681,9 @@ DRY HOPPING:
 						<key>Color</key>
 						<string>40.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>7.052101</string>
+						<string>6.143397</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>3.579747</string>
+						<string>3.118476</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -1719,9 +1719,9 @@ DRY HOPPING:
 						<key>Color</key>
 						<string>1.500000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>0.264454</string>
+						<string>0.230377</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>0.134241</string>
+						<string>0.116943</string>
 						<key>DateLastModified</key>
 						<date>2010-05-14T13:41:07Z</date>
 						<key>Extract</key>
@@ -3450,7 +3450,7 @@ Later: this is actually a solid dipa - just not the crushable pliny.</string>
 	<key>ExpectedABW</key>
 	<string>6.199726</string>
 	<key>ExpectedColor</key>
-	<string>7.070024</string>
+	<string>6.159033</string>
 	<key>ExpectedFinalGravity</key>
 	<string>1.013716</string>
 	<key>ExpectedIBU</key>
@@ -3490,9 +3490,9 @@ Later: this is actually a solid dipa - just not the crushable pliny.</string>
 			<key>Color</key>
 			<string>1.800000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>6.611444</string>
+			<string>5.759542</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>3.356063</string>
+			<string>2.923625</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>
@@ -3551,9 +3551,9 @@ Later: this is actually a solid dipa - just not the crushable pliny.</string>
 			<key>Color</key>
 			<string>40.000000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>7.052052</string>
+			<string>6.143377</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>3.579722</string>
+			<string>3.118466</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>
@@ -3612,9 +3612,9 @@ Later: this is actually a solid dipa - just not the crushable pliny.</string>
 			<key>Color</key>
 			<string>1.500000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>0.264452</string>
+			<string>0.230377</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>0.134240</string>
+			<string>0.116942</string>
 			<key>DateLastModified</key>
 			<date>2010-05-14T13:41:07Z</date>
 			<key>Extract</key>

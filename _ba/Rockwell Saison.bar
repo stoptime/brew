@@ -5,83 +5,85 @@
 	<key>Acid</key>
 	<string>Unadjusted</string>
 	<key>ApparentAttenuation</key>
-	<string>76.431015</string>
+	<string>84.672943</string>
 	<key>Attenuation</key>
-	<string>76.500000</string>
+	<string>80.000000</string>
 	<key>Batches</key>
 	<array>
 		<dict>
 			<key>Actuals</key>
 			<dict>
 				<key>ABV</key>
-				<string>0.000000</string>
+				<string>6.491988</string>
 				<key>ABW</key>
-				<string>0.000000</string>
+				<string>5.142461</string>
 				<key>ActualMashEfficiency</key>
-				<string>0.0</string>
+				<string>85.669884</string>
 				<key>ApparentAttenuation</key>
-				<string>0.000000</string>
+				<string>95.187332</string>
 				<key>Color</key>
-				<string>2.426791</string>
+				<string>3.105659</string>
 				<key>FG</key>
-				<string>1.000000</string>
+				<string>1.002368</string>
 				<key>FGHydroReading</key>
-				<string>1.000</string>
+				<string>1.001000</string>
 				<key>FGTemp</key>
-				<string>15.0</string>
+				<string>22.222223</string>
 				<key>FermentationTemperature</key>
-				<string>10.000000</string>
+				<string>20.000000</string>
 				<key>FinalBatchVolume</key>
-				<string>20819.755859</string>
+				<string>20251.943359</string>
 				<key>FinalWortVolume</key>
-				<string>23658.812500</string>
+				<string>23923.791016</string>
 				<key>HydrometerCalibratedAt</key>
 				<string>15.0</string>
 				<key>IBU</key>
-				<string>33.573475</string>
+				<string>24.961746</string>
 				<key>OG</key>
-				<string>1.000000</string>
+				<string>1.051458</string>
 				<key>OGHydroReading</key>
-				<string>1.000</string>
+				<string>1.051000</string>
 				<key>OGTemp</key>
-				<string>15.0</string>
+				<string>17.777779</string>
 				<key>PreBoilGrav</key>
-				<string>1.000000</string>
+				<string>1.040172</string>
 				<key>PreBoilHydroReading</key>
-				<string>1.000</string>
+				<string>1.040000</string>
 				<key>PreBoilTemp</key>
-				<string>15.0</string>
+				<string>16.111111</string>
 				<key>PreBoilWortVolume</key>
 				<string>30283.279297</string>
 				<key>RealAttenuation</key>
-				<string>0.000000</string>
+				<string>77.977463</string>
 				<key>VolumeAtPitching</key>
-				<string>22712.460938</string>
+				<string>20819.755859</string>
 				<key>VolumeToFermenter</key>
-				<string>22712.460938</string>
+				<string>20819.755859</string>
 				<key>VolumeWaterAdded</key>
 				<string>0.000000</string>
 			</dict>
 			<key>AdjustedInventory</key>
-			<string>0</string>
+			<string>1</string>
 			<key>BatchNotes</key>
-			<string></string>
+			<string>10 min in: 147-9F, perfect
+Ended 145 - recirc'ed 20 min, very clear - 2 hr total mash</string>
 			<key>BatchTitle</key>
-			<string>Batch 1 of Pils-ish Kolsch</string>
+			<string>Batch 1 of Rockwell Saison</string>
 			<key>BoilNotes</key>
 			<string></string>
 			<key>DateBrewed</key>
-			<date>2015-07-11T05:00:00Z</date>
+			<date>2018-07-07T15:39:51Z</date>
 			<key>DateLastModified</key>
-			<date>2015-07-05T22:31:44Z</date>
+			<date>2018-08-16T20:04:25Z</date>
 			<key>DatePackaged</key>
-			<date>2015-07-11T05:00:00Z</date>
+			<date>2018-07-30T05:00:00Z</date>
 			<key>DateRacked</key>
-			<date>2015-07-11T05:00:00Z</date>
+			<date>2018-07-07T15:39:51Z</date>
 			<key>DateReady</key>
-			<date>2015-07-11T05:00:00Z</date>
+			<date>2018-08-07T05:00:00Z</date>
 			<key>FermentationNotes</key>
-			<string></string>
+			<string>5.5 gallon and 1L starter in fermenter
+Kept at 68F for about a day, the let free rise, then held at 85F.</string>
 			<key>MTThermalMass</key>
 			<string>680.400024</string>
 			<key>ModifiedRecipe</key>
@@ -89,13 +91,13 @@
 				<key>Acid</key>
 				<string>Unadjusted</string>
 				<key>ApparentAttenuation</key>
-				<string>74.923653</string>
+				<string>79.898560</string>
 				<key>Attenuation</key>
-				<string>75.000000</string>
+				<string>80.000000</string>
 				<key>Batches</key>
 				<array/>
 				<key>BoilDuration</key>
-				<string>90</string>
+				<string>75.000000</string>
 				<key>CaCO3</key>
 				<string>0.0</string>
 				<key>CaCl2</key>
@@ -105,75 +107,52 @@
 				<key>Carbonation</key>
 				<string>Force Carbonated</string>
 				<key>CarbonationVolumes</key>
-				<string>2.50</string>
+				<string>2.00</string>
 				<key>Conditioning</key>
-				<string>Lagered for 4 weeks</string>
+				<string>Matured for 2 weeks</string>
 				<key>DateLastModified</key>
-				<date>2015-07-05T22:14:12Z</date>
+				<date>2018-07-06T23:10:55Z</date>
 				<key>ExpectedABV</key>
-				<string>4.538442</string>
+				<string>4.728420</string>
 				<key>ExpectedABW</key>
-				<string>3.564071</string>
+				<string>3.722054</string>
 				<key>ExpectedColor</key>
-				<string>2.426791</string>
+				<string>3.105659</string>
 				<key>ExpectedFinalGravity</key>
-				<string>1.011069</string>
+				<string>1.008681</string>
 				<key>ExpectedIBU</key>
-				<string>24.402855</string>
+				<string>26.109709</string>
 				<key>ExpectedOriginalGravity</key>
-				<string>1.045438</string>
+				<string>1.044517</string>
 				<key>ExpectedPreBoilGravity</key>
-				<string>1.035499</string>
+				<string>1.035169</string>
 				<key>FermentableIngredients</key>
 				<array>
 					<dict>
 						<key>Amount</key>
 						<string>4082.310059</string>
-						<key>Batches</key>
-						<array>
-							<dict>
-								<key>Amount</key>
-								<string>4082.310059</string>
-								<key>AmountInStock</key>
-								<string>24948.000000</string>
-								<key>BatchName</key>
-								<string>New Batch</string>
-								<key>Color</key>
-								<string>1.300000</string>
-								<key>DeliveredOn</key>
-								<date>2015-07-05T22:30:00Z</date>
-								<key>ExpiresOn</key>
-								<date>2016-07-05T22:30:00Z</date>
-								<key>Extract</key>
-								<string>81.000000</string>
-								<key>IngredientType</key>
-								<string>Fermentable</string>
-								<key>UUID</key>
-								<string>4579B7F2-03DE-468E-AC34-61568B93B003</string>
-							</dict>
-						</array>
 						<key>Color</key>
-						<string>1.300000</string>
+						<string>1.600000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>4.404332</string>
+						<string>4.788116</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>2.235702</string>
+						<string>2.430516</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
 						<string>81.000000</string>
 						<key>Form</key>
-						<string>Loose Pellet Hops</string>
+						<string>Loose Whole Hops</string>
 						<key>GravityPointsForAddition</key>
-						<string>43.215302</string>
+						<string>40.065613</string>
 						<key>Ingredient</key>
-						<string>German Pilsner Malt</string>
+						<string>Belgian Pilsen Malt</string>
 						<key>IsGrain</key>
 						<string>1.000000</string>
 						<key>MCUForAddition</key>
-						<string>1.872000</string>
+						<string>2.278481</string>
 						<key>MCUPercentage</key>
-						<string>92.125824</string>
+						<string>78.260872</string>
 						<key>Minutes</key>
 						<string>0.000000</string>
 						<key>Moisture</key>
@@ -181,117 +160,138 @@
 						<key>MustBeMashed</key>
 						<string>1.000000</string>
 						<key>Percentage</key>
-						<string>94.736740</string>
+						<string>90.000000</string>
 						<key>UUID</key>
-						<string>498AC2C7-18C5-11DA-80C0-001124CAE2A6</string>
+						<string>C8748001-18C4-11DA-80C0-001124CAE2A6</string>
 						<key>When</key>
 						<string>In Mash/Steeped</string>
 					</dict>
 					<dict>
 						<key>Amount</key>
-						<string>226.800003</string>
+						<string>453.589996</string>
+						<key>Batches</key>
+						<array>
+							<dict>
+								<key>Amount</key>
+								<string>453.589996</string>
+								<key>AmountInStock</key>
+								<string>1474.200195</string>
+								<key>BatchName</key>
+								<string>Simpsons</string>
+								<key>Color</key>
+								<string>4.000000</string>
+								<key>DeliveredOn</key>
+								<date>2017-05-16T17:00:00Z</date>
+								<key>ExpiresOn</key>
+								<date>2018-05-16T22:51:38Z</date>
+								<key>Extract</key>
+								<string>81.000000</string>
+								<key>IngredientType</key>
+								<string>Fermentable</string>
+								<key>UUID</key>
+								<string>79F91E24-2CC6-4AC2-972A-CF80ADC2C219</string>
+							</dict>
+						</array>
 						<key>Color</key>
-						<string>2.000000</string>
+						<string>4.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>0.376448</string>
+						<string>1.330031</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>0.191090</string>
+						<string>0.675143</string>
 						<key>DateLastModified</key>
-						<date>2012-01-21T01:54:04Z</date>
+						<date>2009-09-01T14:06:38Z</date>
 						<key>Extract</key>
-						<string>75.000000</string>
+						<string>81.000000</string>
 						<key>Form</key>
-						<string>Loose Pellet Hops</string>
+						<string>Loose Whole Hops</string>
 						<key>GravityPointsForAddition</key>
-						<string>2.223058</string>
+						<string>4.451734</string>
 						<key>Ingredient</key>
-						<string>US Wheat Malt</string>
+						<string>Maris Otter</string>
 						<key>IsGrain</key>
-						<string>1</string>
+						<string>1.000000</string>
 						<key>MCUForAddition</key>
-						<string>0.160004</string>
+						<string>0.632911</string>
 						<key>MCUPercentage</key>
-						<string>7.874200</string>
+						<string>21.739119</string>
 						<key>Minutes</key>
 						<string>0.000000</string>
 						<key>Moisture</key>
 						<string>4.000000</string>
 						<key>MustBeMashed</key>
-						<string>1</string>
+						<string>1.000000</string>
 						<key>Percentage</key>
-						<string>5.263268</string>
+						<string>10.000000</string>
 						<key>UUID</key>
-						<string>DEE6B52C-6EB0-4438-81C7-B3B231940067</string>
+						<string>D8D7A8DC-AB31-4A0E-97D9-D5AFBD429966</string>
 						<key>When</key>
 						<string>In Mash/Steeped</string>
 					</dict>
 				</array>
 				<key>FermentationTemperature</key>
-				<string>10.000000</string>
+				<string>18.0</string>
 				<key>FinalBatchVolume</key>
-				<string>20819.755859</string>
+				<string>18927.050781</string>
 				<key>FinalWortVolume</key>
-				<string>23658.812500</string>
+				<string>23923.791016</string>
 				<key>GravityForIBUCalcs</key>
-				<string>1.035499</string>
+				<string>1.035169</string>
 				<key>HopIngredients</key>
 				<array>
 					<dict>
 						<key>Alpha</key>
-						<string>15.500000</string>
+						<string>7.600000</string>
 						<key>Amount</key>
-						<string>14.175000</string>
+						<string>29.842106</string>
 						<key>Batches</key>
 						<array>
 							<dict>
 								<key>Alpha</key>
-								<string>15.500000</string>
+								<string>7.600000</string>
 								<key>Amount</key>
-								<string>14.175000</string>
+								<string>29.842106</string>
 								<key>AmountInStock</key>
-								<string>170.100006</string>
+								<string>77.962509</string>
 								<key>BatchName</key>
 								<string>FH</string>
 								<key>DeliveredOn</key>
-								<date>2014-07-24T17:00:00Z</date>
+								<date>2017-02-10T20:31:27Z</date>
 								<key>ExpiresOn</key>
-								<date>2015-07-24T17:00:00Z</date>
+								<date>2018-02-10T20:31:27Z</date>
 								<key>Form</key>
 								<string>Whole</string>
 								<key>IngredientType</key>
 								<string>Hop</string>
 								<key>UUID</key>
-								<string>24685CE0-F7F4-4CD3-B7A3-7F0824CB2F52</string>
+								<string>E1A66E33-676E-4731-B00C-02B973D66DA7</string>
 							</dict>
 						</array>
 						<key>DateLastModified</key>
-						<date>2009-08-09T18:00:38Z</date>
-						<key>Description</key>
-						<string>Magnum is a high-alpha variety and used as a clean bittering hop</string>
+						<date>2012-04-12T22:45:46Z</date>
 						<key>Form</key>
 						<string>Loose Whole Hops</string>
 						<key>IBUForAddition</key>
-						<string>24.402855</string>
+						<string>26.109709</string>
 						<key>Minutes</key>
-						<string>60</string>
+						<string>75.000000</string>
 						<key>Percentage</key>
 						<string>0.000000</string>
 						<key>UUID</key>
-						<string>379C85D1-C28D-4EBB-84D8-A19E55B399BF</string>
+						<string>67C8318E-1BD2-11DA-9896-001124CAE2A6</string>
 						<key>Variety</key>
-						<string>US Magnum</string>
+						<string>Northern Brewer</string>
 						<key>When</key>
-						<string>60 Min From End</string>
+						<string>First Wort Hopped</string>
 					</dict>
 				</array>
 				<key>MashEfficiency</key>
-				<string>80.000000</string>
+				<string>75.000000</string>
 				<key>MashSchedule</key>
 				<dict>
 					<key>DateLastModified</key>
-					<date>2009-08-21T14:01:32Z</date>
+					<date>2009-08-09T18:00:38Z</date>
 					<key>ScheduleName</key>
-					<string>Single Step Infusion (67C/152F)</string>
+					<string>Single Step Infusion (65C/149F)</string>
 					<key>Steps</key>
 					<array>
 						<dict>
@@ -300,11 +300,11 @@
 							<key>StepType</key>
 							<string>Rest at</string>
 							<key>Temperature</key>
-							<string>66.666664</string>
+							<string>65.000000</string>
 						</dict>
 					</array>
 					<key>UUID</key>
-					<string>107B5B7D-7D9C-4B21-B3E1-8E31AD1333B3</string>
+					<string>D8441732-7858-4F45-BEB0-0BA546FB64B8</string>
 					<key>Version</key>
 					<string>3</string>
 				</dict>
@@ -319,15 +319,14 @@
 				<key>NaHCO3</key>
 				<string>0.0</string>
 				<key>Notes</key>
-				<string>Pre-boil: 1.041
-OG: 1.048
-FG: 1.009
-IBU: 36
-Color: 3 srm
-5.1% ABV
+				<string>Water: 
+9 gals in pot, 8.5 gallons in mash
 
-Mosher: 1.25 quarts water per pound
-Daniels: BU/GU Ratio - .75-.80</string>
+== IN POT BEFORE HEATING (9 gals) ==
+4.5g gypsum
+9ml pos acid 85%
+
+estimated ph: 5.23</string>
 				<key>OtherIngredients</key>
 				<array/>
 				<key>PreBoilWortVolume</key>
@@ -335,25 +334,25 @@ Daniels: BU/GU Ratio - .75-.80</string>
 				<key>Profile</key>
 				<dict>
 					<key>BoilDuration</key>
-					<string>90</string>
+					<string>75.000000</string>
 					<key>DateLastModified</key>
-					<date>2013-10-02T23:55:57Z</date>
+					<date>2018-07-06T23:08:59Z</date>
 					<key>ExtractEfficiency</key>
-					<string>80.000000</string>
+					<string>75.000000</string>
 					<key>FinishedBatchVolume</key>
-					<string>20819.755859</string>
+					<string>18927.050781</string>
 					<key>MTThermalMass</key>
 					<string>680.400024</string>
 					<key>PostBoilVolume</key>
-					<string>23658.812500</string>
+					<string>23923.791016</string>
 					<key>PreBoilVolume</key>
 					<string>30283.279297</string>
 					<key>PreferredMashSchedule</key>
-					<string>107B5B7D-7D9C-4B21-B3E1-8E31AD1333B3</string>
+					<string>D8441732-7858-4F45-BEB0-0BA546FB64B8</string>
 					<key>PreferredRecipeType</key>
 					<string>Full Mash</string>
 					<key>PreferredSpargeMethod</key>
-					<string>Fly Sparge</string>
+					<string>Batch Sparge</string>
 					<key>ProfileName</key>
 					<string>Specific to this recipe</string>
 					<key>UUID</key>
@@ -361,43 +360,43 @@ Daniels: BU/GU Ratio - .75-.80</string>
 					<key>Version</key>
 					<string>2</string>
 					<key>VolumeAtPitching</key>
-					<string>22712.460938</string>
+					<string>20062.673828</string>
 					<key>VolumeToFermenter</key>
-					<string>22712.460938</string>
+					<string>20062.673828</string>
 					<key>VolumeWaterAdded</key>
 					<string>0.000000</string>
 					<key>WaterGrainRatio</key>
 					<string>3.338177</string>
 				</dict>
 				<key>RecipeTitle</key>
-				<string>Pils-ish</string>
+				<string>Rockwell Saison</string>
 				<key>Style</key>
-				<string>Pilsner-German Pilsner (Pils)</string>
+				<string>Belgian And French Ale-Saison</string>
 				<key>UUID</key>
-				<string>8A2B2423-3122-42C5-9F9C-79D35539425B</string>
+				<string>D418CE22-236B-4FD4-BFD2-390FF96C9665</string>
 				<key>VolumeAtPitching</key>
-				<string>22712.460938</string>
+				<string>20062.673828</string>
 				<key>VolumeToFermenter</key>
-				<string>22712.460938</string>
+				<string>20062.673828</string>
 				<key>VolumeWaterAdded</key>
 				<string>0.000000</string>
 				<key>WaterProfileUsed</key>
 				<string> No Water Profile Chosen</string>
 				<key>Yeast</key>
-				<string>Wyeast 2565-Kolsch</string>
+				<string>Wyeast 3711-French Saison</string>
 				<key>YeastAmount</key>
-				<string>4</string>
+				<string>2</string>
 			</dict>
 			<key>OriginalRecipe</key>
 			<dict>
 				<key>Acid</key>
 				<string>Unadjusted</string>
 				<key>ApparentAttenuation</key>
-				<string>76.431015</string>
+				<string>84.672943</string>
 				<key>Attenuation</key>
-				<string>76.500000</string>
+				<string>80.000000</string>
 				<key>BoilDuration</key>
-				<string>90</string>
+				<string>75.000000</string>
 				<key>CaCO3</key>
 				<string>0.0</string>
 				<key>CaCl2</key>
@@ -407,52 +406,52 @@ Daniels: BU/GU Ratio - .75-.80</string>
 				<key>Carbonation</key>
 				<string>Force Carbonated</string>
 				<key>CarbonationVolumes</key>
-				<string>2.50</string>
+				<string>2.00</string>
 				<key>Conditioning</key>
-				<string>Lagered for 4 weeks</string>
+				<string>Matured for 2 weeks</string>
 				<key>DateLastModified</key>
-				<date>2015-07-05T22:14:12Z</date>
+				<date>2018-07-06T23:10:55Z</date>
 				<key>ExpectedABV</key>
-				<string>5.033968</string>
+				<string>5.630676</string>
 				<key>ExpectedABW</key>
-				<string>3.952485</string>
+				<string>4.437983</string>
 				<key>ExpectedColor</key>
-				<string>5.340753</string>
+				<string>3.105659</string>
 				<key>ExpectedFinalGravity</key>
-				<string>1.011255</string>
+				<string>1.007385</string>
 				<key>ExpectedIBU</key>
-				<string>32.733810</string>
+				<string>25.120405</string>
 				<key>ExpectedOriginalGravity</key>
-				<string>1.049306</string>
+				<string>1.049958</string>
 				<key>ExpectedPreBoilGravity</key>
-				<string>1.038520</string>
+				<string>1.039467</string>
 				<key>FermentableIngredients</key>
 				<array>
 					<dict>
 						<key>Amount</key>
-						<string>4657.674805</string>
+						<string>4082.310059</string>
 						<key>Color</key>
-						<string>1.300000</string>
+						<string>1.600000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>10.521285</string>
+						<string>4.788116</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>5.340754</string>
+						<string>2.430516</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
 						<string>81.000000</string>
 						<key>Form</key>
-						<string>Loose Pellet Hops</string>
+						<string>Loose Whole Hops</string>
 						<key>GravityPointsForAddition</key>
-						<string>49.306110</string>
+						<string>40.065613</string>
 						<key>Ingredient</key>
-						<string>German Pilsner Malt</string>
+						<string>Belgian Pilsen Malt</string>
 						<key>IsGrain</key>
 						<string>1.000000</string>
 						<key>MCUForAddition</key>
-						<string>2.135842</string>
+						<string>2.278481</string>
 						<key>MCUPercentage</key>
-						<string>100.000023</string>
+						<string>78.260872</string>
 						<key>Minutes</key>
 						<string>0.000000</string>
 						<key>Moisture</key>
@@ -460,98 +459,130 @@ Daniels: BU/GU Ratio - .75-.80</string>
 						<key>MustBeMashed</key>
 						<string>1.000000</string>
 						<key>Percentage</key>
-						<string>100.000000</string>
+						<string>81.818184</string>
 						<key>UUID</key>
-						<string>498AC2C7-18C5-11DA-80C0-001124CAE2A6</string>
+						<string>C8748001-18C4-11DA-80C0-001124CAE2A6</string>
+						<key>When</key>
+						<string>In Mash/Steeped</string>
+					</dict>
+					<dict>
+						<key>Amount</key>
+						<string>453.589996</string>
+						<key>Color</key>
+						<string>4.000000</string>
+						<key>ColorForAdditionInEBC</key>
+						<string>1.330031</string>
+						<key>ColorForAdditionInSRM</key>
+						<string>0.675143</string>
+						<key>DateLastModified</key>
+						<date>2009-09-01T14:06:38Z</date>
+						<key>Extract</key>
+						<string>81.000000</string>
+						<key>Form</key>
+						<string>Loose Whole Hops</string>
+						<key>GravityPointsForAddition</key>
+						<string>4.451734</string>
+						<key>Ingredient</key>
+						<string>Maris Otter</string>
+						<key>IsGrain</key>
+						<string>1.000000</string>
+						<key>MCUForAddition</key>
+						<string>0.632911</string>
+						<key>MCUPercentage</key>
+						<string>21.739119</string>
+						<key>Minutes</key>
+						<string>0.000000</string>
+						<key>Moisture</key>
+						<string>4.000000</string>
+						<key>MustBeMashed</key>
+						<string>1.000000</string>
+						<key>Percentage</key>
+						<string>9.090909</string>
+						<key>UUID</key>
+						<string>D8D7A8DC-AB31-4A0E-97D9-D5AFBD429966</string>
+						<key>When</key>
+						<string>In Mash/Steeped</string>
+					</dict>
+					<dict>
+						<key>Amount</key>
+						<string>453.589996</string>
+						<key>Color</key>
+						<string>0.000000</string>
+						<key>ColorForAdditionInEBC</key>
+						<string>0.000000</string>
+						<key>ColorForAdditionInSRM</key>
+						<string>0.000000</string>
+						<key>DateLastModified</key>
+						<date>2018-05-19T15:32:55Z</date>
+						<key>Extract</key>
+						<string>99.000000</string>
+						<key>Form</key>
+						<string>Loose Whole Hops</string>
+						<key>GravityPointsForAddition</key>
+						<string>5.441009</string>
+						<key>Ingredient</key>
+						<string>Sugar - Corn Sugar/Dextrose (Dry)</string>
+						<key>IsGrain</key>
+						<string>1.000000</string>
+						<key>MCUForAddition</key>
+						<string>0.000000</string>
+						<key>MCUPercentage</key>
+						<string>0.000000</string>
+						<key>Minutes</key>
+						<string>0.000000</string>
+						<key>Moisture</key>
+						<string>0.500000</string>
+						<key>MustBeMashed</key>
+						<string>0.000000</string>
+						<key>Percentage</key>
+						<string>9.090909</string>
+						<key>UUID</key>
+						<string>3077AC0E-18A9-11DA-80C0-001124CAE2A6</string>
 						<key>When</key>
 						<string>In Mash/Steeped</string>
 					</dict>
 				</array>
 				<key>FermentationTemperature</key>
-				<string>10.000000</string>
+				<string>18.0</string>
 				<key>FinalBatchVolume</key>
-				<string>20819.755859</string>
+				<string>18927.050781</string>
 				<key>FinalWortVolume</key>
-				<string>23658.812500</string>
+				<string>23923.791016</string>
 				<key>GravityForIBUCalcs</key>
-				<string>1.038520</string>
+				<string>1.039467</string>
 				<key>HopIngredients</key>
 				<array>
 					<dict>
 						<key>Alpha</key>
 						<string>8.000000</string>
 						<key>Amount</key>
-						<string>31.136854</string>
+						<string>28.350000</string>
 						<key>DateLastModified</key>
-						<date>2009-08-09T18:00:38Z</date>
+						<date>2012-04-12T22:45:46Z</date>
 						<key>Form</key>
 						<string>Loose Whole Hops</string>
 						<key>IBUForAddition</key>
-						<string>26.925224</string>
+						<string>25.120405</string>
 						<key>Minutes</key>
-						<string>60</string>
+						<string>75.000000</string>
 						<key>Percentage</key>
 						<string>0.000000</string>
 						<key>UUID</key>
-						<string>72BA41CC-1BD2-11DA-9896-001124CAE2A6</string>
+						<string>67C8318E-1BD2-11DA-9896-001124CAE2A6</string>
 						<key>Variety</key>
-						<string>German Perle</string>
+						<string>Northern Brewer</string>
 						<key>When</key>
-						<string>60 Min From End</string>
-					</dict>
-					<dict>
-						<key>Alpha</key>
-						<string>4.000000</string>
-						<key>Amount</key>
-						<string>24.909483</string>
-						<key>DateLastModified</key>
-						<date>2009-08-09T18:00:38Z</date>
-						<key>Form</key>
-						<string>Loose Whole Hops</string>
-						<key>IBUForAddition</key>
-						<string>5.344149</string>
-						<key>Minutes</key>
-						<string>15</string>
-						<key>Percentage</key>
-						<string>0.000000</string>
-						<key>UUID</key>
-						<string>5F82B21A-1BD2-11DA-9896-001124CAE2A6</string>
-						<key>Variety</key>
-						<string>German Hallertauer Hersbrucker</string>
-						<key>When</key>
-						<string>15 Min From End</string>
-					</dict>
-					<dict>
-						<key>Alpha</key>
-						<string>4.000000</string>
-						<key>Amount</key>
-						<string>24.909483</string>
-						<key>DateLastModified</key>
-						<date>2009-08-09T18:00:38Z</date>
-						<key>Form</key>
-						<string>Loose Whole Hops</string>
-						<key>IBUForAddition</key>
-						<string>0.464434</string>
-						<key>Minutes</key>
-						<string>1</string>
-						<key>Percentage</key>
-						<string>0.000000</string>
-						<key>UUID</key>
-						<string>5F82B21A-1BD2-11DA-9896-001124CAE2A6</string>
-						<key>Variety</key>
-						<string>German Hallertauer Hersbrucker</string>
-						<key>When</key>
-						<string>1 Min From End</string>
+						<string>First Wort Hopped</string>
 					</dict>
 				</array>
 				<key>MashEfficiency</key>
-				<string>80.000000</string>
+				<string>75.000000</string>
 				<key>MashSchedule</key>
 				<dict>
 					<key>DateLastModified</key>
-					<date>2009-08-21T14:01:32Z</date>
+					<date>2009-08-09T18:00:38Z</date>
 					<key>ScheduleName</key>
-					<string>Single Step Infusion (67C/152F)</string>
+					<string>Single Step Infusion (65C/149F)</string>
 					<key>Steps</key>
 					<array>
 						<dict>
@@ -560,11 +591,11 @@ Daniels: BU/GU Ratio - .75-.80</string>
 							<key>StepType</key>
 							<string>Rest at</string>
 							<key>Temperature</key>
-							<string>66.666664</string>
+							<string>65.000000</string>
 						</dict>
 					</array>
 					<key>UUID</key>
-					<string>107B5B7D-7D9C-4B21-B3E1-8E31AD1333B3</string>
+					<string>D8441732-7858-4F45-BEB0-0BA546FB64B8</string>
 					<key>Version</key>
 					<string>3</string>
 				</dict>
@@ -579,15 +610,14 @@ Daniels: BU/GU Ratio - .75-.80</string>
 				<key>NaHCO3</key>
 				<string>0.0</string>
 				<key>Notes</key>
-				<string>Pre-boil: 1.041
-OG: 1.048
-FG: 1.009
-IBU: 36
-Color: 3 srm
-5.1% ABV
+				<string>Water: 
+9 gals in pot, 8.5 gallons in mash
 
-Mosher: 1.25 quarts water per pound
-Daniels: BU/GU Ratio - .75-.80</string>
+== IN POT BEFORE HEATING (9 gals) ==
+4.5g gypsum
+9ml pos acid 85%
+
+estimated ph: 5.23</string>
 				<key>OtherIngredients</key>
 				<array/>
 				<key>PreBoilWortVolume</key>
@@ -595,21 +625,21 @@ Daniels: BU/GU Ratio - .75-.80</string>
 				<key>Profile</key>
 				<dict>
 					<key>BoilDuration</key>
-					<string>90</string>
+					<string>75.000000</string>
 					<key>DateLastModified</key>
-					<date>2015-07-05T22:30:50Z</date>
+					<date>2018-08-16T20:04:14Z</date>
 					<key>ExtractEfficiency</key>
-					<string>80.000000</string>
+					<string>75.000000</string>
 					<key>FinishedBatchVolume</key>
-					<string>20819.755859</string>
+					<string>18927.050781</string>
 					<key>MTThermalMass</key>
 					<string>1000</string>
 					<key>PostBoilVolume</key>
-					<string>23658.812500</string>
+					<string>23923.791016</string>
 					<key>PreBoilVolume</key>
 					<string>30283.279297</string>
 					<key>PreferredMashSchedule</key>
-					<string>107B5B7D-7D9C-4B21-B3E1-8E31AD1333B3</string>
+					<string>D8441732-7858-4F45-BEB0-0BA546FB64B8</string>
 					<key>PreferredRecipeType</key>
 					<string>Full Mash</string>
 					<key>PreferredSpargeMethod</key>
@@ -621,49 +651,49 @@ Daniels: BU/GU Ratio - .75-.80</string>
 					<key>Version</key>
 					<string>2</string>
 					<key>VolumeAtPitching</key>
-					<string>22712.460938</string>
+					<string>20062.673828</string>
 					<key>VolumeToFermenter</key>
-					<string>22712.460938</string>
+					<string>20062.673828</string>
 					<key>VolumeWaterAdded</key>
 					<string>0.000000</string>
 					<key>WaterGrainRatio</key>
 					<string>2</string>
 				</dict>
 				<key>RecipeTitle</key>
-				<string>Pils-ish</string>
+				<string>Rockwell Saison</string>
 				<key>Style</key>
-				<string>Pilsner-German Pilsner (Pils)</string>
+				<string>Belgian And French Ale-Saison</string>
 				<key>UUID</key>
-				<string>8A2B2423-3122-42C5-9F9C-79D35539425B</string>
+				<string>D418CE22-236B-4FD4-BFD2-390FF96C9665</string>
 				<key>VolumeAtPitching</key>
-				<string>22712.460938</string>
+				<string>20062.673828</string>
 				<key>VolumeToFermenter</key>
-				<string>22712.460938</string>
+				<string>20062.673828</string>
 				<key>VolumeWaterAdded</key>
 				<string>0.000000</string>
 				<key>WaterProfileUsed</key>
 				<string> No Water Profile Chosen</string>
 				<key>Yeast</key>
-				<string>White Labs WLP830-German Lager</string>
+				<string>Wyeast 3711-French Saison</string>
 				<key>YeastAmount</key>
-				<string>4</string>
+				<string>2</string>
 			</dict>
 			<key>PackagingNotes</key>
 			<string></string>
 			<key>RoomTemperature</key>
 			<string>15.0</string>
 			<key>SpargeMethod</key>
-			<string>Fly Sparge</string>
+			<string>Batch Sparge</string>
 			<key>TastingNotes</key>
-			<string></string>
+			<string>Great! </string>
 			<key>UUID</key>
-			<string>48989AA7-9A49-4BE8-92A7-DF901F3F024B</string>
+			<string>DE9CF746-FD55-4299-A9F1-9B8B8CA7AC9C</string>
 			<key>WaterGrainRatio</key>
 			<string>3.338177</string>
 		</dict>
 	</array>
 	<key>BoilDuration</key>
-	<string>90</string>
+	<string>75.000000</string>
 	<key>CaCO3</key>
 	<string>0.0</string>
 	<key>CaCl2</key>
@@ -673,52 +703,52 @@ Daniels: BU/GU Ratio - .75-.80</string>
 	<key>Carbonation</key>
 	<string>Force Carbonated</string>
 	<key>CarbonationVolumes</key>
-	<string>2.50</string>
+	<string>2.00</string>
 	<key>Conditioning</key>
-	<string>Lagered for 4 weeks</string>
+	<string>Matured for 2 weeks</string>
 	<key>DateLastModified</key>
-	<date>2015-07-05T22:14:12Z</date>
+	<date>2018-07-06T23:10:55Z</date>
 	<key>ExpectedABV</key>
-	<string>5.033968</string>
+	<string>5.630676</string>
 	<key>ExpectedABW</key>
-	<string>3.952485</string>
+	<string>4.437983</string>
 	<key>ExpectedColor</key>
-	<string>2.511184</string>
+	<string>3.105659</string>
 	<key>ExpectedFinalGravity</key>
-	<string>1.011255</string>
+	<string>1.007385</string>
 	<key>ExpectedIBU</key>
-	<string>32.733810</string>
+	<string>25.120405</string>
 	<key>ExpectedOriginalGravity</key>
-	<string>1.049306</string>
+	<string>1.049958</string>
 	<key>ExpectedPreBoilGravity</key>
-	<string>1.038520</string>
+	<string>1.039467</string>
 	<key>FermentableIngredients</key>
 	<array>
 		<dict>
 			<key>Amount</key>
-			<string>4657.674805</string>
+			<string>4082.310059</string>
 			<key>Color</key>
-			<string>1.300000</string>
+			<string>1.600000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>4.947032</string>
+			<string>4.788116</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>2.511184</string>
+			<string>2.430516</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>
 			<string>81.000000</string>
 			<key>Form</key>
-			<string>Loose Pellet Hops</string>
+			<string>Loose Whole Hops</string>
 			<key>GravityPointsForAddition</key>
-			<string>49.306110</string>
+			<string>40.065613</string>
 			<key>Ingredient</key>
-			<string>German Pilsner Malt</string>
+			<string>Belgian Pilsen Malt</string>
 			<key>IsGrain</key>
 			<string>1.000000</string>
 			<key>MCUForAddition</key>
-			<string>2.135842</string>
+			<string>2.278481</string>
 			<key>MCUPercentage</key>
-			<string>100.000023</string>
+			<string>78.260872</string>
 			<key>Minutes</key>
 			<string>0.000000</string>
 			<key>Moisture</key>
@@ -726,98 +756,130 @@ Daniels: BU/GU Ratio - .75-.80</string>
 			<key>MustBeMashed</key>
 			<string>1.000000</string>
 			<key>Percentage</key>
-			<string>100.000000</string>
+			<string>81.818184</string>
 			<key>UUID</key>
-			<string>498AC2C7-18C5-11DA-80C0-001124CAE2A6</string>
+			<string>C8748001-18C4-11DA-80C0-001124CAE2A6</string>
+			<key>When</key>
+			<string>In Mash/Steeped</string>
+		</dict>
+		<dict>
+			<key>Amount</key>
+			<string>453.589996</string>
+			<key>Color</key>
+			<string>4.000000</string>
+			<key>ColorForAdditionInEBC</key>
+			<string>1.330031</string>
+			<key>ColorForAdditionInSRM</key>
+			<string>0.675143</string>
+			<key>DateLastModified</key>
+			<date>2009-09-01T14:06:38Z</date>
+			<key>Extract</key>
+			<string>81.000000</string>
+			<key>Form</key>
+			<string>Loose Whole Hops</string>
+			<key>GravityPointsForAddition</key>
+			<string>4.451734</string>
+			<key>Ingredient</key>
+			<string>Maris Otter</string>
+			<key>IsGrain</key>
+			<string>1.000000</string>
+			<key>MCUForAddition</key>
+			<string>0.632911</string>
+			<key>MCUPercentage</key>
+			<string>21.739119</string>
+			<key>Minutes</key>
+			<string>0.000000</string>
+			<key>Moisture</key>
+			<string>4.000000</string>
+			<key>MustBeMashed</key>
+			<string>1.000000</string>
+			<key>Percentage</key>
+			<string>9.090909</string>
+			<key>UUID</key>
+			<string>D8D7A8DC-AB31-4A0E-97D9-D5AFBD429966</string>
+			<key>When</key>
+			<string>In Mash/Steeped</string>
+		</dict>
+		<dict>
+			<key>Amount</key>
+			<string>453.589996</string>
+			<key>Color</key>
+			<string>0.000000</string>
+			<key>ColorForAdditionInEBC</key>
+			<string>0.000000</string>
+			<key>ColorForAdditionInSRM</key>
+			<string>0.000000</string>
+			<key>DateLastModified</key>
+			<date>2018-05-19T15:32:55Z</date>
+			<key>Extract</key>
+			<string>99.000000</string>
+			<key>Form</key>
+			<string>Loose Whole Hops</string>
+			<key>GravityPointsForAddition</key>
+			<string>5.441009</string>
+			<key>Ingredient</key>
+			<string>Sugar - Corn Sugar/Dextrose (Dry)</string>
+			<key>IsGrain</key>
+			<string>1.000000</string>
+			<key>MCUForAddition</key>
+			<string>0.000000</string>
+			<key>MCUPercentage</key>
+			<string>0.000000</string>
+			<key>Minutes</key>
+			<string>0.000000</string>
+			<key>Moisture</key>
+			<string>0.500000</string>
+			<key>MustBeMashed</key>
+			<string>0.000000</string>
+			<key>Percentage</key>
+			<string>9.090909</string>
+			<key>UUID</key>
+			<string>3077AC0E-18A9-11DA-80C0-001124CAE2A6</string>
 			<key>When</key>
 			<string>In Mash/Steeped</string>
 		</dict>
 	</array>
 	<key>FermentationTemperature</key>
-	<string>10.000000</string>
+	<string>18.0</string>
 	<key>FinalBatchVolume</key>
-	<string>20819.755859</string>
+	<string>18927.050781</string>
 	<key>FinalWortVolume</key>
-	<string>23658.812500</string>
+	<string>23923.791016</string>
 	<key>GravityForIBUCalcs</key>
-	<string>1.038520</string>
+	<string>1.039467</string>
 	<key>HopIngredients</key>
 	<array>
 		<dict>
 			<key>Alpha</key>
 			<string>8.000000</string>
 			<key>Amount</key>
-			<string>31.136854</string>
+			<string>28.350000</string>
 			<key>DateLastModified</key>
-			<date>2009-08-09T18:00:38Z</date>
+			<date>2012-04-12T22:45:46Z</date>
 			<key>Form</key>
 			<string>Loose Whole Hops</string>
 			<key>IBUForAddition</key>
-			<string>26.925224</string>
+			<string>25.120405</string>
 			<key>Minutes</key>
-			<string>60</string>
+			<string>75.000000</string>
 			<key>Percentage</key>
 			<string>0.000000</string>
 			<key>UUID</key>
-			<string>72BA41CC-1BD2-11DA-9896-001124CAE2A6</string>
+			<string>67C8318E-1BD2-11DA-9896-001124CAE2A6</string>
 			<key>Variety</key>
-			<string>German Perle</string>
+			<string>Northern Brewer</string>
 			<key>When</key>
-			<string>60 Min From End</string>
-		</dict>
-		<dict>
-			<key>Alpha</key>
-			<string>4.000000</string>
-			<key>Amount</key>
-			<string>24.909483</string>
-			<key>DateLastModified</key>
-			<date>2009-08-09T18:00:38Z</date>
-			<key>Form</key>
-			<string>Loose Whole Hops</string>
-			<key>IBUForAddition</key>
-			<string>5.344149</string>
-			<key>Minutes</key>
-			<string>15</string>
-			<key>Percentage</key>
-			<string>0.000000</string>
-			<key>UUID</key>
-			<string>5F82B21A-1BD2-11DA-9896-001124CAE2A6</string>
-			<key>Variety</key>
-			<string>German Hallertauer Hersbrucker</string>
-			<key>When</key>
-			<string>15 Min From End</string>
-		</dict>
-		<dict>
-			<key>Alpha</key>
-			<string>4.000000</string>
-			<key>Amount</key>
-			<string>24.909483</string>
-			<key>DateLastModified</key>
-			<date>2009-08-09T18:00:38Z</date>
-			<key>Form</key>
-			<string>Loose Whole Hops</string>
-			<key>IBUForAddition</key>
-			<string>0.464434</string>
-			<key>Minutes</key>
-			<string>1</string>
-			<key>Percentage</key>
-			<string>0.000000</string>
-			<key>UUID</key>
-			<string>5F82B21A-1BD2-11DA-9896-001124CAE2A6</string>
-			<key>Variety</key>
-			<string>German Hallertauer Hersbrucker</string>
-			<key>When</key>
-			<string>1 Min From End</string>
+			<string>First Wort Hopped</string>
 		</dict>
 	</array>
 	<key>MashEfficiency</key>
-	<string>80.000000</string>
+	<string>75.000000</string>
 	<key>MashSchedule</key>
 	<dict>
 		<key>DateLastModified</key>
-		<date>2009-08-21T14:01:32Z</date>
+		<date>2009-08-09T18:00:38Z</date>
 		<key>ScheduleName</key>
-		<string>Single Step Infusion (67C/152F)</string>
+		<string>Single Step Infusion (65C/149F)</string>
 		<key>Steps</key>
 		<array>
 			<dict>
@@ -826,11 +888,11 @@ Daniels: BU/GU Ratio - .75-.80</string>
 				<key>StepType</key>
 				<string>Rest at</string>
 				<key>Temperature</key>
-				<string>66.666664</string>
+				<string>65.000000</string>
 			</dict>
 		</array>
 		<key>UUID</key>
-		<string>107B5B7D-7D9C-4B21-B3E1-8E31AD1333B3</string>
+		<string>D8441732-7858-4F45-BEB0-0BA546FB64B8</string>
 		<key>Version</key>
 		<string>3</string>
 	</dict>
@@ -845,15 +907,14 @@ Daniels: BU/GU Ratio - .75-.80</string>
 	<key>NaHCO3</key>
 	<string>0.0</string>
 	<key>Notes</key>
-	<string>Pre-boil: 1.041
-OG: 1.048
-FG: 1.009
-IBU: 36
-Color: 3 srm
-5.1% ABV
+	<string>Water: 
+9 gals in pot, 8.5 gallons in mash
 
-Mosher: 1.25 quarts water per pound
-Daniels: BU/GU Ratio - .75-.80</string>
+== IN POT BEFORE HEATING (9 gals) ==
+4.5g gypsum
+9ml pos acid 85%
+
+estimated ph: 5.23</string>
 	<key>OtherIngredients</key>
 	<array/>
 	<key>PreBoilWortVolume</key>
@@ -861,25 +922,25 @@ Daniels: BU/GU Ratio - .75-.80</string>
 	<key>Profile</key>
 	<dict>
 		<key>BoilDuration</key>
-		<string>90</string>
+		<string>75.000000</string>
 		<key>DateLastModified</key>
-		<date>2013-10-02T23:55:57Z</date>
+		<date>2018-07-06T23:08:59Z</date>
 		<key>ExtractEfficiency</key>
-		<string>80.000000</string>
+		<string>75.000000</string>
 		<key>FinishedBatchVolume</key>
-		<string>20819.755859</string>
+		<string>18927.050781</string>
 		<key>MTThermalMass</key>
-		<string>680.400024</string>
+		<string>1000</string>
 		<key>PostBoilVolume</key>
-		<string>23658.812500</string>
+		<string>23923.791016</string>
 		<key>PreBoilVolume</key>
 		<string>30283.279297</string>
 		<key>PreferredMashSchedule</key>
-		<string>107B5B7D-7D9C-4B21-B3E1-8E31AD1333B3</string>
+		<string>D8441732-7858-4F45-BEB0-0BA546FB64B8</string>
 		<key>PreferredRecipeType</key>
 		<string>Full Mash</string>
 		<key>PreferredSpargeMethod</key>
-		<string>Batch Sparge</string>
+		<string>Fly Sparge</string>
 		<key>ProfileName</key>
 		<string>Specific to this recipe</string>
 		<key>UUID</key>
@@ -887,31 +948,31 @@ Daniels: BU/GU Ratio - .75-.80</string>
 		<key>Version</key>
 		<string>2</string>
 		<key>VolumeAtPitching</key>
-		<string>22712.460938</string>
+		<string>20062.673828</string>
 		<key>VolumeToFermenter</key>
-		<string>22712.460938</string>
+		<string>20062.673828</string>
 		<key>VolumeWaterAdded</key>
 		<string>0.000000</string>
 		<key>WaterGrainRatio</key>
-		<string>3.338177</string>
+		<string>2</string>
 	</dict>
 	<key>RecipeTitle</key>
-	<string>Pils-ish</string>
+	<string>Rockwell Saison</string>
 	<key>Style</key>
-	<string>Pilsner-German Pilsner (Pils)</string>
+	<string>Belgian And French Ale-Saison</string>
 	<key>UUID</key>
-	<string>8A2B2423-3122-42C5-9F9C-79D35539425B</string>
+	<string>D418CE22-236B-4FD4-BFD2-390FF96C9665</string>
 	<key>VolumeAtPitching</key>
-	<string>22712.460938</string>
+	<string>20062.673828</string>
 	<key>VolumeToFermenter</key>
-	<string>22712.460938</string>
+	<string>20062.673828</string>
 	<key>VolumeWaterAdded</key>
 	<string>0.000000</string>
 	<key>WaterProfileUsed</key>
 	<string> No Water Profile Chosen</string>
 	<key>Yeast</key>
-	<string>White Labs WLP830-German Lager</string>
+	<string>Wyeast 3711-French Saison</string>
 	<key>YeastAmount</key>
-	<string>4</string>
+	<string>2</string>
 </dict>
 </plist>

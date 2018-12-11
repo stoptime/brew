@@ -22,7 +22,7 @@
 				<key>ApparentAttenuation</key>
 				<string>74.528160</string>
 				<key>Color</key>
-				<string>25.777935</string>
+				<string>27.572948</string>
 				<key>FG</key>
 				<string>1.014802</string>
 				<key>FGHydroReading</key>
@@ -118,7 +118,7 @@ Final gravity reached 5/22</string>
 				<key>ExpectedABW</key>
 				<string>4.299672</string>
 				<key>ExpectedColor</key>
-				<string>25.777935</string>
+				<string>27.572948</string>
 				<key>ExpectedFinalGravity</key>
 				<string>1.013202</string>
 				<key>ExpectedIBU</key>
@@ -158,9 +158,9 @@ Final gravity reached 5/22</string>
 						<key>Color</key>
 						<string>4.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>5.369359</string>
+						<string>5.743248</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>2.725563</string>
+						<string>2.915354</string>
 						<key>DateLastModified</key>
 						<date>2009-09-01T14:06:38Z</date>
 						<key>Extract</key>
@@ -196,9 +196,9 @@ Final gravity reached 5/22</string>
 						<key>Color</key>
 						<string>400.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>20.650927</string>
+						<string>22.088928</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>10.482703</string>
+						<string>11.212653</string>
 						<key>DateLastModified</key>
 						<date>2014-05-09T18:21:51Z</date>
 						<key>Description</key>
@@ -259,9 +259,9 @@ Final gravity reached 5/22</string>
 						<key>Color</key>
 						<string>525.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>23.039194</string>
+						<string>24.643501</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>11.695023</string>
+						<string>12.509391</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -340,9 +340,9 @@ Final gravity reached 5/22</string>
 						<key>Color</key>
 						<string>27.998150</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>0.722751</string>
+						<string>0.773078</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>0.366878</string>
+						<string>0.392426</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -401,9 +401,9 @@ Final gravity reached 5/22</string>
 						<key>Color</key>
 						<string>77.500000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>1.000301</string>
+						<string>1.069956</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>0.507767</string>
+						<string>0.543125</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -1401,7 +1401,7 @@ Final gravity reached 5/22</string>
 	<key>ExpectedABW</key>
 	<string>4.045061</string>
 	<key>ExpectedColor</key>
-	<string>27.152021</string>
+	<string>28.793581</string>
 	<key>ExpectedFinalGravity</key>
 	<string>1.012468</string>
 	<key>ExpectedIBU</key>
@@ -1418,9 +1418,9 @@ Final gravity reached 5/22</string>
 			<key>Color</key>
 			<string>4.000000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>5.309444</string>
+			<string>5.630443</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>2.695149</string>
+			<string>2.858093</string>
 			<key>DateLastModified</key>
 			<date>2009-09-01T14:06:38Z</date>
 			<key>Extract</key>
@@ -1456,9 +1456,9 @@ Final gravity reached 5/22</string>
 			<key>Color</key>
 			<string>550.000000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>28.078175</string>
+			<string>29.775726</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>14.252880</string>
+			<string>15.114582</string>
 			<key>DateLastModified</key>
 			<date>2014-04-14T23:34:17Z</date>
 			<key>Extract</key>
@@ -1494,9 +1494,9 @@ Final gravity reached 5/22</string>
 			<key>Color</key>
 			<string>525.000000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>20.101864</string>
+			<string>21.317183</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>10.203991</string>
+			<string>10.820906</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>

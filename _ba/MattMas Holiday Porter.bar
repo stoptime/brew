@@ -22,7 +22,7 @@
 				<key>ApparentAttenuation</key>
 				<string>69.801224</string>
 				<key>Color</key>
-				<string>40.818726</string>
+				<string>39.894978</string>
 				<key>FG</key>
 				<string>1.018180</string>
 				<key>FGHydroReading</key>
@@ -116,7 +116,7 @@ capped with black malts</string>
 				<key>ExpectedABW</key>
 				<string>5.530322</string>
 				<key>ExpectedColor</key>
-				<string>40.818726</string>
+				<string>39.894978</string>
 				<key>ExpectedFinalGravity</key>
 				<string>1.014549</string>
 				<key>ExpectedIBU</key>
@@ -156,9 +156,9 @@ capped with black malts</string>
 						<key>Color</key>
 						<string>3.700000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>3.309706</string>
+						<string>3.234806</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>1.680054</string>
+						<string>1.642034</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Description</key>
@@ -219,9 +219,9 @@ capped with black malts</string>
 						<key>Color</key>
 						<string>5.500000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>2.186641</string>
+						<string>2.137156</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>1.109970</string>
+						<string>1.084851</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -280,9 +280,9 @@ capped with black malts</string>
 						<key>Color</key>
 						<string>350.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>34.786705</string>
+						<string>33.999466</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>17.658226</string>
+						<string>17.258612</string>
 						<key>DateLastModified</key>
 						<date>2010-03-13T16:30:25Z</date>
 						<key>Description</key>
@@ -343,9 +343,9 @@ capped with black malts</string>
 						<key>Color</key>
 						<string>40.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>2.981784</string>
+						<string>2.914304</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>1.513596</string>
+						<string>1.479342</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -404,9 +404,9 @@ capped with black malts</string>
 						<key>Color</key>
 						<string>550.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>13.666507</string>
+						<string>13.357227</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>6.937313</string>
+						<string>6.780318</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Description</key>
@@ -487,9 +487,9 @@ capped with black malts</string>
 						<key>Color</key>
 						<string>420.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>10.436242</string>
+						<string>10.200065</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>5.297585</string>
+						<string>5.177698</string>
 						<key>DateLastModified</key>
 						<date>2010-10-06T18:29:56Z</date>
 						<key>Extract</key>
@@ -548,9 +548,9 @@ capped with black malts</string>
 						<key>Color</key>
 						<string>525.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>13.045301</string>
+						<string>12.750080</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>6.621981</string>
+						<string>6.472122</string>
 						<key>DateLastModified</key>
 						<date>2010-03-13T16:45:29Z</date>
 						<key>Extract</key>
@@ -1586,7 +1586,7 @@ Wyeast 1968 or 002.</string>
 	<key>ExpectedABW</key>
 	<string>5.530322</string>
 	<key>ExpectedColor</key>
-	<string>40.818726</string>
+	<string>39.894978</string>
 	<key>ExpectedFinalGravity</key>
 	<string>1.014549</string>
 	<key>ExpectedIBU</key>
@@ -1626,9 +1626,9 @@ Wyeast 1968 or 002.</string>
 			<key>Color</key>
 			<string>3.700000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>3.309706</string>
+			<string>3.234806</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>1.680054</string>
+			<string>1.642034</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Description</key>
@@ -1689,9 +1689,9 @@ Wyeast 1968 or 002.</string>
 			<key>Color</key>
 			<string>5.500000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>2.186641</string>
+			<string>2.137156</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>1.109970</string>
+			<string>1.084851</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>
@@ -1750,9 +1750,9 @@ Wyeast 1968 or 002.</string>
 			<key>Color</key>
 			<string>350.000000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>34.786705</string>
+			<string>33.999466</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>17.658226</string>
+			<string>17.258612</string>
 			<key>DateLastModified</key>
 			<date>2010-03-13T16:30:25Z</date>
 			<key>Description</key>
@@ -1813,9 +1813,9 @@ Wyeast 1968 or 002.</string>
 			<key>Color</key>
 			<string>40.000000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>2.981784</string>
+			<string>2.914304</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>1.513596</string>
+			<string>1.479342</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>
@@ -1874,9 +1874,9 @@ Wyeast 1968 or 002.</string>
 			<key>Color</key>
 			<string>550.000000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>13.666507</string>
+			<string>13.357227</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>6.937313</string>
+			<string>6.780318</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Description</key>
@@ -1957,9 +1957,9 @@ Wyeast 1968 or 002.</string>
 			<key>Color</key>
 			<string>420.000000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>10.436242</string>
+			<string>10.200065</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>5.297585</string>
+			<string>5.177698</string>
 			<key>DateLastModified</key>
 			<date>2010-10-06T18:29:56Z</date>
 			<key>Extract</key>
@@ -2018,9 +2018,9 @@ Wyeast 1968 or 002.</string>
 			<key>Color</key>
 			<string>525.000000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>13.045301</string>
+			<string>12.750080</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>6.621981</string>
+			<string>6.472122</string>
 			<key>DateLastModified</key>
 			<date>2010-03-13T16:45:29Z</date>
 			<key>Extract</key>

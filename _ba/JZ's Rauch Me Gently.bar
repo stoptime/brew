@@ -22,7 +22,7 @@
 				<key>ApparentAttenuation</key>
 				<string>68.290184</string>
 				<key>Color</key>
-				<string>11.149411</string>
+				<string>12.238252</string>
 				<key>FG</key>
 				<string>1.016000</string>
 				<key>FGHydroReading</key>
@@ -116,7 +116,7 @@ Aerated "just on" for 1 minute</string>
 				<key>ExpectedABW</key>
 				<string>3.724236</string>
 				<key>ExpectedColor</key>
-				<string>12.167740</string>
+				<string>13.532873</string>
 				<key>ExpectedFinalGravity</key>
 				<string>1.014787</string>
 				<key>ExpectedIBU</key>
@@ -156,9 +156,9 @@ Aerated "just on" for 1 minute</string>
 						<key>Color</key>
 						<string>1.300000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>1.024601</string>
+						<string>1.139554</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>0.520102</string>
+						<string>0.578454</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -217,9 +217,9 @@ Aerated "just on" for 1 minute</string>
 						<key>Color</key>
 						<string>2.500000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>1.074732</string>
+						<string>1.195309</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>0.545549</string>
+						<string>0.606756</string>
 						<key>DateLastModified</key>
 						<date>2010-10-05T14:27:57Z</date>
 						<key>Extract</key>
@@ -278,9 +278,9 @@ Aerated "just on" for 1 minute</string>
 						<key>Color</key>
 						<string>5.500000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>1.379240</string>
+						<string>1.533981</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>0.700122</string>
+						<string>0.778670</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -339,9 +339,9 @@ Aerated "just on" for 1 minute</string>
 						<key>Color</key>
 						<string>57.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>6.125974</string>
+						<string>6.813264</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>3.109631</string>
+						<string>3.458510</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -400,9 +400,9 @@ Aerated "just on" for 1 minute</string>
 						<key>Color</key>
 						<string>26.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>0.931455</string>
+						<string>1.035957</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>0.472820</string>
+						<string>0.525867</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -461,9 +461,9 @@ Aerated "just on" for 1 minute</string>
 						<key>Color</key>
 						<string>499.999969</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>13.434446</string>
+						<string>14.941694</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>6.819516</string>
+						<string>7.584617</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -1194,7 +1194,7 @@ Can dial up rauch malt to you pref - JZ prefers 50%.</string>
 				<key>ApparentAttenuation</key>
 				<string>77.461777</string>
 				<key>Color</key>
-				<string>13.975739</string>
+				<string>15.702685</string>
 				<key>FG</key>
 				<string>1.013000</string>
 				<key>FGHydroReading</key>
@@ -1290,7 +1290,7 @@ After 5 minutes and a stir, mash was at 150F and 5.3ph.
 				<key>ExpectedABW</key>
 				<string>4.559463</string>
 				<key>ExpectedColor</key>
-				<string>13.975739</string>
+				<string>15.702685</string>
 				<key>ExpectedFinalGravity</key>
 				<string>1.012864</string>
 				<key>ExpectedIBU</key>
@@ -1330,9 +1330,9 @@ After 5 minutes and a stir, mash was at 150F and 5.3ph.
 						<key>Color</key>
 						<string>1.300000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>1.114722</string>
+						<string>1.252466</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>0.565849</string>
+						<string>0.635769</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -1391,9 +1391,9 @@ After 5 minutes and a stir, mash was at 150F and 5.3ph.
 						<key>Color</key>
 						<string>2.500000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>1.648998</string>
+						<string>1.852760</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>0.837055</string>
+						<string>0.940487</string>
 						<key>DateLastModified</key>
 						<date>2010-10-05T14:27:57Z</date>
 						<key>Extract</key>
@@ -1492,9 +1492,9 @@ After 5 minutes and a stir, mash was at 150F and 5.3ph.
 						<key>Color</key>
 						<string>9.000001</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>1.780957</string>
+						<string>2.001025</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>0.904039</string>
+						<string>1.015749</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -1573,9 +1573,9 @@ After 5 minutes and a stir, mash was at 150F and 5.3ph.
 						<key>Color</key>
 						<string>57.000004</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>5.639697</string>
+						<string>6.336579</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>2.862790</string>
+						<string>3.216538</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -1634,9 +1634,9 @@ After 5 minutes and a stir, mash was at 150F and 5.3ph.
 						<key>Color</key>
 						<string>26.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>0.857497</string>
+						<string>0.963456</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>0.435278</string>
+						<string>0.489064</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -1695,9 +1695,9 @@ After 5 minutes and a stir, mash was at 150F and 5.3ph.
 						<key>Color</key>
 						<string>500.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>16.490337</string>
+						<string>18.528006</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>8.370729</string>
+						<string>9.405079</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -2447,7 +2447,7 @@ Can dial up rauch malt to you pref - JZ prefers 50%.</string>
 	<key>ExpectedABW</key>
 	<string>4.602339</string>
 	<key>ExpectedColor</key>
-	<string>12.357454</string>
+	<string>13.767754</string>
 	<key>ExpectedFinalGravity</key>
 	<string>1.012976</string>
 	<key>ExpectedIBU</key>
@@ -2464,9 +2464,9 @@ Can dial up rauch malt to you pref - JZ prefers 50%.</string>
 			<key>Color</key>
 			<string>1.300000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>0.917654</string>
+			<string>1.022381</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>0.465814</string>
+			<string>0.518975</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>
@@ -2502,9 +2502,9 @@ Can dial up rauch malt to you pref - JZ prefers 50%.</string>
 			<key>Color</key>
 			<string>2.500000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>1.764719</string>
+			<string>1.966118</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>0.895797</string>
+			<string>0.998030</string>
 			<key>DateLastModified</key>
 			<date>2010-10-05T14:27:57Z</date>
 			<key>Extract</key>
@@ -2540,9 +2540,9 @@ Can dial up rauch malt to you pref - JZ prefers 50%.</string>
 			<key>Color</key>
 			<string>5.500000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>1.366041</string>
+			<string>1.521940</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>0.693422</string>
+			<string>0.772559</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>
@@ -2578,9 +2578,9 @@ Can dial up rauch malt to you pref - JZ prefers 50%.</string>
 			<key>Color</key>
 			<string>57.000000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>6.067348</string>
+			<string>6.759787</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>3.079872</string>
+			<string>3.431364</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>
@@ -2616,9 +2616,9 @@ Can dial up rauch malt to you pref - JZ prefers 50%.</string>
 			<key>Color</key>
 			<string>26.000000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>0.922541</string>
+			<string>1.027826</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>0.468295</string>
+			<string>0.521739</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>
@@ -2654,9 +2654,9 @@ Can dial up rauch malt to you pref - JZ prefers 50%.</string>
 			<key>Color</key>
 			<string>500.000000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>13.305882</string>
+			<string>14.824422</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>6.754255</string>
+			<string>7.525087</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>

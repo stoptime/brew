@@ -22,7 +22,7 @@
 				<key>ApparentAttenuation</key>
 				<string>0.000000</string>
 				<key>Color</key>
-				<string>7.915117</string>
+				<string>7.591993</string>
 				<key>FG</key>
 				<string>1.000000</string>
 				<key>FGHydroReading</key>
@@ -113,7 +113,7 @@
 				<key>ExpectedABW</key>
 				<string>3.260001</string>
 				<key>ExpectedColor</key>
-				<string>7.915117</string>
+				<string>7.591993</string>
 				<key>ExpectedFinalGravity</key>
 				<string>1.010176</string>
 				<key>ExpectedIBU</key>
@@ -130,9 +130,9 @@
 						<key>Color</key>
 						<string>1.800000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>3.637455</string>
+						<string>3.488961</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>1.846424</string>
+						<string>1.771046</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -168,9 +168,9 @@
 						<key>Color</key>
 						<string>77.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>10.038856</string>
+						<string>9.629033</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>5.095866</string>
+						<string>4.887834</string>
 						<key>DateLastModified</key>
 						<date>2010-08-25T13:10:14Z</date>
 						<key>Extract</key>
@@ -206,9 +206,9 @@
 						<key>Color</key>
 						<string>1.300000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>0.169487</string>
+						<string>0.162568</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>0.086034</string>
+						<string>0.082522</string>
 						<key>DateLastModified</key>
 						<date>2010-05-14T13:41:07Z</date>
 						<key>Extract</key>
@@ -244,9 +244,9 @@
 						<key>Color</key>
 						<string>22.500000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>1.173347</string>
+						<string>1.125447</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>0.595608</string>
+						<string>0.571293</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -282,9 +282,9 @@
 						<key>Color</key>
 						<string>22.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>0.573636</string>
+						<string>0.550218</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>0.291186</string>
+						<string>0.279298</string>
 						<key>DateLastModified</key>
 						<date>2009-09-03T13:14:53Z</date>
 						<key>Extract</key>
@@ -1463,7 +1463,7 @@ Return to 67F and dry hop for 7 days.</string>
 	<key>ExpectedABW</key>
 	<string>3.260001</string>
 	<key>ExpectedColor</key>
-	<string>7.915117</string>
+	<string>7.591993</string>
 	<key>ExpectedFinalGravity</key>
 	<string>1.010176</string>
 	<key>ExpectedIBU</key>
@@ -1480,9 +1480,9 @@ Return to 67F and dry hop for 7 days.</string>
 			<key>Color</key>
 			<string>1.800000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>3.637455</string>
+			<string>3.488961</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>1.846424</string>
+			<string>1.771046</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>
@@ -1518,9 +1518,9 @@ Return to 67F and dry hop for 7 days.</string>
 			<key>Color</key>
 			<string>77.000000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>10.038856</string>
+			<string>9.629033</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>5.095866</string>
+			<string>4.887834</string>
 			<key>DateLastModified</key>
 			<date>2010-08-25T13:10:14Z</date>
 			<key>Extract</key>
@@ -1556,9 +1556,9 @@ Return to 67F and dry hop for 7 days.</string>
 			<key>Color</key>
 			<string>1.300000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>0.169487</string>
+			<string>0.162568</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>0.086034</string>
+			<string>0.082522</string>
 			<key>DateLastModified</key>
 			<date>2010-05-14T13:41:07Z</date>
 			<key>Extract</key>
@@ -1594,9 +1594,9 @@ Return to 67F and dry hop for 7 days.</string>
 			<key>Color</key>
 			<string>22.500000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>1.173347</string>
+			<string>1.125447</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>0.595608</string>
+			<string>0.571293</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>
@@ -1632,9 +1632,9 @@ Return to 67F and dry hop for 7 days.</string>
 			<key>Color</key>
 			<string>22.000000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>0.573636</string>
+			<string>0.550218</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>0.291186</string>
+			<string>0.279298</string>
 			<key>DateLastModified</key>
 			<date>2009-09-03T13:14:53Z</date>
 			<key>Extract</key>

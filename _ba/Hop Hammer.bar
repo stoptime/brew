@@ -22,7 +22,7 @@
 				<key>ApparentAttenuation</key>
 				<string>86.593361</string>
 				<key>Color</key>
-				<string>7.055000</string>
+				<string>6.132225</string>
 				<key>FG</key>
 				<string>1.009614</string>
 				<key>FGHydroReading</key>
@@ -115,7 +115,7 @@
 				<key>ExpectedABW</key>
 				<string>6.970981</string>
 				<key>ExpectedColor</key>
-				<string>7.055000</string>
+				<string>6.132225</string>
 				<key>ExpectedFinalGravity</key>
 				<string>1.014714</string>
 				<key>ExpectedIBU</key>
@@ -155,9 +155,9 @@
 						<key>Color</key>
 						<string>1.800000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>7.701633</string>
+						<string>6.694280</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>3.909458</string>
+						<string>3.398112</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -216,9 +216,9 @@
 						<key>Color</key>
 						<string>2.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>0.295082</string>
+						<string>0.256486</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>0.149788</string>
+						<string>0.130196</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -277,9 +277,9 @@
 						<key>Color</key>
 						<string>40.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>5.901635</string>
+						<string>5.129717</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>2.995754</string>
+						<string>2.603917</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -1517,7 +1517,7 @@ Dry hop 7-10 days. Should purge carboy.
 	<key>ExpectedABW</key>
 	<string>6.970981</string>
 	<key>ExpectedColor</key>
-	<string>7.055000</string>
+	<string>6.132225</string>
 	<key>ExpectedFinalGravity</key>
 	<string>1.014714</string>
 	<key>ExpectedIBU</key>
@@ -1534,9 +1534,9 @@ Dry hop 7-10 days. Should purge carboy.
 			<key>Color</key>
 			<string>1.800000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>7.701633</string>
+			<string>6.694280</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>3.909458</string>
+			<string>3.398112</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>
@@ -1572,9 +1572,9 @@ Dry hop 7-10 days. Should purge carboy.
 			<key>Color</key>
 			<string>2.000000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>0.295082</string>
+			<string>0.256486</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>0.149788</string>
+			<string>0.130196</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>
@@ -1610,9 +1610,9 @@ Dry hop 7-10 days. Should purge carboy.
 			<key>Color</key>
 			<string>40.000000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>5.901635</string>
+			<string>5.129717</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>2.995754</string>
+			<string>2.603917</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>

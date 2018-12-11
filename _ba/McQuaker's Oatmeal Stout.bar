@@ -22,7 +22,7 @@
 				<key>ApparentAttenuation</key>
 				<string>70.896851</string>
 				<key>Color</key>
-				<string>37.683964</string>
+				<string>37.486378</string>
 				<key>FG</key>
 				<string>1.018802</string>
 				<key>FGHydroReading</key>
@@ -121,7 +121,7 @@ Wow, way overshot OG. Try less vigorous boil, and watch volumes. Maybe go back t
 				<key>ExpectedABW</key>
 				<string>4.303250</string>
 				<key>ExpectedColor</key>
-				<string>37.683964</string>
+				<string>37.486378</string>
 				<key>ExpectedFinalGravity</key>
 				<string>1.017742</string>
 				<key>ExpectedIBU</key>
@@ -161,9 +161,9 @@ Wow, way overshot OG. Try less vigorous boil, and watch volumes. Maybe go back t
 						<key>Color</key>
 						<string>3.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>3.462004</string>
+						<string>3.443852</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>1.757362</string>
+						<string>1.748148</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -199,9 +199,9 @@ Wow, way overshot OG. Try less vigorous boil, and watch volumes. Maybe go back t
 						<key>Color</key>
 						<string>3.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>0.368299</string>
+						<string>0.366368</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>0.186954</string>
+						<string>0.185973</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -237,9 +237,9 @@ Wow, way overshot OG. Try less vigorous boil, and watch volumes. Maybe go back t
 						<key>Color</key>
 						<string>28.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>2.578146</string>
+						<string>2.564628</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>1.308703</string>
+						<string>1.301841</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -298,9 +298,9 @@ Wow, way overshot OG. Try less vigorous boil, and watch volumes. Maybe go back t
 						<key>Color</key>
 						<string>350.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>32.226109</string>
+						<string>32.057140</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>16.358431</string>
+						<string>16.272659</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -336,9 +336,9 @@ Wow, way overshot OG. Try less vigorous boil, and watch volumes. Maybe go back t
 						<key>Color</key>
 						<string>500.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>30.692207</string>
+						<string>30.531282</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>15.579801</string>
+						<string>15.498112</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -374,9 +374,9 @@ Wow, way overshot OG. Try less vigorous boil, and watch volumes. Maybe go back t
 						<key>Color</key>
 						<string>80.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>4.910645</string>
+						<string>4.884897</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>2.492713</string>
+						<string>2.479643</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -1030,7 +1030,7 @@ Wow, way overshot OG. Try less vigorous boil, and watch volumes. Maybe go back t
 	<key>ExpectedABW</key>
 	<string>4.090901</string>
 	<key>ExpectedColor</key>
-	<string>37.455238</string>
+	<string>37.307888</string>
 	<key>ExpectedFinalGravity</key>
 	<string>1.016921</string>
 	<key>ExpectedIBU</key>
@@ -1047,9 +1047,9 @@ Wow, way overshot OG. Try less vigorous boil, and watch volumes. Maybe go back t
 			<key>Color</key>
 			<string>3.000000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>2.948953</string>
+			<string>2.937351</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>1.496930</string>
+			<string>1.491041</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>
@@ -1085,9 +1085,9 @@ Wow, way overshot OG. Try less vigorous boil, and watch volumes. Maybe go back t
 			<key>Color</key>
 			<string>3.000000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>0.368628</string>
+			<string>0.367177</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>0.187121</string>
+			<string>0.186384</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>
@@ -1123,9 +1123,9 @@ Wow, way overshot OG. Try less vigorous boil, and watch volumes. Maybe go back t
 			<key>Color</key>
 			<string>28.000000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>2.580390</string>
+			<string>2.570239</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>1.309843</string>
+			<string>1.304690</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>
@@ -1161,9 +1161,9 @@ Wow, way overshot OG. Try less vigorous boil, and watch volumes. Maybe go back t
 			<key>Color</key>
 			<string>350.000000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>32.254887</string>
+			<string>32.127991</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>16.373039</string>
+			<string>16.308626</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>
@@ -1199,9 +1199,9 @@ Wow, way overshot OG. Try less vigorous boil, and watch volumes. Maybe go back t
 			<key>Color</key>
 			<string>500.000000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>30.718937</string>
+			<string>30.598087</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>15.593369</string>
+			<string>15.532024</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>
@@ -1237,9 +1237,9 @@ Wow, way overshot OG. Try less vigorous boil, and watch volumes. Maybe go back t
 			<key>Color</key>
 			<string>80.000000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>4.915030</string>
+			<string>4.895694</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>2.494939</string>
+			<string>2.485124</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>

@@ -22,7 +22,7 @@
 				<key>ApparentAttenuation</key>
 				<string>81.371262</string>
 				<key>Color</key>
-				<string>6.086524</string>
+				<string>4.264005</string>
 				<key>FG</key>
 				<string>1.011283</string>
 				<key>FGHydroReading</key>
@@ -115,7 +115,7 @@
 				<key>ExpectedABW</key>
 				<string>5.473339</string>
 				<key>ExpectedColor</key>
-				<string>6.086524</string>
+				<string>4.264005</string>
 				<key>ExpectedFinalGravity</key>
 				<string>1.011301</string>
 				<key>ExpectedIBU</key>
@@ -155,9 +155,9 @@
 						<key>Color</key>
 						<string>1.600000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>7.509973</string>
+						<string>5.261223</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>3.812169</string>
+						<string>2.670672</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -216,9 +216,9 @@
 						<key>Color</key>
 						<string>2.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>1.280137</string>
+						<string>0.896819</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>0.649816</string>
+						<string>0.455238</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -277,9 +277,9 @@
 						<key>Color</key>
 						<string>15.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>3.200343</string>
+						<string>2.242048</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>1.624540</string>
+						<string>1.138095</string>
 						<key>DateLastModified</key>
 						<date>2010-05-08T14:52:10Z</date>
 						<key>Extract</key>
@@ -1084,7 +1084,7 @@
 				<key>ApparentAttenuation</key>
 				<string>80.496010</string>
 				<key>Color</key>
-				<string>6.086524</string>
+				<string>4.264005</string>
 				<key>FG</key>
 				<string>1.011283</string>
 				<key>FGHydroReading</key>
@@ -1181,7 +1181,7 @@ Bottom runnings after 10 minutes: 5.59ph
 				<key>ExpectedABW</key>
 				<string>5.473339</string>
 				<key>ExpectedColor</key>
-				<string>6.086524</string>
+				<string>4.264005</string>
 				<key>ExpectedFinalGravity</key>
 				<string>1.011301</string>
 				<key>ExpectedIBU</key>
@@ -1221,9 +1221,9 @@ Bottom runnings after 10 minutes: 5.59ph
 						<key>Color</key>
 						<string>1.600000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>7.509973</string>
+						<string>5.261223</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>3.812169</string>
+						<string>2.670672</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -1282,9 +1282,9 @@ Bottom runnings after 10 minutes: 5.59ph
 						<key>Color</key>
 						<string>2.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>1.280137</string>
+						<string>0.896819</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>0.649816</string>
+						<string>0.455238</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -1343,9 +1343,9 @@ Bottom runnings after 10 minutes: 5.59ph
 						<key>Color</key>
 						<string>15.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>3.200343</string>
+						<string>2.242048</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>1.624540</string>
+						<string>1.138095</string>
 						<key>DateLastModified</key>
 						<date>2010-05-08T14:52:10Z</date>
 						<key>Extract</key>
@@ -2070,7 +2070,7 @@ Bottom runnings after 10 minutes: 5.59ph
 				<key>ApparentAttenuation</key>
 				<string>78.352020</string>
 				<key>Color</key>
-				<string>6.086524</string>
+				<string>4.264005</string>
 				<key>FG</key>
 				<string>1.011036</string>
 				<key>FGHydroReading</key>
@@ -2164,7 +2164,7 @@ Bottom runnings after 10 minutes: 5.59ph
 				<key>ExpectedABW</key>
 				<string>5.205485</string>
 				<key>ExpectedColor</key>
-				<string>6.086524</string>
+				<string>4.264005</string>
 				<key>ExpectedFinalGravity</key>
 				<string>1.013758</string>
 				<key>ExpectedIBU</key>
@@ -2204,9 +2204,9 @@ Bottom runnings after 10 minutes: 5.59ph
 						<key>Color</key>
 						<string>1.600000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>7.509973</string>
+						<string>5.261223</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>3.812169</string>
+						<string>2.670672</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -2265,9 +2265,9 @@ Bottom runnings after 10 minutes: 5.59ph
 						<key>Color</key>
 						<string>2.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>1.280137</string>
+						<string>0.896819</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>0.649816</string>
+						<string>0.455238</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -2326,9 +2326,9 @@ Bottom runnings after 10 minutes: 5.59ph
 						<key>Color</key>
 						<string>15.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>3.200343</string>
+						<string>2.242048</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>1.624540</string>
+						<string>1.138095</string>
 						<key>DateLastModified</key>
 						<date>2010-05-08T14:52:10Z</date>
 						<key>Extract</key>
@@ -3018,7 +3018,7 @@ Bottom runnings after 10 minutes: 5.59ph
 	<key>ExpectedABW</key>
 	<string>5.473339</string>
 	<key>ExpectedColor</key>
-	<string>6.086524</string>
+	<string>4.264005</string>
 	<key>ExpectedFinalGravity</key>
 	<string>1.011301</string>
 	<key>ExpectedIBU</key>
@@ -3035,9 +3035,9 @@ Bottom runnings after 10 minutes: 5.59ph
 			<key>Color</key>
 			<string>1.600000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>7.509973</string>
+			<string>5.261223</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>3.812169</string>
+			<string>2.670672</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>
@@ -3073,9 +3073,9 @@ Bottom runnings after 10 minutes: 5.59ph
 			<key>Color</key>
 			<string>2.000000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>1.280137</string>
+			<string>0.896819</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>0.649816</string>
+			<string>0.455238</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>
@@ -3111,9 +3111,9 @@ Bottom runnings after 10 minutes: 5.59ph
 			<key>Color</key>
 			<string>15.000000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>3.200343</string>
+			<string>2.242048</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>1.624540</string>
+			<string>1.138095</string>
 			<key>DateLastModified</key>
 			<date>2010-05-08T14:52:10Z</date>
 			<key>Extract</key>

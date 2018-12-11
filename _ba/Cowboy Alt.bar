@@ -22,7 +22,7 @@
 				<key>ApparentAttenuation</key>
 				<string>75.325050</string>
 				<key>Color</key>
-				<string>13.215900</string>
+				<string>14.808624</string>
 				<key>FG</key>
 				<string>1.013084</string>
 				<key>FGHydroReading</key>
@@ -119,7 +119,7 @@ Free ferment in basement ambient upper 50s
 				<key>ExpectedABW</key>
 				<string>3.977175</string>
 				<key>ExpectedColor</key>
-				<string>13.990072</string>
+				<string>15.719324</string>
 				<key>ExpectedFinalGravity</key>
 				<string>1.012272</string>
 				<key>ExpectedIBU</key>
@@ -159,9 +159,9 @@ Free ferment in basement ambient upper 50s
 						<key>Color</key>
 						<string>1.300000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>1.522362</string>
+						<string>1.710535</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>0.772773</string>
+						<string>0.868292</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -197,9 +197,9 @@ Free ferment in basement ambient upper 50s
 						<key>Color</key>
 						<string>5.500000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>0.805095</string>
+						<string>0.904610</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>0.408678</string>
+						<string>0.459193</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -235,9 +235,9 @@ Free ferment in basement ambient upper 50s
 						<key>Color</key>
 						<string>19.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>1.390650</string>
+						<string>1.562542</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>0.705914</string>
+						<string>0.793169</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -273,9 +273,9 @@ Free ferment in basement ambient upper 50s
 						<key>Color</key>
 						<string>57.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>4.171951</string>
+						<string>4.687627</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>2.117742</string>
+						<string>2.379506</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -311,9 +311,9 @@ Free ferment in basement ambient upper 50s
 						<key>Color</key>
 						<string>430.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>19.670383</string>
+						<string>22.101753</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>9.984966</string>
+						<string>11.219165</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -1015,7 +1015,7 @@ Original recipe had 2lb munich &amp; 3oz  carafa ii.</string>
 	<key>ExpectedABW</key>
 	<string>3.977175</string>
 	<key>ExpectedColor</key>
-	<string>13.990072</string>
+	<string>15.719324</string>
 	<key>ExpectedFinalGravity</key>
 	<string>1.012272</string>
 	<key>ExpectedIBU</key>
@@ -1032,9 +1032,9 @@ Original recipe had 2lb munich &amp; 3oz  carafa ii.</string>
 			<key>Color</key>
 			<string>1.300000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>1.522362</string>
+			<string>1.710535</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>0.772773</string>
+			<string>0.868292</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>
@@ -1070,9 +1070,9 @@ Original recipe had 2lb munich &amp; 3oz  carafa ii.</string>
 			<key>Color</key>
 			<string>5.500000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>0.805095</string>
+			<string>0.904610</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>0.408678</string>
+			<string>0.459193</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>
@@ -1108,9 +1108,9 @@ Original recipe had 2lb munich &amp; 3oz  carafa ii.</string>
 			<key>Color</key>
 			<string>19.000000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>1.390650</string>
+			<string>1.562542</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>0.705914</string>
+			<string>0.793169</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>
@@ -1146,9 +1146,9 @@ Original recipe had 2lb munich &amp; 3oz  carafa ii.</string>
 			<key>Color</key>
 			<string>57.000000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>4.171951</string>
+			<string>4.687627</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>2.117742</string>
+			<string>2.379506</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>
@@ -1184,9 +1184,9 @@ Original recipe had 2lb munich &amp; 3oz  carafa ii.</string>
 			<key>Color</key>
 			<string>430.000000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>19.670383</string>
+			<string>22.101753</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>9.984966</string>
+			<string>11.219165</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>

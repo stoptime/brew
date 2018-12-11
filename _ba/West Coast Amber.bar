@@ -22,7 +22,7 @@
 				<key>ApparentAttenuation</key>
 				<string>82.996109</string>
 				<key>Color</key>
-				<string>14.338388</string>
+				<string>16.121231</string>
 				<key>FG</key>
 				<string>1.010802</string>
 				<key>FGHydroReading</key>
@@ -115,7 +115,7 @@
 				<key>ExpectedABW</key>
 				<string>5.684642</string>
 				<key>ExpectedColor</key>
-				<string>14.338388</string>
+				<string>16.121231</string>
 				<key>ExpectedFinalGravity</key>
 				<string>1.017104</string>
 				<key>ExpectedIBU</key>
@@ -155,9 +155,9 @@
 						<key>Color</key>
 						<string>3.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>5.515049</string>
+						<string>6.200793</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>2.799517</string>
+						<string>3.147611</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -216,9 +216,9 @@
 						<key>Color</key>
 						<string>5.700000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>0.911162</string>
+						<string>1.024457</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>0.462519</string>
+						<string>0.520029</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -277,9 +277,9 @@
 						<key>Color</key>
 						<string>40.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>3.996413</string>
+						<string>4.493329</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>2.028636</string>
+						<string>2.280878</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -338,9 +338,9 @@
 						<key>Color</key>
 						<string>120.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>9.591390</string>
+						<string>10.783988</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>4.868726</string>
+						<string>5.474105</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -399,9 +399,9 @@
 						<key>Color</key>
 						<string>28.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>2.237991</string>
+						<string>2.516264</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>1.136036</string>
+						<string>1.277292</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -460,9 +460,9 @@
 						<key>Color</key>
 						<string>200.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>5.994620</string>
+						<string>6.739994</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>3.042954</string>
+						<string>3.421317</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -1361,7 +1361,7 @@ Scaled grain bill down to match efficiency.</string>
 	<key>ExpectedABW</key>
 	<string>5.684642</string>
 	<key>ExpectedColor</key>
-	<string>14.338388</string>
+	<string>16.121231</string>
 	<key>ExpectedFinalGravity</key>
 	<string>1.017104</string>
 	<key>ExpectedIBU</key>
@@ -1378,9 +1378,9 @@ Scaled grain bill down to match efficiency.</string>
 			<key>Color</key>
 			<string>3.000000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>5.515049</string>
+			<string>6.200793</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>2.799517</string>
+			<string>3.147611</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>
@@ -1416,9 +1416,9 @@ Scaled grain bill down to match efficiency.</string>
 			<key>Color</key>
 			<string>5.700000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>0.911162</string>
+			<string>1.024457</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>0.462519</string>
+			<string>0.520029</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>
@@ -1454,9 +1454,9 @@ Scaled grain bill down to match efficiency.</string>
 			<key>Color</key>
 			<string>40.000000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>3.996413</string>
+			<string>4.493329</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>2.028636</string>
+			<string>2.280878</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>
@@ -1492,9 +1492,9 @@ Scaled grain bill down to match efficiency.</string>
 			<key>Color</key>
 			<string>120.000000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>9.591390</string>
+			<string>10.783988</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>4.868726</string>
+			<string>5.474105</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>
@@ -1530,9 +1530,9 @@ Scaled grain bill down to match efficiency.</string>
 			<key>Color</key>
 			<string>28.000000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>2.237991</string>
+			<string>2.516264</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>1.136036</string>
+			<string>1.277292</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>
@@ -1568,9 +1568,9 @@ Scaled grain bill down to match efficiency.</string>
 			<key>Color</key>
 			<string>200.000000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>5.994620</string>
+			<string>6.739994</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>3.042954</string>
+			<string>3.421317</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>

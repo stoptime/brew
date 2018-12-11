@@ -22,7 +22,7 @@
 				<key>ApparentAttenuation</key>
 				<string>73.119858</string>
 				<key>Color</key>
-				<string>7.088417</string>
+				<string>6.191777</string>
 				<key>FG</key>
 				<string>1.016458</string>
 				<key>FGHydroReading</key>
@@ -118,7 +118,7 @@ Hop stand while went to Cermak.</string>
 				<key>ExpectedABW</key>
 				<string>4.833956</string>
 				<key>ExpectedColor</key>
-				<string>7.088417</string>
+				<string>6.191777</string>
 				<key>ExpectedFinalGravity</key>
 				<string>1.014724</string>
 				<key>ExpectedIBU</key>
@@ -158,9 +158,9 @@ Hop stand while went to Cermak.</string>
 						<key>Color</key>
 						<string>2.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>6.264382</string>
+						<string>5.471978</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>3.179889</string>
+						<string>2.777653</string>
 						<key>DateLastModified</key>
 						<date>2014-12-31T01:33:04Z</date>
 						<key>Extract</key>
@@ -219,9 +219,9 @@ Hop stand while went to Cermak.</string>
 						<key>Color</key>
 						<string>26.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>6.786264</string>
+						<string>5.927845</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>3.444804</string>
+						<string>3.009058</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -280,9 +280,9 @@ Hop stand while went to Cermak.</string>
 						<key>Color</key>
 						<string>3.500000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>0.913535</string>
+						<string>0.797979</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>0.463723</string>
+						<string>0.405065</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -1269,7 +1269,7 @@ Fined w/ .5tsp gelatin, cold crash started 20th.</string>
 	<key>ExpectedABW</key>
 	<string>4.448073</string>
 	<key>ExpectedColor</key>
-	<string>7.052694</string>
+	<string>6.128107</string>
 	<key>ExpectedFinalGravity</key>
 	<string>1.018299</string>
 	<key>ExpectedIBU</key>
@@ -1286,9 +1286,9 @@ Fined w/ .5tsp gelatin, cold crash started 20th.</string>
 			<key>Color</key>
 			<string>2.000000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>4.218299</string>
+			<string>3.665292</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>2.141268</string>
+			<string>1.860555</string>
 			<key>DateLastModified</key>
 			<date>2014-12-31T01:33:04Z</date>
 			<key>Extract</key>
@@ -1324,9 +1324,9 @@ Fined w/ .5tsp gelatin, cold crash started 20th.</string>
 			<key>Color</key>
 			<string>1.800000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>1.898193</string>
+			<string>1.649346</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>0.963550</string>
+			<string>0.837231</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>
@@ -1362,9 +1362,9 @@ Fined w/ .5tsp gelatin, cold crash started 20th.</string>
 			<key>Color</key>
 			<string>26.000000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>6.854584</string>
+			<string>5.955969</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>3.479485</string>
+			<string>3.023335</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>
@@ -1400,9 +1400,9 @@ Fined w/ .5tsp gelatin, cold crash started 20th.</string>
 			<key>Color</key>
 			<string>3.500000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>0.922732</string>
+			<string>0.801764</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>0.468392</string>
+			<string>0.406987</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>

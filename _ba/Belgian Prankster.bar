@@ -22,7 +22,7 @@
 				<key>ApparentAttenuation</key>
 				<string>76.251663</string>
 				<key>Color</key>
-				<string>9.971311</string>
+				<string>10.656965</string>
 				<key>FG</key>
 				<string>1.012283</string>
 				<key>FGHydroReading</key>
@@ -115,7 +115,7 @@
 				<key>ExpectedABW</key>
 				<string>4.823046</string>
 				<key>ExpectedColor</key>
-				<string>9.971311</string>
+				<string>10.656965</string>
 				<key>ExpectedFinalGravity</key>
 				<string>1.009529</string>
 				<key>ExpectedIBU</key>
@@ -132,9 +132,9 @@
 						<key>Color</key>
 						<string>3.700000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>2.757601</string>
+						<string>2.947222</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>1.399798</string>
+						<string>1.496052</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -170,9 +170,9 @@
 						<key>Color</key>
 						<string>5.500000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>3.074354</string>
+						<string>3.285754</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>1.560586</string>
+						<string>1.667896</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -208,9 +208,9 @@
 						<key>Color</key>
 						<string>19.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>3.540165</string>
+						<string>3.783597</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>1.797038</string>
+						<string>1.920607</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -246,9 +246,9 @@
 						<key>Color</key>
 						<string>47.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>3.284041</string>
+						<string>3.509861</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>1.667026</string>
+						<string>1.781655</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -284,9 +284,9 @@
 						<key>Color</key>
 						<string>25.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>6.987321</string>
+						<string>7.467789</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>3.546864</string>
+						<string>3.790756</string>
 						<key>DateLastModified</key>
 						<date>2009-08-29T14:21:30Z</date>
 						<key>Extract</key>
@@ -1045,7 +1045,7 @@
 				<key>ApparentAttenuation</key>
 				<string>82.179947</string>
 				<key>Color</key>
-				<string>9.986254</string>
+				<string>10.677677</string>
 				<key>FG</key>
 				<string>1.009283</string>
 				<key>FGHydroReading</key>
@@ -1138,7 +1138,7 @@
 				<key>ExpectedABW</key>
 				<string>4.414913</string>
 				<key>ExpectedColor</key>
-				<string>9.986254</string>
+				<string>10.677677</string>
 				<key>ExpectedFinalGravity</key>
 				<string>1.008296</string>
 				<key>ExpectedIBU</key>
@@ -1155,9 +1155,9 @@
 						<key>Color</key>
 						<string>3.700000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>2.753927</string>
+						<string>2.944602</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>1.397933</string>
+						<string>1.494722</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -1193,9 +1193,9 @@
 						<key>Color</key>
 						<string>5.500000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>3.070257</string>
+						<string>3.282834</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>1.558506</string>
+						<string>1.666413</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -1231,9 +1231,9 @@
 						<key>Color</key>
 						<string>19.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>3.591058</string>
+						<string>3.839694</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>1.822872</string>
+						<string>1.949083</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -1269,9 +1269,9 @@
 						<key>Color</key>
 						<string>47.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>3.279665</string>
+						<string>3.506742</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>1.664805</string>
+						<string>1.780072</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -1307,9 +1307,9 @@
 						<key>Color</key>
 						<string>25.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>6.978011</string>
+						<string>7.461152</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>3.542138</string>
+						<string>3.787386</string>
 						<key>DateLastModified</key>
 						<date>2009-08-29T14:21:30Z</date>
 						<key>Extract</key>
@@ -2070,7 +2070,7 @@
 				<key>ApparentAttenuation</key>
 				<string>79.195213</string>
 				<key>Color</key>
-				<string>11.861212</string>
+				<string>13.149366</string>
 				<key>FG</key>
 				<string>1.010802</string>
 				<key>FGHydroReading</key>
@@ -2163,7 +2163,7 @@
 				<key>ExpectedABW</key>
 				<string>4.007169</string>
 				<key>ExpectedColor</key>
-				<string>11.861212</string>
+				<string>13.149366</string>
 				<key>ExpectedFinalGravity</key>
 				<string>1.009042</string>
 				<key>ExpectedIBU</key>
@@ -2180,9 +2180,9 @@
 						<key>Color</key>
 						<string>3.700000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>2.414573</string>
+						<string>2.676801</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>1.225672</string>
+						<string>1.358782</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -2218,9 +2218,9 @@
 						<key>Color</key>
 						<string>5.500000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>2.691923</string>
+						<string>2.984272</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>1.366459</string>
+						<string>1.514859</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -2256,9 +2256,9 @@
 						<key>Color</key>
 						<string>19.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>3.148548</string>
+						<string>3.490487</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>1.598248</string>
+						<string>1.771821</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -2294,9 +2294,9 @@
 						<key>Color</key>
 						<string>47.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>2.875527</string>
+						<string>3.187816</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>1.459659</string>
+						<string>1.618181</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -2332,9 +2332,9 @@
 						<key>Color</key>
 						<string>75.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>12.236014</string>
+						<string>13.564874</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>6.211175</string>
+						<string>6.885723</string>
 						<key>DateLastModified</key>
 						<date>2009-09-01T14:03:59Z</date>
 						<key>Extract</key>
@@ -3160,7 +3160,7 @@
 				<key>ApparentAttenuation</key>
 				<string>78.481033</string>
 				<key>Color</key>
-				<string>11.808287</string>
+				<string>13.082633</string>
 				<key>FG</key>
 				<string>1.012802</string>
 				<key>FGHydroReading</key>
@@ -3255,7 +3255,7 @@ For second runnings, 1 sparge - 180 was way too hot. 5 gals.</string>
 				<key>ExpectedABW</key>
 				<string>4.271136</string>
 				<key>ExpectedColor</key>
-				<string>12.211246</string>
+				<string>13.586902</string>
 				<key>ExpectedFinalGravity</key>
 				<string>1.009847</string>
 				<key>ExpectedIBU</key>
@@ -3272,9 +3272,9 @@ For second runnings, 1 sparge - 180 was way too hot. 5 gals.</string>
 						<key>Color</key>
 						<string>3.700000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>2.370039</string>
+						<string>2.637036</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>1.203066</string>
+						<string>1.338597</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -3333,9 +3333,9 @@ For second runnings, 1 sparge - 180 was way too hot. 5 gals.</string>
 						<key>Color</key>
 						<string>5.500000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>2.642274</string>
+						<string>2.939939</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>1.341256</string>
+						<string>1.492355</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -3371,9 +3371,9 @@ For second runnings, 1 sparge - 180 was way too hot. 5 gals.</string>
 						<key>Color</key>
 						<string>3.500000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>1.120940</string>
+						<string>1.247219</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>0.569005</string>
+						<string>0.633106</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -3409,9 +3409,9 @@ For second runnings, 1 sparge - 180 was way too hot. 5 gals.</string>
 						<key>Color</key>
 						<string>19.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>3.090408</string>
+						<string>3.438557</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>1.568735</string>
+						<string>1.745461</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -3447,9 +3447,9 @@ For second runnings, 1 sparge - 180 was way too hot. 5 gals.</string>
 						<key>Color</key>
 						<string>47.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>2.822429</string>
+						<string>3.140389</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>1.432705</string>
+						<string>1.594106</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -3485,9 +3485,9 @@ For second runnings, 1 sparge - 180 was way too hot. 5 gals.</string>
 						<key>Color</key>
 						<string>75.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>12.010068</string>
+						<string>13.363060</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>6.096481</string>
+						<string>6.783279</string>
 						<key>DateLastModified</key>
 						<date>2009-09-01T14:03:59Z</date>
 						<key>Extract</key>
@@ -4470,7 +4470,7 @@ Seeds of Paradise at end of boil.</string>
 				<key>ApparentAttenuation</key>
 				<string>80.025978</string>
 				<key>Color</key>
-				<string>10.710568</string>
+				<string>11.660784</string>
 				<key>FG</key>
 				<string>1.011628</string>
 				<key>FGHydroReading</key>
@@ -4565,7 +4565,7 @@ Fermented warmer than usual - low 70's.</string>
 				<key>ExpectedABW</key>
 				<string>4.170208</string>
 				<key>ExpectedColor</key>
-				<string>12.046251</string>
+				<string>13.381477</string>
 				<key>ExpectedFinalGravity</key>
 				<string>1.009540</string>
 				<key>ExpectedIBU</key>
@@ -4605,9 +4605,9 @@ Fermented warmer than usual - low 70's.</string>
 						<key>Color</key>
 						<string>3.700000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>2.988159</string>
+						<string>3.319371</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>1.516832</string>
+						<string>1.684960</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -4666,9 +4666,9 @@ Fermented warmer than usual - low 70's.</string>
 						<key>Color</key>
 						<string>5.500000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>2.665115</string>
+						<string>2.960521</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>1.352850</string>
+						<string>1.502802</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -4727,9 +4727,9 @@ Fermented warmer than usual - low 70's.</string>
 						<key>Color</key>
 						<string>19.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>3.117123</string>
+						<string>3.462630</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>1.582296</string>
+						<string>1.757680</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -4788,9 +4788,9 @@ Fermented warmer than usual - low 70's.</string>
 						<key>Color</key>
 						<string>47.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>2.846828</string>
+						<string>3.162374</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>1.445090</string>
+						<string>1.605266</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -4826,9 +4826,9 @@ Fermented warmer than usual - low 70's.</string>
 						<key>Color</key>
 						<string>75.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>12.113891</string>
+						<string>13.456614</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>6.149183</string>
+						<string>6.830768</string>
 						<key>DateLastModified</key>
 						<date>2009-09-01T14:03:59Z</date>
 						<key>Extract</key>
@@ -5677,7 +5677,7 @@ Seeds of Paradise at end of boil.</string>
 				<key>ApparentAttenuation</key>
 				<string>76.454369</string>
 				<key>Color</key>
-				<string>8.084327</string>
+				<string>7.863838</string>
 				<key>FG</key>
 				<string>1.014475</string>
 				<key>FGHydroReading</key>
@@ -5770,7 +5770,7 @@ Seeds of Paradise at end of boil.</string>
 				<key>ExpectedABW</key>
 				<string>5.536909</string>
 				<key>ExpectedColor</key>
-				<string>8.084327</string>
+				<string>7.863838</string>
 				<key>ExpectedFinalGravity</key>
 				<string>1.011422</string>
 				<key>ExpectedIBU</key>
@@ -5810,9 +5810,9 @@ Seeds of Paradise at end of boil.</string>
 						<key>Color</key>
 						<string>1.300000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>1.509311</string>
+						<string>1.468146</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>0.766148</string>
+						<string>0.745252</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -5871,9 +5871,9 @@ Seeds of Paradise at end of boil.</string>
 						<key>Color</key>
 						<string>3.700000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>4.295728</string>
+						<string>4.178568</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>2.180573</string>
+						<string>2.121101</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -5932,9 +5932,9 @@ Seeds of Paradise at end of boil.</string>
 						<key>Color</key>
 						<string>5.500000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>2.554216</string>
+						<string>2.484554</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>1.296557</string>
+						<string>1.261195</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -5993,9 +5993,9 @@ Seeds of Paradise at end of boil.</string>
 						<key>Color</key>
 						<string>19.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>3.474316</string>
+						<string>3.379559</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>1.763612</string>
+						<string>1.715512</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -6054,9 +6054,9 @@ Seeds of Paradise at end of boil.</string>
 						<key>Color</key>
 						<string>47.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>4.092552</string>
+						<string>3.980934</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>2.077438</string>
+						<string>2.020779</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -7023,7 +7023,7 @@ Would up being bit too harsh, and too much aromatic/caramel notes. Didn't finish
 				<key>ApparentAttenuation</key>
 				<string>75.978180</string>
 				<key>Color</key>
-				<string>11.576059</string>
+				<string>12.787947</string>
 				<key>FG</key>
 				<string>1.013684</string>
 				<key>FGHydroReading</key>
@@ -7116,7 +7116,7 @@ Would up being bit too harsh, and too much aromatic/caramel notes. Didn't finish
 				<key>ExpectedABW</key>
 				<string>4.801452</string>
 				<key>ExpectedColor</key>
-				<string>11.576059</string>
+				<string>12.787947</string>
 				<key>ExpectedFinalGravity</key>
 				<string>1.009619</string>
 				<key>ExpectedIBU</key>
@@ -7156,9 +7156,9 @@ Would up being bit too harsh, and too much aromatic/caramel notes. Didn't finish
 						<key>Color</key>
 						<string>3.700000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>3.834768</string>
+						<string>4.236227</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>1.946583</string>
+						<string>2.150369</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -7217,9 +7217,9 @@ Would up being bit too harsh, and too much aromatic/caramel notes. Didn't finish
 						<key>Color</key>
 						<string>5.500000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>2.442999</string>
+						<string>2.698754</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>1.240101</string>
+						<string>1.369926</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -7278,9 +7278,9 @@ Would up being bit too harsh, and too much aromatic/caramel notes. Didn't finish
 						<key>Color</key>
 						<string>19.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>2.813150</string>
+						<string>3.107656</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>1.427995</string>
+						<string>1.577491</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -7339,9 +7339,9 @@ Would up being bit too harsh, and too much aromatic/caramel notes. Didn't finish
 						<key>Color</key>
 						<string>47.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>2.609625</string>
+						<string>2.882824</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>1.324683</string>
+						<string>1.463363</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -7400,9 +7400,9 @@ Would up being bit too harsh, and too much aromatic/caramel notes. Didn't finish
 						<key>Color</key>
 						<string>74.998344</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>11.104296</string>
+						<string>12.266794</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>5.636698</string>
+						<string>6.226799</string>
 						<key>DateLastModified</key>
 						<date>2009-09-01T14:03:59Z</date>
 						<key>Extract</key>
@@ -8281,7 +8281,7 @@ Seeds of Paradise at end of boil.</string>
 				<key>ApparentAttenuation</key>
 				<string>78.351799</string>
 				<key>Color</key>
-				<string>8.681271</string>
+				<string>8.790721</string>
 				<key>FG</key>
 				<string>1.011816</string>
 				<key>FGHydroReading</key>
@@ -8374,7 +8374,7 @@ Seeds of Paradise at end of boil.</string>
 				<key>ExpectedABW</key>
 				<string>4.089104</string>
 				<key>ExpectedColor</key>
-				<string>8.681271</string>
+				<string>8.790721</string>
 				<key>ExpectedFinalGravity</key>
 				<string>1.010754</string>
 				<key>ExpectedIBU</key>
@@ -8414,9 +8414,9 @@ Seeds of Paradise at end of boil.</string>
 						<key>Color</key>
 						<string>3.700000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>7.256054</string>
+						<string>7.347537</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>3.683276</string>
+						<string>3.729714</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -8495,9 +8495,9 @@ Seeds of Paradise at end of boil.</string>
 						<key>Color</key>
 						<string>5.500000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>2.465322</string>
+						<string>2.496404</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>1.251433</string>
+						<string>1.267210</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -8533,9 +8533,9 @@ Seeds of Paradise at end of boil.</string>
 						<key>Color</key>
 						<string>19.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>4.284995</string>
+						<string>4.339019</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>2.175124</string>
+						<string>2.202548</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -8594,9 +8594,9 @@ Seeds of Paradise at end of boil.</string>
 						<key>Color</key>
 						<string>47.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>1.975104</string>
+						<string>2.000006</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>1.002591</string>
+						<string>1.015231</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -8655,9 +8655,9 @@ Seeds of Paradise at end of boil.</string>
 						<key>Color</key>
 						<string>10.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>1.120626</string>
+						<string>1.134754</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>0.568846</string>
+						<string>0.576017</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -9519,7 +9519,7 @@ Seeds of Paradise at end of boil.</string>
 	<key>ExpectedABW</key>
 	<string>4.180764</string>
 	<key>ExpectedColor</key>
-	<string>11.747160</string>
+	<string>13.005362</string>
 	<key>ExpectedFinalGravity</key>
 	<string>1.013817</string>
 	<key>ExpectedIBU</key>
@@ -9536,9 +9536,9 @@ Seeds of Paradise at end of boil.</string>
 			<key>Color</key>
 			<string>3.700000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>4.068269</string>
+			<string>4.504008</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>2.065111</string>
+			<string>2.286299</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>
@@ -9574,9 +9574,9 @@ Seeds of Paradise at end of boil.</string>
 			<key>Color</key>
 			<string>5.500000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>2.709240</string>
+			<string>2.999418</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>1.375249</string>
+			<string>1.522547</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>
@@ -9612,9 +9612,9 @@ Seeds of Paradise at end of boil.</string>
 			<key>Color</key>
 			<string>19.000000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>2.785419</string>
+			<string>3.083757</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>1.413918</string>
+			<string>1.565359</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>
@@ -9650,9 +9650,9 @@ Seeds of Paradise at end of boil.</string>
 			<key>Color</key>
 			<string>47.000000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>2.583900</string>
+			<string>2.860654</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>1.311625</string>
+			<string>1.452109</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>
@@ -9688,9 +9688,9 @@ Seeds of Paradise at end of boil.</string>
 			<key>Color</key>
 			<string>75.000000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>10.995077</string>
+			<string>12.172726</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>5.581257</string>
+			<string>6.179049</string>
 			<key>DateLastModified</key>
 			<date>2009-09-01T14:03:59Z</date>
 			<key>Extract</key>

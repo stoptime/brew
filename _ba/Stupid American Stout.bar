@@ -22,7 +22,7 @@
 				<key>ApparentAttenuation</key>
 				<string>76.575974</string>
 				<key>Color</key>
-				<string>40.733131</string>
+				<string>39.830109</string>
 				<key>FG</key>
 				<string>1.016475</string>
 				<key>FGHydroReading</key>
@@ -115,7 +115,7 @@
 				<key>ExpectedABW</key>
 				<string>5.850090</string>
 				<key>ExpectedColor</key>
-				<string>40.733131</string>
+				<string>39.830109</string>
 				<key>ExpectedFinalGravity</key>
 				<string>1.016200</string>
 				<key>ExpectedIBU</key>
@@ -155,9 +155,9 @@
 						<key>Color</key>
 						<string>1.800000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>2.572491</string>
+						<string>2.515461</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>1.305833</string>
+						<string>1.276884</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -216,9 +216,9 @@
 						<key>Color</key>
 						<string>40.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>2.982533</string>
+						<string>2.916413</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>1.513976</string>
+						<string>1.480412</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -277,9 +277,9 @@
 						<key>Color</key>
 						<string>420.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>26.097738</string>
+						<string>25.519173</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>13.247583</string>
+						<string>12.953894</string>
 						<key>DateLastModified</key>
 						<date>2010-10-06T18:29:56Z</date>
 						<key>Description</key>
@@ -340,9 +340,9 @@
 						<key>Color</key>
 						<string>550.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>27.340488</string>
+						<string>26.734371</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>13.878420</string>
+						<string>13.570746</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Description</key>
@@ -403,9 +403,9 @@
 						<key>Color</key>
 						<string>499.999969</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>9.320620</string>
+						<string>9.113989</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>4.731279</string>
+						<string>4.626390</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -464,9 +464,9 @@
 						<key>Color</key>
 						<string>640.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>11.930395</string>
+						<string>11.665908</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>6.056038</string>
+						<string>5.921781</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -1189,7 +1189,7 @@ Color: 45 SRM
 				<key>ApparentAttenuation</key>
 				<string>76.030357</string>
 				<key>Color</key>
-				<string>39.329643</string>
+				<string>38.759392</string>
 				<key>FG</key>
 				<string>1.016036</string>
 				<key>FGHydroReading</key>
@@ -1284,7 +1284,7 @@ Glass therm: 157 -&gt; 154</string>
 				<key>ExpectedABW</key>
 				<string>5.661530</string>
 				<key>ExpectedColor</key>
-				<string>39.329643</string>
+				<string>38.759392</string>
 				<key>ExpectedFinalGravity</key>
 				<string>1.015719</string>
 				<key>ExpectedIBU</key>
@@ -1324,9 +1324,9 @@ Glass therm: 157 -&gt; 154</string>
 						<key>Color</key>
 						<string>1.800000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>2.472151</string>
+						<string>2.436307</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>1.254899</string>
+						<string>1.236704</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -1385,9 +1385,9 @@ Glass therm: 157 -&gt; 154</string>
 						<key>Color</key>
 						<string>40.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>2.996481</string>
+						<string>2.953034</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>1.521056</string>
+						<string>1.499002</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -1466,9 +1466,9 @@ Glass therm: 157 -&gt; 154</string>
 						<key>Color</key>
 						<string>420.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>26.219784</string>
+						<string>25.839617</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>13.309535</string>
+						<string>13.116556</string>
 						<key>DateLastModified</key>
 						<date>2010-10-06T18:29:56Z</date>
 						<key>Description</key>
@@ -1529,9 +1529,9 @@ Glass therm: 157 -&gt; 154</string>
 						<key>Color</key>
 						<string>550.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>27.468346</string>
+						<string>27.070074</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>13.943322</string>
+						<string>13.741154</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Description</key>
@@ -1592,9 +1592,9 @@ Glass therm: 157 -&gt; 154</string>
 						<key>Color</key>
 						<string>515.000000</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>16.075224</string>
+						<string>15.842144</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>8.160011</string>
+						<string>8.041698</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Extract</key>
@@ -1653,9 +1653,9 @@ Glass therm: 157 -&gt; 154</string>
 						<key>Color</key>
 						<string>119.999992</string>
 						<key>ColorForAdditionInEBC</key>
-						<string>2.247410</string>
+						<string>2.214824</string>
 						<key>ColorForAdditionInSRM</key>
-						<string>1.140817</string>
+						<string>1.124276</string>
 						<key>DateLastModified</key>
 						<date>2009-08-09T18:00:38Z</date>
 						<key>Description</key>
@@ -2769,7 +2769,7 @@ Accidentally over carbed - too bitter, hopefully will mellow (it did as degassed
 	<key>ExpectedABW</key>
 	<string>5.782295</string>
 	<key>ExpectedColor</key>
-	<string>36.528801</string>
+	<string>36.580868</string>
 	<key>ExpectedFinalGravity</key>
 	<string>1.016027</string>
 	<key>ExpectedIBU</key>
@@ -2809,9 +2809,9 @@ Accidentally over carbed - too bitter, hopefully will mellow (it did as degassed
 			<key>Color</key>
 			<string>1.800000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>2.498148</string>
+			<string>2.501709</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>1.268095</string>
+			<string>1.269903</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>
@@ -2870,9 +2870,9 @@ Accidentally over carbed - too bitter, hopefully will mellow (it did as degassed
 			<key>Color</key>
 			<string>420.000000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>31.794611</string>
+			<string>31.839930</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>16.139397</string>
+			<string>16.162401</string>
 			<key>DateLastModified</key>
 			<date>2010-10-06T18:29:56Z</date>
 			<key>Description</key>
@@ -2933,9 +2933,9 @@ Accidentally over carbed - too bitter, hopefully will mellow (it did as degassed
 			<key>Color</key>
 			<string>40.000000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>3.027991</string>
+			<string>3.032307</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>1.537051</string>
+			<string>1.539242</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>
@@ -2994,9 +2994,9 @@ Accidentally over carbed - too bitter, hopefully will mellow (it did as degassed
 			<key>Color</key>
 			<string>1.400000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>0.070655</string>
+			<string>0.070755</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>0.035865</string>
+			<string>0.035916</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Description</key>
@@ -3057,9 +3057,9 @@ Accidentally over carbed - too bitter, hopefully will mellow (it did as degassed
 			<key>Color</key>
 			<string>640.000000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>32.299286</string>
+			<string>32.345325</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>16.395576</string>
+			<string>16.418947</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Extract</key>
@@ -3118,9 +3118,9 @@ Accidentally over carbed - too bitter, hopefully will mellow (it did as degassed
 			<key>Color</key>
 			<string>120.000000</string>
 			<key>ColorForAdditionInEBC</key>
-			<string>2.271044</string>
+			<string>2.274281</string>
 			<key>ColorForAdditionInSRM</key>
-			<string>1.152814</string>
+			<string>1.154457</string>
 			<key>DateLastModified</key>
 			<date>2009-08-09T18:00:38Z</date>
 			<key>Description</key>
