@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<RECIPES>
+    <RECIPE>
+        <FERMENTABLES>
+            <FERMENTABLE>
+                <NAME>US 2-Row Malt</NAME>
+                <VERSION>1</VERSION>
+                <YIELD>80.000000</YIELD>
+                <COLOR>1.800000</COLOR>
+                <AMOUNT>5.481736</AMOUNT>
+                <NOTES>In Mash/Steeped</NOTES>
+                <TYPE>Grain</TYPE>
+            </FERMENTABLE>
+            <FERMENTABLE>
+                <NAME>US Rye Malt</NAME>
+                <VERSION>1</VERSION>
+                <YIELD>76.000000</YIELD>
+                <COLOR>3.700000</COLOR>
+                <AMOUNT>1.507292</AMOUNT>
+                <NOTES>In Mash/Steeped</NOTES>
+                <TYPE>Grain</TYPE>
+            </FERMENTABLE>
+            <FERMENTABLE>
+                <NAME>US Caramel 60L Malt</NAME>
+                <VERSION>1</VERSION>
+                <YIELD>73.000000</YIELD>
+                <COLOR>60.000000</COLOR>
+                <AMOUNT>0.611064</AMOUNT>
+                <NOTES>In Mash/Steeped</NOTES>
+                <TYPE>Grain</TYPE>
+            </FERMENTABLE>
+            <FERMENTABLE>
+                <NAME>US Carapils Malt</NAME>
+                <VERSION>1</VERSION>
+                <YIELD>73.000000</YIELD>
+                <COLOR>1.300000</COLOR>
+                <AMOUNT>0.289906</AMOUNT>
+                <NOTES>In Mash/Steeped</NOTES>
+                <TYPE>Grain</TYPE>
+            </FERMENTABLE>
+            <FERMENTABLE>
+                <NAME>US Wheat Malt</NAME>
+                <VERSION>1</VERSION>
+                <YIELD>75.000000</YIELD>
+                <COLOR>2.000000</COLOR>
+                <AMOUNT>0.289906</AMOUNT>
+                <NOTES>In Mash/Steeped</NOTES>
+                <TYPE>Grain</TYPE>
+            </FERMENTABLE>
+        </FERMENTABLES>
+        <HOPS>
+            <HOP>
+                <NAME>US Mount Hood</NAME>
+                <VERSION>1</VERSION>
+                <ALPHA>4.900000</ALPHA>
+                <AMOUNT>0.042843</AMOUNT>
+                <NOTES>First Wort Hopped</NOTES>
+                <USE>First Wort</USE>
+                <TIME>60</TIME>
+                <FORM>Leaf</FORM>
+            </HOP>
+            <HOP>
+                <NAME>US Columbus(Tomahawk)</NAME>
+                <VERSION>1</VERSION>
+                <ALPHA>17.799999</ALPHA>
+                <AMOUNT>0.037130</AMOUNT>
+                <NOTES>60 Min From End</NOTES>
+                <USE>Boil</USE>
+                <TIME>60</TIME>
+                <FORM>Leaf</FORM>
+            </HOP>
+            <HOP>
+                <NAME>US Mount Hood</NAME>
+                <VERSION>1</VERSION>
+                <ALPHA>4.900000</ALPHA>
+                <AMOUNT>0.014281</AMOUNT>
+                <NOTES>30 Min From End</NOTES>
+                <USE>Boil</USE>
+                <TIME>30</TIME>
+                <FORM>Leaf</FORM>
+            </HOP>
+            <HOP>
+                <NAME>US Mount Hood</NAME>
+                <VERSION>1</VERSION>
+                <ALPHA>4.900000</ALPHA>
+                <AMOUNT>0.042843</AMOUNT>
+                <NOTES>At turn off</NOTES>
+                <USE>Boil</USE>
+                <TIME>0</TIME>
+                <FORM>Leaf</FORM>
+            </HOP>
+            <HOP>
+                <NAME>US Columbus(Tomahawk)</NAME>
+                <VERSION>1</VERSION>
+                <ALPHA>15.500000</ALPHA>
+                <AMOUNT>0.056700</AMOUNT>
+                <NOTES>In Hop-Back</NOTES>
+                <USE>Aroma</USE>
+                <TIME>0</TIME>
+                <FORM>Leaf</FORM>
+            </HOP>
+        </HOPS>
+        <YEASTS>
+            <YEAST>
+                <NAME>Wyeast 1450 Dennys Favorite 50</NAME>
+                <VERSION>1</VERSION>
+                <ATTENUATION>75.000000</ATTENUATION>
+                <FORM>Liquid</FORM>
+                <TYPE>Ale</TYPE>
+                <AMOUNT>0.270000</AMOUNT>
+                <AMOUNT_IS_WEIGHT>FALSE</AMOUNT_IS_WEIGHT>
+            </YEAST>
+        </YEASTS>
+        <MISCS></MISCS>
+        <STYLE>
+            <CATEGORY>India Pale Ale(IPA)</CATEGORY>
+            <NAME>American IPA</NAME>
+            <VERSION>1</VERSION>
+            <TYPE>Ale</TYPE>
+            <CATEGORY_NUMBER>14</CATEGORY_NUMBER>
+            <STYLE_LETTER>B</STYLE_LETTER>
+            <OG_MIN>1.056</OG_MIN>
+            <OG_MAX>1.075</OG_MAX>
+            <IBU_MIN>40</IBU_MIN>
+            <IBU_MAX>70</IBU_MAX>
+            <COLOR_MIN>6</COLOR_MIN>
+            <COLOR_MAX>15</COLOR_MAX>
+            <FG_MIN>1.014</FG_MIN>
+            <FG_MAX>1.019</FG_MAX>
+        </STYLE>
+        <WATERS>
+            <WATER>
+                <NAME>The brewer's water</NAME>
+                <VERSION>1</VERSION>
+                <AMOUNT>38.463181</AMOUNT>
+                <SULFATE>0.000000</SULFATE>
+                <CALCIUM>0.000000</CALCIUM>
+                <MAGNESIUM>0.000000</MAGNESIUM>
+                <CHLORIDE>0.000000</CHLORIDE>
+                <SODIUM>0.000000</SODIUM>
+                <BICARBONATE>0.000000</BICARBONATE>
+            </WATER>
+        </WATERS>
+        <MASH>
+            <NAME>Single Step Infusion (67C/152F)</NAME>
+            <VERSION>1</VERSION>
+            <GRAIN_TEMP>20</GRAIN_TEMP>
+            <MASH_STEPS>
+                <MASH_STEP>
+                    <NAME>Rest at</NAME>
+                    <VERSION>1</VERSION>
+                    <TYPE>Infusion</TYPE>
+                    <INFUSE_AMOUNT>0.0</INFUSE_AMOUNT>
+                    <STEP_TEMP>66.666664</STEP_TEMP>
+                    <STEP_TIME>60.000000</STEP_TIME>
+                    <RAMP_TIME>0</RAMP_TIME>
+                </MASH_STEP>
+            </MASH_STEPS>
+        </MASH>
+        <NAME>Denny's Rye IPA</NAME>
+        <VERSION>1</VERSION>
+        <TYPE>All Grain</TYPE>
+        <BREWER>Matthew Mayes</BREWER>
+        <BATCH_SIZE>18.927052</BATCH_SIZE>
+        <BOIL_SIZE>30.283279</BOIL_SIZE>
+        <BOIL_TIME>60</BOIL_TIME>
+        <EFFICIENCY>75</EFFICIENCY>
+        <NOTES>Batch Size (GAL): 5.00 Wort Size (GAL): 5.00
+Total Grain (LBS): 16.25
+Anticipated OG: 1.073 Plato: 17.8
+Anticipated SRM: 12.2
+Anticipated IBU: 75.1
+Brewhouse Efficiency: 73 %
+Wort Boil Time: 70 Minutes
+
+
+Grain/Extract/Sugar
+
+% Amount Name Origin Potential SRM
+-----------------------------------------------------------------------------
+67.7 11.00 lbs. Pale Malt(2-row) America 1.036 2
+18.5 3.00 lbs. Rye Malt America 1.030 4
+7.7 1.25 lbs. Crystal 60L America 1.034 60
+3.1 0.50 lbs. Cara-Pils Dextrine Malt 1.033 2
+3.1 0.50 lbs. Wheat Malt America 1.038 2
+
+Potential represented as SG per pound per gallon.
+
+
+Hops
+
+Amount Name Form Alpha IBU Boil Time
+-----------------------------------------------------------------------------
+1.00 oz. Mt. Hood Whole 4.90 15.0 FWH
+1.00 oz. Columbus Whole 17.80 54.4 60 min.
+0.50 oz. Mt. Hood Whole 4.90 5.7 30 min.
+1.50 oz. Mt. Hood Whole 4.90 0.0 0 min.
+1.00 oz. Columbus Whole 15.00 0.0 Dry Hop
+
+
+Extras
+
+Amount Name Type Time
+--------------------------------------------------------------------------
+1.00 Tsp Irish Moss Fining 15 Min.(boil)
+1.00 Tsp Gypsum Other 60 Min.(boil) add to the boil, not the mash
+</NOTES>
+        <PRIMARY_TEMP>20.000000</PRIMARY_TEMP>
+    </RECIPE>
+</RECIPES>

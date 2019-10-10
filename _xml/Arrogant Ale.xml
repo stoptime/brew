@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<RECIPES>
+    <RECIPE>
+        <FERMENTABLES>
+            <FERMENTABLE>
+                <NAME>US 2-Row Malt</NAME>
+                <VERSION>1</VERSION>
+                <YIELD>80.000000</YIELD>
+                <COLOR>1.800000</COLOR>
+                <AMOUNT>5.684022</AMOUNT>
+                <NOTES>In Mash/Steeped</NOTES>
+                <TYPE>Grain</TYPE>
+            </FERMENTABLE>
+            <FERMENTABLE>
+                <NAME>Belgian Special B</NAME>
+                <VERSION>1</VERSION>
+                <YIELD>65.000000</YIELD>
+                <COLOR>147.000000</COLOR>
+                <AMOUNT>0.631558</AMOUNT>
+                <NOTES>In Mash/Steeped</NOTES>
+                <TYPE>Grain</TYPE>
+            </FERMENTABLE>
+        </FERMENTABLES>
+        <HOPS>
+            <HOP>
+                <NAME>US Chinook</NAME>
+                <VERSION>1</VERSION>
+                <ALPHA>13.000000</ALPHA>
+                <AMOUNT>0.025515</AMOUNT>
+                <NOTES>80 Min From End</NOTES>
+                <USE>Boil</USE>
+                <TIME>80</TIME>
+                <FORM>Pellet</FORM>
+            </HOP>
+            <HOP>
+                <NAME>US Chinook</NAME>
+                <VERSION>1</VERSION>
+                <ALPHA>13.000000</ALPHA>
+                <AMOUNT>0.025515</AMOUNT>
+                <NOTES>45 Min From End</NOTES>
+                <USE>Boil</USE>
+                <TIME>45</TIME>
+                <FORM>Pellet</FORM>
+            </HOP>
+            <HOP>
+                <NAME>US Chinook</NAME>
+                <VERSION>1</VERSION>
+                <ALPHA>13.000000</ALPHA>
+                <AMOUNT>0.025515</AMOUNT>
+                <NOTES>15 Min From End</NOTES>
+                <USE>Boil</USE>
+                <TIME>15</TIME>
+                <FORM>Pellet</FORM>
+            </HOP>
+            <HOP>
+                <NAME>US Chinook</NAME>
+                <VERSION>1</VERSION>
+                <ALPHA>13.000000</ALPHA>
+                <AMOUNT>0.028350</AMOUNT>
+                <NOTES>At turn off</NOTES>
+                <USE>Boil</USE>
+                <TIME>0</TIME>
+                <FORM>Pellet</FORM>
+            </HOP>
+        </HOPS>
+        <YEASTS>
+            <YEAST>
+                <NAME>White Labs WLP007-Dry English Ale</NAME>
+                <VERSION>1</VERSION>
+                <ATTENUATION>75.000000</ATTENUATION>
+                <FORM>Liquid</FORM>
+                <TYPE>Ale</TYPE>
+                <AMOUNT>0.070000</AMOUNT>
+                <AMOUNT_IS_WEIGHT>FALSE</AMOUNT_IS_WEIGHT>
+            </YEAST>
+        </YEASTS>
+        <MISCS></MISCS>
+        <STYLE>
+            <CATEGORY>Strong Ale</CATEGORY>
+            <NAME>Old Ale</NAME>
+            <VERSION>1</VERSION>
+            <TYPE>Ale</TYPE>
+            <CATEGORY_NUMBER>19</CATEGORY_NUMBER>
+            <STYLE_LETTER>A</STYLE_LETTER>
+            <OG_MIN>1.060</OG_MIN>
+            <OG_MAX>1.090</OG_MAX>
+            <IBU_MIN>30</IBU_MIN>
+            <IBU_MAX>60</IBU_MAX>
+            <COLOR_MIN>10</COLOR_MIN>
+            <COLOR_MAX>22</COLOR_MAX>
+            <FG_MIN>1.015</FG_MIN>
+            <FG_MAX>1.023</FG_MAX>
+        </STYLE>
+        <WATERS>
+            <WATER>
+                <NAME>The brewer's water</NAME>
+                <VERSION>1</VERSION>
+                <AMOUNT>36.598858</AMOUNT>
+                <SULFATE>0.000000</SULFATE>
+                <CALCIUM>0.000000</CALCIUM>
+                <MAGNESIUM>0.000000</MAGNESIUM>
+                <CHLORIDE>0.000000</CHLORIDE>
+                <SODIUM>0.000000</SODIUM>
+                <BICARBONATE>0.000000</BICARBONATE>
+            </WATER>
+        </WATERS>
+        <MASH>
+            <NAME>Single Step Infusion (65C/149F)</NAME>
+            <VERSION>1</VERSION>
+            <GRAIN_TEMP>20</GRAIN_TEMP>
+            <MASH_STEPS>
+                <MASH_STEP>
+                    <NAME>Rest at</NAME>
+                    <VERSION>1</VERSION>
+                    <TYPE>Infusion</TYPE>
+                    <INFUSE_AMOUNT>0.0</INFUSE_AMOUNT>
+                    <STEP_TEMP>65.000000</STEP_TEMP>
+                    <STEP_TIME>60.000000</STEP_TIME>
+                    <RAMP_TIME>0</RAMP_TIME>
+                </MASH_STEP>
+            </MASH_STEPS>
+        </MASH>
+        <NAME>Arrogant Ale</NAME>
+        <VERSION>1</VERSION>
+        <TYPE>All Grain</TYPE>
+        <BREWER>Matthew Mayes</BREWER>
+        <BATCH_SIZE>18.927052</BATCH_SIZE>
+        <BOIL_SIZE>30.283279</BOIL_SIZE>
+        <BOIL_TIME>90</BOIL_TIME>
+        <EFFICIENCY>80.000000</EFFICIENCY>
+        <NOTES>From Brew Strong:
+
+1.066 OG
+94.8 IBU
+22.5 SRM
+
+Wyeast Candidates:
+1099 Whitbread - first choice
+1098 British Ale Yeast  </NOTES>
+        <PRIMARY_TEMP>20.000000</PRIMARY_TEMP>
+    </RECIPE>
+</RECIPES>

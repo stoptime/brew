@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<RECIPES>
+    <RECIPE>
+        <FERMENTABLES>
+            <FERMENTABLE>
+                <NAME>Maris Otter</NAME>
+                <VERSION>1</VERSION>
+                <YIELD>81.000000</YIELD>
+                <COLOR>4.000000</COLOR>
+                <AMOUNT>3.628720</AMOUNT>
+                <NOTES>In Mash/Steeped</NOTES>
+                <TYPE>Grain</TYPE>
+            </FERMENTABLE>
+            <FERMENTABLE>
+                <NAME>Belgian Biscuit Malt</NAME>
+                <VERSION>1</VERSION>
+                <YIELD>70.000000</YIELD>
+                <COLOR>22.000000</COLOR>
+                <AMOUNT>0.255150</AMOUNT>
+                <NOTES>In Mash/Steeped</NOTES>
+                <TYPE>Grain</TYPE>
+            </FERMENTABLE>
+            <FERMENTABLE>
+                <NAME>US Caramel 10L Malt</NAME>
+                <VERSION>1</VERSION>
+                <YIELD>75.000000</YIELD>
+                <COLOR>10.000000</COLOR>
+                <AMOUNT>0.226800</AMOUNT>
+                <NOTES>In Mash/Steeped</NOTES>
+                <TYPE>Grain</TYPE>
+            </FERMENTABLE>
+        </FERMENTABLES>
+        <HOPS>
+            <HOP>
+                <NAME>UK Challenger</NAME>
+                <VERSION>1</VERSION>
+                <ALPHA>7.000000</ALPHA>
+                <AMOUNT>0.030576</AMOUNT>
+                <NOTES>60 Min From End</NOTES>
+                <USE>Boil</USE>
+                <TIME>60</TIME>
+                <FORM>Pellet</FORM>
+            </HOP>
+            <HOP>
+                <NAME>UK Golding</NAME>
+                <VERSION>1</VERSION>
+                <ALPHA>5.500000</ALPHA>
+                <AMOUNT>0.030576</AMOUNT>
+                <NOTES>30 Min From End</NOTES>
+                <USE>Boil</USE>
+                <TIME>30</TIME>
+                <FORM>Pellet</FORM>
+            </HOP>
+            <HOP>
+                <NAME>UK Golding</NAME>
+                <VERSION>1</VERSION>
+                <ALPHA>5.500000</ALPHA>
+                <AMOUNT>0.030576</AMOUNT>
+                <NOTES>At turn off</NOTES>
+                <USE>Boil</USE>
+                <TIME>0</TIME>
+                <FORM>Pellet</FORM>
+            </HOP>
+        </HOPS>
+        <YEASTS>
+            <YEAST>
+                <NAME>Wyeast 1098-British Ale</NAME>
+                <VERSION>1</VERSION>
+                <ATTENUATION>74.000000</ATTENUATION>
+                <FORM>Liquid</FORM>
+                <TYPE>Ale</TYPE>
+                <AMOUNT>0.135000</AMOUNT>
+                <AMOUNT_IS_WEIGHT>FALSE</AMOUNT_IS_WEIGHT>
+            </YEAST>
+        </YEASTS>
+        <MISCS></MISCS>
+        <STYLE>
+            <CATEGORY>English Pale Ale</CATEGORY>
+            <NAME>Special/Best/Premium Bitter</NAME>
+            <VERSION>1</VERSION>
+            <TYPE>Ale</TYPE>
+            <CATEGORY_NUMBER>8</CATEGORY_NUMBER>
+            <STYLE_LETTER>B</STYLE_LETTER>
+            <OG_MIN>1.040</OG_MIN>
+            <OG_MAX>1.048</OG_MAX>
+            <IBU_MIN>25</IBU_MIN>
+            <IBU_MAX>40</IBU_MAX>
+            <COLOR_MIN>5</COLOR_MIN>
+            <COLOR_MAX>16</COLOR_MAX>
+            <FG_MIN>1.010</FG_MIN>
+            <FG_MAX>1.012</FG_MAX>
+        </STYLE>
+        <WATERS>
+            <WATER>
+                <NAME>The brewer's water</NAME>
+                <VERSION>1</VERSION>
+                <AMOUNT>34.393948</AMOUNT>
+                <SULFATE>0.000000</SULFATE>
+                <CALCIUM>0.000000</CALCIUM>
+                <MAGNESIUM>0.000000</MAGNESIUM>
+                <CHLORIDE>0.000000</CHLORIDE>
+                <SODIUM>0.000000</SODIUM>
+                <BICARBONATE>0.000000</BICARBONATE>
+            </WATER>
+        </WATERS>
+        <MASH>
+            <NAME>Single Step Infusion (67C/152F)</NAME>
+            <VERSION>1</VERSION>
+            <GRAIN_TEMP>20</GRAIN_TEMP>
+            <MASH_STEPS>
+                <MASH_STEP>
+                    <NAME>Rest at</NAME>
+                    <VERSION>1</VERSION>
+                    <TYPE>Infusion</TYPE>
+                    <INFUSE_AMOUNT>0.0</INFUSE_AMOUNT>
+                    <STEP_TEMP>66.666664</STEP_TEMP>
+                    <STEP_TIME>60.000000</STEP_TIME>
+                    <RAMP_TIME>0</RAMP_TIME>
+                </MASH_STEP>
+            </MASH_STEPS>
+        </MASH>
+        <NAME>Bayou Burner Bitter 2</NAME>
+        <VERSION>1</VERSION>
+        <TYPE>All Grain</TYPE>
+        <BREWER>Matthew Mayes</BREWER>
+        <BATCH_SIZE>18.927052</BATCH_SIZE>
+        <BOIL_SIZE>30.283279</BOIL_SIZE>
+        <BOIL_TIME>90</BOIL_TIME>
+        <EFFICIENCY>80.000000</EFFICIENCY>
+        <NOTES>GRAINS:
+Marris Otter Pale Ale
+Simpson Crystal 10
+Biscuit/Amber
+
+HOPS:
+Note that UK Goldings = East Kent Goldings
+
+------------
+September 20, 2009:
+Scaled recipe to match our brewhouse efficiency and OG
+Also changed yeast from Thames to "English Ale"</NOTES>
+        <PRIMARY_TEMP>20.555555</PRIMARY_TEMP>
+    </RECIPE>
+</RECIPES>

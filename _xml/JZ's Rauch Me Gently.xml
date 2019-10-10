@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<RECIPES>
+    <RECIPE>
+        <FERMENTABLES>
+            <FERMENTABLE>
+                <NAME>German Pilsner Malt</NAME>
+                <VERSION>1</VERSION>
+                <YIELD>81.000000</YIELD>
+                <COLOR>1.300000</COLOR>
+                <AMOUNT>2.255986</AMOUNT>
+                <NOTES>In Mash/Steeped</NOTES>
+                <TYPE>Grain</TYPE>
+            </FERMENTABLE>
+            <FERMENTABLE>
+                <NAME>German beechwood smoked rauch malt</NAME>
+                <VERSION>1</VERSION>
+                <YIELD>81.000000</YIELD>
+                <COLOR>2.500000</COLOR>
+                <AMOUNT>2.255986</AMOUNT>
+                <NOTES>In Mash/Steeped</NOTES>
+                <TYPE>Grain</TYPE>
+            </FERMENTABLE>
+            <FERMENTABLE>
+                <NAME>German Munich Malt</NAME>
+                <VERSION>1</VERSION>
+                <YIELD>81.000000</YIELD>
+                <COLOR>5.500000</COLOR>
+                <AMOUNT>0.793782</AMOUNT>
+                <NOTES>In Mash/Steeped</NOTES>
+                <TYPE>Grain</TYPE>
+            </FERMENTABLE>
+            <FERMENTABLE>
+                <NAME>German CaraMunich III</NAME>
+                <VERSION>1</VERSION>
+                <YIELD>78.000000</YIELD>
+                <COLOR>57.000000</COLOR>
+                <AMOUNT>0.340192</AMOUNT>
+                <NOTES>In Mash/Steeped</NOTES>
+                <TYPE>Grain</TYPE>
+            </FERMENTABLE>
+            <FERMENTABLE>
+                <NAME>German Melanoidin Malt</NAME>
+                <VERSION>1</VERSION>
+                <YIELD>72.500000</YIELD>
+                <COLOR>26.000000</COLOR>
+                <AMOUNT>0.113400</AMOUNT>
+                <NOTES>In Mash/Steeped</NOTES>
+                <TYPE>Grain</TYPE>
+            </FERMENTABLE>
+            <FERMENTABLE>
+                <NAME>US Black Malt</NAME>
+                <VERSION>1</VERSION>
+                <YIELD>70.000000</YIELD>
+                <COLOR>500.000000</COLOR>
+                <AMOUNT>0.085050</AMOUNT>
+                <NOTES>In Mash/Steeped</NOTES>
+                <TYPE>Grain</TYPE>
+            </FERMENTABLE>
+        </FERMENTABLES>
+        <HOPS>
+            <HOP>
+                <NAME>German Hallertauer Hersbrucker</NAME>
+                <VERSION>1</VERSION>
+                <ALPHA>4.000000</ALPHA>
+                <AMOUNT>0.048947</AMOUNT>
+                <NOTES>60 Min From End</NOTES>
+                <USE>Boil</USE>
+                <TIME>60</TIME>
+                <FORM>Pellet</FORM>
+            </HOP>
+            <HOP>
+                <NAME>German Hallertauer Hersbrucker</NAME>
+                <VERSION>1</VERSION>
+                <ALPHA>4.000000</ALPHA>
+                <AMOUNT>0.016316</AMOUNT>
+                <NOTES>10 Min From End</NOTES>
+                <USE>Boil</USE>
+                <TIME>10</TIME>
+                <FORM>Pellet</FORM>
+            </HOP>
+        </HOPS>
+        <YEASTS>
+            <YEAST>
+                <NAME>White Labs WLP830-German Lager</NAME>
+                <VERSION>1</VERSION>
+                <ATTENUATION>76.500000</ATTENUATION>
+                <FORM>Liquid</FORM>
+                <TYPE>Lager</TYPE>
+                <AMOUNT>0.035000</AMOUNT>
+                <AMOUNT_IS_WEIGHT>FALSE</AMOUNT_IS_WEIGHT>
+            </YEAST>
+        </YEASTS>
+        <MISCS></MISCS>
+        <STYLE>
+            <CATEGORY>Smoke</CATEGORY>
+            <NAME>Flavored and Wood</NAME>
+            <VERSION>1</VERSION>
+            <TYPE>Ale</TYPE>
+            <CATEGORY_NUMBER>22</CATEGORY_NUMBER>
+            <STYLE_LETTER>A</STYLE_LETTER>
+            <OG_MIN>1.050</OG_MIN>
+            <OG_MAX>1.057</OG_MAX>
+            <IBU_MIN>20</IBU_MIN>
+            <IBU_MAX>30</IBU_MAX>
+            <COLOR_MIN>12</COLOR_MIN>
+            <COLOR_MAX>22</COLOR_MAX>
+            <FG_MIN>1.013</FG_MIN>
+            <FG_MAX>1.014</FG_MAX>
+        </STYLE>
+        <WATERS>
+            <WATER>
+                <NAME>The brewer's water</NAME>
+                <VERSION>1</VERSION>
+                <AMOUNT>36.127674</AMOUNT>
+                <SULFATE>0.000000</SULFATE>
+                <CALCIUM>0.000000</CALCIUM>
+                <MAGNESIUM>0.000000</MAGNESIUM>
+                <CHLORIDE>0.000000</CHLORIDE>
+                <SODIUM>0.000000</SODIUM>
+                <BICARBONATE>0.000000</BICARBONATE>
+            </WATER>
+        </WATERS>
+        <MASH>
+            <NAME>Single Step Infusion (67C/152F)</NAME>
+            <VERSION>1</VERSION>
+            <GRAIN_TEMP>20</GRAIN_TEMP>
+            <MASH_STEPS>
+                <MASH_STEP>
+                    <NAME>Rest at</NAME>
+                    <VERSION>1</VERSION>
+                    <TYPE>Infusion</TYPE>
+                    <INFUSE_AMOUNT>0.0</INFUSE_AMOUNT>
+                    <STEP_TEMP>66.666664</STEP_TEMP>
+                    <STEP_TIME>60.000000</STEP_TIME>
+                    <RAMP_TIME>0</RAMP_TIME>
+                </MASH_STEP>
+            </MASH_STEPS>
+        </MASH>
+        <NAME>JZ's Rauch Me Gently</NAME>
+        <VERSION>1</VERSION>
+        <TYPE>All Grain</TYPE>
+        <BREWER>Matthew Mayes</BREWER>
+        <BATCH_SIZE>18.927052</BATCH_SIZE>
+        <BOIL_SIZE>30.283279</BOIL_SIZE>
+        <BOIL_TIME>60</BOIL_TIME>
+        <EFFICIENCY>80.000000</EFFICIENCY>
+        <NOTES>Pre-boil: 1.048
+OG: 1.056
+FG: 1.014
+IBU: 27
+Color: 16 SRM
+5.6% ABV
+
+NO peat smoked malt!
+
+Can dial up rauch malt to you pref - JZ prefers 50%.</NOTES>
+        <PRIMARY_TEMP>10.000000</PRIMARY_TEMP>
+    </RECIPE>
+</RECIPES>

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<RECIPES>
+    <RECIPE>
+        <FERMENTABLES>
+            <FERMENTABLE>
+                <NAME>Maris Otter Pale Ale Malt - T.Fawcett</NAME>
+                <VERSION>1</VERSION>
+                <YIELD>80.000000</YIELD>
+                <COLOR>2.500000</COLOR>
+                <AMOUNT>8.618210</AMOUNT>
+                <NOTES>In Mash/Steeped</NOTES>
+                <TYPE>Grain</TYPE>
+            </FERMENTABLE>
+            <FERMENTABLE>
+                <NAME>US Black Roasted Barley</NAME>
+                <VERSION>1</VERSION>
+                <YIELD>65.000000</YIELD>
+                <COLOR>500.000000</COLOR>
+                <AMOUNT>0.680385</AMOUNT>
+                <NOTES>In Mash/Steeped</NOTES>
+                <TYPE>Grain</TYPE>
+            </FERMENTABLE>
+            <FERMENTABLE>
+                <NAME>Belgian Special B</NAME>
+                <VERSION>1</VERSION>
+                <YIELD>65.000000</YIELD>
+                <COLOR>147.000000</COLOR>
+                <AMOUNT>0.453590</AMOUNT>
+                <NOTES>In Mash/Steeped</NOTES>
+                <TYPE>Grain</TYPE>
+            </FERMENTABLE>
+            <FERMENTABLE>
+                <NAME>UK Pale Chocolate Malt - 200</NAME>
+                <VERSION>1</VERSION>
+                <YIELD>69.699997</YIELD>
+                <COLOR>200.000000</COLOR>
+                <AMOUNT>0.226800</AMOUNT>
+                <NOTES>In Mash/Steeped</NOTES>
+                <TYPE>Grain</TYPE>
+            </FERMENTABLE>
+            <FERMENTABLE>
+                <NAME>US Caramel Munich 60L Malt</NAME>
+                <VERSION>1</VERSION>
+                <YIELD>73.000000</YIELD>
+                <COLOR>60.000000</COLOR>
+                <AMOUNT>0.226795</AMOUNT>
+                <NOTES>In Mash/Steeped</NOTES>
+                <TYPE>Grain</TYPE>
+            </FERMENTABLE>
+            <FERMENTABLE>
+                <NAME>US Chocolate Malt (350)</NAME>
+                <VERSION>1</VERSION>
+                <YIELD>73.000000</YIELD>
+                <COLOR>350.000000</COLOR>
+                <AMOUNT>0.226795</AMOUNT>
+                <NOTES>In Mash/Steeped</NOTES>
+                <TYPE>Grain</TYPE>
+            </FERMENTABLE>
+        </FERMENTABLES>
+        <HOPS>
+            <HOP>
+                <NAME>US Horizon</NAME>
+                <VERSION>1</VERSION>
+                <ALPHA>13.000000</ALPHA>
+                <AMOUNT>0.060953</AMOUNT>
+                <NOTES>60 Min From End</NOTES>
+                <USE>Boil</USE>
+                <TIME>60</TIME>
+                <FORM>Pellet</FORM>
+            </HOP>
+            <HOP>
+                <NAME>Kent Goldings</NAME>
+                <VERSION>1</VERSION>
+                <ALPHA>5.000000</ALPHA>
+                <AMOUNT>0.070875</AMOUNT>
+                <NOTES>10 Min From End</NOTES>
+                <USE>Boil</USE>
+                <TIME>10</TIME>
+                <FORM>Pellet</FORM>
+            </HOP>
+            <HOP>
+                <NAME>Kent Goldings</NAME>
+                <VERSION>1</VERSION>
+                <ALPHA>5.000000</ALPHA>
+                <AMOUNT>0.056700</AMOUNT>
+                <NOTES>1 Min From End</NOTES>
+                <USE>Boil</USE>
+                <TIME>1</TIME>
+                <FORM>Pellet</FORM>
+            </HOP>
+        </HOPS>
+        <YEASTS>
+            <YEAST>
+                <NAME>White Labs WLP001-California Ale</NAME>
+                <VERSION>1</VERSION>
+                <ATTENUATION>76.500000</ATTENUATION>
+                <FORM>Liquid</FORM>
+                <TYPE>Ale</TYPE>
+                <AMOUNT>0.035000</AMOUNT>
+                <AMOUNT_IS_WEIGHT>FALSE</AMOUNT_IS_WEIGHT>
+            </YEAST>
+        </YEASTS>
+        <MISCS></MISCS>
+        <STYLE>
+            <CATEGORY>Stout</CATEGORY>
+            <NAME>Imperial Stout</NAME>
+            <VERSION>1</VERSION>
+            <TYPE>Ale</TYPE>
+            <CATEGORY_NUMBER>13</CATEGORY_NUMBER>
+            <STYLE_LETTER>F</STYLE_LETTER>
+            <OG_MIN>1.075</OG_MIN>
+            <OG_MAX>1.115</OG_MAX>
+            <IBU_MIN>50</IBU_MIN>
+            <IBU_MAX>90</IBU_MAX>
+            <COLOR_MIN>30</COLOR_MIN>
+            <COLOR_MAX>40</COLOR_MAX>
+            <FG_MIN>1.019</FG_MIN>
+            <FG_MAX>1.029</FG_MAX>
+        </STYLE>
+        <WATERS>
+            <WATER>
+                <NAME>The brewer's water</NAME>
+                <VERSION>1</VERSION>
+                <AMOUNT>40.715851</AMOUNT>
+                <SULFATE>0.000000</SULFATE>
+                <CALCIUM>0.000000</CALCIUM>
+                <MAGNESIUM>0.000000</MAGNESIUM>
+                <CHLORIDE>0.000000</CHLORIDE>
+                <SODIUM>0.000000</SODIUM>
+                <BICARBONATE>0.000000</BICARBONATE>
+            </WATER>
+        </WATERS>
+        <MASH>
+            <NAME>Single Step Infusion (68C/154F)</NAME>
+            <VERSION>1</VERSION>
+            <GRAIN_TEMP>20</GRAIN_TEMP>
+            <MASH_STEPS>
+                <MASH_STEP>
+                    <NAME>Rest at</NAME>
+                    <VERSION>1</VERSION>
+                    <TYPE>Infusion</TYPE>
+                    <INFUSE_AMOUNT>0.0</INFUSE_AMOUNT>
+                    <STEP_TEMP>68.000000</STEP_TEMP>
+                    <STEP_TIME>60.000000</STEP_TIME>
+                    <RAMP_TIME>0</RAMP_TIME>
+                </MASH_STEP>
+            </MASH_STEPS>
+        </MASH>
+        <NAME>The Czar's Revenge</NAME>
+        <VERSION>1</VERSION>
+        <TYPE>All Grain</TYPE>
+        <BREWER>Matthew Mayes</BREWER>
+        <BATCH_SIZE>18.927052</BATCH_SIZE>
+        <BOIL_SIZE>30.283279</BOIL_SIZE>
+        <BOIL_TIME>60</BOIL_TIME>
+        <EFFICIENCY>70.000000</EFFICIENCY>
+        <NOTES>Pre-boil: 1.084
+OG: 1.098
+FG: 1.030
+IBU: 77
+Color: 57 srm
+9.2% abv
+</NOTES>
+        <PRIMARY_TEMP>19.444445</PRIMARY_TEMP>
+    </RECIPE>
+</RECIPES>

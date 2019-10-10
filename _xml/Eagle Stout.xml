@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<RECIPES>
+    <RECIPE>
+        <FERMENTABLES>
+            <FERMENTABLE>
+                <NAME>US 2-Row Malt</NAME>
+                <VERSION>1</VERSION>
+                <YIELD>80.000000</YIELD>
+                <COLOR>1.800000</COLOR>
+                <AMOUNT>5.443080</AMOUNT>
+                <NOTES>In Mash/Steeped</NOTES>
+                <TYPE>Grain</TYPE>
+            </FERMENTABLE>
+            <FERMENTABLE>
+                <NAME>US Black Roasted Barley</NAME>
+                <VERSION>1</VERSION>
+                <YIELD>65.000000</YIELD>
+                <COLOR>500.000000</COLOR>
+                <AMOUNT>0.453590</AMOUNT>
+                <NOTES>In Mash/Steeped</NOTES>
+                <TYPE>Grain</TYPE>
+            </FERMENTABLE>
+            <FERMENTABLE>
+                <NAME>US Dark Chocolate Malt (420)</NAME>
+                <VERSION>1</VERSION>
+                <YIELD>72.000000</YIELD>
+                <COLOR>420.000000</COLOR>
+                <AMOUNT>0.340192</AMOUNT>
+                <NOTES>In Mash/Steeped</NOTES>
+                <TYPE>Grain</TYPE>
+            </FERMENTABLE>
+            <FERMENTABLE>
+                <NAME>US Caramel 40L Malt</NAME>
+                <VERSION>1</VERSION>
+                <YIELD>73.000000</YIELD>
+                <COLOR>40.000000</COLOR>
+                <AMOUNT>0.340192</AMOUNT>
+                <NOTES>In Mash/Steeped</NOTES>
+                <TYPE>Grain</TYPE>
+            </FERMENTABLE>
+        </FERMENTABLES>
+        <HOPS>
+            <HOP>
+                <NAME>Northern Brewer</NAME>
+                <VERSION>1</VERSION>
+                <ALPHA>9.100000</ALPHA>
+                <AMOUNT>0.056700</AMOUNT>
+                <NOTES>60 Min From End</NOTES>
+                <USE>Boil</USE>
+                <TIME>60</TIME>
+                <FORM>Leaf</FORM>
+            </HOP>
+            <HOP>
+                <NAME>US Centennial</NAME>
+                <VERSION>1</VERSION>
+                <ALPHA>8.400000</ALPHA>
+                <AMOUNT>0.014175</AMOUNT>
+                <NOTES>60 Min From End</NOTES>
+                <USE>Boil</USE>
+                <TIME>60</TIME>
+                <FORM>Pellet</FORM>
+            </HOP>
+            <HOP>
+                <NAME>US Centennial</NAME>
+                <VERSION>1</VERSION>
+                <ALPHA>8.400000</ALPHA>
+                <AMOUNT>0.028350</AMOUNT>
+                <NOTES>5 Min From End</NOTES>
+                <USE>Boil</USE>
+                <TIME>5</TIME>
+                <FORM>Pellet</FORM>
+            </HOP>
+            <HOP>
+                <NAME>US Centennial</NAME>
+                <VERSION>1</VERSION>
+                <ALPHA>8.400000</ALPHA>
+                <AMOUNT>0.014175</AMOUNT>
+                <NOTES>At turn off</NOTES>
+                <USE>Boil</USE>
+                <TIME>0</TIME>
+                <FORM>Pellet</FORM>
+            </HOP>
+        </HOPS>
+        <YEASTS>
+            <YEAST>
+                <NAME>Wyeast 1056-American Ale</NAME>
+                <VERSION>1</VERSION>
+                <ATTENUATION>75.000000</ATTENUATION>
+                <FORM>Liquid</FORM>
+                <TYPE>Ale</TYPE>
+                <AMOUNT>0.405000</AMOUNT>
+                <AMOUNT_IS_WEIGHT>FALSE</AMOUNT_IS_WEIGHT>
+            </YEAST>
+        </YEASTS>
+        <MISCS></MISCS>
+        <STYLE>
+            <CATEGORY>Stout</CATEGORY>
+            <NAME>American Stout</NAME>
+            <VERSION>1</VERSION>
+            <TYPE>Ale</TYPE>
+            <CATEGORY_NUMBER>13</CATEGORY_NUMBER>
+            <STYLE_LETTER>E</STYLE_LETTER>
+            <OG_MIN>1.050</OG_MIN>
+            <OG_MAX>1.075</OG_MAX>
+            <IBU_MIN>35</IBU_MIN>
+            <IBU_MAX>75</IBU_MAX>
+            <COLOR_MIN>30</COLOR_MIN>
+            <COLOR_MAX>40</COLOR_MAX>
+            <FG_MIN>1.013</FG_MIN>
+            <FG_MAX>1.019</FG_MAX>
+        </STYLE>
+        <WATERS>
+            <WATER>
+                <NAME>The brewer's water</NAME>
+                <VERSION>1</VERSION>
+                <AMOUNT>36.860336</AMOUNT>
+                <SULFATE>0.000000</SULFATE>
+                <CALCIUM>0.000000</CALCIUM>
+                <MAGNESIUM>0.000000</MAGNESIUM>
+                <CHLORIDE>0.000000</CHLORIDE>
+                <SODIUM>0.000000</SODIUM>
+                <BICARBONATE>0.000000</BICARBONATE>
+            </WATER>
+        </WATERS>
+        <MASH>
+            <NAME>Single Step Infusion (67C/152F)</NAME>
+            <VERSION>1</VERSION>
+            <GRAIN_TEMP>20</GRAIN_TEMP>
+            <MASH_STEPS>
+                <MASH_STEP>
+                    <NAME>Rest at</NAME>
+                    <VERSION>1</VERSION>
+                    <TYPE>Infusion</TYPE>
+                    <INFUSE_AMOUNT>0.0</INFUSE_AMOUNT>
+                    <STEP_TEMP>66.666664</STEP_TEMP>
+                    <STEP_TIME>60.000000</STEP_TIME>
+                    <RAMP_TIME>0</RAMP_TIME>
+                </MASH_STEP>
+            </MASH_STEPS>
+        </MASH>
+        <NAME>Eagle Stout</NAME>
+        <VERSION>1</VERSION>
+        <TYPE>All Grain</TYPE>
+        <BREWER>Matthew Mayes</BREWER>
+        <BATCH_SIZE>20.819756</BATCH_SIZE>
+        <BOIL_SIZE>30.283279</BOIL_SIZE>
+        <BOIL_TIME>60</BOIL_TIME>
+        <EFFICIENCY>80.000000</EFFICIENCY>
+        <NOTES></NOTES>
+        <PRIMARY_TEMP>19.444445</PRIMARY_TEMP>
+    </RECIPE>
+</RECIPES>

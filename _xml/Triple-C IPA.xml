@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<RECIPES>
+    <RECIPE>
+        <FERMENTABLES>
+            <FERMENTABLE>
+                <NAME>US 2-Row Malt</NAME>
+                <VERSION>1</VERSION>
+                <YIELD>80.000000</YIELD>
+                <COLOR>1.800000</COLOR>
+                <AMOUNT>3.969000</AMOUNT>
+                <NOTES>In Mash/Steeped</NOTES>
+                <TYPE>Grain</TYPE>
+            </FERMENTABLE>
+            <FERMENTABLE>
+                <NAME>US Flaked Corn/Maize</NAME>
+                <VERSION>1</VERSION>
+                <YIELD>75.000000</YIELD>
+                <COLOR>0.800000</COLOR>
+                <AMOUNT>0.453590</AMOUNT>
+                <NOTES>In Mash/Steeped</NOTES>
+                <TYPE>Adjunct</TYPE>
+            </FERMENTABLE>
+            <FERMENTABLE>
+                <NAME>Canadian Honey Malt (Gambrinus)</NAME>
+                <VERSION>1</VERSION>
+                <YIELD>80.000000</YIELD>
+                <COLOR>22.500000</COLOR>
+                <AMOUNT>0.340200</AMOUNT>
+                <NOTES>In Mash/Steeped</NOTES>
+                <TYPE>Grain</TYPE>
+            </FERMENTABLE>
+            <FERMENTABLE>
+                <NAME>US 2-Row Malt</NAME>
+                <VERSION>1</VERSION>
+                <YIELD>80.000000</YIELD>
+                <COLOR>1.800000</COLOR>
+                <AMOUNT>0.226800</AMOUNT>
+                <NOTES>In Mash/Steeped</NOTES>
+                <TYPE>Grain</TYPE>
+            </FERMENTABLE>
+            <FERMENTABLE>
+                <NAME>US Caramel 15 Malt</NAME>
+                <VERSION>1</VERSION>
+                <YIELD>73.000000</YIELD>
+                <COLOR>15.000000</COLOR>
+                <AMOUNT>0.226800</AMOUNT>
+                <NOTES>In Mash/Steeped</NOTES>
+                <TYPE>Grain</TYPE>
+            </FERMENTABLE>
+            <FERMENTABLE>
+                <NAME>Belgian Special B</NAME>
+                <VERSION>1</VERSION>
+                <YIELD>65.000000</YIELD>
+                <COLOR>147.000000</COLOR>
+                <AMOUNT>0.113400</AMOUNT>
+                <NOTES>In Mash/Steeped</NOTES>
+                <TYPE>Grain</TYPE>
+            </FERMENTABLE>
+        </FERMENTABLES>
+        <HOPS>
+            <HOP>
+                <NAME>US Liberty</NAME>
+                <VERSION>1</VERSION>
+                <ALPHA>4.500000</ALPHA>
+                <AMOUNT>0.093555</AMOUNT>
+                <NOTES>First Wort Hopped</NOTES>
+                <USE>First Wort</USE>
+                <TIME>60</TIME>
+                <FORM>Pellet</FORM>
+            </HOP>
+            <HOP>
+                <NAME>US Mount Hood</NAME>
+                <VERSION>1</VERSION>
+                <ALPHA>4.200000</ALPHA>
+                <AMOUNT>0.049612</AMOUNT>
+                <NOTES>10 Min From End</NOTES>
+                <USE>Boil</USE>
+                <TIME>10</TIME>
+                <FORM>Pellet</FORM>
+            </HOP>
+            <HOP>
+                <NAME>NZ Pacific Hallertau</NAME>
+                <VERSION>1</VERSION>
+                <ALPHA>6.000000</ALPHA>
+                <AMOUNT>0.028350</AMOUNT>
+                <NOTES>1 Min From End</NOTES>
+                <USE>Boil</USE>
+                <TIME>1</TIME>
+                <FORM>Pellet</FORM>
+            </HOP>
+            <HOP>
+                <NAME>US Mount Hood</NAME>
+                <VERSION>1</VERSION>
+                <ALPHA>4.500000</ALPHA>
+                <AMOUNT>0.028350</AMOUNT>
+                <NOTES>1 Min From End</NOTES>
+                <USE>Boil</USE>
+                <TIME>1</TIME>
+                <FORM>Pellet</FORM>
+            </HOP>
+            <HOP>
+                <NAME>US Liberty</NAME>
+                <VERSION>1</VERSION>
+                <ALPHA>4.500000</ALPHA>
+                <AMOUNT>0.021263</AMOUNT>
+                <NOTES>1 Min From End</NOTES>
+                <USE>Boil</USE>
+                <TIME>1</TIME>
+                <FORM>Pellet</FORM>
+            </HOP>
+            <HOP>
+                <NAME>US Glacier</NAME>
+                <VERSION>1</VERSION>
+                <ALPHA>5.000000</ALPHA>
+                <AMOUNT>0.014175</AMOUNT>
+                <NOTES>1 Min From End</NOTES>
+                <USE>Boil</USE>
+                <TIME>1</TIME>
+                <FORM>Pellet</FORM>
+            </HOP>
+            <HOP>
+                <NAME>NZ Pacific Hallertau</NAME>
+                <VERSION>1</VERSION>
+                <ALPHA>6.000000</ALPHA>
+                <AMOUNT>0.014175</AMOUNT>
+                <NOTES>Dry-Hopped</NOTES>
+                <USE>Dry Hop</USE>
+                <TIME>0</TIME>
+                <FORM>Pellet</FORM>
+            </HOP>
+            <HOP>
+                <NAME>US Crystal</NAME>
+                <VERSION>1</VERSION>
+                <ALPHA>3.500000</ALPHA>
+                <AMOUNT>0.014175</AMOUNT>
+                <NOTES>Dry-Hopped</NOTES>
+                <USE>Dry Hop</USE>
+                <TIME>0</TIME>
+                <FORM>Pellet</FORM>
+            </HOP>
+            <HOP>
+                <NAME>French Strisselspalter</NAME>
+                <VERSION>1</VERSION>
+                <ALPHA>3.500000</ALPHA>
+                <AMOUNT>0.014175</AMOUNT>
+                <NOTES>Dry-Hopped</NOTES>
+                <USE>Dry Hop</USE>
+                <TIME>0</TIME>
+                <FORM>Pellet</FORM>
+            </HOP>
+        </HOPS>
+        <YEASTS>
+            <YEAST>
+                <NAME>White Labs WLP862-Cry Havoc</NAME>
+                <VERSION>1</VERSION>
+                <ATTENUATION>70.000000</ATTENUATION>
+                <FORM>Liquid</FORM>
+                <TYPE>Lager</TYPE>
+                <AMOUNT>0.070000</AMOUNT>
+                <AMOUNT_IS_WEIGHT>FALSE</AMOUNT_IS_WEIGHT>
+            </YEAST>
+        </YEASTS>
+        <MISCS></MISCS>
+        <STYLE>
+            <CATEGORY>India Pale Ale(IPA)</CATEGORY>
+            <NAME>American IPA</NAME>
+            <VERSION>1</VERSION>
+            <TYPE>Ale</TYPE>
+            <CATEGORY_NUMBER>14</CATEGORY_NUMBER>
+            <STYLE_LETTER>B</STYLE_LETTER>
+            <OG_MIN>1.056</OG_MIN>
+            <OG_MAX>1.075</OG_MAX>
+            <IBU_MIN>40</IBU_MIN>
+            <IBU_MAX>70</IBU_MAX>
+            <COLOR_MIN>6</COLOR_MIN>
+            <COLOR_MAX>15</COLOR_MAX>
+            <FG_MIN>1.014</FG_MIN>
+            <FG_MAX>1.019</FG_MAX>
+        </STYLE>
+        <WATERS>
+            <WATER>
+                <NAME>The brewer's water</NAME>
+                <VERSION>1</VERSION>
+                <AMOUNT>35.613071</AMOUNT>
+                <SULFATE>0.000000</SULFATE>
+                <CALCIUM>0.000000</CALCIUM>
+                <MAGNESIUM>0.000000</MAGNESIUM>
+                <CHLORIDE>0.000000</CHLORIDE>
+                <SODIUM>0.000000</SODIUM>
+                <BICARBONATE>0.000000</BICARBONATE>
+            </WATER>
+        </WATERS>
+        <MASH>
+            <NAME>Papazian 132 - 155 - 167</NAME>
+            <VERSION>1</VERSION>
+            <GRAIN_TEMP>20</GRAIN_TEMP>
+            <MASH_STEPS>
+                <MASH_STEP>
+                    <NAME>Rest at</NAME>
+                    <VERSION>1</VERSION>
+                    <TYPE>Infusion</TYPE>
+                    <INFUSE_AMOUNT>0.0</INFUSE_AMOUNT>
+                    <STEP_TEMP>55.555553</STEP_TEMP>
+                    <STEP_TIME>30.000000</STEP_TIME>
+                    <RAMP_TIME>0</RAMP_TIME>
+                </MASH_STEP>
+                <MASH_STEP>
+                    <NAME>Raise by infusion to</NAME>
+                    <VERSION>1</VERSION>
+                    <TYPE>Infusion</TYPE>
+                    <INFUSE_AMOUNT>7.006768</INFUSE_AMOUNT>
+                    <STEP_TEMP>68.333336</STEP_TEMP>
+                    <RAMP_TIME>30.000000</RAMP_TIME>
+                    <STEP_TIME>0</STEP_TIME>
+                </MASH_STEP>
+                <MASH_STEP>
+                    <NAME>Raise to and Mash out at</NAME>
+                    <VERSION>1</VERSION>
+                </MASH_STEP>
+            </MASH_STEPS>
+        </MASH>
+        <NAME>Triple-C IPA</NAME>
+        <VERSION>1</VERSION>
+        <TYPE>All Grain</TYPE>
+        <BREWER>Matthew Mayes</BREWER>
+        <BATCH_SIZE>18.927052</BATCH_SIZE>
+        <BOIL_SIZE>30.283279</BOIL_SIZE>
+        <BOIL_TIME>60</BOIL_TIME>
+        <EFFICIENCY>80.000000</EFFICIENCY>
+        <NOTES>OG: 1.051
+FG: 1.012
+IBUS: 55
+7 SRM / 5.2% ABV
+
+Add 9.5q of 140F water to grain, stabalize at 132F.
+Meanwhile, bring 1 cup pale malt and 1lb flaked corn to a boil with 5.5q water. After 30 minutes, add to mash and add heat to 155F, hold 30 minutes.</NOTES>
+        <PRIMARY_TEMP>18.0</PRIMARY_TEMP>
+    </RECIPE>
+</RECIPES>

@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<RECIPES>
+    <RECIPE>
+        <FERMENTABLES>
+            <FERMENTABLE>
+                <NAME>Maris Otter Pale Ale Malt - T.Fawcett</NAME>
+                <VERSION>1</VERSION>
+                <YIELD>80.000000</YIELD>
+                <COLOR>2.500000</COLOR>
+                <AMOUNT>4.536000</AMOUNT>
+                <NOTES>In Mash/Steeped</NOTES>
+                <TYPE>Grain</TYPE>
+            </FERMENTABLE>
+            <FERMENTABLE>
+                <NAME>US 2-Row Malt</NAME>
+                <VERSION>1</VERSION>
+                <YIELD>80.000000</YIELD>
+                <COLOR>1.800000</COLOR>
+                <AMOUNT>3.175130</AMOUNT>
+                <NOTES>In Mash/Steeped</NOTES>
+                <TYPE>Grain</TYPE>
+            </FERMENTABLE>
+            <FERMENTABLE>
+                <NAME>US Carapils Malt</NAME>
+                <VERSION>1</VERSION>
+                <YIELD>73.000000</YIELD>
+                <COLOR>1.300000</COLOR>
+                <AMOUNT>0.680400</AMOUNT>
+                <NOTES>In Mash/Steeped</NOTES>
+                <TYPE>Grain</TYPE>
+            </FERMENTABLE>
+            <FERMENTABLE>
+                <NAME>US Caramel 40L Malt</NAME>
+                <VERSION>1</VERSION>
+                <YIELD>73.000000</YIELD>
+                <COLOR>40.000000</COLOR>
+                <AMOUNT>0.340200</AMOUNT>
+                <NOTES>In Mash/Steeped</NOTES>
+                <TYPE>Grain</TYPE>
+            </FERMENTABLE>
+            <FERMENTABLE>
+                <NAME>German Pilsner Malt</NAME>
+                <VERSION>1</VERSION>
+                <YIELD>81.000000</YIELD>
+                <COLOR>1.300000</COLOR>
+                <AMOUNT>0.028350</AMOUNT>
+                <NOTES>In Mash/Steeped</NOTES>
+                <TYPE>Grain</TYPE>
+            </FERMENTABLE>
+            <FERMENTABLE>
+                <NAME>Sugar - Turbinado</NAME>
+                <VERSION>1</VERSION>
+                <YIELD>97.000000</YIELD>
+                <COLOR>10.000000</COLOR>
+                <AMOUNT>0.680385</AMOUNT>
+                <NOTES>Start Of Boil</NOTES>
+                <TYPE>Sugar</TYPE>
+            </FERMENTABLE>
+            <FERMENTABLE>
+                <NAME>Sugar - Corn Sugar/Dextrose (Dry)</NAME>
+                <VERSION>1</VERSION>
+                <YIELD>99.000000</YIELD>
+                <COLOR>0.000000</COLOR>
+                <AMOUNT>0.226795</AMOUNT>
+                <NOTES>Start Of Boil</NOTES>
+                <TYPE>Sugar</TYPE>
+            </FERMENTABLE>
+        </FERMENTABLES>
+        <HOPS>
+            <HOP>
+                <NAME>German Hallertauer Hersbrucker</NAME>
+                <VERSION>1</VERSION>
+                <ALPHA>3.500000</ALPHA>
+                <AMOUNT>0.028350</AMOUNT>
+                <NOTES>90 Min From End</NOTES>
+                <USE>Boil</USE>
+                <TIME>90</TIME>
+                <FORM>Pellet</FORM>
+            </HOP>
+            <HOP>
+                <NAME>US Simcoe</NAME>
+                <VERSION>1</VERSION>
+                <ALPHA>13.000000</ALPHA>
+                <AMOUNT>0.014175</AMOUNT>
+                <NOTES>45 Min From End</NOTES>
+                <USE>Boil</USE>
+                <TIME>45</TIME>
+                <FORM>Pellet</FORM>
+            </HOP>
+            <HOP>
+                <NAME>US Simcoe</NAME>
+                <VERSION>1</VERSION>
+                <ALPHA>16.000000</ALPHA>
+                <AMOUNT>0.014175</AMOUNT>
+                <NOTES>30 Min From End</NOTES>
+                <USE>Boil</USE>
+                <TIME>30</TIME>
+                <FORM>Leaf</FORM>
+            </HOP>
+            <HOP>
+                <NAME>US Summit</NAME>
+                <VERSION>1</VERSION>
+                <ALPHA>16.000000</ALPHA>
+                <AMOUNT>0.014175</AMOUNT>
+                <NOTES>30 Min From End</NOTES>
+                <USE>Boil</USE>
+                <TIME>30</TIME>
+                <FORM>Leaf</FORM>
+            </HOP>
+            <HOP>
+                <NAME>US Centennial</NAME>
+                <VERSION>1</VERSION>
+                <ALPHA>8.000000</ALPHA>
+                <AMOUNT>0.028350</AMOUNT>
+                <NOTES>15 Min From End</NOTES>
+                <USE>Boil</USE>
+                <TIME>15</TIME>
+                <FORM>Leaf</FORM>
+            </HOP>
+            <HOP>
+                <NAME>US Simcoe</NAME>
+                <VERSION>1</VERSION>
+                <ALPHA>10.400000</ALPHA>
+                <AMOUNT>0.028350</AMOUNT>
+                <NOTES>10 Min From End</NOTES>
+                <USE>Boil</USE>
+                <TIME>10</TIME>
+                <FORM>Leaf</FORM>
+            </HOP>
+            <HOP>
+                <NAME>US Simcoe</NAME>
+                <VERSION>1</VERSION>
+                <ALPHA>10.400000</ALPHA>
+                <AMOUNT>0.028350</AMOUNT>
+                <NOTES>5 Min From End</NOTES>
+                <USE>Boil</USE>
+                <TIME>5</TIME>
+                <FORM>Leaf</FORM>
+            </HOP>
+            <HOP>
+                <NAME>US Summit</NAME>
+                <VERSION>1</VERSION>
+                <ALPHA>16.000000</ALPHA>
+                <AMOUNT>0.028350</AMOUNT>
+                <NOTES>5 Min From End</NOTES>
+                <USE>Boil</USE>
+                <TIME>5</TIME>
+                <FORM>Leaf</FORM>
+            </HOP>
+            <HOP>
+                <NAME>US Centennial</NAME>
+                <VERSION>1</VERSION>
+                <ALPHA>8.000000</ALPHA>
+                <AMOUNT>0.028350</AMOUNT>
+                <NOTES>5 Min From End</NOTES>
+                <USE>Boil</USE>
+                <TIME>5</TIME>
+                <FORM>Leaf</FORM>
+            </HOP>
+            <HOP>
+                <NAME>US Centennial</NAME>
+                <VERSION>1</VERSION>
+                <ALPHA>8.000000</ALPHA>
+                <AMOUNT>0.028350</AMOUNT>
+                <NOTES>At turn off</NOTES>
+                <USE>Boil</USE>
+                <TIME>0</TIME>
+                <FORM>Leaf</FORM>
+            </HOP>
+            <HOP>
+                <NAME>US Simcoe</NAME>
+                <VERSION>1</VERSION>
+                <ALPHA>10.400000</ALPHA>
+                <AMOUNT>0.021263</AMOUNT>
+                <NOTES>At turn off</NOTES>
+                <USE>Boil</USE>
+                <TIME>0</TIME>
+                <FORM>Leaf</FORM>
+            </HOP>
+            <HOP>
+                <NAME>US Columbus(Tomahawk)</NAME>
+                <VERSION>1</VERSION>
+                <ALPHA>13.000000</ALPHA>
+                <AMOUNT>0.070875</AMOUNT>
+                <NOTES>Dry-Hopped</NOTES>
+                <USE>Dry Hop</USE>
+                <TIME>0</TIME>
+                <FORM>Pellet</FORM>
+            </HOP>
+            <HOP>
+                <NAME>US Centennial</NAME>
+                <VERSION>1</VERSION>
+                <ALPHA>8.500000</ALPHA>
+                <AMOUNT>0.035437</AMOUNT>
+                <NOTES>Dry-Hopped</NOTES>
+                <USE>Dry Hop</USE>
+                <TIME>0</TIME>
+                <FORM>Pellet</FORM>
+            </HOP>
+            <HOP>
+                <NAME>US Simcoe</NAME>
+                <VERSION>1</VERSION>
+                <ALPHA>11.000000</ALPHA>
+                <AMOUNT>0.035437</AMOUNT>
+                <NOTES>Dry-Hopped</NOTES>
+                <USE>Dry Hop</USE>
+                <TIME>0</TIME>
+                <FORM>Pellet</FORM>
+            </HOP>
+        </HOPS>
+        <YEASTS>
+            <YEAST>
+                <NAME>Wyeast 1056-American Ale</NAME>
+                <VERSION>1</VERSION>
+                <ATTENUATION>75.000000</ATTENUATION>
+                <FORM>Liquid</FORM>
+                <TYPE>Ale</TYPE>
+                <AMOUNT>0.270000</AMOUNT>
+                <AMOUNT_IS_WEIGHT>FALSE</AMOUNT_IS_WEIGHT>
+            </YEAST>
+        </YEASTS>
+        <MISCS></MISCS>
+        <STYLE>
+            <CATEGORY>India Pale Ale(IPA)</CATEGORY>
+            <NAME>Imperial IPA</NAME>
+            <VERSION>1</VERSION>
+            <TYPE>Ale</TYPE>
+            <CATEGORY_NUMBER>14</CATEGORY_NUMBER>
+            <STYLE_LETTER>C</STYLE_LETTER>
+            <OG_MIN>1.070</OG_MIN>
+            <OG_MAX>1.090</OG_MAX>
+            <IBU_MIN>60</IBU_MIN>
+            <IBU_MAX>120</IBU_MAX>
+            <COLOR_MIN>8</COLOR_MIN>
+            <COLOR_MAX>15</COLOR_MAX>
+            <FG_MIN>1.018</FG_MIN>
+            <FG_MAX>1.023</FG_MAX>
+        </STYLE>
+        <WATERS>
+            <WATER>
+                <NAME>The brewer's water</NAME>
+                <VERSION>1</VERSION>
+                <AMOUNT>39.043358</AMOUNT>
+                <SULFATE>0.000000</SULFATE>
+                <CALCIUM>0.000000</CALCIUM>
+                <MAGNESIUM>0.000000</MAGNESIUM>
+                <CHLORIDE>0.000000</CHLORIDE>
+                <SODIUM>0.000000</SODIUM>
+                <BICARBONATE>0.000000</BICARBONATE>
+            </WATER>
+        </WATERS>
+        <MASH>
+            <NAME>Nate's 145-152-165</NAME>
+            <VERSION>1</VERSION>
+            <GRAIN_TEMP>20</GRAIN_TEMP>
+            <MASH_STEPS>
+                <MASH_STEP>
+                    <NAME>Rest at</NAME>
+                    <VERSION>1</VERSION>
+                    <TYPE>Infusion</TYPE>
+                    <INFUSE_AMOUNT>0.0</INFUSE_AMOUNT>
+                    <STEP_TEMP>62.777779</STEP_TEMP>
+                    <STEP_TIME>30.000000</STEP_TIME>
+                    <RAMP_TIME>0</RAMP_TIME>
+                </MASH_STEP>
+                <MASH_STEP>
+                    <NAME>Raise by infusion to</NAME>
+                    <VERSION>1</VERSION>
+                    <TYPE>Infusion</TYPE>
+                    <INFUSE_AMOUNT>5.847242</INFUSE_AMOUNT>
+                    <STEP_TEMP>66.666664</STEP_TEMP>
+                    <RAMP_TIME>60.000000</RAMP_TIME>
+                    <STEP_TIME>0</STEP_TIME>
+                </MASH_STEP>
+                <MASH_STEP>
+                    <NAME>Raise by infusion to</NAME>
+                    <VERSION>1</VERSION>
+                    <TYPE>Infusion</TYPE>
+                    <INFUSE_AMOUNT>10.266548</INFUSE_AMOUNT>
+                    <STEP_TEMP>73.888885</STEP_TEMP>
+                    <RAMP_TIME>15.000000</RAMP_TIME>
+                    <STEP_TIME>0</STEP_TIME>
+                </MASH_STEP>
+            </MASH_STEPS>
+        </MASH>
+        <NAME>North Oakland DIPA</NAME>
+        <VERSION>1</VERSION>
+        <TYPE>All Grain</TYPE>
+        <BREWER>Matthew Mayes</BREWER>
+        <BATCH_SIZE>18.927052</BATCH_SIZE>
+        <BOIL_SIZE>30.283279</BOIL_SIZE>
+        <BOIL_TIME>90</BOIL_TIME>
+        <EFFICIENCY>50.000000</EFFICIENCY>
+        <NOTES>Pre-Boil: 1.057
+OG: 1.073
+FG: 1.011
+SrM: 8.3
+
+March/April 2011 Zymurgy
+
+"Divide dry hops into 2 equal portions, and use each for 7 days."
+</NOTES>
+        <PRIMARY_TEMP>20.000000</PRIMARY_TEMP>
+    </RECIPE>
+</RECIPES>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<RECIPES>
+    <RECIPE>
+        <FERMENTABLES>
+            <FERMENTABLE>
+                <NAME>US 2-Row Malt</NAME>
+                <VERSION>1</VERSION>
+                <YIELD>80.000000</YIELD>
+                <COLOR>1.800000</COLOR>
+                <AMOUNT>4.276567</AMOUNT>
+                <NOTES>In Mash/Steeped</NOTES>
+                <TYPE>Grain</TYPE>
+            </FERMENTABLE>
+            <FERMENTABLE>
+                <NAME>German Munich Malt</NAME>
+                <VERSION>1</VERSION>
+                <YIELD>81.000000</YIELD>
+                <COLOR>5.500000</COLOR>
+                <AMOUNT>0.339991</AMOUNT>
+                <NOTES>In Mash/Steeped</NOTES>
+                <TYPE>Grain</TYPE>
+            </FERMENTABLE>
+            <FERMENTABLE>
+                <NAME>US Caramel 40L Malt</NAME>
+                <VERSION>1</VERSION>
+                <YIELD>73.000000</YIELD>
+                <COLOR>40.000000</COLOR>
+                <AMOUNT>0.339991</AMOUNT>
+                <NOTES>In Mash/Steeped</NOTES>
+                <TYPE>Grain</TYPE>
+            </FERMENTABLE>
+        </FERMENTABLES>
+        <HOPS>
+            <HOP>
+                <NAME>US Magnum</NAME>
+                <VERSION>1</VERSION>
+                <ALPHA>14.100000</ALPHA>
+                <AMOUNT>0.014175</AMOUNT>
+                <NOTES>All Of Boil</NOTES>
+                <USE>Boil</USE>
+                <TIME>60</TIME>
+                <FORM>Pellet</FORM>
+            </HOP>
+            <HOP>
+                <NAME>US Cascade</NAME>
+                <VERSION>1</VERSION>
+                <ALPHA>6.400000</ALPHA>
+                <AMOUNT>0.023718</AMOUNT>
+                <NOTES>10 Min From End</NOTES>
+                <USE>Boil</USE>
+                <TIME>10</TIME>
+                <FORM>Pellet</FORM>
+            </HOP>
+            <HOP>
+                <NAME>US Centennial</NAME>
+                <VERSION>1</VERSION>
+                <ALPHA>8.700000</ALPHA>
+                <AMOUNT>0.007624</AMOUNT>
+                <NOTES>10 Min From End</NOTES>
+                <USE>Boil</USE>
+                <TIME>10</TIME>
+                <FORM>Pellet</FORM>
+            </HOP>
+            <HOP>
+                <NAME>US Centennial</NAME>
+                <VERSION>1</VERSION>
+                <ALPHA>8.700000</ALPHA>
+                <AMOUNT>0.020696</AMOUNT>
+                <NOTES>At turn off</NOTES>
+                <USE>Boil</USE>
+                <TIME>0</TIME>
+                <FORM>Pellet</FORM>
+            </HOP>
+            <HOP>
+                <NAME>US Cascade</NAME>
+                <VERSION>1</VERSION>
+                <ALPHA>6.400000</ALPHA>
+                <AMOUNT>0.004536</AMOUNT>
+                <NOTES>At turn off</NOTES>
+                <USE>Boil</USE>
+                <TIME>0</TIME>
+                <FORM>Pellet</FORM>
+            </HOP>
+        </HOPS>
+        <YEASTS>
+            <YEAST>
+                <NAME>White Labs WLP001-California Ale</NAME>
+                <VERSION>1</VERSION>
+                <ATTENUATION>76.500000</ATTENUATION>
+                <FORM>Liquid</FORM>
+                <TYPE>Ale</TYPE>
+                <AMOUNT>0.070000</AMOUNT>
+                <AMOUNT_IS_WEIGHT>FALSE</AMOUNT_IS_WEIGHT>
+            </YEAST>
+        </YEASTS>
+        <MISCS></MISCS>
+        <STYLE>
+            <CATEGORY>American Ale</CATEGORY>
+            <NAME>American Pale Ale</NAME>
+            <VERSION>1</VERSION>
+            <TYPE>Ale</TYPE>
+            <CATEGORY_NUMBER>10</CATEGORY_NUMBER>
+            <STYLE_LETTER>A</STYLE_LETTER>
+            <OG_MIN>1.045</OG_MIN>
+            <OG_MAX>1.060</OG_MAX>
+            <IBU_MIN>30</IBU_MIN>
+            <IBU_MAX>45</IBU_MAX>
+            <COLOR_MIN>5</COLOR_MIN>
+            <COLOR_MAX>14</COLOR_MAX>
+            <FG_MIN>1.011</FG_MIN>
+            <FG_MAX>1.015</FG_MAX>
+        </STYLE>
+        <WATERS>
+            <WATER>
+                <NAME>The brewer's water</NAME>
+                <VERSION>1</VERSION>
+                <AMOUNT>28.956551</AMOUNT>
+                <SULFATE>0.000000</SULFATE>
+                <CALCIUM>0.000000</CALCIUM>
+                <MAGNESIUM>0.000000</MAGNESIUM>
+                <CHLORIDE>0.000000</CHLORIDE>
+                <SODIUM>0.000000</SODIUM>
+                <BICARBONATE>0.000000</BICARBONATE>
+            </WATER>
+        </WATERS>
+        <MASH>
+            <NAME>Single Step Infusion (67C/152F)</NAME>
+            <VERSION>1</VERSION>
+            <GRAIN_TEMP>20</GRAIN_TEMP>
+            <MASH_STEPS>
+                <MASH_STEP>
+                    <NAME>Rest at</NAME>
+                    <VERSION>1</VERSION>
+                    <TYPE>Infusion</TYPE>
+                    <INFUSE_AMOUNT>0.0</INFUSE_AMOUNT>
+                    <STEP_TEMP>66.666664</STEP_TEMP>
+                    <STEP_TIME>60.000000</STEP_TIME>
+                    <RAMP_TIME>0</RAMP_TIME>
+                </MASH_STEP>
+            </MASH_STEPS>
+        </MASH>
+        <NAME>Stephen JZ American Pale w/ Caramel</NAME>
+        <VERSION>1</VERSION>
+        <TYPE>All Grain</TYPE>
+        <BREWER>Matthew Mayes</BREWER>
+        <BATCH_SIZE>19.000000</BATCH_SIZE>
+        <BOIL_SIZE>24.000000</BOIL_SIZE>
+        <BOIL_TIME>60</BOIL_TIME>
+        <EFFICIENCY>75</EFFICIENCY>
+        <NOTES>Pre-boil: 1.044
+OG: 1.052
+IBU: 40
+Color: 7 srm
+5.1% ABV</NOTES>
+        <PRIMARY_TEMP>19.444445</PRIMARY_TEMP>
+    </RECIPE>
+</RECIPES>

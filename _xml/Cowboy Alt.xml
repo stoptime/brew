@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<RECIPES>
+    <RECIPE>
+        <FERMENTABLES>
+            <FERMENTABLE>
+                <NAME>German Pilsner Malt</NAME>
+                <VERSION>1</VERSION>
+                <YIELD>81.000000</YIELD>
+                <COLOR>1.300000</COLOR>
+                <AMOUNT>3.628720</AMOUNT>
+                <NOTES>In Mash/Steeped</NOTES>
+                <TYPE>Grain</TYPE>
+            </FERMENTABLE>
+            <FERMENTABLE>
+                <NAME>German Munich Malt</NAME>
+                <VERSION>1</VERSION>
+                <YIELD>81.000000</YIELD>
+                <COLOR>5.500000</COLOR>
+                <AMOUNT>0.453590</AMOUNT>
+                <NOTES>In Mash/Steeped</NOTES>
+                <TYPE>Grain</TYPE>
+            </FERMENTABLE>
+            <FERMENTABLE>
+                <NAME>Belgian Aromatic Malt</NAME>
+                <VERSION>1</VERSION>
+                <YIELD>80.000000</YIELD>
+                <COLOR>19.000000</COLOR>
+                <AMOUNT>0.226800</AMOUNT>
+                <NOTES>In Mash/Steeped</NOTES>
+                <TYPE>Grain</TYPE>
+            </FERMENTABLE>
+            <FERMENTABLE>
+                <NAME>German CaraMunich III</NAME>
+                <VERSION>1</VERSION>
+                <YIELD>78.000000</YIELD>
+                <COLOR>57.000000</COLOR>
+                <AMOUNT>0.226800</AMOUNT>
+                <NOTES>In Mash/Steeped</NOTES>
+                <TYPE>Grain</TYPE>
+            </FERMENTABLE>
+            <FERMENTABLE>
+                <NAME>German Carafa II</NAME>
+                <VERSION>1</VERSION>
+                <YIELD>70.000000</YIELD>
+                <COLOR>430.000000</COLOR>
+                <AMOUNT>0.141750</AMOUNT>
+                <NOTES>In Mash/Steeped</NOTES>
+                <TYPE>Grain</TYPE>
+            </FERMENTABLE>
+        </FERMENTABLES>
+        <HOPS>
+            <HOP>
+                <NAME>US Magnum</NAME>
+                <VERSION>1</VERSION>
+                <ALPHA>15.000000</ALPHA>
+                <AMOUNT>0.022680</AMOUNT>
+                <NOTES>60 Min From End</NOTES>
+                <USE>Boil</USE>
+                <TIME>60</TIME>
+                <FORM>Pellet</FORM>
+            </HOP>
+            <HOP>
+                <NAME>German Tettnang</NAME>
+                <VERSION>1</VERSION>
+                <ALPHA>4.000000</ALPHA>
+                <AMOUNT>0.014175</AMOUNT>
+                <NOTES>15 Min From End</NOTES>
+                <USE>Boil</USE>
+                <TIME>15</TIME>
+                <FORM>Pellet</FORM>
+            </HOP>
+        </HOPS>
+        <YEASTS>
+            <YEAST>
+                <NAME>Wyeast 1007-German Ale</NAME>
+                <VERSION>1</VERSION>
+                <ATTENUATION>75.000000</ATTENUATION>
+                <FORM>Liquid</FORM>
+                <TYPE>Ale</TYPE>
+                <AMOUNT>0.270000</AMOUNT>
+                <AMOUNT_IS_WEIGHT>FALSE</AMOUNT_IS_WEIGHT>
+            </YEAST>
+        </YEASTS>
+        <MISCS></MISCS>
+        <STYLE>
+            <CATEGORY>Amber Hybrid Beer</CATEGORY>
+            <NAME>Dusseldorf Altbier</NAME>
+            <VERSION>1</VERSION>
+            <TYPE>Ale</TYPE>
+            <CATEGORY_NUMBER>7</CATEGORY_NUMBER>
+            <STYLE_LETTER>C</STYLE_LETTER>
+            <OG_MIN>1.046</OG_MIN>
+            <OG_MAX>1.054</OG_MAX>
+            <IBU_MIN>35</IBU_MIN>
+            <IBU_MAX>50</IBU_MAX>
+            <COLOR_MIN>11</COLOR_MIN>
+            <COLOR_MAX>17</COLOR_MAX>
+            <FG_MIN>1.012</FG_MIN>
+            <FG_MAX>1.013</FG_MAX>
+        </STYLE>
+        <WATERS>
+            <WATER>
+                <NAME>The brewer's water</NAME>
+                <VERSION>1</VERSION>
+                <AMOUNT>34.960938</AMOUNT>
+                <SULFATE>0.000000</SULFATE>
+                <CALCIUM>0.000000</CALCIUM>
+                <MAGNESIUM>0.000000</MAGNESIUM>
+                <CHLORIDE>0.000000</CHLORIDE>
+                <SODIUM>0.000000</SODIUM>
+                <BICARBONATE>0.000000</BICARBONATE>
+            </WATER>
+        </WATERS>
+        <MASH>
+            <NAME>Single Step Infusion (67C/152F)</NAME>
+            <VERSION>1</VERSION>
+            <GRAIN_TEMP>20</GRAIN_TEMP>
+            <MASH_STEPS>
+                <MASH_STEP>
+                    <NAME>Rest at</NAME>
+                    <VERSION>1</VERSION>
+                    <TYPE>Infusion</TYPE>
+                    <INFUSE_AMOUNT>0.0</INFUSE_AMOUNT>
+                    <STEP_TEMP>66.666664</STEP_TEMP>
+                    <STEP_TIME>60.000000</STEP_TIME>
+                    <RAMP_TIME>0</RAMP_TIME>
+                </MASH_STEP>
+            </MASH_STEPS>
+        </MASH>
+        <NAME>Cowboy Alt</NAME>
+        <VERSION>1</VERSION>
+        <TYPE>All Grain</TYPE>
+        <BREWER>Matthew Mayes</BREWER>
+        <BATCH_SIZE>18.927052</BATCH_SIZE>
+        <BOIL_SIZE>30.283279</BOIL_SIZE>
+        <BOIL_TIME>90</BOIL_TIME>
+        <EFFICIENCY>80.000000</EFFICIENCY>
+        <NOTES>OG: 1.050
+FG: 1.013
+IBU: 45
+Color: 14 SRM
+4.9% ABV
+
+Original recipe had 2lb munich &amp; 3oz  carafa ii.</NOTES>
+        <PRIMARY_TEMP>15.555555</PRIMARY_TEMP>
+    </RECIPE>
+</RECIPES>

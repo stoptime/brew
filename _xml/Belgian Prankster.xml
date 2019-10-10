@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<RECIPES>
+    <RECIPE>
+        <FERMENTABLES>
+            <FERMENTABLE>
+                <NAME>Belgian Pale Malt</NAME>
+                <VERSION>1</VERSION>
+                <YIELD>80.000000</YIELD>
+                <COLOR>3.700000</COLOR>
+                <AMOUNT>3.402000</AMOUNT>
+                <NOTES>In Mash/Steeped</NOTES>
+                <TYPE>Grain</TYPE>
+            </FERMENTABLE>
+            <FERMENTABLE>
+                <NAME>German Munich Malt</NAME>
+                <VERSION>1</VERSION>
+                <YIELD>81.000000</YIELD>
+                <COLOR>5.500000</COLOR>
+                <AMOUNT>1.524093</AMOUNT>
+                <NOTES>In Mash/Steeped</NOTES>
+                <TYPE>Grain</TYPE>
+            </FERMENTABLE>
+            <FERMENTABLE>
+                <NAME>Belgian Aromatic Malt</NAME>
+                <VERSION>1</VERSION>
+                <YIELD>80.000000</YIELD>
+                <COLOR>19.000000</COLOR>
+                <AMOUNT>0.453590</AMOUNT>
+                <NOTES>In Mash/Steeped</NOTES>
+                <TYPE>Grain</TYPE>
+            </FERMENTABLE>
+            <FERMENTABLE>
+                <NAME>Belgian Cara 45 Malt</NAME>
+                <VERSION>1</VERSION>
+                <YIELD>70.000000</YIELD>
+                <COLOR>47.000000</COLOR>
+                <AMOUNT>0.170100</AMOUNT>
+                <NOTES>In Mash/Steeped</NOTES>
+                <TYPE>Grain</TYPE>
+            </FERMENTABLE>
+            <FERMENTABLE>
+                <NAME>Sugar - Piloncillo</NAME>
+                <VERSION>1</VERSION>
+                <YIELD>80.000000</YIELD>
+                <COLOR>75.000000</COLOR>
+                <AMOUNT>0.453590</AMOUNT>
+                <NOTES>Start Of Boil</NOTES>
+                <TYPE>Sugar</TYPE>
+            </FERMENTABLE>
+        </FERMENTABLES>
+        <HOPS>
+            <HOP>
+                <NAME>German Northern Brewer</NAME>
+                <VERSION>1</VERSION>
+                <ALPHA>6.500000</ALPHA>
+                <AMOUNT>0.034020</AMOUNT>
+                <NOTES>60 Min From End</NOTES>
+                <USE>Boil</USE>
+                <TIME>60</TIME>
+                <FORM>Pellet</FORM>
+            </HOP>
+            <HOP>
+                <NAME>Czech Saaz</NAME>
+                <VERSION>1</VERSION>
+                <ALPHA>3.000000</ALPHA>
+                <AMOUNT>0.028350</AMOUNT>
+                <NOTES>15 Min From End</NOTES>
+                <USE>Boil</USE>
+                <TIME>15</TIME>
+                <FORM>Pellet</FORM>
+            </HOP>
+            <HOP>
+                <NAME>US Amarillo</NAME>
+                <VERSION>1</VERSION>
+                <ALPHA>8.000000</ALPHA>
+                <AMOUNT>0.014175</AMOUNT>
+                <NOTES>10 Min From End</NOTES>
+                <USE>Boil</USE>
+                <TIME>10</TIME>
+                <FORM>Pellet</FORM>
+            </HOP>
+            <HOP>
+                <NAME>US Amarillo</NAME>
+                <VERSION>1</VERSION>
+                <ALPHA>8.000000</ALPHA>
+                <AMOUNT>0.028350</AMOUNT>
+                <NOTES>Dry-Hopped</NOTES>
+                <USE>Dry Hop</USE>
+                <TIME>0</TIME>
+                <FORM>Pellet</FORM>
+            </HOP>
+        </HOPS>
+        <YEASTS>
+            <YEAST>
+                <NAME>Wyeast 3522-Belgian Ardennes</NAME>
+                <VERSION>1</VERSION>
+                <ATTENUATION>67.922173</ATTENUATION>
+                <FORM>Liquid</FORM>
+                <TYPE>Ale</TYPE>
+                <AMOUNT>0.270000</AMOUNT>
+                <AMOUNT_IS_WEIGHT>FALSE</AMOUNT_IS_WEIGHT>
+            </YEAST>
+        </YEASTS>
+        <MISCS>
+            <MISC>
+                <NOTES>In Boil</NOTES>
+                <NAME>Seeds of Paradise</NAME>
+                <VERSION>1</VERSION>
+                <TYPE>Other</TYPE>
+                <USE>Boil</USE>
+                <TIME>60</TIME>
+                <AMOUNT>0.011296</AMOUNT>
+            </MISC>
+        </MISCS>
+        <STYLE>
+            <CATEGORY>Belgian And French Ale</CATEGORY>
+            <NAME>Belgian Pale Ale</NAME>
+            <VERSION>1</VERSION>
+            <TYPE>Ale</TYPE>
+            <CATEGORY_NUMBER>16</CATEGORY_NUMBER>
+            <STYLE_LETTER>B</STYLE_LETTER>
+            <OG_MIN>1.048</OG_MIN>
+            <OG_MAX>1.054</OG_MAX>
+            <IBU_MIN>20</IBU_MIN>
+            <IBU_MAX>30</IBU_MAX>
+            <COLOR_MIN>8</COLOR_MIN>
+            <COLOR_MAX>14</COLOR_MAX>
+            <FG_MIN>1.012</FG_MIN>
+            <FG_MAX>1.013</FG_MAX>
+        </STYLE>
+        <WATERS>
+            <WATER>
+                <NAME>The brewer's water</NAME>
+                <VERSION>1</VERSION>
+                <AMOUNT>35.833061</AMOUNT>
+                <SULFATE>0.000000</SULFATE>
+                <CALCIUM>0.000000</CALCIUM>
+                <MAGNESIUM>0.000000</MAGNESIUM>
+                <CHLORIDE>0.000000</CHLORIDE>
+                <SODIUM>0.000000</SODIUM>
+                <BICARBONATE>0.000000</BICARBONATE>
+            </WATER>
+        </WATERS>
+        <MASH>
+            <NAME>Single Step Infusion (67C/152F)</NAME>
+            <VERSION>1</VERSION>
+            <GRAIN_TEMP>20</GRAIN_TEMP>
+            <MASH_STEPS>
+                <MASH_STEP>
+                    <NAME>Rest at</NAME>
+                    <VERSION>1</VERSION>
+                    <TYPE>Infusion</TYPE>
+                    <INFUSE_AMOUNT>0.0</INFUSE_AMOUNT>
+                    <STEP_TEMP>66.666664</STEP_TEMP>
+                    <STEP_TIME>60.000000</STEP_TIME>
+                    <RAMP_TIME>0</RAMP_TIME>
+                </MASH_STEP>
+            </MASH_STEPS>
+        </MASH>
+        <NAME>Belgian Prankster</NAME>
+        <VERSION>1</VERSION>
+        <TYPE>All Grain</TYPE>
+        <BREWER>Matthew Mayes</BREWER>
+        <BATCH_SIZE>18.927052</BATCH_SIZE>
+        <BOIL_SIZE>30.283279</BOIL_SIZE>
+        <BOIL_TIME>60</BOIL_TIME>
+        <EFFICIENCY>72.000000</EFFICIENCY>
+        <NOTES>1.5 lbs. Piloncillo in boil.
+Seeds of Paradise at end of boil.</NOTES>
+        <PRIMARY_TEMP>20.000000</PRIMARY_TEMP>
+    </RECIPE>
+</RECIPES>
