@@ -11,7 +11,6 @@ import (
 )
 
 var (
-	fileInfo  os.FileInfo
 	err       error
 	directory = "./_html/"
 	ext       string
