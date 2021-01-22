@@ -1,1 +1,8 @@
 .DS_Store
+node_modules
+.idea
+.vscode
+.code
+.env
+_html_bak
+play.mjs

@@ -1,0 +1,22 @@
+doctype html
+html(lang='en')
+    head
+      title Matt's homebrew recipes
+      meta(charset='utf-8')
+      meta(http-equiv='X-UA-Compatible', content='IE=edge')
+      meta(name='viewport', content='width=device-width, initial-scale=1')
+      style
+        include styles.css
+    body
+      #content
+        each val, key in recipes
+          details
+            summary.recipe
+              a(href=`_html/${val.file}`)= val.name
+            article.batches
+              each batch in val.batches
+                div.batch 
+                  a(href=`_html/${batch.file}`)= batch.name
+                  .stats
+                    span.date= batch.date
+                    span.fg= batch.fg

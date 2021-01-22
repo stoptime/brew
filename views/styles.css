@@ -1,0 +1,62 @@
+body {
+  background: #9e9e9e82;
+}
+
+#content {
+  margin: auto;
+  max-width: 1000px;
+  background: green;
+  color: #fff;
+  font-family: helvetica, sans-serif;
+}
+
+#content a {
+  color: #fff;
+}
+
+summary.recipe {
+  padding: 1rem;
+  border: 1px solid #5bb96b;
+  background: rgb(16 82 28);
+  border-width: 0 0 1px;
+}
+
+summary.recipe > a {
+  font-weight: bold;
+  font-size: 110%;
+  text-decoration: none;
+}
+
+.batch {
+  padding: 0.5rem 1rem 0.5rem 2rem;
+}
+
+.batch:first-child {
+  padding-top: 1rem;
+}
+
+.stats {
+  margin: 0;
+  padding: 0.5rem 0 10px 0;
+  border-bottom: 1px dashed rgb(16 82 28);
+}
+
+.stats span {
+  color: #ddd;
+  font-size: 90%;
+}
+
+span.date:after {
+  content: ' - ';
+}
+
+.batch:last-child .stats {
+  border-bottom-width: 0;
+}
+
+@media only screen and (max-width: 1000px) {
+  body {
+    margin: 0;
+    padding: 0;
+  }
+}
