@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/7be85a23-6482-488f-881e-373009a9a12e/deploy-status)](https://app.netlify.com/sites/priceless-feynman-0924dc/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7be85a23-6482-488f-881e-373009a9a12e/deploy-status)](https://app.netlify.com/sites/priceless-feynman-0924dc/deploys) [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
 # Relax, have a homebrew.
 
@@ -19,4 +19,4 @@ This version is written in Node.js - and basically does the following:
 5. It takes that data, and makes a `public/recipes.json` file, which is used if you want to start the express server and work on the pug template.
 6. It then uses the pug template to generate a static `public/index.html` file.
 
-<p style="text-align: center;">🍻 🍻 🍻 🍻 🍻 🍻 🍻 🍻 🍻 🍻 🍻 🍻 🍻 🍻 🍻 🍻 🍻 🍻</p>
+<p align="center">🍻 🍻 🍻 🍻 🍻 🍻 🍻 🍻 🍻 🍻 🍻 🍻 🍻 🍻 🍻 🍻 🍻 🍻</p>
