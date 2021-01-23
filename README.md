@@ -8,7 +8,7 @@ I use this data to practice filesystem operations in various programming languag
 
 https://brew.mattmayes.com/
 
-Super handy to have that at my fingertips if I'm shopping for ingredients or someone asks about a beer. If you're brewing with Chicago water - many of these recipes, like Lil Slozhun IPA, have water treatment notes (and dang that's a good IPA 😋).
+Super handy to have that at my fingertips if I'm shopping for ingredients or someone asks about a beer. If you're brewing with Chicago water - many of these recipes, like Lil Splozhun IPA, have water treatment notes (and dang that's a good IPA 😋).
 
 ### How it works
 
