@@ -4,6 +4,13 @@ import chalk from 'chalk'
 import pug from 'pug'
 import { Recipe, Batch } from './classes.js'
 
+const featuredRecipes = [
+  'lil-splozhun-ipa',
+  'eagle-stout',
+  'joostice-neipa',
+  'tof-joe-ipa',
+]
+
 /**
  * Is this a recipe?
  * If not it's a batch
@@ -12,6 +19,10 @@ import { Recipe, Batch } from './classes.js'
  */
 function isRecipe(fileName) {
   return !fileName.includes('batch')
+}
+
+function isFeaturedRecipe(slug) {
+  return featuredRecipes.includes(slug)
 }
 
 /**
@@ -69,15 +80,9 @@ function saniRenameCopy(fileName) {
       process.env.HTMLDIR + fileName,
       process.env.PUBLICHTMLDIR + replaceName
     )
-    console.log(
-      'Renamed: ' +
-        chalk.underline.grey(`${fileName}`) +
-        ' to: ' +
-        chalk.green(`${replaceName}`)
-    )
     return replaceName
   } catch (err) {
-    return console.log(
+    return console.error(
       chalk.red(`Error renaming ${fileName} to ${replaceName}`)
     )
   }
@@ -141,7 +146,8 @@ export function makeData(filesArray) {
         const slugArray = file.split('.')
         if (!(slugArray[0] in recipes)) {
           const title = getTitle(data)
-          recipes[slugArray[0]] = new Recipe(title, file)
+          const featured = isFeaturedRecipe(slugArray[0])
+          recipes[slugArray[0]] = new Recipe(title, file, featured)
         }
       } else {
         // what's the parent recipe, and is it in the recipes object?
@@ -154,7 +160,12 @@ export function makeData(filesArray) {
               process.env.PUBLICHTMLDIR + recipeFile
             )
             const title = getTitle(recipeData)
-            recipes[recipeSlugArray[0]] = new Recipe(title, recipeFile)
+            const featured = isFeaturedRecipe(recipeSlugArray[0])
+            recipes[recipeSlugArray[0]] = new Recipe(
+              title,
+              recipeFile,
+              featured
+            )
           } catch (err) {
             console.log(
               chalk.red(
@@ -188,6 +199,7 @@ export function makeIndexHtml(recipes) {
   try {
     const html = pug.renderFile('./views/recipes.pug', { recipes: recipes })
     fs.writeFileSync(process.env.PUBLIC + 'index.html', html)
+    return true
   } catch (err) {
     console.log(chalk.red('Could not create index.html - got error:'))
     console.error(err)

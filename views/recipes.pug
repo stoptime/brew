@@ -9,10 +9,19 @@ html(lang='en')
         include styles.css
     body
       #content
+        #featured
+          div Featured only
+          label.switch
+            input(type="checkbox")
+            span.slider.round
         each val, key in recipes
-          details
+          - var dClass = "regular"
+          if val.featured
+            - var dClass = "featured"
+          details(class=dClass)
             summary.recipe
-              a(href=`_html/${val.file}`)= val.name
+              a(href=`_html/${val.file}`)= val.name + ' '
+                span= '(' + val.batches.length + ')'
             article.batches
               each batch in val.batches
                 div.batch 
@@ -20,3 +29,5 @@ html(lang='en')
                   .stats
                     span.date= batch.date
                     span.fg= batch.fg
+      script
+        include script.js

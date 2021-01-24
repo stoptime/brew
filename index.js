@@ -7,14 +7,6 @@ import {
   makeIndexHtml,
 } from './util/make.js'
 
-// TODO accomodate featured recipes
-const featured = [
-  'lil-splozhun-ipa',
-  'eagle-stout',
-  'joostice-neipa',
-  'tof-joe-ipa',
-]
-
 // only do this if we have the dir to work from
 // (_html contains exported files and gets removed post-copy)
 if (fs.existsSync(process.env.HTMLDIR)) {
@@ -31,9 +23,12 @@ if (fs.existsSync(process.env.HTMLDIR)) {
 
   // make a recipes json file in public dir
   makeJson(recipes)
+  // make index.html
+  if (makeIndexHtml(recipes)) console.log(chalk.green('index.html created.'))
+
   // now that we've sanizied and moved the files to public
   // we can remove the source dir
-  console.log('Removing _html directory...')
+  console.log('Removing root _html directory...')
   try {
     fs.rmdirSync(process.env.HTMLDIR, { recursive: true })
     console.log('Removed.')
@@ -42,12 +37,15 @@ if (fs.existsSync(process.env.HTMLDIR)) {
     console.error(err)
   }
 } else {
+  // this is for working with express server
   console.log('Reading from JSON...')
   try {
     const recipes = JSON.parse(
       fs.readFileSync(process.env.PUBLIC + 'recipes.json', 'utf8')
     )
-    if (recipes) makeIndexHtml(recipes)
+    if (recipes) {
+      if (makeIndexHtml(recipes)) console.log('index.html created from json.')
+    }
   } catch (err) {
     console.log(chalk.red('Cound not read json file - got error:'))
     console.error(err)
