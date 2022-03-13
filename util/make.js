@@ -5,6 +5,7 @@ import pug from 'pug'
 import { Recipe, Batch } from './classes.js'
 
 const featuredRecipes = [
+  'daggertooth',
   'lil-splozhun-ipa',
   'eagle-stout',
   'joostice-neipa',
